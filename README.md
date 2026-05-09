@@ -1,6 +1,6 @@
 # Tuscaloosa Events
 
-Welcome 👋
+Welcome
 
 This repository is a hands-on learning project designed for friends, family, and anyone curious about modern software development workflows.
 
