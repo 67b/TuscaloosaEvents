@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Upcoming events around Tuscaloosa, Alabama with one-tap calendar downloads.">
+    <meta name="theme-color" content="#f7f3ea">
+    <title>Tuscaloosa Events</title>
+    <link rel="preload" href="./assets/styles.css" as="style">
+    <link rel="stylesheet" href="./assets/styles.css">
+    <script src="./data/events.js"></script>
+    <script type="module" src="./assets/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#events">Skip to events</a>
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <p class="eyebrow">Tuscaloosa, Alabama</p>
+        <h1>Tuscaloosa Events</h1>
+        <p class="lede">A simple local calendar for what is happening around town, built for quick phone use.</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Event filters">
+        <div class="toolbar__inner">
+          <label class="search-field">
+            <span>Search events</span>
+            <input id="searchInput" type="search" placeholder="Music, campus, market..." autocomplete="off">
+          </label>
+
+          <div class="control-row">
+            <label>
+              <span>Source</span>
+              <select id="sourceSelect">
+                <option value="all">All sources</option>
+              </select>
+            </label>
+
+            <label>
+              <span>When</span>
+              <select id="rangeSelect">
+                <option value="all">All upcoming</option>
+                <option value="today">Today</option>
+                <option value="week">Next 7 days</option>
+                <option value="month">Next 30 days</option>
+              </select>
+            </label>
+          </div>
+        </div>
+      </section>
+
+      <section class="status-band" aria-live="polite">
+        <div class="status-band__inner">
+          <p id="eventCount">Loading events...</p>
+          <p id="lastUpdated"></p>
+        </div>
+      </section>
+
+      <section id="events" class="events" aria-label="Upcoming events">
+        <div id="eventList" class="event-list"></div>
+        <div id="emptyState" class="empty-state" hidden>
+          <h2>No events found</h2>
+          <p>Try a different search, source, or date range.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Event details can change. Confirm with the event source before heading out.</p>
+    </footer>
+  </body>
+</html>

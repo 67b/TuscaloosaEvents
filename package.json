@@ -1,0 +1,15 @@
+{
+  "name": "tuscaloosa-events",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A static GitHub Pages event aggregator for Tuscaloosa, Alabama.",
+  "scripts": {
+    "fetch": "node scripts/fetch-events.mjs",
+    "validate": "node scripts/validate-events.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
