@@ -1,5 +1,27 @@
 # Tuscaloosa Events
 
+Welcome 👋
+
+This repository is a hands-on learning project designed for friends, family, and anyone curious about modern software development workflows.
+
+The goal of this project is not just to build something useful, but to experiment with and better understand the tools and processes that power real-world development teams.
+
+Topics explored in this repository include:
+
+* Git and GitHub workflows
+* Branching and version control
+* Collaboration through pull requests and shared development
+* CI/CD (Continuous Integration / Continuous Deployment)
+* AI-assisted development using OpenAI Codex
+* APIs and automation
+* Experimentation with modern web and development tooling
+
+This project is intentionally open, collaborative, and educational. Think of it as a sandbox for learning, testing ideas, making mistakes, improving workflows, and exploring how humans and AI can build software together.
+
+Whether you are here to contribute code, learn Git basics, experiment with AI-assisted programming, or simply follow along, welcome aboard.
+
+## What It Is
+
 A mobile-first static event aggregator for Tuscaloosa, Alabama. The site is designed for GitHub Pages and uses committed JSON data so the public page does not need a backend.
 
 ## What It Does
