@@ -1,10 +1,11 @@
 window.TUSCALOOSA_EVENTS_DATA = {
-  "updatedAt": "2026-05-09T16:31:43.379Z",
+  "updatedAt": "2026-05-09T18:56:43.425Z",
   "timezone": "America/Chicago",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
-    "Tuscaloosa Patch"
+    "Tuscaloosa Patch",
+    "Tuscaloosa Public Library"
   ],
   "warnings": [],
   "events": [
@@ -121,6 +122,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-book-club-2026-05-11-weaver-bolden-branch",
+      "title": "Book Club",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/book-club/",
+      "start": "2026-05-11T17:30:00-05:00",
+      "end": "2026-05-11T18:30:00-05:00",
+      "allDay": false,
+      "venue": "Weaver Bolden Branch",
+      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
+      "description": "Join our Adult Book Club for engaging conversations, new perspectives, and a shared love of reading. Each session features a ... Continued",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-agility-continuous-improvement-series-pdca-plan-do-check-act-2026-05-12-employee-resource-center",
       "title": "Agility Continuous Improvement Series: PDCA (Plan-Do-Check-Act)",
       "source": "University of Alabama",
@@ -132,6 +147,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "This course presents the PDCA (Plan-Do-Check-Act) cycle, a four-step problem-solving model that emphasizes the importance of learning from improvement. As a circle with no end, the PDCA cycle should be repeated again and again for continuo...",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-12-main-library",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-12/",
+      "start": "2026-05-12T11:00:00-05:00",
+      "end": "2026-05-12T14:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
       "isVirtual": false
     },
     {
@@ -205,6 +234,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-trivia-night-2026-05-12-egan-s-irish-pub",
+      "title": "Trivia Night",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/trivia-night/",
+      "start": "2026-05-12T18:00:00-05:00",
+      "end": "2026-05-12T20:00:00-05:00",
+      "allDay": false,
+      "venue": "Egan’s Irish Pub",
+      "address": "1229 University Blvd, Tuscaloosa, AL, 35401",
+      "description": "Ages 21+",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-new-management-orientation-2026-05-13",
       "title": "New Management Orientation",
       "source": "University of Alabama",
@@ -219,6 +262,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-microsoft-excel-class-2026-05-13-weaver-bolden-branch",
+      "title": "Microsoft Excel Class",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/microsoft-excel-class/",
+      "start": "2026-05-13T09:30:00-05:00",
+      "end": "2026-05-13T10:30:00-05:00",
+      "allDay": false,
+      "venue": "Weaver Bolden Branch",
+      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
+      "description": "This beginner-level Microsoft Excel class is perfect for individuals with little to no experience using spreadsheets. Participants will learn the ... Continued",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-legendary-locations-capstone-college-of-nursing-simulation-center-2026-05-13-capstone-college-of-n",
       "title": "Legendary Locations - Capstone College of Nursing: Simulation Center",
       "source": "University of Alabama",
@@ -230,6 +287,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "address": "650 University Blvd East Tuscaloosa, AL 35401, UNITED STATES OF AMERICA",
       "description": "Join us for an inside look at the Capstone College of Nursing: Simulation Center! During this tour, employees will have the opportunity to explore the Simulation Center at the Capstone College of Nursing and learn how it supports students’...",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-14-main-library",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-14/",
+      "start": "2026-05-14T11:00:00-05:00",
+      "end": "2026-05-14T14:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
       "isVirtual": false
     },
     {
@@ -289,6 +360,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-your-story-your-voice-memoir-workshop-2026-05-16-main-library",
+      "title": "Your Story, Your Voice, Memoir Workshop",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/your-story-your-voice-memoir-workshop/2026-05-16/",
+      "start": "2026-05-16T14:00:00-05:00",
+      "end": "2026-05-16T16:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Have a story to tell? Your life experiences matter and your story deserves to be written. In partnership with The ... Continued",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "tuscaloosa-patch-peoples-loan-program-community-night-at-the-hotel-indigo-2026-05-17-the-lookout",
       "title": "Peoples' Loan Program Community Night at the Hotel Indigo",
       "source": "Tuscaloosa Patch",
@@ -331,6 +416,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-19-main-library",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-19/",
+      "start": "2026-05-19T11:00:00-05:00",
+      "end": "2026-05-19T14:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-watercolor-hummingbirds-and-flowers-with-abi-brewer-2026-05-19-dinah-washington-cultural-arts-center",
       "title": "Watercolor Hummingbirds and Flowers with Abi Brewer",
       "source": "Visit Tuscaloosa",
@@ -345,6 +444,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-beginner-microsoft-word-2026-05-20-main-library",
+      "title": "Beginner Microsoft Word",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/beginner-microsoft-word/",
+      "start": "2026-05-20T09:30:00-05:00",
+      "end": "2026-05-20T10:30:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-blackboard-ai-design-assistant-2026-05-20",
       "title": "Blackboard: AI Design Assistant",
       "source": "University of Alabama",
@@ -356,6 +469,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "address": "",
       "description": "Use Blackboard’s generative AI tool to help you design your Ultra course. Instructors can auto-generate the following: learning modules, assignment prompts, discussion prompts, journal prompts, test questions, question banks, grading rubri...",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-21-main-library",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-21/",
+      "start": "2026-05-21T11:00:00-05:00",
+      "end": "2026-05-21T14:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
       "isVirtual": false
     },
     {
@@ -415,6 +542,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-closed-2026-05-25",
+      "title": "CLOSED",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/closed-3/",
+      "start": "2026-05-25T00:00:00-05:00",
+      "end": "2026-05-25T23:59:59-05:00",
+      "allDay": true,
+      "venue": "",
+      "address": "",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-memorial-day-ua-closed-2026-05-25",
       "title": "Memorial Day (UA closed)",
       "source": "University of Alabama",
@@ -457,6 +598,62 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-book-discussion-2026-05-26-main-library",
+      "title": "Book Discussion",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/book-discussion-4/2026-05-26/",
+      "start": "2026-05-26T10:00:00-05:00",
+      "end": "2026-05-26T11:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Ages 21+. Opportunity for engaging and intellectual conversations with other local bibliophiles. Books provided. Registration required. Call the reference desk ... Continued",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-26-main-library",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-26/",
+      "start": "2026-05-26T11:00:00-05:00",
+      "end": "2026-05-26T14:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-intermediate-microsoft-word-2026-05-27-main-library",
+      "title": "Intermediate Microsoft Word",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/intermediate-microsoft-word/",
+      "start": "2026-05-27T09:30:00-05:00",
+      "end": "2026-05-27T10:30:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-28-main-library",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-28/",
+      "start": "2026-05-28T11:00:00-05:00",
+      "end": "2026-05-28T14:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Tuscaloosa Public Library event.",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "tuscaloosa-patch-tpl-full-steam-ahead-2026-05-28-tuscaloosa-public-library",
       "title": "TPL Full STEAM Ahead",
       "source": "Tuscaloosa Patch",
@@ -482,6 +679,20 @@ window.TUSCALOOSA_EVENTS_DATA = {
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-your-story-your-voice-memoir-workshop-2026-05-30-main-library",
+      "title": "Your Story, Your Voice, Memoir Workshop",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/your-story-your-voice-memoir-workshop/2026-05-30/",
+      "start": "2026-05-30T14:00:00-05:00",
+      "end": "2026-05-30T16:00:00-05:00",
+      "allDay": false,
+      "venue": "Main Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
+      "description": "Have a story to tell? Your life experiences matter and your story deserves to be written. In partnership with The ... Continued",
+      "category": "Library",
       "isVirtual": false
     },
     {

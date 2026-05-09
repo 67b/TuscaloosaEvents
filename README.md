@@ -4,7 +4,7 @@ A mobile-first static event aggregator for Tuscaloosa, Alabama. The site is desi
 
 ## What It Does
 
-- Displays upcoming events from the University of Alabama, Visit Tuscaloosa, and Tuscaloosa Patch.
+- Displays upcoming events from the University of Alabama, Visit Tuscaloosa, Tuscaloosa Patch, and Tuscaloosa Public Library.
 - Groups events by date and supports search, source filtering, and date-range filtering.
 - Lets visitors add events to their phone calendar by downloading an `.ics` file.
 - Keeps source links visible so visitors can confirm details before attending.
@@ -29,7 +29,7 @@ npm run preview
 
 ## Data Refresh
 
-`scripts/fetch-events.mjs` fetches the three source calendars, normalizes the results, deduplicates likely matches, sorts by start date, and writes `data/events.json`.
+`scripts/fetch-events.mjs` fetches the source calendars, normalizes the results, deduplicates likely matches, sorts by start date, and writes `data/events.json` plus the matching `data/events.js` fallback.
 
 The included `.github/workflows/refresh-events.yml` runs weekly on Monday morning and can also be started manually from the GitHub Actions tab. It commits `data/events.json` and the matching `data/events.js` fallback when events change.
 

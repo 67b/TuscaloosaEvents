@@ -1,4 +1,6 @@
+import { execFile } from "node:child_process";
 import { mkdir, writeFile } from "node:fs/promises";
+import { promisify } from "node:util";
 import {
   addHours,
   buildIso,
@@ -12,11 +14,13 @@ import {
 
 const OUTPUT_PATH = new URL("../data/events.json", import.meta.url);
 const JS_OUTPUT_PATH = new URL("../data/events.js", import.meta.url);
+const execFileAsync = promisify(execFile);
 const CURRENT_YEAR = new Date().getFullYear();
 const SOURCE_URLS = {
   ua: "https://calendar.ua.edu/",
   visit: "https://visittuscaloosa.com/events/",
-  patch: "https://patch.com/alabama/tuscaloosa/calendar"
+  patch: "https://patch.com/alabama/tuscaloosa/calendar",
+  library: "https://www.tuscaloosa-library.org/events/"
 };
 
 const fetchOptions = {
@@ -29,7 +33,8 @@ const fetchOptions = {
 const results = await Promise.allSettled([
   fetchUaEvents(),
   fetchVisitTuscaloosaEvents(),
-  fetchPatchEvents()
+  fetchPatchEvents(),
+  fetchLibraryEvents()
 ]);
 
 const events = [];
@@ -49,7 +54,7 @@ const normalized = dedupeAndSort(events.map(normalizeEvent).filter(Boolean))
 const payload = {
   updatedAt: new Date().toISOString(),
   timezone: TIMEZONE,
-  sources: ["University of Alabama", "Visit Tuscaloosa", "Tuscaloosa Patch"],
+  sources: ["University of Alabama", "Visit Tuscaloosa", "Tuscaloosa Patch", "Tuscaloosa Public Library"],
   warnings: failures,
   events: normalized
 };
@@ -241,10 +246,49 @@ async function fetchPatchEvents() {
   return events;
 }
 
+async function fetchLibraryEvents() {
+  const html = await fetchText(SOURCE_URLS.library);
+  const events = [];
+
+  for (const block of extractJsonLd(html)) {
+    const candidates = Array.isArray(block?.["@graph"]) ? block["@graph"] : Array.isArray(block) ? block : [block];
+
+    for (const item of candidates) {
+      if (item?.["@type"] !== "Event" || !item.name || !item.startDate) continue;
+
+      const location = item.location || {};
+      const venue = typeof location === "string" ? location : location.name;
+      const address = typeof location === "string" ? "" : flattenAddress(location.address);
+      const allDay = isAllDayEvent(item.startDate, item.endDate);
+
+      events.push({
+        title: item.name,
+        source: "Tuscaloosa Public Library",
+        sourceUrl: item.url || SOURCE_URLS.library,
+        start: item.startDate,
+        end: item.endDate || (allDay ? addHours(item.startDate, 24) : addHours(item.startDate, 1)),
+        allDay,
+        venue,
+        address,
+        description: cleanText(htmlToText(item.description || "")) || "Tuscaloosa Public Library event.",
+        category: "Library",
+        isVirtual: /online|virtual/i.test(`${venue} ${address} ${item.eventAttendanceMode || ""}`)
+      });
+    }
+  }
+
+  return events;
+}
+
 async function fetchText(url) {
-  const response = await fetch(url, fetchOptions);
-  if (!response.ok) throw new Error(`${url} returned ${response.status}`);
-  return response.text();
+  try {
+    const response = await fetch(url, fetchOptions);
+    if (!response.ok) throw new Error(`${url} returned ${response.status}`);
+    return response.text();
+  } catch (error) {
+    if (!shouldUseCurlFallback(error)) throw error;
+    return fetchTextWithCurl(url);
+  }
 }
 
 function textLines(html) {
@@ -264,6 +308,27 @@ function extractJsonLd(html) {
   return blocks;
 }
 
+async function fetchTextWithCurl(url) {
+  const { stdout } = await execFileAsync("curl", [
+    "-L",
+    "--fail",
+    "--silent",
+    "--show-error",
+    "--user-agent",
+    fetchOptions.headers["user-agent"],
+    url
+  ], {
+    maxBuffer: 10 * 1024 * 1024
+  });
+
+  return stdout;
+}
+
+function shouldUseCurlFallback(error) {
+  const message = String(error?.message || error?.cause?.message || error);
+  return /certificate|unable to verify|fetch failed/i.test(message);
+}
+
 function flattenAddress(address) {
   if (!address) return "";
   if (typeof address === "string") return cleanText(address);
@@ -273,6 +338,12 @@ function flattenAddress(address) {
     address.addressRegion,
     address.postalCode
   ].filter(Boolean).join(", "));
+}
+
+function isAllDayEvent(start, end) {
+  if (!start) return false;
+  if (!String(start).includes("T")) return true;
+  return /T00:00:00/.test(String(start)) && /T23:59:59/.test(String(end || ""));
 }
 
 function htmlToText(html) {
