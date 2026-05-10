@@ -71,15 +71,6 @@ a {
   padding-block: 2.4rem 1.45rem;
 }
 
-.eyebrow {
-  margin: 0 0 0.55rem;
-  color: var(--accent);
-  font-size: 0.76rem;
-  font-weight: 800;
-  letter-spacing: 0;
-  text-transform: uppercase;
-}
-
 h1 {
   margin: 0;
   max-width: 12ch;

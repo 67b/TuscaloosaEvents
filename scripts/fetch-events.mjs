@@ -13,7 +13,6 @@ import {
 } from "./lib/normalize.mjs";
 
 const OUTPUT_PATH = new URL("../data/events.json", import.meta.url);
-const JS_OUTPUT_PATH = new URL("../data/events.js", import.meta.url);
 const execFileAsync = promisify(execFile);
 const CURRENT_YEAR = new Date().getFullYear();
 const SOURCE_URLS = {
@@ -91,13 +90,8 @@ const payload = {
 
 await mkdir(new URL("../data/", import.meta.url), { recursive: true });
 await writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
-await writeFile(
-  JS_OUTPUT_PATH,
-  `window.TUSCALOOSA_EVENTS_DATA = ${JSON.stringify(payload, null, 2)};\n`,
-  "utf8"
-);
 
-console.log(`Wrote ${normalized.length} events to data/events.json and data/events.js`);
+console.log(`Wrote ${normalized.length} events to data/events.json`);
 if (failures.length) {
   console.warn(`Completed with ${failures.length} source warning(s):`);
   for (const failure of failures) console.warn(`- ${failure}`);

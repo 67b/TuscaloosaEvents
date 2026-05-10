@@ -51,22 +51,11 @@ async function init() {
 }
 
 async function loadEvents() {
-  const fallback = window.TUSCALOOSA_EVENTS_DATA;
-
-  if (window.location.protocol === "file:" && fallback) {
-    return fallback;
+  const response = await fetch("./data/events.json", { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Unable to load events (${response.status})`);
   }
-
-  try {
-    const response = await fetch("./data/events.json", { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`Unable to load events (${response.status})`);
-    }
-    return response.json();
-  } catch (error) {
-    if (fallback) return fallback;
-    throw error;
-  }
+  return response.json();
 }
 
 function bindControls() {
