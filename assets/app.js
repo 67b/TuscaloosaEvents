@@ -1,15 +1,11 @@
 const state = {
   events: [],
   filtered: [],
-  source: "all",
-  range: "all",
   query: ""
 };
 
 const els = {
   search: document.querySelector("#searchInput"),
-  source: document.querySelector("#sourceSelect"),
-  range: document.querySelector("#rangeSelect"),
   count: document.querySelector("#eventCount"),
   updated: document.querySelector("#lastUpdated"),
   list: document.querySelector("#eventList"),
@@ -42,7 +38,6 @@ async function init() {
     const payload = await loadEvents();
     state.events = Array.isArray(payload.events) ? payload.events : [];
     state.filtered = state.events;
-    populateSources(state.events);
     renderMeta(payload);
     applyFilters();
   } catch (error) {
@@ -79,26 +74,6 @@ function bindControls() {
     state.query = event.target.value.trim().toLowerCase();
     applyFilters();
   });
-
-  els.source.addEventListener("change", (event) => {
-    state.source = event.target.value;
-    applyFilters();
-  });
-
-  els.range.addEventListener("change", (event) => {
-    state.range = event.target.value;
-    applyFilters();
-  });
-}
-
-function populateSources(events) {
-  const sources = [...new Set(events.map((event) => event.source).filter(Boolean))].sort();
-  for (const source of sources) {
-    const option = document.createElement("option");
-    option.value = source;
-    option.textContent = source;
-    els.source.append(option);
-  }
 }
 
 function renderMeta(payload) {
@@ -110,25 +85,15 @@ function renderMeta(payload) {
 
 function applyFilters() {
   const now = new Date();
-  const limit = getRangeLimit(now, state.range);
 
   state.filtered = state.events.filter((event) => {
     const start = new Date(event.start);
     if (Number.isNaN(start.valueOf()) || start < startOfToday(now)) return false;
-    if (limit && start > limit) return false;
-    if (state.source !== "all" && event.source !== state.source) return false;
     if (!matchesQuery(event, state.query)) return false;
     return true;
   });
 
   renderEvents(state.filtered);
-}
-
-function getRangeLimit(now, range) {
-  if (range === "today") return endOfDay(now);
-  if (range === "week") return addDays(now, 7);
-  if (range === "month") return addDays(now, 30);
-  return null;
 }
 
 function matchesQuery(event, query) {
@@ -204,6 +169,13 @@ function renderCard(event) {
   time.textContent = formatEventTime(event);
   card.append(time);
 
+  if (event.weather) {
+    const weather = document.createElement("p");
+    weather.className = "event-weather";
+    weather.textContent = formatWeather(event.weather);
+    card.append(weather);
+  }
+
   const place = document.createElement("p");
   place.className = "event-place";
   place.textContent = formatPlace(event);
@@ -238,6 +210,16 @@ function renderCard(event) {
 
   card.append(actions);
   return card;
+}
+
+function formatWeather(weather) {
+  const temperature = typeof weather.temperature === "number"
+    ? `${weather.temperature}°${weather.temperatureUnit || "F"}`
+    : "Temp unavailable";
+  const rain = typeof weather.precipitationChance === "number"
+    ? `${weather.precipitationChance}% rain`
+    : "rain chance unavailable";
+  return `${temperature} · ${rain}`;
 }
 
 function pill(text, className) {
@@ -351,12 +333,6 @@ function slugify(value) {
 function startOfToday(now) {
   const date = new Date(now);
   date.setHours(0, 0, 0, 0);
-  return date;
-}
-
-function endOfDay(now) {
-  const date = new Date(now);
-  date.setHours(23, 59, 59, 999);
   return date;
 }
 

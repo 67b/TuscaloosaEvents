@@ -20,8 +20,11 @@ const SOURCE_URLS = {
   ua: "https://calendar.ua.edu/",
   visit: "https://visittuscaloosa.com/events/",
   patch: "https://patch.com/alabama/tuscaloosa/calendar",
-  library: "https://www.tuscaloosa-library.org/events/"
+  library: "https://www.tuscaloosa-library.org/events/",
+  amphitheater: "https://www.mercedesbenzamphitheater.com/calendar/"
 };
+
+const WEATHER_POINT = "33.2098,-87.5692";
 
 const fetchOptions = {
   headers: {
@@ -34,7 +37,8 @@ const results = await Promise.allSettled([
   fetchUaEvents(),
   fetchVisitTuscaloosaEvents(),
   fetchPatchEvents(),
-  fetchLibraryEvents()
+  fetchLibraryEvents(),
+  fetchAmphitheaterEvents()
 ]);
 
 const events = [];
@@ -48,13 +52,39 @@ for (const result of results) {
   }
 }
 
-const normalized = dedupeAndSort(events.map(normalizeEvent).filter(Boolean))
+let normalized = dedupeAndSort(events.map(normalizeEvent).filter(Boolean))
   .filter((event) => new Date(event.start) >= startOfToday());
+
+let weatherUpdatedAt = "";
+try {
+  const weatherByDate = await fetchTuscaloosaWeather();
+  weatherUpdatedAt = new Date().toISOString();
+  normalized = normalized.map((event) => ({
+    ...event,
+    weather: matchWeather(event, weatherByDate)
+  })).map((event) => {
+    if (!event.weather) {
+      const { weather, ...rest } = event;
+      return rest;
+    }
+    return event;
+  });
+} catch (error) {
+  failures.push(`weather.gov forecast unavailable: ${error?.message || error}`);
+}
 
 const payload = {
   updatedAt: new Date().toISOString(),
   timezone: TIMEZONE,
-  sources: ["University of Alabama", "Visit Tuscaloosa", "Tuscaloosa Patch", "Tuscaloosa Public Library"],
+  weatherSource: "https://api.weather.gov/",
+  weatherUpdatedAt,
+  sources: [
+    "University of Alabama",
+    "Visit Tuscaloosa",
+    "Tuscaloosa Patch",
+    "Tuscaloosa Public Library",
+    "Mercedes-Benz Amphitheater"
+  ],
   warnings: failures,
   events: normalized
 };
@@ -280,6 +310,82 @@ async function fetchLibraryEvents() {
   return events;
 }
 
+async function fetchAmphitheaterEvents() {
+  const feedUrl = "https://www.mercedesbenzamphitheater.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true";
+  const ics = await fetchText(feedUrl);
+  const events = [];
+
+  for (const vevent of parseIcsEvents(ics)) {
+    const title = vevent.SUMMARY;
+    const start = parseIcsDate(vevent.DTSTART);
+    if (!title || !start) continue;
+
+    events.push({
+      title,
+      source: "Mercedes-Benz Amphitheater",
+      sourceUrl: vevent.URL || SOURCE_URLS.amphitheater,
+      start,
+      end: parseIcsDate(vevent.DTEND) || addHours(start, 3),
+      allDay: /^\d{8}$/.test(vevent.DTSTART || ""),
+      venue: "Mercedes-Benz Amphitheater",
+      address: "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      description: cleanText(htmlToText(vevent.DESCRIPTION || "")) || "Event listed by Mercedes-Benz Amphitheater.",
+      category: "Music",
+      isVirtual: false
+    });
+  }
+
+  return events;
+}
+
+async function fetchTuscaloosaWeather() {
+  const pointResponse = await fetch(`https://api.weather.gov/points/${WEATHER_POINT}`, {
+    headers: {
+      "user-agent": fetchOptions.headers["user-agent"],
+      "accept": "application/geo+json,application/json"
+    }
+  });
+  if (!pointResponse.ok) throw new Error(`points endpoint returned ${pointResponse.status}`);
+
+  const point = await pointResponse.json();
+  const forecastUrl = point.properties?.forecast;
+  if (!forecastUrl) throw new Error("points endpoint did not include a forecast URL");
+
+  const forecastResponse = await fetch(forecastUrl, {
+    headers: {
+      "user-agent": fetchOptions.headers["user-agent"],
+      "accept": "application/geo+json,application/json"
+    }
+  });
+  if (!forecastResponse.ok) throw new Error(`forecast endpoint returned ${forecastResponse.status}`);
+
+  const forecast = await forecastResponse.json();
+  const periods = forecast.properties?.periods || [];
+  const byDate = new Map();
+
+  for (const period of periods) {
+    const date = period.startTime?.slice(0, 10);
+    if (!date) continue;
+
+    const bucket = byDate.get(date) || {};
+    const normalizedPeriod = {
+      temperature: period.temperature,
+      temperatureUnit: period.temperatureUnit || "F",
+      precipitationChance: period.probabilityOfPrecipitation?.value ?? null,
+      periodName: period.name
+    };
+
+    if (period.isDaytime) {
+      bucket.day = normalizedPeriod;
+    } else {
+      bucket.night = normalizedPeriod;
+    }
+    byDate.set(date, bucket);
+  }
+
+  return byDate;
+}
+
 async function fetchText(url) {
   try {
     const response = await fetch(url, fetchOptions);
@@ -344,6 +450,58 @@ function isAllDayEvent(start, end) {
   if (!start) return false;
   if (!String(start).includes("T")) return true;
   return /T00:00:00/.test(String(start)) && /T23:59:59/.test(String(end || ""));
+}
+
+function matchWeather(event, weatherByDate) {
+  const date = event.start.slice(0, 10);
+  const hour = Number(event.start.slice(11, 13));
+  const bucket = weatherByDate.get(date);
+  if (!bucket) return null;
+
+  const forecast = hour >= 18 ? bucket.night || bucket.day : bucket.day || bucket.night;
+  if (!forecast) return null;
+
+  return {
+    forecastDate: date,
+    temperature: forecast.temperature,
+    temperatureUnit: forecast.temperatureUnit,
+    precipitationChance: forecast.precipitationChance,
+    periodName: forecast.periodName
+  };
+}
+
+function parseIcsEvents(ics) {
+  const unfolded = ics.replace(/\r?\n[ \t]/g, "");
+  const blocks = unfolded.match(/BEGIN:VEVENT[\s\S]*?END:VEVENT/g) || [];
+  return blocks.map((block) => {
+    const event = {};
+    for (const rawLine of block.split(/\r?\n/)) {
+      const separator = rawLine.indexOf(":");
+      if (separator < 0) continue;
+      const key = rawLine.slice(0, separator).split(";")[0];
+      const value = rawLine.slice(separator + 1);
+      if (!event[key]) event[key] = unescapeIcs(value);
+    }
+    return event;
+  });
+}
+
+function parseIcsDate(value) {
+  if (!value) return "";
+  const dateOnly = value.match(/^(\d{4})(\d{2})(\d{2})$/);
+  if (dateOnly) return `${dateOnly[1]}-${dateOnly[2]}-${dateOnly[3]}T00:00:00-05:00`;
+
+  const dateTime = value.match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})?/);
+  if (!dateTime) return "";
+  return `${dateTime[1]}-${dateTime[2]}-${dateTime[3]}T${dateTime[4]}:${dateTime[5]}:00-05:00`;
+}
+
+function unescapeIcs(value) {
+  return String(value || "")
+    .replace(/\\n/g, "\n")
+    .replace(/\\,/g, ",")
+    .replace(/\\;/g, ";")
+    .replace(/\\\\/g, "\\");
 }
 
 function htmlToText(html) {

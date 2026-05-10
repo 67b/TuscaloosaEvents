@@ -9,9 +9,23 @@ const errors = validateEvents(events);
 
 if (!payload.updatedAt) errors.push("missing updatedAt");
 if (!payload.timezone) errors.push("missing timezone");
+if (!payload.weatherSource) errors.push("missing weatherSource");
 if (!Array.isArray(payload.sources) || payload.sources.length === 0) errors.push("missing sources");
 if (!jsPayload.startsWith("window.TUSCALOOSA_EVENTS_DATA = ")) errors.push("data/events.js is missing the fallback assignment");
 if (!jsPayload.includes(payload.updatedAt)) errors.push("data/events.js does not match data/events.json");
+
+for (const event of events) {
+  if (!event.weather) continue;
+  if (!event.weather.forecastDate) errors.push(`weather missing forecastDate for ${event.id}`);
+  if (typeof event.weather.temperature !== "number") errors.push(`weather missing numeric temperature for ${event.id}`);
+  if (!event.weather.temperatureUnit) errors.push(`weather missing temperatureUnit for ${event.id}`);
+  if (
+    event.weather.precipitationChance !== null
+    && typeof event.weather.precipitationChance !== "number"
+  ) {
+    errors.push(`weather precipitationChance must be numeric or null for ${event.id}`);
+  }
+}
 
 if (events[0]) {
   const ics = createIcs(events[0]);

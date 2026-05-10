@@ -106,8 +106,6 @@ h1 {
 }
 
 .toolbar__inner {
-  display: grid;
-  gap: 0.85rem;
   padding-block: 0.9rem;
 }
 
@@ -140,12 +138,6 @@ button:focus-visible,
 a:focus-visible {
   outline: 3px solid rgba(21, 115, 107, 0.28);
   outline-offset: 2px;
-}
-
-.control-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.7rem;
 }
 
 .status-band {
@@ -240,6 +232,7 @@ a:focus-visible {
 }
 
 .event-time,
+.event-weather,
 .event-place,
 .event-description {
   margin: 0;
@@ -250,6 +243,16 @@ a:focus-visible {
 .event-time {
   color: var(--ink);
   font-weight: 800;
+}
+
+.event-weather {
+  display: inline-flex;
+  width: fit-content;
+  padding: 0.45rem 0.65rem;
+  border-radius: 8px;
+  background: #eef5f2;
+  color: #0e5c55;
+  font-weight: 750;
 }
 
 .event-actions {
@@ -315,11 +318,6 @@ a:focus-visible {
 
   h1 {
     max-width: none;
-  }
-
-  .toolbar__inner {
-    grid-template-columns: 1.35fr 1fr;
-    align-items: end;
   }
 
   .event-grid {
