@@ -14,6 +14,7 @@ export function normalizeEvent(input) {
   const source = cleanText(input.source) || "Unknown Source";
   const venue = cleanText(input.venue);
   const address = cleanText(input.address);
+  const timeStatus = normalizeTimeStatus(input.timeStatus);
 
   return {
     id: input.id || makeEventId(source, title, start, venue || address),
@@ -23,6 +24,7 @@ export function normalizeEvent(input) {
     start,
     end,
     allDay,
+    timeStatus,
     venue,
     address,
     description: truncate(cleanText(input.description), 240),
@@ -73,12 +75,25 @@ export function validateEvents(events) {
       errors.push(`end before start for ${event.id}`);
     }
 
+    if (!["confirmed", "inferred", "unknown"].includes(event.timeStatus)) {
+      errors.push(`invalid timeStatus for ${event.id}`);
+    }
+
+    if (event.timeStatus === "unknown" && !event.allDay) {
+      errors.push(`unknown timeStatus must be allDay for ${event.id}`);
+    }
+
     if (index > 0 && new Date(events[index - 1].start) > start) {
       errors.push(`events are not sorted at ${event.id}`);
     }
   });
 
   return errors;
+}
+
+function normalizeTimeStatus(value) {
+  const status = cleanText(value).toLowerCase();
+  return ["confirmed", "inferred", "unknown"].includes(status) ? status : "confirmed";
 }
 
 export function makeEventId(source, title, start, place = "") {
@@ -107,11 +122,11 @@ export function parseMonthDay(value, fallbackYear = new Date().getFullYear()) {
 }
 
 export function parseTime(value) {
-  const match = cleanText(value).match(/\b(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b/i);
+  const match = cleanText(value).match(/\b(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)(?=\W|$)/i);
   if (!match) return null;
   let hour = Number(match[1]);
   const minute = Number(match[2] || 0);
-  const meridiem = match[3].toLowerCase();
+  const meridiem = match[3].replaceAll(".", "").toLowerCase();
   if (meridiem === "pm" && hour !== 12) hour += 12;
   if (meridiem === "am" && hour === 12) hour = 0;
   return { hour, minute };

@@ -171,9 +171,11 @@ async function fetchVisitTuscaloosaEvents() {
     const sourceUrl = titleLink?.[1] || SOURCE_URLS.visit;
     const title = cleanText(htmlToText(titleLink?.[2] || ""));
     const address = cleanText(htmlToText(article.match(/<address class="event-location">([\s\S]*?)<\/address>/i)?.[1] || ""));
-    const detail = sourceUrl !== SOURCE_URLS.visit ? await safeFetchVisitDetail(sourceUrl) : null;
-    const start = detail?.start || buildIso({ ...dateParts, hour: 18, minute: 0 });
-    const end = detail?.end || addHours(start, 1);
+    const detail = sourceUrl !== SOURCE_URLS.visit ? await safeFetchVisitDetail(sourceUrl, dateParts) : null;
+    const unknownStart = buildIso({ ...dateParts, hour: 0, minute: 0 });
+    const start = detail?.start || unknownStart;
+    const end = detail?.end || (detail?.timeStatus === "inferred" ? addHours(start, 1) : addHours(unknownStart, 24));
+    const timeStatus = detail?.timeStatus || "unknown";
 
     events.push({
       title,
@@ -181,7 +183,8 @@ async function fetchVisitTuscaloosaEvents() {
       sourceUrl,
       start,
       end,
-      allDay: false,
+      allDay: timeStatus === "unknown",
+      timeStatus,
       venue: detail?.venue || "",
       address: detail?.address || address,
       description: detail?.description || "Visitor-friendly event listed by Visit Tuscaloosa.",
@@ -193,7 +196,7 @@ async function fetchVisitTuscaloosaEvents() {
   return events;
 }
 
-async function safeFetchVisitDetail(url) {
+async function safeFetchVisitDetail(url, fallbackDateParts) {
   try {
     const html = await fetchText(url);
     const text = htmlToText(html);
@@ -205,14 +208,17 @@ async function safeFetchVisitDetail(url) {
     const location = cleanText(locationMatch?.[1] || "");
     const [venue, ...addressParts] = location.split(/\s+[–-]\s+/);
     const parsedWhen = parseVisitWhen(whenMatch?.[1] || "");
+    const description = cleanText(descriptionMatch?.[1] || "");
+    const inferredWhen = parsedWhen ? null : inferVisitTimeFromText(description, fallbackDateParts);
 
     return {
       title: cleanText(titleMatch?.[1] || ""),
       venue: cleanText(venue),
       address: cleanText(addressParts.join(" - ")),
-      start: parsedWhen?.start,
-      end: parsedWhen?.end,
-      description: cleanText(descriptionMatch?.[1] || "")
+      start: parsedWhen?.start || inferredWhen?.start,
+      end: parsedWhen?.end || inferredWhen?.end,
+      timeStatus: parsedWhen ? "confirmed" : inferredWhen ? "inferred" : "unknown",
+      description
     };
   } catch {
     return null;
@@ -230,6 +236,74 @@ function parseVisitWhen(value) {
     start,
     end: endTime ? buildIso({ ...dateParts, ...endTime }) : addHours(start, 1)
   };
+}
+
+function inferVisitTimeFromText(value, dateParts) {
+  if (!dateParts) return null;
+  const text = cleanText(value);
+  const range = parseTextTimeRange(text);
+  if (range) {
+    return {
+      start: buildIso({ ...dateParts, ...range.start }),
+      end: buildIso({ ...dateParts, ...range.end })
+    };
+  }
+
+  const time = parseTime(text);
+  if (!time) return null;
+
+  const start = buildIso({ ...dateParts, ...time });
+  const endTime = parseInferredEndTime(text, time);
+
+  return {
+    start,
+    end: endTime ? buildIso({ ...dateParts, ...endTime }) : addHours(start, 1)
+  };
+}
+
+function parseTextTimeRange(value) {
+  const match = cleanText(value).match(/\b(?:from\s+)?(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)?\s*(?:to|-|–)\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)(?=\W|$)/i);
+  if (!match) return null;
+
+  const endMeridiem = normalizeMeridiem(match[6]);
+  const startMeridiem = normalizeMeridiem(match[3]) || endMeridiem;
+  const start = toClock(Number(match[1]), Number(match[2] || 0), startMeridiem);
+  const end = toClock(Number(match[4]), Number(match[5] || 0), endMeridiem);
+
+  if (start.hour > end.hour && !match[3]) {
+    start.hour -= 12;
+  }
+
+  return { start, end };
+}
+
+function parseInferredEndTime(text, startTime) {
+  const cleaned = cleanText(text);
+  const rangeMatch = cleaned.match(/\b(?:to|-|–)\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)\b/i);
+  if (!rangeMatch) return null;
+
+  const meridiem = rangeMatch[3].replaceAll(".", "").toLowerCase();
+  let hour = Number(rangeMatch[1]);
+  const minute = Number(rangeMatch[2] || 0);
+  if (meridiem === "pm" && hour !== 12) hour += 12;
+  if (meridiem === "am" && hour === 12) hour = 0;
+
+  if (hour < startTime.hour && !/am/i.test(rangeMatch[3])) {
+    hour += 12;
+  }
+
+  return { hour, minute };
+}
+
+function normalizeMeridiem(value) {
+  return value ? value.replaceAll(".", "").toLowerCase() : "";
+}
+
+function toClock(hour, minute, meridiem) {
+  let normalizedHour = hour;
+  if (meridiem === "pm" && normalizedHour !== 12) normalizedHour += 12;
+  if (meridiem === "am" && normalizedHour === 12) normalizedHour = 0;
+  return { hour: normalizedHour, minute };
 }
 
 async function fetchPatchEvents() {

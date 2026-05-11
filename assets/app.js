@@ -219,6 +219,7 @@ function pill(text, className) {
 }
 
 function formatEventTime(event) {
+  if (event.timeStatus === "unknown") return "Check event for actual time";
   if (event.allDay) return "All day";
 
   const start = new Date(event.start);
