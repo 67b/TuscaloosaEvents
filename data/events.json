@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-11T03:44:40.670Z",
+  "updatedAt": "2026-05-11T04:23:49.179Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-11T03:44:40.669Z",
+  "weatherUpdatedAt": "2026-05-11T04:23:49.178Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -29,9 +29,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-11",
-        "temperature": 79,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -50,9 +50,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-11",
-        "temperature": 79,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -71,9 +71,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-11",
-        "temperature": 79,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -92,9 +92,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-11",
-        "temperature": 79,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -113,9 +113,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-11",
-        "temperature": 79,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
