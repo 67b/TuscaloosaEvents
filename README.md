@@ -1,8 +1,8 @@
 # Tuscaloosa Events
 
-Welcome
+Welcome!
 
-This repository is a hands-on learning project designed for friends, family, and anyone curious about modern software development workflows.
+This repository is a hands-on learning project designed for myself, friends, family, and anyone curious about modern software development workflows.
 
 The goal of this project is not just to build something useful, but to experiment with and better understand the tools and processes that power real-world development teams.
 
@@ -12,23 +12,21 @@ Topics explored in this repository include:
 * Branching and version control
 * Collaboration through pull requests and shared development
 * CI/CD (Continuous Integration / Continuous Deployment)
-* AI-assisted development using OpenAI Codex
+* AI-assisted development using OpenAI Codex, Claude Code, or GitHub Copilot.
 * APIs and automation
 * Experimentation with modern web and development tooling
 
 This project is intentionally open, collaborative, and educational. Think of it as a sandbox for learning, testing ideas, making mistakes, improving workflows, and exploring how humans and AI can build software together.
 
-Whether you are here to contribute code, learn Git basics, experiment with AI-assisted programming, or simply follow along, welcome aboard.
-
 ## What It Is
 
-A mobile-first static event aggregator for Tuscaloosa, Alabama. The site is designed for GitHub Pages and uses committed JSON data so the public page does not need a backend.
+An event aggregator for Tuscaloosa, Alabama. The site is designed for GitHub Pages and uses committed JSON data so the public page does not need a backend.
 
 ## What It Does
 
-- Displays upcoming events from the University of Alabama, Visit Tuscaloosa, Tuscaloosa Patch, and Tuscaloosa Public Library.
-- Groups events by date and supports search, source filtering, and date-range filtering.
-- Lets visitors add events to their phone calendar by downloading an `.ics` file.
+- Displays upcoming events from various places in the Tuscaloosa area.
+- Groups events by date and supports search.
+- Lets visitors add events to their device's calendar by downloading an `.ics` file.
 - Keeps source links visible so visitors can confirm details before attending.
 
 ## Local Commands
@@ -51,13 +49,13 @@ npm run preview
 
 ## Data Refresh
 
-`scripts/fetch-events.mjs` fetches the source calendars, normalizes the results, deduplicates likely matches, sorts by start date, and writes `data/events.json` plus the matching `data/events.js` fallback.
+`scripts/fetch-events.mjs` fetches the source calendars, normalizes the results, deduplicates likely matches, sorts by start date, and writes `data/events.json`.
 
-The included `.github/workflows/refresh-events.yml` runs weekly on Monday morning and can also be started manually from the GitHub Actions tab. It commits `data/events.json` and the matching `data/events.js` fallback when events change.
+The included `.github/workflows/refresh-events.yml` runs daily. It commits `data/events.json` when events change.
 
 ## GitHub Pages
 
-The included `.github/workflows/pages.yml` deploys the repository root to GitHub Pages on pushes to `main`. In the GitHub repo settings, configure Pages to use GitHub Actions.
+A commit to `main` deploys the repository root to GitHub Pages.
 
 ## Calendar Downloads
 
