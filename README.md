@@ -40,6 +40,8 @@ The included `.github/workflows/refresh-events.yml` runs daily. It commits `data
 
 A commit to `main` deploys the repository root to GitHub Pages.
 
+Link to live page: https://67b.github.io/TuscaloosaEvents/
+
 ## Calendar Downloads
 
 The browser creates an `.ics` file when someone taps “Add to Calendar.” iOS typically opens the calendar import flow; Android behavior depends on the installed calendar and browser. Browsers do not allow a web page to silently insert events into a personal calendar.
