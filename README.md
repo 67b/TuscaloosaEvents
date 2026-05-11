@@ -14,6 +14,7 @@ Topics explored in this repository include:
 * CI/CD (Continuous Integration / Continuous Deployment)
 * AI-assisted development using OpenAI Codex, Claude Code, or GitHub Copilot.
 * APIs and automation
+* Markdown
 * Experimentation with modern web and development tooling
 
 This project is intentionally open, collaborative, and educational. Think of it as a sandbox for learning, testing ideas, making mistakes, improving workflows, and exploring how humans and AI can build software together.
@@ -28,24 +29,6 @@ An event aggregator for Tuscaloosa, Alabama. The site is designed for GitHub Pag
 - Groups events by date and supports search.
 - Lets visitors add events to their device's calendar by downloading an `.ics` file.
 - Keeps source links visible so visitors can confirm details before attending.
-
-## Local Commands
-
-This repo has no runtime dependencies. Node 20+ is enough.
-
-```bash
-node scripts/fetch-events.mjs
-node scripts/validate-events.mjs
-node scripts/preview.mjs
-```
-
-If `npm` is available, the same commands are exposed as:
-
-```bash
-npm run fetch
-npm run validate
-npm run preview
-```
 
 ## Data Refresh
 
