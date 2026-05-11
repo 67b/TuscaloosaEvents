@@ -1,0 +1,27 @@
+name: Refresh Events
+
+on:
+  schedule:
+    # Runs daily at 6:18 AM Central during daylight saving time.
+    # GitHub cron schedules are evaluated in UTC.
+    - cron: "18 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - run: npm run fetch
+      - run: npm run validate
+      - name: Commit refreshed events
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh Tuscaloosa events"
+          file_pattern: data/events.json
