@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-11T04:11:05.305Z",
+  "updatedAt": "2026-05-11T13:51:24.381Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-11T04:11:05.305Z",
+  "weatherUpdatedAt": "2026-05-11T13:51:24.380Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -10,30 +10,10 @@
     "Tuscaloosa Public Library",
     "Mercedes-Benz Amphitheater"
   ],
-  "warnings": [],
+  "warnings": [
+    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
+  ],
   "events": [
-    {
-      "id": "university-of-alabama-driving-formula-sae-car-2026-05-10-ne-commuter-west",
-      "title": "Driving Formula SAE Car",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/driving_formula_sae_car_6124",
-      "start": "2026-05-10T07:00:00-05:00",
-      "end": "2026-05-10T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "NE Commuter West",
-      "address": "",
-      "description": "Driving FSAE",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-10",
-        "temperature": 63,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-11-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -52,8 +32,8 @@
         "forecastDate": "2026-05-11",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -74,8 +54,8 @@
         "forecastDate": "2026-05-11",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -96,8 +76,8 @@
         "forecastDate": "2026-05-11",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -106,7 +86,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260511/2c1b0a16-4082-4878-953d-276908f967ec/tpl-little-library-playdate",
       "start": "2026-05-11T10:00:00-05:00",
-      "end": "2026-05-11T11:00:00-05:00",
+      "end": "2026-05-11T16:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -118,8 +98,8 @@
         "forecastDate": "2026-05-11",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -140,30 +120,8 @@
         "forecastDate": "2026-05-11",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-book-club-2026-05-11-weaver-bolden-branch",
-      "title": "Book Club",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/book-club/",
-      "start": "2026-05-11T17:30:00-05:00",
-      "end": "2026-05-11T18:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Weaver Bolden Branch",
-      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
-      "description": "Join our Adult Book Club for engaging conversations, new perspectives, and a shared love of reading. Each session features a ... Continued",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-11",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -172,7 +130,7 @@
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/njcaa-dii-womens-golf-championship/",
       "start": "2026-05-12T00:00:00-05:00",
-      "end": "2026-05-13T00:00:00-05:00",
+      "end": "2026-05-13T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
       "venue": "Ol’ Colony Golf Course (public)",
@@ -211,34 +169,12 @@
       }
     },
     {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-12-main-library",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-12/",
-      "start": "2026-05-12T11:00:00-05:00",
-      "end": "2026-05-12T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Tuesday"
-      }
-    },
-    {
       "id": "university-of-alabama-olli-at-ua-tuscaloosa-summer-showcase-2026-05-12-bryant-conference-center",
       "title": "OLLI at UA Tuscaloosa Summer Showcase",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/olli-at-ua-tuscaloosa-summer-showcase",
       "start": "2026-05-12T13:00:00-05:00",
-      "end": "2026-05-12T14:00:00-05:00",
+      "end": "2026-05-12T19:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Bryant Conference Center",
@@ -316,29 +252,7 @@
         "forecastDate": "2026-05-12",
         "temperature": 58,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Tuesday Night"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-trivia-night-2026-05-12-egan-s-irish-pub",
-      "title": "Trivia Night",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/trivia-night/",
-      "start": "2026-05-12T18:00:00-05:00",
-      "end": "2026-05-12T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Egan’s Irish Pub",
-      "address": "1229 University Blvd, Tuscaloosa, AL, 35401",
-      "description": "Ages 21+",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 58,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Tuesday Night"
       }
     },
@@ -360,29 +274,7 @@
         "forecastDate": "2026-05-13",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Wednesday"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-microsoft-excel-class-2026-05-13-weaver-bolden-branch",
-      "title": "Microsoft Excel Class",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/microsoft-excel-class/",
-      "start": "2026-05-13T09:30:00-05:00",
-      "end": "2026-05-13T10:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Weaver Bolden Branch",
-      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
-      "description": "This beginner-level Microsoft Excel class is perfect for individuals with little to no experience using spreadsheets. Participants will learn the ... Continued",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 3,
         "periodName": "Wednesday"
       }
     },
@@ -404,30 +296,30 @@
         "forecastDate": "2026-05-13",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 3,
         "periodName": "Wednesday"
       }
     },
     {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-14-main-library",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-14/",
-      "start": "2026-05-14T11:00:00-05:00",
-      "end": "2026-05-14T14:00:00-05:00",
+      "id": "university-of-alabama-mastering-blackboard-gradebook-settings-2026-05-13",
+      "title": "Mastering Blackboard Gradebook Settings",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mastering-blackboard-gradebook-settings",
+      "start": "2026-05-13T13:30:00-05:00",
+      "end": "2026-05-13T14:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
+      "venue": "",
+      "address": "",
+      "description": "Unlock the full potential of Blackboard Ultra’s Gradebook! This session will guide instructors through essential settings and customization options to streamline grading and improve transparency for students. Wednesday, March 11, 2026 9:00...",
+      "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-14",
-        "temperature": 81,
+        "forecastDate": "2026-05-13",
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Thursday"
+        "precipitationChance": 3,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -436,7 +328,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260514/75b97053-0fea-41a3-950d-025ce3461ab2/tpl-full-steam-ahead",
       "start": "2026-05-14T16:00:00-05:00",
-      "end": "2026-05-14T17:00:00-05:00",
+      "end": "2026-05-14T22:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -446,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Thursday"
       }
     },
@@ -468,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-15",
-        "temperature": 59,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Friday Night"
       }
     },
@@ -480,7 +372,7 @@
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
       "start": "2026-05-16T07:00:00-05:00",
-      "end": "2026-05-16T08:00:00-05:00",
+      "end": "2026-05-16T13:00:00-05:00",
       "allDay": false,
       "timeStatus": "inferred",
       "venue": "Tuscaloosa River Market",
@@ -490,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 4,
         "periodName": "Saturday"
       }
     },
@@ -512,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 4,
         "periodName": "Saturday"
       }
     },
@@ -524,7 +416,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260516/2827605f-52bb-42cf-a083-008d97570ba1/saturday-in-the-park-invasive-plants",
       "start": "2026-05-16T09:00:00-05:00",
-      "end": "2026-05-16T10:00:00-05:00",
+      "end": "2026-05-16T15:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Moundville Archaeological Park",
@@ -534,31 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-your-story-your-voice-memoir-workshop-2026-05-16-main-library",
-      "title": "Your Story, Your Voice, Memoir Workshop",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/your-story-your-voice-memoir-workshop/2026-05-16/",
-      "start": "2026-05-16T14:00:00-05:00",
-      "end": "2026-05-16T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Have a story to tell? Your life experiences matter and your story deserves to be written. In partnership with The ... Continued",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 4,
         "periodName": "Saturday"
       }
     },
@@ -568,7 +438,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260517/4e331110-975c-41aa-8d02-cc5ecec68672/peoples-loan-program-community-night-at-the-hotel-indigo",
       "start": "2026-05-17T05:00:00-05:00",
-      "end": "2026-05-17T06:00:00-05:00",
+      "end": "2026-05-17T11:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "The Lookout",
@@ -578,7 +448,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-17",
-        "temperature": 87,
+        "temperature": 89,
         "temperatureUnit": "F",
         "precipitationChance": 3,
         "periodName": "Sunday"
@@ -590,7 +460,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260518/024660ef-ed46-41a4-8b55-b4913d0f3e59/tpl-little-library-playdate",
       "start": "2026-05-18T10:00:00-05:00",
-      "end": "2026-05-18T11:00:00-05:00",
+      "end": "2026-05-18T16:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -615,48 +485,18 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-19-main-library",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-19/",
-      "start": "2026-05-19T11:00:00-05:00",
-      "end": "2026-05-19T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
-      "isVirtual": false
-    },
-    {
       "id": "visit-tuscaloosa-watercolor-hummingbirds-and-flowers-with-abi-brewer-2026-05-19-dinah-washington-cultural-arts-center",
       "title": "Watercolor Hummingbirds and Flowers with Abi Brewer",
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/watercolor-hummingbirds-and-flowers-with-abi-brewer/",
       "start": "2026-05-19T18:00:00-05:00",
-      "end": "2026-05-19T19:00:00-05:00",
+      "end": "2026-05-20T00:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Dinah Washington Cultural Arts Center",
       "address": "620 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Beginner friendly watercolor instruction including an 8×10 pre-drawn outline. Abi will lead the class in basic watercolor techniques, step by step instruction, and provide all materials. #### Map ### NJCAA DII Women’s Golf Championship ###...",
       "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-public-library-beginner-microsoft-word-2026-05-20-main-library",
-      "title": "Beginner Microsoft Word",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/beginner-microsoft-word/",
-      "start": "2026-05-20T09:30:00-05:00",
-      "end": "2026-05-20T10:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
       "isVirtual": false
     },
     {
@@ -675,27 +515,12 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-21-main-library",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-21/",
-      "start": "2026-05-21T11:00:00-05:00",
-      "end": "2026-05-21T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
-      "isVirtual": false
-    },
-    {
       "id": "tuscaloosa-patch-tpl-full-steam-ahead-2026-05-21-tuscaloosa-public-library",
       "title": "TPL Full STEAM Ahead",
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260521/e0c42041-d62a-40ee-8e05-2d77532059bb/tpl-full-steam-ahead",
       "start": "2026-05-21T16:00:00-05:00",
-      "end": "2026-05-21T17:00:00-05:00",
+      "end": "2026-05-21T22:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -740,28 +565,13 @@
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/casual-campus-cruise/",
       "start": "2026-05-23T09:00:00-05:00",
-      "end": "2026-05-23T10:00:00-05:00",
+      "end": "2026-05-23T15:00:00-05:00",
       "allDay": false,
       "timeStatus": "inferred",
       "venue": "Velo City Cycles",
       "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
       "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
       "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-public-library-closed-2026-05-25",
-      "title": "CLOSED",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/closed-3/",
-      "start": "2026-05-25T00:00:00-05:00",
-      "end": "2026-05-25T23:59:59-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
       "isVirtual": false
     },
     {
@@ -785,7 +595,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260525/352a3db5-7aa2-41f6-b333-b2155255ff0e/tpl-little-library-playdate",
       "start": "2026-05-25T10:00:00-05:00",
-      "end": "2026-05-25T11:00:00-05:00",
+      "end": "2026-05-25T16:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -810,72 +620,12 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-public-library-book-discussion-2026-05-26-main-library",
-      "title": "Book Discussion",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/book-discussion-4/2026-05-26/",
-      "start": "2026-05-26T10:00:00-05:00",
-      "end": "2026-05-26T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Ages 21+. Opportunity for engaging and intellectual conversations with other local bibliophiles. Books provided. Registration required. Call the reference desk ... Continued",
-      "category": "Library",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-26-main-library",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-26/",
-      "start": "2026-05-26T11:00:00-05:00",
-      "end": "2026-05-26T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-public-library-intermediate-microsoft-word-2026-05-27-main-library",
-      "title": "Intermediate Microsoft Word",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/intermediate-microsoft-word/",
-      "start": "2026-05-27T09:30:00-05:00",
-      "end": "2026-05-27T10:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-05-28-main-library",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group/2026-05-28/",
-      "start": "2026-05-28T11:00:00-05:00",
-      "end": "2026-05-28T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Tuscaloosa Public Library event.",
-      "category": "Library",
-      "isVirtual": false
-    },
-    {
       "id": "tuscaloosa-patch-tpl-full-steam-ahead-2026-05-28-tuscaloosa-public-library",
       "title": "TPL Full STEAM Ahead",
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260528/be6f5da4-e5fe-4d2a-a8c5-ffa32eca2cbe/tpl-full-steam-ahead",
       "start": "2026-05-28T16:00:00-05:00",
-      "end": "2026-05-28T17:00:00-05:00",
+      "end": "2026-05-28T22:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -897,21 +647,6 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-public-library-your-story-your-voice-memoir-workshop-2026-05-30-main-library",
-      "title": "Your Story, Your Voice, Memoir Workshop",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/your-story-your-voice-memoir-workshop/2026-05-30/",
-      "start": "2026-05-30T14:00:00-05:00",
-      "end": "2026-05-30T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "Have a story to tell? Your life experiences matter and your story deserves to be written. In partnership with The ... Continued",
-      "category": "Library",
       "isVirtual": false
     },
     {
@@ -950,7 +685,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/alabama-shakes/",
       "start": "2026-06-12T19:30:00-05:00",
-      "end": "2026-06-12T22:30:00-05:00",
+      "end": "2026-06-13T03:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
@@ -965,7 +700,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/38-special-and-kansas/",
       "start": "2026-06-13T18:00:00-05:00",
-      "end": "2026-06-13T21:00:00-05:00",
+      "end": "2026-06-14T02:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
@@ -1055,7 +790,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260706/1723fb92-c073-4fb5-afd0-7974db814ee7/university-of-alabama-summer-reading-clinic",
       "start": "2026-07-06T15:45:00-05:00",
-      "end": "2026-07-06T16:45:00-05:00",
+      "end": "2026-07-06T21:45:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "The University of Alabama",
@@ -1085,7 +820,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/lauren-daigle/",
       "start": "2026-07-16T19:30:00-05:00",
-      "end": "2026-07-16T22:30:00-05:00",
+      "end": "2026-07-17T03:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
@@ -1160,7 +895,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260801/bbc46cab-7210-484e-a385-3b924d0a2e40/sean-of-the-south-live",
       "start": "2026-08-01T18:30:00-05:00",
-      "end": "2026-08-01T19:30:00-05:00",
+      "end": "2026-08-02T00:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
@@ -1175,7 +910,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260822/99fb58d6-3c31-4d0a-ab21-88ecac217465/back-n-black-the-ultimate-powered-up-ac-dc-experience",
       "start": "2026-08-22T20:00:00-05:00",
-      "end": "2026-08-22T21:00:00-05:00",
+      "end": "2026-08-23T02:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
@@ -1190,7 +925,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/ty-myers/",
       "start": "2026-09-10T19:30:00-05:00",
-      "end": "2026-09-10T22:30:00-05:00",
+      "end": "2026-09-11T03:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
@@ -1205,7 +940,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/sublime/",
       "start": "2026-09-18T19:00:00-05:00",
-      "end": "2026-09-18T22:00:00-05:00",
+      "end": "2026-09-19T03:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
@@ -1220,7 +955,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/avett-brothers/",
       "start": "2026-10-02T19:00:00-05:00",
-      "end": "2026-10-02T22:00:00-05:00",
+      "end": "2026-10-03T03:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
@@ -1235,7 +970,7 @@
       "source": "Tuscaloosa Patch",
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20261010/812e87c6-8122-4d29-a3b9-8ecb7886e7b6/steve-hofstetter-begin-again",
       "start": "2026-10-10T19:30:00-05:00",
-      "end": "2026-10-10T20:30:00-05:00",
+      "end": "2026-10-11T01:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
@@ -1250,7 +985,7 @@
       "source": "Mercedes-Benz Amphitheater",
       "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/breaking-benjamin/",
       "start": "2026-10-16T19:00:00-05:00",
-      "end": "2026-10-16T22:00:00-05:00",
+      "end": "2026-10-17T03:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
