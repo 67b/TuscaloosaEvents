@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-12T13:16:36.850Z",
+  "updatedAt": "2026-05-13T13:28:58.704Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-12T13:16:36.850Z",
+  "weatherUpdatedAt": "2026-05-13T13:28:58.704Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-12-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-13-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-12T00:00:00-05:00",
-      "end": "2026-05-12T00:00:00-05:00",
+      "start": "2026-05-13T00:00:00-05:00",
+      "end": "2026-05-13T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,42 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
+        "forecastDate": "2026-05-13",
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 2,
         "periodName": "Today"
       }
     },
     {
-      "id": "visit-tuscaloosa-njcaa-dii-women-s-golf-championship-2026-05-12-ol-colony-golf-course-public",
-      "title": "NJCAA DII Women’s Golf Championship",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/njcaa-dii-womens-golf-championship/",
-      "start": "2026-05-12T00:00:00-05:00",
-      "end": "2026-05-13T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "Ol’ Colony Golf Course (public)",
-      "address": "401 Old Colony Road, Tuscaloosa, AL",
-      "description": "The NJCAA Division II Women’s Golf Championship will be held at Ol’ Colony Golf Complex from May 12–15, bringing the nation’s top junior college women’s golf teams to Tuscaloosa for four days of elite competition. This marks the first year...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-12-catherine-and-pettus-randall-wel",
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-13-catherine-and-pettus-randall-wel",
       "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-12T08:00:00-05:00",
-      "end": "2026-05-12T17:00:00-05:00",
+      "start": "2026-05-13T08:00:00-05:00",
+      "end": "2026-05-13T17:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Catherine and Pettus Randall Welcome Center",
@@ -73,143 +51,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
+        "forecastDate": "2026-05-13",
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 2,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-agility-continuous-improvement-series-pdca-plan-do-check-act-2026-05-12-employee-resource-center",
-      "title": "Agility Continuous Improvement Series: PDCA (Plan-Do-Check-Act)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/agility-continuous-improvement-series-pdca-plan-do-check-act",
-      "start": "2026-05-12T08:30:00-05:00",
-      "end": "2026-05-12T10:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "This course presents the PDCA (Plan-Do-Check-Act) cycle, a four-step problem-solving model that emphasizes the importance of learning from improvement. As a circle with no end, the PDCA cycle should be repeated again and again for continuo...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-olli-at-ua-tuscaloosa-summer-showcase-2026-05-12-bryant-conference-center",
-      "title": "OLLI at UA Tuscaloosa Summer Showcase",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/olli-at-ua-tuscaloosa-summer-showcase",
-      "start": "2026-05-12T13:00:00-05:00",
-      "end": "2026-05-12T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Happy birthday, America! As part of our America250 programming, OLLI is throwing a celebration of lifelong learning. Join OLLI @ UA Tuscaloosa Chapter as we explore offerings for the Summer 2026 session — and have fun doing it. At our Summ...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-sbc-information-session-2026-05-12",
-      "title": "SBC Information Session",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/sbc-information-session",
-      "start": "2026-05-12T13:30:00-05:00",
-      "end": "2026-05-12T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join us for STEM/Biz/CREATE Information session!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-daily-stretch-series-2026-05-12",
-      "title": "Daily Stretch Series",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/daily-stretch-series-4297",
-      "start": "2026-05-12T15:00:00-05:00",
-      "end": "2026-05-13T03:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join this series to give you a movement break so you can return to work focused and refreshed. Each series is 5 consecutive days of 15-minute sessions that you can join right from your desk. Attend all 5 days of the meditation series to ea...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-modernize-your-course-materials-with-documents-in-blackboard-2026-05-12",
-      "title": "Modernize Your Course Materials with Documents in Blackboard",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/panopto-edit-like-a-pro",
-      "start": "2026-05-12T15:00:00-05:00",
-      "end": "2026-05-12T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Discover how to efficiently create, organize, and share course materials using Documents in Blackboard Ultra. Learn best practices for building engaging content that streamlines the student experience and enhances your course delivery. Tue...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-higher-education-administration-graduate-programs-info-session-2026-05-12",
-      "title": "Higher Education Administration Graduate Programs Info Session",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/higher-education-administration-graduate-programs-info-session",
-      "start": "2026-05-12T18:00:00-05:00",
-      "end": "2026-05-12T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The ELPTS department is hosting a virtual information session to share details regarding program key features, admissions requirements, course requirements, program outcomes, and career pathways.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-12",
-        "temperature": 61,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Tonight"
       }
     },
     {
@@ -230,8 +76,8 @@
         "forecastDate": "2026-05-13",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Wednesday"
+        "precipitationChance": 2,
+        "periodName": "Today"
       }
     },
     {
@@ -252,8 +98,8 @@
         "forecastDate": "2026-05-13",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Wednesday"
+        "precipitationChance": 2,
+        "periodName": "Today"
       }
     },
     {
@@ -274,8 +120,30 @@
         "forecastDate": "2026-05-13",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Wednesday"
+        "precipitationChance": 2,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-daily-stretch-series-2026-05-13",
+      "title": "Daily Stretch Series",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/daily-stretch-series-4297",
+      "start": "2026-05-13T15:00:00-05:00",
+      "end": "2026-05-14T03:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join this series to give you a movement break so you can return to work focused and refreshed. Each series is 5 consecutive days of 15-minute sessions that you can join right from your desk. Attend all 5 days of the meditation series to ea...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-13",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 2,
+        "periodName": "Today"
       }
     },
     {
@@ -294,7 +162,117 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 80,
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-gradebook-creating-calculated-columns-2026-05-14",
+      "title": "Gradebook: Creating Calculated Columns",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gradebook-creating-calculated-columns-3608",
+      "start": "2026-05-14T09:00:00-05:00",
+      "end": "2026-05-14T10:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Take your Gradebook to the next level with calculated columns! This 30 minute session will show you how to create custom columns that combine multiple grade items for advanced grading flexibility. Register for Creating Calculated Columns S...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-blackboard-course-accessible-with-ally-2026-05-14",
+      "title": "Make Your Blackboard Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-blackboard-course-accessible-with-ally-7298",
+      "start": "2026-05-14T09:00:00-05:00",
+      "end": "2026-05-14T10:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-stop-catastrophic-thinking-2026-05-14",
+      "title": "Stop Catastrophic Thinking",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/stop-catastrophic-thinking",
+      "start": "2026-05-14T11:00:00-05:00",
+      "end": "2026-05-14T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Identify the Worst, Best, and Most Likely outcomes of a situation to reduce anxiety and improve problem solving. Register through your WellBAMA portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-using-technology-to-increase-student-engagement-2026-05-14",
+      "title": "Using Technology to Increase Student Engagement",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gradebook-importing-from-excel",
+      "start": "2026-05-14T13:00:00-05:00",
+      "end": "2026-05-14T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-olli-at-ua-gadsden-chapter-summer-showcase-2026-05-14-church-of-the-holy-comforter",
+      "title": "OLLI at UA Gadsden Chapter Summer Showcase",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/olli-at-ua-gadsden-chapter-summer-showcase",
+      "start": "2026-05-14T14:00:00-05:00",
+      "end": "2026-05-14T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Church of the Holy Comforter",
+      "address": "156 S 9th St, Gadsden, AL 35901",
+      "description": "You are invited! Join the OLLI at UA Gadsden community for a free Summer Showcase of lifelong learning. Our Special Guest, Dr. Derrick Griffey, Dean of Academic Programs & Services at Gadsden State Community College will share a 25-minute...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday"
@@ -316,7 +294,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday"
@@ -338,7 +316,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-15",
-        "temperature": 63,
+        "temperature": 61,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Friday Night"
@@ -360,7 +338,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -382,7 +360,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -404,7 +382,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 88,
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-ua-arboretum-2026-spring-plant-sale-2026-05-16-university-of-alabama-arboretum-pavilion",
+      "title": "UA Arboretum 2026 Spring Plant Sale",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/ua-arboretum-2026-spring-plant-sale/",
+      "start": "2026-05-16T10:00:00-05:00",
+      "end": "2026-05-16T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "University of Alabama Arboretum Pavilion",
+      "address": "",
+      "description": "The University of Alabama Arboretum will be holding a plant sale Saturday, May 16, 2026 from 10 AM – 4 PM. A variety of garden, indoor, and native plants will be sold. Sale will be held at the Arboretum Pavilion, 4801 Arboretum Way, Tuscal...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-16",
+        "temperature": 86,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -426,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-17",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 5,
         "periodName": "Sunday"
       }
     },
@@ -448,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -467,7 +467,14 @@
       "address": "",
       "description": "The three-day Advanced Project Management workshop includes an online interactive project simulation to test knowledge and performance. Learn by making actual project decisions. This workshop picks up where other traditional project manage...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-19",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 14,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "visit-tuscaloosa-watercolor-hummingbirds-and-flowers-with-abi-brewer-2026-05-19-dinah-washington-cultural-arts-center",
@@ -482,7 +489,14 @@
       "address": "620 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Beginner friendly watercolor instruction including an 8×10 pre-drawn outline. Abi will lead the class in basic watercolor techniques, step by step instruction, and provide all materials. #### Map ### NJCAA DII Women’s Golf Championship ###...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-19",
+        "temperature": 68,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Tuesday Night"
+      }
     },
     {
       "id": "university-of-alabama-blackboard-ai-design-assistant-2026-05-20",
@@ -635,6 +649,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-1st-annual-deviled-egg-throwdown-2026-05-30-druid-city-brewing-company",
+      "title": "1st Annual Deviled Egg Throwdown",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/1st-annual-deviled-egg-throwdown/",
+      "start": "2026-05-30T14:00:00-05:00",
+      "end": "2026-05-30T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Druid City Brewing Company",
+      "address": "700 14th Street , Tuscaloosa, AL 35401",
+      "description": "This inaugural charity event is being held on Saturday, May 30th from 2:00 pm to 4:00 pm at Druid City Brewing to benefit the Tuscaloosa Public Library’s Bookmobile. Local restaurants will be competing for the Golden Egg Award for the best...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-tuesday-s-tuscaloosa-farmers-market-2026-06-02-tuscaloosa-river-market",
       "title": "Tuesday’s Tuscaloosa Farmers Market",
       "source": "Visit Tuscaloosa",
@@ -740,6 +769,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-dr-strange-2016-2026-06-12-the-historic-bama-theatre",
+      "title": "Dr. Strange (2016)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/dr-strange-2016/",
+      "start": "2026-06-12T07:30:00-05:00",
+      "end": "2026-06-12T13:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "From Marvel Studios comes “Doctor Strange,” the story of world-famous neurosurgeon Dr. Stephen Strange whose life changes forever after a horrific car accident robs him of the use of his hands. When traditional medicine fails him, he is fo...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "mercedes-benz-amphitheater-alabama-shakes-2026-06-12-mercedes-benz-amphitheater",
       "title": "Alabama Shakes",
       "source": "Mercedes-Benz Amphitheater",
@@ -752,6 +796,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Alabama Shakes with The Secret Sisters Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Alabama Shakes are returning to Tuscaloosa on Friday, June 12th with support from The Secret Sisters! Alabama Shakes are poised to make their return, anno...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-shakes-with-the-secret-sisters-2026-06-12-mercedes-benz-amphitheater",
+      "title": "Alabama Shakes with The Secret Sisters",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-with-the-secret-sisters/",
+      "start": "2026-06-12T19:30:00-05:00",
+      "end": "2026-06-13T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Alabama Shakes are returning to Tuscaloosa on Friday, June 12th with support from The Secret Sisters! Alabama Shakes are poised to make their return, announcing a 2026 Tour across the U.S. The Athens, AL-raised band comprised of vocalist/g...",
+      "category": "Community",
       "isVirtual": false
     },
     {
