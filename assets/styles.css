@@ -78,15 +78,21 @@ a {
   top: 1.35rem;
   right: 1rem;
   display: inline-flex;
+  flex: 0 0 2.75rem;
   align-items: center;
   justify-content: center;
   width: 2.75rem;
+  min-width: 2.75rem;
+  max-width: 2.75rem;
   height: 2.75rem;
+  min-height: 2.75rem;
+  max-height: 2.75rem;
   color: var(--ink);
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 999px;
   box-shadow: var(--shadow);
+  overflow: hidden;
   text-decoration: none;
 }
 
@@ -95,8 +101,14 @@ a {
 }
 
 .github-link svg {
-  width: 1.45rem;
-  height: 1.45rem;
+  display: block;
+  flex: 0 0 1.45rem;
+  width: 1.45rem !important;
+  min-width: 1.45rem;
+  max-width: 1.45rem;
+  height: 1.45rem !important;
+  min-height: 1.45rem;
+  max-height: 1.45rem;
   fill: currentColor;
 }
 
