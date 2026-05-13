@@ -30,6 +30,14 @@ An event aggregator for Tuscaloosa, Alabama. The site is designed for GitHub Pag
 - Lets visitors add events to their device's calendar by downloading an `.ics` file.
 - Keeps source links visible so visitors can confirm details before attending.
 
+## Screenshots
+<img width="296" height="612" alt="image" src="https://github.com/user-attachments/assets/8042de91-24e1-4f2e-9c8b-bc6bd5743dd9" />
+
+<img width="296" height="612" alt="image" src="https://github.com/user-attachments/assets/8c981ade-5f0f-45ae-89a8-1b03108a5c04" />
+
+<img width="230" height="500" alt="AddingEvent" src="https://github.com/user-attachments/assets/7b9e9693-d544-49c0-a78d-9849fd946611" />
+
+
 ## Data Refresh
 
 `scripts/fetch-events.mjs` fetches the source calendars, normalizes the results, deduplicates likely matches, sorts by start date, and writes `data/events.json`.
@@ -41,6 +49,9 @@ The included `.github/workflows/refresh-events.yml` runs daily. It commits `data
 A commit to `main` deploys the repository root to GitHub Pages.
 
 Link to live page: https://67b.github.io/TuscaloosaEvents/
+
+<img width="362" height="366" alt="image" src="https://github.com/user-attachments/assets/ec0f186d-5c7c-4971-84a7-17206483c0fc" />
+
 
 ## Calendar Downloads
 
