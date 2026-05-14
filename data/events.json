@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-13T13:28:58.704Z",
+  "updatedAt": "2026-05-14T13:04:58.375Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-13T13:28:58.704Z",
+  "weatherUpdatedAt": "2026-05-14T13:04:58.375Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-13-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-14-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-13T00:00:00-05:00",
-      "end": "2026-05-13T00:00:00-05:00",
+      "start": "2026-05-14T00:00:00-05:00",
+      "end": "2026-05-14T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,120 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
+        "forecastDate": "2026-05-14",
+        "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-13-catherine-and-pettus-randall-wel",
-      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-13T08:00:00-05:00",
-      "end": "2026-05-13T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Catherine and Pettus Randall Welcome Center",
-      "address": "",
-      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-new-management-orientation-2026-05-13",
-      "title": "New Management Orientation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/new-management-orientation-584",
-      "start": "2026-05-13T08:30:00-05:00",
-      "end": "2026-05-13T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Behavioral Expectations Supported: Collaboration, Effective Communication, Ethics and Integrity, Continuous Improvement https://hr.ua.edu/employee-resources/performance-management/behavioral New Management Orientation is for those new to a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-legendary-locations-capstone-college-of-nursing-simulation-center-2026-05-13-capstone-college-of-n",
-      "title": "Legendary Locations - Capstone College of Nursing: Simulation Center",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/legendary-locations-capstone-college-of-nursing-simulation-center",
-      "start": "2026-05-13T11:30:00-05:00",
-      "end": "2026-05-14T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Capstone College of Nursing: Simulation Center",
-      "address": "650 University Blvd East Tuscaloosa, AL 35401, UNITED STATES OF AMERICA",
-      "description": "Join us for an inside look at the Capstone College of Nursing: Simulation Center! During this tour, employees will have the opportunity to explore the Simulation Center at the Capstone College of Nursing and learn how it supports students’...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-mastering-blackboard-gradebook-settings-2026-05-13",
-      "title": "Mastering Blackboard Gradebook Settings",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/mastering-blackboard-gradebook-settings",
-      "start": "2026-05-13T13:30:00-05:00",
-      "end": "2026-05-13T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Unlock the full potential of Blackboard Ultra’s Gradebook! This session will guide instructors through essential settings and customization options to streamline grading and improve transparency for students. Wednesday, March 11, 2026 9:00...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-daily-stretch-series-2026-05-13",
-      "title": "Daily Stretch Series",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/daily-stretch-series-4297",
-      "start": "2026-05-13T15:00:00-05:00",
-      "end": "2026-05-14T03:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join this series to give you a movement break so you can return to work focused and refreshed. Each series is 5 consecutive days of 15-minute sessions that you can join right from your desk. Attend all 5 days of the meditation series to ea...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-13",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 0,
         "periodName": "Today"
       }
     },
@@ -162,10 +52,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-14-catherine-and-pettus-randall-wel",
+      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
+      "start": "2026-05-14T08:00:00-05:00",
+      "end": "2026-05-14T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Catherine and Pettus Randall Welcome Center",
+      "address": "",
+      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -184,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
       }
     },
     {
@@ -206,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
       }
     },
     {
@@ -228,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
       }
     },
     {
@@ -250,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
       }
     },
     {
@@ -272,10 +184,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-daily-stretch-series-2026-05-14",
+      "title": "Daily Stretch Series",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/daily-stretch-series-4297",
+      "start": "2026-05-14T15:00:00-05:00",
+      "end": "2026-05-15T03:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join this series to give you a movement break so you can return to work focused and refreshed. Each series is 5 consecutive days of 15-minute sessions that you can join right from your desk. Attend all 5 days of the meditation series to ea...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-growth-mindset-building-cultures-that-learn-adapt-and-thrive-2026-05-14-employee-resource-center",
+      "title": "Growth Mindset: Building Cultures that Learn, Adapt, and Thrive",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/growth-mindset-building-cultures-that-learn-adapt-and-thrive",
+      "start": "2026-05-14T15:00:00-05:00",
+      "end": "2026-05-14T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "We’re part of a learning organization—but do we truly embrace learning in all its forms? Some of the most powerful learning opportunities exist not in our classrooms or labs, but in how we respond to challenges, feedback, and failure. Unde...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -294,10 +250,76 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-14",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Thursday"
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-kinesiology-graduate-programs-information-session-2026-05-14",
+      "title": "Kinesiology Graduate Programs Information Session",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/kinesiology-graduate-programs-information-session",
+      "start": "2026-05-14T18:00:00-05:00",
+      "end": "2026-05-14T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The Kinesiology department is hosting a virtual information session to share details regarding program key features, admissions requirements, course requirments, program outcomes, and career pathways.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-14",
+        "temperature": 52,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-faculty-staff-selma-ripple-trip-2026-05-15-hewson-hall",
+      "title": "Faculty/Staff Selma Ripple Trip",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/facultystaff-selma-ripple-trip",
+      "start": "2026-05-15T07:30:00-05:00",
+      "end": "2026-05-15T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Hewson Hall",
+      "address": "380 Stadium Drive Tuscaloosa, Alabama 35401",
+      "description": "Selma Ripple is a community-driven service-learning initiative where UA students, faculty and staff and Selma stakeholders come together to create lasting change in Selma. By actively engaging in hands-on projects—ranging from beautificati...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-15",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-open-book-club-at-ernest-and-hadley-booksellers-2026-05-15-ernest-and-hadley-booksellers",
+      "title": "Open Book Club at Ernest & Hadley Booksellers!",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260515/176dc97d-65d7-482f-878d-70aa875ae854/open-book-club-at-ernest-hadley-booksellers",
+      "start": "2026-05-15T17:30:00-05:00",
+      "end": "2026-05-15T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Ernest & Hadley Booksellers",
+      "address": "Ernest & Hadley Booksellers, 1928 7th St, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-15",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Friday"
       }
     },
     {
@@ -316,7 +338,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-15",
-        "temperature": 61,
+        "temperature": 60,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Friday Night"
@@ -338,7 +360,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -360,7 +382,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -382,7 +404,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -404,7 +426,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-16",
-        "temperature": 86,
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "university-of-alabama-university-of-alabama-arboretum-spring-plant-sale-2026-2026-05-16-arboretum-pavilion",
+      "title": "University of Alabama Arboretum Spring Plant Sale 2026",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/university-of-alabama-arboretum-spring-plant-sale-2026",
+      "start": "2026-05-16T10:00:00-05:00",
+      "end": "2026-05-16T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Arboretum Pavilion",
+      "address": "4801 Arboretum Way, Tuscaloosa, AL 35404",
+      "description": "The University of Alabama Arboretum will host a Plant Sale on Saturday, May 16, 2026, from 10:00 a.m. to 4:00 p.m. at the Arboretum Pavilion, located at 4801 Arboretum Way, Tuscaloosa, AL 35404. Visitors may browse and purchase a variety o...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-16",
+        "temperature": 85,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -426,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-17",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Sunday"
       }
     },
@@ -472,7 +516,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 13,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +538,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 23,
         "periodName": "Tuesday Night"
       }
     },
@@ -511,7 +555,14 @@
       "address": "",
       "description": "Use Blackboard’s generative AI tool to help you design your Ultra course. Instructors can auto-generate the following: learning modules, assignment prompts, discussion prompts, journal prompts, test questions, question banks, grading rubri...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-20",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 39,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-patch-tpl-full-steam-ahead-2026-05-21-tuscaloosa-public-library",
@@ -720,6 +771,21 @@
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Suit up for action with Robert Downey Jr. in the ultimate adventure movie you’ve been waiting for, Iron Man! When jet-setting genius-industrialist Tony Stark is captured in enemy territory, he builds a high-tech suit of armor to escape. No...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-introducing-bumby-s-corner-a-children-s-story-time-hour-at-ernest-and-hadley-booksellers-2026-06-06-ern",
+      "title": "Introducing Bumby's Corner, a children's story time hour at Ernest and Hadley Booksellers",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260606/1521c856-d9c3-4d0d-8a58-af144d171b6d/introducing-bumbys-corner-a-children-s-story-time-hour-at-ernest-and-hadley-booksellers",
+      "start": "2026-06-06T10:00:00-05:00",
+      "end": "2026-06-06T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Ernest & Hadley Booksellers",
+      "address": "Ernest & Hadley Booksellers, 1928 7th St, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
       "isVirtual": false
     },
