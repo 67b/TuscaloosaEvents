@@ -30,8 +30,8 @@ This repository is an educational, community-focused event aggregator for the Tu
 ## Validation Checklist
 Before finishing, run the relevant checks (or explain why they could not be run):
 
-- `npm run validate-events`
-- `npm run build-events` (when pipeline/source logic changes)
+- `npm run validate`
+- `npm run fetch` (when pipeline/source logic changes)
 - `npm run preview` (for UI/content sanity checks)
 
 If UI behavior changed in a noticeable way, capture a screenshot.
