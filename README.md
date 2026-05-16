@@ -16,8 +16,8 @@ Tuscaloosa Events is an event aggregator for the Tuscaloosa area.  The site runs
 
 ## Features
 
-* Upcoming events: Shows upcoming events from multiple sources around Tuscaloosa and allows visitors to filter and search by date.
-* Date grouping & search: Events are grouped by date and can be searched or filtered.
+* Upcoming events: Shows upcoming events from multiple sources around Tuscaloosa.
+* Date grouping & search: Events are grouped by date and searchable by keyword.
 * Calendar export: Visitors can add an event to their device’s calendar by downloading an .ics file.
 * Source links: Each event retains a link back to the original source so you can confirm details before attending.
 
