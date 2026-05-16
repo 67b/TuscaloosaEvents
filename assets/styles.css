@@ -1,18 +1,18 @@
 :root {
   color-scheme: light;
-  --bg: #f7f3ea;
-  --panel: #fffdfa;
-  --ink: #242424;
-  --muted: #6a635a;
-  --line: #ded6c8;
-  --accent: #9b1c31;
-  --accent-dark: #741225;
-  --teal: #15736b;
-  --gold: #c58a22;
+  --bg: #e5e9e8;
+  --panel: #fbfaf8;
+  --ink: #242722;
+  --muted: #5b615d;
+  --line: #c4cdcb;
+  --accent: #6f755f;
+  --accent-dark: #4f5747;
+  --teal: #50615d;
+  --gold: #d3968c;
   --radius: 8px;
   --radius-control: 999px;
-  --shadow: 0 16px 40px rgba(36, 36, 36, 0.08);
-  --shadow-soft: 0 8px 22px rgba(36, 36, 36, 0.06);
+  --shadow: 0 16px 36px rgba(60, 68, 63, 0.1);
+  --shadow-soft: 0 8px 20px rgba(60, 68, 63, 0.07);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
@@ -58,7 +58,7 @@ a {
 
 .site-header {
   background:
-    linear-gradient(135deg, rgba(255, 253, 250, 0.94) 0%, rgba(247, 243, 234, 0.98) 54%, rgba(232, 243, 239, 0.92) 100%);
+    linear-gradient(135deg, #ded8d5 0%, #bec8c8 50%, #8c907c 100%);
   border-bottom: 1px solid var(--line);
 }
 
@@ -104,8 +104,8 @@ a {
 
 .github-link:hover {
   color: var(--accent);
-  background: white;
-  border-color: rgba(155, 28, 49, 0.2);
+  background: #fffdfb;
+  border-color: rgba(111, 117, 95, 0.28);
 }
 
 .github-link svg {
@@ -140,7 +140,7 @@ h1 {
   position: sticky;
   top: 0;
   z-index: 3;
-  background: rgba(247, 243, 234, 0.88);
+  background: rgba(229, 233, 232, 0.92);
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(14px);
 }
@@ -176,20 +176,20 @@ select {
 
 input:hover,
 select:hover {
-  background: white;
-  border-color: #d4c9b7;
+  background: #fffdfb;
+  border-color: #adb9b5;
 }
 
 input:focus,
 select:focus,
 button:focus-visible,
 a:focus-visible {
-  outline: 3px solid rgba(21, 115, 107, 0.28);
+  outline: 3px solid rgba(111, 117, 95, 0.28);
   outline-offset: 2px;
 }
 
 .status-band {
-  background: rgba(255, 253, 250, 0.42);
+  background: rgba(190, 200, 200, 0.28);
   border-bottom: 1px solid var(--line);
 }
 
@@ -246,8 +246,8 @@ a:focus-visible {
 }
 
 .event-card:hover {
-  border-color: #d2c7b6;
-  box-shadow: 0 18px 34px rgba(36, 36, 36, 0.1);
+  border-color: #adb9b5;
+  box-shadow: 0 18px 34px rgba(60, 68, 63, 0.12);
 }
 
 .event-card__top {
@@ -268,15 +268,15 @@ a:focus-visible {
   min-height: 1.55rem;
   padding: 0.28rem 0.6rem;
   border-radius: var(--radius-control);
-  background: #eef5f2;
-  color: #0e5c55;
+  background: #f0e3e0;
+  color: #6f443e;
   font-size: 0.76rem;
   font-weight: 750;
 }
 
 .pill--source {
-  background: #f7ead4;
-  color: #754812;
+  background: #e7e8df;
+  color: #4f5747;
 }
 
 .event-card h2 {
@@ -305,8 +305,8 @@ a:focus-visible {
   width: fit-content;
   padding: 0.48rem 0.7rem;
   border-radius: var(--radius);
-  background: #eef5f2;
-  color: #0e5c55;
+  background: #edf0ef;
+  color: #50615d;
   font-weight: 750;
 }
 
@@ -332,19 +332,24 @@ a:focus-visible {
 
 .button--primary {
   background: var(--accent);
-  color: white;
-  box-shadow: 0 10px 18px rgba(155, 28, 49, 0.18);
+  color: #fffdfb;
+  box-shadow: 0 10px 18px rgba(111, 117, 95, 0.2);
 }
 
 .button--primary:hover {
   background: var(--accent-dark);
-  box-shadow: 0 12px 22px rgba(116, 18, 37, 0.22);
+  box-shadow: 0 12px 22px rgba(79, 87, 71, 0.24);
 }
 
 .button--secondary {
-  background: rgba(238, 245, 242, 0.54);
+  background: #edf0ef;
   color: var(--teal);
-  border-color: rgba(21, 115, 107, 0.35);
+  border-color: rgba(111, 117, 95, 0.38);
+}
+
+.button--secondary:hover {
+  background: #e7e8df;
+  border-color: rgba(111, 117, 95, 0.55);
 }
 
 .button--secondary:hover {
