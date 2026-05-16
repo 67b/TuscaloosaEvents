@@ -48,6 +48,8 @@ Topics explored include:
 * APIs and automation
 * Markdown & modern web tooling
 
+For a practical map of these topics to real files and workflows in this repository, see [the Learning Goals Matrix](docs/LEARNING_GOALS_MATRIX.md).
+
 ## Project Philosophy
 
 This project is intentionally open, collaborative and educational. Think of it as a sandbox for learning, testing ideas, making mistakes, improving workflows and exploring how humans and AI can build software together. You’re encouraged to fork the repo, try new ideas and contribute improvements.
