@@ -352,6 +352,11 @@ a:focus-visible {
   border-color: rgba(111, 117, 95, 0.55);
 }
 
+.button--secondary:hover {
+  background: #eef5f2;
+  border-color: rgba(21, 115, 107, 0.52);
+}
+
 .empty-state {
   padding: 3.25rem 1rem;
   text-align: center;
