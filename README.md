@@ -34,6 +34,8 @@ Tuscaloosa Events is an event aggregator for the Tuscaloosa area.  The site runs
 * Automation: A GitHub Actions workflow runs daily (.github/workflows/refresh-events.yml). It commits data/events.json whenever events change and triggers a deployment to GitHub Pages.
 * Deployment: Every commit to the main branch deploys the repository root to GitHub Pages, ensuring the site stays up‑to‑date.
 
+For a visual walkthrough, see [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ## Learning Goals
 
 This repository isn’t just about building a list of events. It’s designed as a practical learning environment where you can experiment with and better understand tools and processes that power real‑world development.
