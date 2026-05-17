@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-16T20:09:43.557Z",
+  "updatedAt": "2026-05-17T12:05:47.104Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-16T20:09:43.557Z",
+  "weatherUpdatedAt": "2026-05-17T12:05:47.104Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,153 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "tuscaloosa-patch-live-music-jake-s-juke-joint-w-30-06-band-2026-05-15-jake-s-juke-joint",
-      "title": "Live Music @ Jake’s Juke Joint w/30-06 Band",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260515/091ff1a0-e564-4798-b470-4fc6b8d52215/live-music-jake-s-juke-joint-w-30-06-band",
-      "start": "2026-05-15T20:00:00-05:00",
-      "end": "2026-05-16T02:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Jake's Juke Joint",
-      "address": "Jake's Juke Joint, 5675 US-43, Northport",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-05-16-tuscaloosa-river-market",
-      "title": "Tuscaloosa Farmers Market",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
-      "start": "2026-05-16T07:00:00-05:00",
-      "end": "2026-05-16T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Every Saturday morning @ 7am! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that cannot be replicated, the Tuscaloosa Farmers Market has something for everyone! Support local fa...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-saturday-in-the-park-invasive-plants-2026-05-16-moundville-archaeological-park",
-      "title": "Saturday in the Park: Invasive Plants",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/saturday-in-the-park-invasive-plants",
-      "start": "2026-05-16T09:00:00-05:00",
-      "end": "2026-05-16T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "On Saturday, May 16, 2026, Dylan Taylor (Alabama Extension) will take Moundville Archaeological Park visitors on a guided hike focused on identifying invasive plants at Moundville. We’ll cover common species you’re likely seeing right now,...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-saturday-in-the-park-invasive-plants-2026-05-16-moundville-archaeological-park",
-      "title": "Saturday in the Park: Invasive Plants",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/saturday-in-the-park-invasive-plants/",
-      "start": "2026-05-16T09:00:00-05:00",
-      "end": "2026-05-16T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474",
-      "description": "On Saturday, May 16, 2026, Dylan Taylor (Alabama Extension) will take Moundville Archaeological Park visitors on a guided hike focused on identifying invasive plants at Moundville. We’ll cover common species you’re likely seeing right now,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-saturday-in-the-park-invasive-plants-2026-05-16-moundville-archaeological-park",
-      "title": "Saturday in the Park: Invasive Plants",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260516/2827605f-52bb-42cf-a083-008d97570ba1/saturday-in-the-park-invasive-plants",
-      "start": "2026-05-16T09:00:00-05:00",
-      "end": "2026-05-16T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-ua-arboretum-2026-spring-plant-sale-2026-05-16-university-of-alabama-arboretum-pavilion",
-      "title": "UA Arboretum 2026 Spring Plant Sale",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/ua-arboretum-2026-spring-plant-sale/",
-      "start": "2026-05-16T10:00:00-05:00",
-      "end": "2026-05-16T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Arboretum Pavilion",
-      "address": "",
-      "description": "The University of Alabama Arboretum will be holding a plant sale Saturday, May 16, 2026 from 10 AM – 4 PM. A variety of garden, indoor, and native plants will be sold. Sale will be held at the Arboretum Pavilion, 4801 Arboretum Way, Tuscal...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-university-of-alabama-arboretum-spring-plant-sale-2026-2026-05-16-arboretum-pavilion",
-      "title": "University of Alabama Arboretum Spring Plant Sale 2026",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/university-of-alabama-arboretum-spring-plant-sale-2026",
-      "start": "2026-05-16T10:00:00-05:00",
-      "end": "2026-05-16T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Arboretum Pavilion",
-      "address": "4801 Arboretum Way, Tuscaloosa, AL 35404",
-      "description": "The University of Alabama Arboretum will host a Plant Sale on Saturday, May 16, 2026, from 10:00 a.m. to 4:00 p.m. at the Arboretum Pavilion, located at 4801 Arboretum Way, Tuscaloosa, AL 35404. Visitors may browse and purchase a variety o...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-16",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
     {
       "id": "tuscaloosa-patch-peoples-loan-program-community-night-at-the-hotel-indigo-2026-05-17-the-lookout",
       "title": "Peoples' Loan Program Community Night at the Hotel Indigo",
@@ -180,7 +33,7 @@
         "temperature": 88,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Sunday"
+        "periodName": "Today"
       }
     },
     {
@@ -199,9 +52,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 89,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -221,9 +74,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 89,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -243,9 +96,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 89,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -267,7 +120,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -289,7 +142,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -311,7 +164,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -333,7 +186,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -355,7 +208,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -370,14 +223,14 @@
       "timeStatus": "confirmed",
       "venue": "Dinah Washington Cultural Arts Center",
       "address": "620 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Beginner friendly watercolor instruction including an 8×10 pre-drawn outline. Abi will lead the class in basic watercolor techniques, step by step instruction, and provide all materials. #### Map ### Saturday in the Park: Invasive Plants #...",
+      "description": "Beginner friendly watercolor instruction including an 8×10 pre-drawn outline. Abi will lead the class in basic watercolor techniques, step by step instruction, and provide all materials. #### Map ### Watercolor Hummingbirds and Flowers wit...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-19",
         "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 18,
         "periodName": "Tuesday Night"
       }
     },
@@ -399,7 +252,7 @@
         "forecastDate": "2026-05-20",
         "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 40,
         "periodName": "Wednesday"
       }
     },
@@ -421,7 +274,7 @@
         "forecastDate": "2026-05-20",
         "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 40,
         "periodName": "Wednesday"
       }
     },
@@ -443,8 +296,30 @@
         "forecastDate": "2026-05-20",
         "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 40,
         "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-professional-identity-how-we-show-up-at-work-2026-05-21-employee-resource-center",
+      "title": "Professional Identity: How We Show Up at Work",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/professional-identity-how-we-show-up-at-work-4319",
+      "start": "2026-05-21T08:30:00-05:00",
+      "end": "2026-05-21T10:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "This interactive professional development session explores how professional identity is shaped by appearance, communication, and everyday workplace behaviors. Participants will gain clarity around workplace expectations, learn how to take...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-21",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 50,
+        "periodName": "Thursday"
       }
     },
     {
@@ -463,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 64,
+        "precipitationChance": 60,
         "periodName": "Friday"
       }
     },
@@ -485,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 64,
+        "precipitationChance": 60,
         "periodName": "Friday"
       }
     },
@@ -507,10 +382,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 67,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 64,
+        "precipitationChance": 60,
         "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-05-23-tuscaloosa-river-market",
+      "title": "Tuscaloosa Farmers Market",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
+      "start": "2026-05-23T07:00:00-05:00",
+      "end": "2026-05-23T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Every Saturday morning @ 7am! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that cannot be replicated, the Tuscaloosa Farmers Market has something for everyone! Support local fa...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-23",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 68,
+        "periodName": "Saturday"
       }
     },
     {
@@ -526,7 +423,14 @@
       "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
       "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-23",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 68,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "university-of-alabama-memorial-day-ua-closed-2026-05-25",
@@ -796,6 +700,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "38 Special and Kansas with Brother Cane Show Time: 6:00 PM Gate Time: 5:00 PM Get Tickets Classic rock legends 38 Special and Kansas, with Brother Cane, will bring decades of iconic hits to the Mercedes-Benz Amphitheater in Tuscaloosa on S...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-bring-it-on-2000-2026-06-16-the-historic-bama-theatre",
+      "title": "Bring It On (2000)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/bring-it-on-2000/",
+      "start": "2026-06-16T19:00:00-05:00",
+      "end": "2026-06-17T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "A cheerleading-squad captain faces stiff competition from an inner-city squad, plus she must train a new team member and replace routines her former captain stole from other squads Runtime: 99 minutes Rating: PG-13 Starring: Kirsten Dunst,...",
+      "category": "Community",
       "isVirtual": false
     },
     {
