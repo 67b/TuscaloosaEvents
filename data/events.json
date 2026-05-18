@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-17T12:05:47.104Z",
+  "updatedAt": "2026-05-18T14:38:40.428Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-17T12:05:47.104Z",
+  "weatherUpdatedAt": "2026-05-18T14:38:40.428Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,28 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "tuscaloosa-patch-peoples-loan-program-community-night-at-the-hotel-indigo-2026-05-17-the-lookout",
-      "title": "Peoples' Loan Program Community Night at the Hotel Indigo",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260517/4e331110-975c-41aa-8d02-cc5ecec68672/peoples-loan-program-community-night-at-the-hotel-indigo",
-      "start": "2026-05-17T05:00:00-05:00",
-      "end": "2026-05-17T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Lookout",
-      "address": "The Lookout, 111 Greensboro Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-18-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -52,10 +30,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -74,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -96,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Monday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -120,7 +98,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 7,
         "periodName": "Tuesday"
       }
     },
@@ -142,7 +120,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 7,
         "periodName": "Tuesday"
       }
     },
@@ -164,7 +142,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 7,
         "periodName": "Tuesday"
       }
     },
@@ -186,7 +164,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 7,
         "periodName": "Tuesday"
       }
     },
@@ -208,7 +186,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 7,
         "periodName": "Tuesday"
       }
     },
@@ -230,7 +208,7 @@
         "forecastDate": "2026-05-19",
         "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 32,
         "periodName": "Tuesday Night"
       }
     },
@@ -250,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-20",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 40,
+        "precipitationChance": 51,
         "periodName": "Wednesday"
       }
     },
@@ -272,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-20",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 40,
+        "precipitationChance": 51,
         "periodName": "Wednesday"
       }
     },
@@ -294,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-20",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 40,
+        "precipitationChance": 51,
         "periodName": "Wednesday"
       }
     },
@@ -318,7 +296,7 @@
         "forecastDate": "2026-05-21",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
+        "precipitationChance": 57,
         "periodName": "Thursday"
       }
     },
@@ -406,7 +384,7 @@
         "forecastDate": "2026-05-23",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 71,
         "periodName": "Saturday"
       }
     },
@@ -428,7 +406,7 @@
         "forecastDate": "2026-05-23",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 71,
         "periodName": "Saturday"
       }
     },
