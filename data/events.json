@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-18T14:38:40.428Z",
+  "updatedAt": "2026-05-19T14:06:23.862Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-18T14:38:40.428Z",
+  "weatherUpdatedAt": "2026-05-19T14:06:23.862Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-18-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-19-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-18T00:00:00-05:00",
-      "end": "2026-05-18T00:00:00-05:00",
+      "start": "2026-05-19T00:00:00-05:00",
+      "end": "2026-05-19T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,20 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-18",
-        "temperature": 89,
+        "forecastDate": "2026-05-19",
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 3,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-18-catherine-and-pettus-randall-wel",
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-19-catherine-and-pettus-randall-wel",
       "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-18T08:00:00-05:00",
-      "end": "2026-05-18T17:00:00-05:00",
+      "start": "2026-05-19T08:00:00-05:00",
+      "end": "2026-05-19T17:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Catherine and Pettus Randall Welcome Center",
@@ -51,32 +51,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-18",
-        "temperature": 89,
+        "forecastDate": "2026-05-19",
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-modernize-your-course-materials-with-documents-in-blackboard-2026-05-18",
-      "title": "Modernize Your Course Materials with Documents in Blackboard",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/panopto-edit-like-a-pro",
-      "start": "2026-05-18T10:30:00-05:00",
-      "end": "2026-05-18T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Discover how to efficiently create, organize, and share course materials using Documents in Blackboard Ultra. Learn best practices for building engaging content that streamlines the student experience and enhances your course delivery. Tue...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-18",
-        "temperature": 89,
-        "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 3,
         "periodName": "Today"
       }
     },
@@ -98,8 +76,8 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tuesday"
+        "precipitationChance": 3,
+        "periodName": "Today"
       }
     },
     {
@@ -120,8 +98,8 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tuesday"
+        "precipitationChance": 3,
+        "periodName": "Today"
       }
     },
     {
@@ -142,8 +120,8 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tuesday"
+        "precipitationChance": 3,
+        "periodName": "Today"
       }
     },
     {
@@ -164,8 +142,8 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tuesday"
+        "precipitationChance": 3,
+        "periodName": "Today"
       }
     },
     {
@@ -186,8 +164,8 @@
         "forecastDate": "2026-05-19",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tuesday"
+        "precipitationChance": 3,
+        "periodName": "Today"
       }
     },
     {
@@ -206,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-19",
-        "temperature": 69,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 17,
+        "periodName": "Tonight"
       }
     },
     {
@@ -230,7 +208,7 @@
         "forecastDate": "2026-05-20",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 35,
         "periodName": "Wednesday"
       }
     },
@@ -252,7 +230,7 @@
         "forecastDate": "2026-05-20",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 35,
         "periodName": "Wednesday"
       }
     },
@@ -274,7 +252,7 @@
         "forecastDate": "2026-05-20",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 35,
         "periodName": "Wednesday"
       }
     },
@@ -296,7 +274,29 @@
         "forecastDate": "2026-05-21",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 41,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-mid-morning-walking-break-2026-05-21-gorgas-library",
+      "title": "Mid-Morning Walking Break",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
+      "start": "2026-05-21T10:00:00-05:00",
+      "end": "2026-05-21T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas Library",
+      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
+      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-21",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 41,
         "periodName": "Thursday"
       }
     },
@@ -316,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 54,
         "periodName": "Friday"
       }
     },
@@ -338,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 54,
         "periodName": "Friday"
       }
     },
@@ -360,9 +360,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 68,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 67,
+        "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-the-mojo-live-at-the-plaza-friday-may-22nd-downtown-tuscaloosa-2026-05-22-618-almon-ave",
+      "title": "THE MOJO- LIVE AT THE PLAZA- FRIDAY-MAY 22nd- Downtown Tuscaloosa",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260522/33e2a4b2-a060-47fe-9061-13e9ed19e065/the-mojo-live-at-the-plaza-friday-may-22nd-downtown-tuscaloosa",
+      "start": "2026-05-22T18:00:00-05:00",
+      "end": "2026-05-23T00:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "618 Almon Ave",
+      "address": "618 Almon Ave, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-22",
+        "temperature": 69,
+        "temperatureUnit": "F",
+        "precipitationChance": 67,
         "periodName": "Friday Night"
       }
     },
@@ -382,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-23",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 81,
         "periodName": "Saturday"
       }
     },
@@ -404,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-23",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 81,
         "periodName": "Saturday"
       }
     },
@@ -423,7 +445,14 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-25",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 54,
+        "periodName": "Memorial Day"
+      }
     },
     {
       "id": "university-of-alabama-classes-begin-for-full-term-and-summer-1-2026-05-26",
@@ -513,6 +542,21 @@
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Two kids discover an old board game and when they start playing it they are greeted by a man who has spent years trapped inside the game since playing it at age 12. His only hope for freedom involves finishing the dangerous game. Runtime:...",
       "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-alabama-opioid-prevention-summit-birmingham-2026-06-03-hyatt-regency-birmingham-wynfrey-hotel",
+      "title": "Alabama Opioid Prevention Summit - Birmingham",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/alabama-opioid-prevention-summit-birmingham",
+      "start": "2026-06-03T08:30:00-05:00",
+      "end": "2026-06-03T16:14:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Hyatt Regency Birmingham - Wynfrey Hotel",
+      "address": "1000 Galleria Cir, Hoover, AL",
+      "description": "The First Annual Alabama Opioid Prevention Summit, presented by VitAL and the Alabama Department of Mental Health, brings together prevention professionals, health care providers, community leaders and policymakers committed to addressing...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -692,6 +736,21 @@
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "A cheerleading-squad captain faces stiff competition from an inner-city squad, plus she must train a new team member and replace routines her former captain stole from other squads Runtime: 99 minutes Rating: PG-13 Starring: Kirsten Dunst,...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-restaurant-week-2026-06-18",
+      "title": "Tuscaloosa Restaurant Week",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-restaurant-week/",
+      "start": "2026-06-18T00:00:00-05:00",
+      "end": "2026-06-19T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "",
+      "address": "",
+      "description": "From renowned BBQ joints and world-class chefs to beloved diners and an authentic array of international cuisine, Tuscaloosa is a true haven for food enthusiasts. Participating restaurants offer exclusive menu items and special discounts o...",
       "category": "Community",
       "isVirtual": false
     },
