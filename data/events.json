@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-19T14:06:23.862Z",
+  "updatedAt": "2026-05-20T13:46:29.172Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-19T14:06:23.862Z",
+  "weatherUpdatedAt": "2026-05-20T13:46:29.172Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-19-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-20-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-19T00:00:00-05:00",
-      "end": "2026-05-19T00:00:00-05:00",
+      "start": "2026-05-20T00:00:00-05:00",
+      "end": "2026-05-20T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,20 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
+        "forecastDate": "2026-05-20",
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 22,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-19-catherine-and-pettus-randall-wel",
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-20-catherine-and-pettus-randall-wel",
       "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-19T08:00:00-05:00",
-      "end": "2026-05-19T17:00:00-05:00",
+      "start": "2026-05-20T08:00:00-05:00",
+      "end": "2026-05-20T17:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Catherine and Pettus Randall Welcome Center",
@@ -51,143 +51,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
+        "forecastDate": "2026-05-20",
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 22,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-necessary-knowledge-and-successful-conflict-conversations-for-employees-2026-05-19-employee-resour",
-      "title": "Necessary Knowledge and Successful Conflict Conversations for Employees",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/necessary-knowledge-and-successful-conflict-conversations-for-employees-3784",
-      "start": "2026-05-19T08:30:00-05:00",
-      "end": "2026-05-19T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "ATTENTION Registration is required five (5) days before the session date. This course is delivered on-site in the Employee Resource Center. Behavioral Expectations Supported: Effective Communication, Continuous Improvement, Collaboration h...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-project-management-certificate-program-advanced-project-management-with-simulation-2026-05-19",
-      "title": "Project Management Certificate Program - Advanced Project Management with Simulation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-advanced-project-management-with-simulation-3039",
-      "start": "2026-05-19T08:30:00-05:00",
-      "end": "2026-05-19T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The three-day Advanced Project Management workshop includes an online interactive project simulation to test knowledge and performance. Learn by making actual project decisions. This workshop picks up where other traditional project manage...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-05-19-rose-administration-building",
-      "title": "UA faculty/staff headshots",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
-      "start": "2026-05-19T08:30:00-05:00",
-      "end": "2026-05-19T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rose Administration Building",
-      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
-      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-greater-birmingham-chapter-olli-summer-showcase-2026-05-19-riverchase-united-methodist-church",
-      "title": "Greater Birmingham Chapter OLLI Summer Showcase",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/greater-birmingham-chapter-olli-summer-showcase-5086",
-      "start": "2026-05-19T13:00:00-05:00",
-      "end": "2026-05-19T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Riverchase United Methodist Church",
-      "address": "953 Old Montgomery Hwy, Birmingham, AL 35244",
-      "description": "Join us to learn about what lifelong learning opportunities are available for the Summer 2026 session at OLLI of Greater Birmingham. Enjoy light refreshments while you explore our exciting offerings including: Benefits of OLLI Membership a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-entrepreneur-resource-groups-monthly-meeting-2026-05-19-edge",
-      "title": "Entrepreneur Resource Groups - Monthly Meeting",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/entrepreneur-resource-groups-monthly-meeting-7846",
-      "start": "2026-05-19T17:00:00-05:00",
-      "end": "2026-05-19T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "EDGE",
-      "address": "2627 10TH AVENUE, TUSCALOOSA, AL 35401",
-      "description": "If you are interested in bringing resources together to help build and grow businesses within our community, then join us for our monthly Entrepreneur Resource Groups (ERGs) meeting! Connect and network with likeminded individuals.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-watercolor-hummingbirds-and-flowers-with-abi-brewer-2026-05-19-dinah-washington-cultural-arts-center",
-      "title": "Watercolor Hummingbirds and Flowers with Abi Brewer",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/watercolor-hummingbirds-and-flowers-with-abi-brewer/",
-      "start": "2026-05-19T18:00:00-05:00",
-      "end": "2026-05-20T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Dinah Washington Cultural Arts Center",
-      "address": "620 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Beginner friendly watercolor instruction including an 8×10 pre-drawn outline. Abi will lead the class in basic watercolor techniques, step by step instruction, and provide all materials. #### Map ### Watercolor Hummingbirds and Flowers wit...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-19",
-        "temperature": 71,
-        "temperatureUnit": "F",
-        "precipitationChance": 17,
-        "periodName": "Tonight"
       }
     },
     {
@@ -208,8 +76,30 @@
         "forecastDate": "2026-05-20",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 35,
-        "periodName": "Wednesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-project-management-certificate-program-advanced-project-management-with-simulation-2026-05-20",
+      "title": "Project Management Certificate Program - Advanced Project Management with Simulation",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-advanced-project-management-with-simulation-3039",
+      "start": "2026-05-20T08:30:00-05:00",
+      "end": "2026-05-20T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The three-day Advanced Project Management workshop includes an online interactive project simulation to test knowledge and performance. Learn by making actual project decisions. This workshop picks up where other traditional project manage...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-20",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -230,8 +120,8 @@
         "forecastDate": "2026-05-20",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 35,
-        "periodName": "Wednesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -252,8 +142,8 @@
         "forecastDate": "2026-05-20",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 35,
-        "periodName": "Wednesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -272,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-21",
-        "temperature": 87,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 58,
         "periodName": "Thursday"
       }
     },
@@ -294,9 +184,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-21",
-        "temperature": 87,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 58,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-adobe-portfolio-2026-05-21-gordon-palmer-hall",
+      "title": "Adobe Portfolio",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/adobe-portfolio",
+      "start": "2026-05-21T14:00:00-05:00",
+      "end": "2026-05-21T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "Discover how to showcase your academic or professional work using Adobe Portfolio, a powerful tool included in Adobe Creative Cloud. This session will guide you through building a personalized website with minimal effort—perfect for studen...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-21",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 58,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-problem-solving-2026-05-21-employee-resource-center",
+      "title": "Problem - Solving",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/problem-solving",
+      "start": "2026-05-21T15:30:00-05:00",
+      "end": "2026-05-21T16:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "This course presents ideas on how to improve through problem-solving, expanding your horizons of problem-solving beyond tools and methods. Topics included: The problem statement, cause and effect, integrating intuition, ideating and select...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-21",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 58,
         "periodName": "Thursday"
       }
     },
@@ -316,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 87,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 54,
+        "precipitationChance": 91,
         "periodName": "Friday"
       }
     },
@@ -338,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 87,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 54,
+        "precipitationChance": 91,
         "periodName": "Friday"
       }
     },
@@ -362,7 +296,7 @@
         "forecastDate": "2026-05-22",
         "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 91,
         "periodName": "Friday Night"
       }
     },
@@ -384,7 +318,7 @@
         "forecastDate": "2026-05-22",
         "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 91,
         "periodName": "Friday Night"
       }
     },
@@ -406,7 +340,7 @@
         "forecastDate": "2026-05-23",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 88,
         "periodName": "Saturday"
       }
     },
@@ -428,7 +362,7 @@
         "forecastDate": "2026-05-23",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 88,
         "periodName": "Saturday"
       }
     },
@@ -448,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-25",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 54,
+        "precipitationChance": 71,
         "periodName": "Memorial Day"
       }
     },
@@ -467,7 +401,14 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-26",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 54,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "university-of-alabama-successfully-navigating-perimenopause-2026-05-26",
@@ -482,7 +423,14 @@
       "address": "",
       "description": "Discover practical tips, nutritional guidance, and strategies to confidently navigate the physical and emotional changes of perimenopause. Register through your WellBAMA portal.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-26",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 54,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "university-of-alabama-last-day-to-add-a-course-or-drop-a-course-without-a-grade-of-w-for-summer-full-term-2026-05-29",
@@ -680,6 +628,21 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-patch-the-community-summit-2026-06-12-hotel-capstone",
+      "title": "The Community Summit",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260612/877f8858-0462-4082-ada7-58db52a9036b/the-community-summit",
+      "start": "2026-06-12T08:00:00-05:00",
+      "end": "2026-06-12T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Hotel Capstone",
+      "address": "Hotel Capstone, 320 Paul W Bryant Dr, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "mercedes-benz-amphitheater-alabama-shakes-2026-06-12-mercedes-benz-amphitheater",
       "title": "Alabama Shakes",
       "source": "Mercedes-Benz Amphitheater",
@@ -767,6 +730,21 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-captain-america-the-winter-soldier-2014-2026-06-19-the-historic-bama-theatre",
+      "title": "Captain America: The Winter Soldier (2014)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/captain-america-the-winter-soldier-2014/",
+      "start": "2026-06-19T19:30:00-05:00",
+      "end": "2026-06-20T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Captain America teams with Black Widow and the Falcon to fight the villainous Winter Soldier. Meanwhile, S.H.I.E.L.D. comes under attack, and a malevolent conspiracy threatens to destabilize the entire planet. Runtime: 136 minutes Rating:...",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -1035,7 +1013,7 @@
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Breaking Benjamin with support from Chevelle, Starset and Kami Kehoe Show Time: 7:00 PM Gates: 5:00 PM Get Tickets Multi-platinum rock powerhouse Breaking Benjamin announced their massive 2026 North American tour with support from Chevelle...",
+      "description": "Breaking Benjamin with support from Chevelle, Starset and Kami Kehoe Show Time: 6:00 PM Gates: 5:00 PM Get Tickets Multi-platinum rock powerhouse Breaking Benjamin announced their massive 2026 North American tour with support from Chevelle...",
       "category": "Music",
       "isVirtual": false
     }
