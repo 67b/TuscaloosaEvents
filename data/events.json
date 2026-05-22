@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-21T14:17:56.078Z",
+  "updatedAt": "2026-05-22T13:37:39.045Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-21T14:17:56.078Z",
+  "weatherUpdatedAt": "2026-05-22T13:37:39.044Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-21-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-22-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-21T00:00:00-05:00",
-      "end": "2026-05-21T00:00:00-05:00",
+      "start": "2026-05-22T00:00:00-05:00",
+      "end": "2026-05-22T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,164 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
+        "forecastDate": "2026-05-22",
+        "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-21-catherine-and-pettus-randall-wel",
-      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-21T08:00:00-05:00",
-      "end": "2026-05-21T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Catherine and Pettus Randall Welcome Center",
-      "address": "",
-      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-maintenance-planning-and-scheduling-maintenance-management-certificate-program-2026-05-21",
-      "title": "Maintenance Planning and Scheduling – Maintenance Management Certificate Program",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/maintenance-planning-and-scheduling-maintenance-management-certificate-program",
-      "start": "2026-05-21T08:30:00-05:00",
-      "end": "2026-05-21T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The mission and strategy created for the maintenance organization depends on effective planning and scheduling. This session provides the necessary knowledge and understanding needed to effectively manage the planning and scheduling proces...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-professional-identity-how-we-show-up-at-work-2026-05-21-employee-resource-center",
-      "title": "Professional Identity: How We Show Up at Work",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/professional-identity-how-we-show-up-at-work-4319",
-      "start": "2026-05-21T08:30:00-05:00",
-      "end": "2026-05-21T10:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "This interactive professional development session explores how professional identity is shaped by appearance, communication, and everyday workplace behaviors. Participants will gain clarity around workplace expectations, learn how to take...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-project-management-certificate-program-advanced-project-management-with-simulation-2026-05-21",
-      "title": "Project Management Certificate Program - Advanced Project Management with Simulation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-advanced-project-management-with-simulation-3039",
-      "start": "2026-05-21T08:30:00-05:00",
-      "end": "2026-05-21T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The three-day Advanced Project Management workshop includes an online interactive project simulation to test knowledge and performance. Learn by making actual project decisions. This workshop picks up where other traditional project manage...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-mid-morning-walking-break-2026-05-21-gorgas-library",
-      "title": "Mid-Morning Walking Break",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
-      "start": "2026-05-21T10:00:00-05:00",
-      "end": "2026-05-21T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-adobe-portfolio-2026-05-21-gordon-palmer-hall",
-      "title": "Adobe Portfolio",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/adobe-portfolio",
-      "start": "2026-05-21T14:00:00-05:00",
-      "end": "2026-05-21T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gordon Palmer Hall",
-      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "Discover how to showcase your academic or professional work using Adobe Portfolio, a powerful tool included in Adobe Creative Cloud. This session will guide you through building a personalized website with minimal effort—perfect for studen...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-problem-solving-2026-05-21-employee-resource-center",
-      "title": "Problem - Solving",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/problem-solving",
-      "start": "2026-05-21T15:30:00-05:00",
-      "end": "2026-05-21T16:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "This course presents ideas on how to improve through problem-solving, expanding your horizons of problem-solving beyond tools and methods. Topics included: The problem statement, cause and effect, integrating intuition, ideating and select...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-21",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 95,
         "periodName": "Today"
       }
     },
@@ -206,10 +52,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 81,
+        "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 90,
-        "periodName": "Friday"
+        "precipitationChance": 95,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-22-catherine-and-pettus-randall-wel",
+      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
+      "start": "2026-05-22T08:00:00-05:00",
+      "end": "2026-05-22T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Catherine and Pettus Randall Welcome Center",
+      "address": "",
+      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-22",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 95,
+        "periodName": "Today"
       }
     },
     {
@@ -228,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 81,
+        "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 90,
-        "periodName": "Friday"
+        "precipitationChance": 95,
+        "periodName": "Today"
       }
     },
     {
@@ -250,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 68,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 86,
-        "periodName": "Friday Night"
+        "precipitationChance": 68,
+        "periodName": "Tonight"
       }
     },
     {
@@ -272,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-22",
-        "temperature": 68,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 86,
-        "periodName": "Friday Night"
+        "precipitationChance": 68,
+        "periodName": "Tonight"
       }
     },
     {
@@ -294,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-23",
-        "temperature": 85,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 86,
+        "precipitationChance": 84,
         "periodName": "Saturday"
       }
     },
@@ -316,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-23",
-        "temperature": 85,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 86,
+        "precipitationChance": 84,
         "periodName": "Saturday"
       }
     },
@@ -338,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-24",
-        "temperature": 84,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 90,
+        "precipitationChance": 92,
         "periodName": "Sunday"
       }
     },
@@ -360,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-25",
-        "temperature": 84,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 87,
+        "precipitationChance": 90,
         "periodName": "Memorial Day"
       }
     },
@@ -382,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-26",
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 86,
         "periodName": "Tuesday"
       }
     },
@@ -404,10 +272,142 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-26",
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 86,
         "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-budgeting-cgat-course-2026-05-27-bryant-conference-center",
+      "title": "Budgeting - CGAT Course",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/budgeting-cgat-course-962",
+      "start": "2026-05-27T09:00:00-05:00",
+      "end": "2026-05-27T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "The CGAT program, sponsored by the Government Finance Officers Association of Alabama, is a series of courses intended to improve the professional and fiscal skills of attendees. This training is not exclusive to GFOAA members. Budgeting i...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 69,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-using-technology-to-increase-student-engagement-2026-05-27-gordon-palmer-hall",
+      "title": "Using Technology to Increase Student Engagement",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/using-technology-to-increase-student-engagement",
+      "start": "2026-05-27T10:30:00-05:00",
+      "end": "2026-05-27T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 69,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-blackboard-course-accessible-with-ally-2026-05-27",
+      "title": "Make Your Blackboard Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-blackboard-course-accessible-with-ally-7298",
+      "start": "2026-05-27T14:00:00-05:00",
+      "end": "2026-05-27T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 69,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-root-cause-analysis-2026-05-27-employee-resource-center",
+      "title": "Root Cause Analysis",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/root-cause-analysis",
+      "start": "2026-05-27T15:30:00-05:00",
+      "end": "2026-05-27T16:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "This course introduces the concept of root cause analysis (RCA) as a method of identifying the causes of a problem or issue. Presents how to identify factors and breakdowns in the processes or systems that contributed to the problem and de...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 69,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-grounded-at-moundville-2026-05-28-moundville-archaeological-park",
+      "title": "Grounded at Moundville",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/grounded-at-moundville",
+      "start": "2026-05-28T09:00:00-05:00",
+      "end": "2026-05-28T10:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Start your day with a refreshing movement and stretch on the Moundville lawn! This all-levels outdoor class, led by a local instructor, blends gentle movement with nature. The class features a blend of gentle flow pilates. Bring a yoga mat...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-28",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 62,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-everyvoice-book-club-2026-05-28-legends-bistro-at-hotel-capstone",
+      "title": "EveryVoice Book Club",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/everyvoice-book-club-5533",
+      "start": "2026-05-28T12:00:00-05:00",
+      "end": "2026-05-28T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Legends Bistro at Hotel Capstone",
+      "address": "",
+      "description": "EveryVoice Book Club is open to faculty, staff, community members, and graduate students. The group meets monthly to discuss books related to interpersonal violence. You can join the book club by emailing our Program Coordinator, Elizabeth...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-28",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 62,
+        "periodName": "Thursday"
       }
     },
     {
@@ -447,6 +447,51 @@
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260601/3c08f88d-5aeb-4c09-81b7-fd832019badd/cretaceous-critters",
       "start": "2026-06-01T10:00:00-05:00",
       "end": "2026-06-01T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-dig-deep-make-a-delicious-dirt-cup-2026-06-01-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "Dig Deep! Make a delicious Dirt Cup",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260601/74e28e15-d1ca-4667-94e8-175199104141/dig-deep-make-a-delicious-dirt-cup",
+      "start": "2026-06-01T13:00:00-05:00",
+      "end": "2026-06-01T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-miss-calliope-2026-06-01-northport-city-hall",
+      "title": "TPL Presents: Miss. Calliope",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260601/69a9b2e3-e8ba-4fd2-ab4b-1d4c793cb3fe/tpl-presents-miss-calliope",
+      "start": "2026-06-01T14:00:00-05:00",
+      "end": "2026-06-01T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Northport City Hall",
+      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-miss-calliope-2026-06-02-tuscaloosa-public-library",
+      "title": "TPL Presents: Miss Calliope",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260602/a0fe1047-ed53-43ab-b942-21f92fbde882/tpl-presents-miss-calliope",
+      "start": "2026-06-02T14:00:00-05:00",
+      "end": "2026-06-02T20:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -498,6 +543,36 @@
       "address": "1000 Galleria Cir, Hoover, AL",
       "description": "The First Annual Alabama Opioid Prevention Summit, presented by VitAL and the Alabama Department of Mental Health, brings together prevention professionals, health care providers, community leaders and policymakers committed to addressing...",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dynamic-education-2026-06-03-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "TPL Presents: Dynamic Education",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260603/24deb519-f0af-4050-9ece-5585bb9ab1aa/tpl-presents-dynamic-education",
+      "start": "2026-06-03T14:30:00-05:00",
+      "end": "2026-06-03T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-03-tuscaloosa-public-library",
+      "title": "Jurassic Juniors",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260603/37319374-3fb1-4a90-9360-463a59b553a1/jurassic-juniors",
+      "start": "2026-06-03T16:00:00-05:00",
+      "end": "2026-06-03T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -606,6 +681,36 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-patch-dig-deep-excavation-station-2026-06-08-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "Dig Deep! Excavation Station",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260608/8498e78d-3391-4423-9619-f20a3ac3d805/dig-deep-excavation-station",
+      "start": "2026-06-08T13:00:00-05:00",
+      "end": "2026-06-08T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dynamic-education-2026-06-08-northport-city-hall",
+      "title": "TPL Presents: Dynamic Education",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260608/b05fd6e1-fe55-4a05-a834-5a62268e7508/tpl-presents-dynamic-education",
+      "start": "2026-06-08T14:00:00-05:00",
+      "end": "2026-06-08T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Northport City Hall",
+      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-ferris-bueller-s-day-off-1986-2026-06-09-the-historic-bama-theatre",
       "title": "Ferris Bueller’s Day Off (1986)",
       "source": "Visit Tuscaloosa",
@@ -661,6 +766,36 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-10-tuscaloosa-public-library",
+      "title": "Jurassic Juniors",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260610/2b17ba1a-448a-46ce-8407-47cdb445de2a/jurassic-juniors",
+      "start": "2026-06-10T16:00:00-05:00",
+      "end": "2026-06-10T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-dinostomp-storytime-2026-06-11-tuscaloosa-public-library",
+      "title": "DinoSTOMP Storytime",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260611/88351b04-9277-4170-8612-221bc55d0d69/dinostomp-storytime",
+      "start": "2026-06-11T10:00:00-05:00",
+      "end": "2026-06-11T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
       "isVirtual": false
@@ -756,6 +891,21 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-patch-found-and-framed-the-art-of-junk-journaling-2026-06-16-tuscaloosa-public-library",
+      "title": "Found and Framed: The Art of Junk Journaling",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260616/636f62a8-f3b3-4f7a-8de4-70de36221968/found-and-framed-the-art-of-junk-journaling",
+      "start": "2026-06-16T17:30:00-05:00",
+      "end": "2026-06-16T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-bring-it-on-2000-2026-06-16-the-historic-bama-theatre",
       "title": "Bring It On (2000)",
       "source": "Visit Tuscaloosa",
@@ -767,6 +917,21 @@
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "A cheerleading-squad captain faces stiff competition from an inner-city squad, plus she must train a new team member and replace routines her former captain stole from other squads Runtime: 99 minutes Rating: PG-13 Starring: Kirsten Dunst,...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-17-tuscaloosa-public-library",
+      "title": "Jurassic Juniors",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/50652d35-db32-4227-a568-f64aa17e0330/jurassic-juniors",
+      "start": "2026-06-17T16:00:00-05:00",
+      "end": "2026-06-17T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
       "isVirtual": false
     },
@@ -816,36 +981,6 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-cretaceous-critters-2026-06-22-tuscaloosa-public-library",
-      "title": "Cretaceous Critters",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260622/780f744e-c360-46b1-894a-84567066207b/cretaceous-critters",
-      "start": "2026-06-22T10:00:00-05:00",
-      "end": "2026-06-22T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-22-northport-city-hall",
-      "title": "TPL Presents: Dennis Regling Wonder Shows",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260622/3385edad-d0e3-4487-adb4-5a10d0bcd269/tpl-presents-dennis-regling-wonder-shows",
-      "start": "2026-06-22T14:00:00-05:00",
-      "end": "2026-06-22T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Northport City Hall",
-      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
       "id": "university-of-alabama-self-defense-basics-2026-06-23-gorgas-library",
       "title": "Self-Defense Basics",
       "source": "University of Alabama",
@@ -861,21 +996,6 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-23-tuscaloosa-public-library",
-      "title": "TPL Presents: Dennis Regling Wonder Shows",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260623/8c6ec177-bd0d-4a30-acd2-7220f6ea54c6/tpl-presents-dennis-regling-wonder-shows",
-      "start": "2026-06-23T14:00:00-05:00",
-      "end": "2026-06-23T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
       "id": "university-of-alabama-classes-end-for-summer-1-2026-06-24",
       "title": "Classes End for Summer 1",
       "source": "University of Alabama",
@@ -888,51 +1008,6 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library",
-      "title": "TPL Presents: Dennis Regling Wonder Shows",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/74a62cb4-1d3d-4f18-ad71-6189a46fb2da/tpl-presents-dennis-regling-wonder-shows",
-      "start": "2026-06-24T10:00:00-05:00",
-      "end": "2026-06-24T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "TPL Presents: Dennis Regling Wonder Shows",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/e5e73eb1-e9f6-4014-bee7-b5f6441ad64a/tpl-presents-dennis-regling-wonder-shows",
-      "start": "2026-06-24T14:30:00-05:00",
-      "end": "2026-06-24T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-dig-deep-ceramic-dinosaur-steps-2026-06-29-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "Dig Deep! Ceramic Dinosaur Steps",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260629/a97c54b3-5221-4d87-9cd4-07f1db41ec58/dig-deep-ceramic-dinosaur-steps",
-      "start": "2026-06-29T13:00:00-05:00",
-      "end": "2026-06-29T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
       "isVirtual": false
     },
     {
@@ -963,21 +1038,6 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-university-of-alabama-summer-reading-clinic-2026-07-06-the-university-of-alabama",
-      "title": "University of Alabama Summer Reading Clinic",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260706/1723fb92-c073-4fb5-afd0-7974db814ee7/university-of-alabama-summer-reading-clinic",
-      "start": "2026-07-06T15:45:00-05:00",
-      "end": "2026-07-06T21:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama",
-      "address": "The University of Alabama, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
       "isVirtual": false
     },
     {
@@ -1071,36 +1131,6 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-sean-of-the-south-live-2026-08-01-the-historic-bama-theatre",
-      "title": "Sean of the South: LIVE!",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260801/bbc46cab-7210-484e-a385-3b924d0a2e40/sean-of-the-south-live",
-      "start": "2026-08-01T18:30:00-05:00",
-      "end": "2026-08-02T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "The Historic Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-back-n-black-the-ultimate-powered-up-ac-dc-experience-2026-08-22-the-historic-bama-theatre",
-      "title": "Back n Black: The Ultimate Powered Up AC/DC Experience",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260822/99fb58d6-3c31-4d0a-ab21-88ecac217465/back-n-black-the-ultimate-powered-up-ac-dc-experience",
-      "start": "2026-08-22T20:00:00-05:00",
-      "end": "2026-08-23T02:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "The Historic Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
       "id": "mercedes-benz-amphitheater-ty-myers-2026-09-10-mercedes-benz-amphitheater",
       "title": "Ty Myers",
       "source": "Mercedes-Benz Amphitheater",
@@ -1143,21 +1173,6 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "The Avett Brothers with support from Drive-By Truckers Show Time: 7:00 PM Gates: 6:00 PM Get Tickets The Avett Brothers, with special guest Drive-By Truckers, will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, October...",
       "category": "Music",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-steve-hofstetter-begin-again-2026-10-10-the-historic-bama-theatre",
-      "title": "Steve Hofstetter - Begin Again",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20261010/812e87c6-8122-4d29-a3b9-8ecb7886e7b6/steve-hofstetter-begin-again",
-      "start": "2026-10-10T19:30:00-05:00",
-      "end": "2026-10-11T01:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "The Historic Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
       "isVirtual": false
     },
     {
