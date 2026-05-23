@@ -58,7 +58,7 @@ This project is intentionally open, collaborative and educational. Think of it a
 
 ## Contributing
 
-Contributions of all sizes are welcome! See the CONTRIBUTING.md￼for guidelines on how to get started and the CODE_OF_CONDUCT.md￼ to understand our expectations for an inclusive, respectful environment.
+Contributions of all sizes are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our expectations for an inclusive, respectful environment.
 
 ## License
 
@@ -67,3 +67,10 @@ This project is licensed under the terms of the MIT License. Feel free to reuse 
 ## Testing & Data Validation
 
 For a beginner-friendly walkthrough of automated checks, data validation, and step-by-step local testing, see [Testing and Validation Guide](docs/TESTING_AND_VALIDATION.md).
+## Related Concepts
+
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [ARCHITECTURE.md](ARCHITECTURE.md)
+- [LEARNING_GOALS_MATRIX.md](docs/LEARNING_GOALS_MATRIX.md)
+- [TESTING_AND_VALIDATION.md](docs/TESTING_AND_VALIDATION.md)
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)

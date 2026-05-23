@@ -50,3 +50,9 @@ Unless explicitly requested, avoid:
 - large framework migrations,
 - broad refactors unrelated to the task,
 - changes that make the repo harder for beginners to understand.
+## Related Concepts
+
+- [README.md](README.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [ARCHITECTURE.md](ARCHITECTURE.md)
+- [TESTING_AND_VALIDATION.md](docs/TESTING_AND_VALIDATION.md)

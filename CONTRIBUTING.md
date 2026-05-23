@@ -293,3 +293,10 @@ These checks help catch:
 - regressions that would break the static-site experience.
 
 Keeping this loop small and repeatable makes contribution easier for beginners.
+## Related Concepts
+
+- [README.md](README.md)
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [TESTING_AND_VALIDATION.md](docs/TESTING_AND_VALIDATION.md)
+- [LEARNING_GOALS_MATRIX.md](docs/LEARNING_GOALS_MATRIX.md)
+- [AGENTS.md](AGENTS.md)
