@@ -244,3 +244,52 @@ Thank you for helping make this project:
 - and fun.
 
 Every contribution helps improve both the project and the learning experience around it.
+
+# Local Validation and Testing (Step-by-Step)
+
+This project keeps testing intentionally simple for beginners.
+
+## Automated checks in this repository
+
+Primary automated check:
+- `npm run validate` (runs `scripts/validate-events.mjs`)
+
+Typical workflow check sequence:
+1. `npm run fetch`
+2. `npm run validate`
+3. `npm run preview` (sanity check UI/content locally)
+
+## One-time setup
+
+1. Install Node.js 20 or newer.
+2. Clone your fork/repository.
+3. In the project folder, run:
+
+```bash
+npm install
+```
+
+## Every time you make changes
+
+Run these in order:
+
+```bash
+npm run fetch
+npm run validate
+npm run preview
+```
+
+## How to interpret results
+
+- If `npm run validate` passes, the data format and core quality checks are acceptable.
+- If it fails, read the terminal error and fix the reported field/record before submitting.
+- If preview looks wrong but validation passes, treat it as a UI/content issue and inspect `index.html`, `assets/app.js`, and styles.
+
+## Why this matters
+
+These checks help catch:
+- invalid or inconsistent event data,
+- duplicate IDs and ordering problems,
+- regressions that would break the static-site experience.
+
+Keeping this loop small and repeatable makes contribution easier for beginners.
