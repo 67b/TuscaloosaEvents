@@ -126,3 +126,9 @@ If you are new to the repo, think of it as:
 3. **Render** events in a static webpage (`index.html` + `assets/app.js`)
 4. **Refresh automatically** with GitHub Actions
 5. **Publish statically** via GitHub Pages
+## Related Concepts
+
+- [README.md](README.md)
+- [LEARNING_GOALS_MATRIX.md](docs/LEARNING_GOALS_MATRIX.md)
+- [TESTING_AND_VALIDATION.md](docs/TESTING_AND_VALIDATION.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)

@@ -22,7 +22,7 @@ If validation fails, it exits with a non-zero status so CI can catch the problem
 
 ## How automation uses these checks
 
-The refresh workflow (`.github/workflows/refresh-events.yml`) runs:
+The refresh workflow ([`.github/workflows/refresh-events.yml`](../.github/workflows/refresh-events.yml)) runs:
 1. `npm run fetch`
 2. `npm run validate`
 
@@ -66,3 +66,9 @@ npm run preview
 ```
 
 This mirrors the project automation and helps you catch errors early.
+## Related Concepts
+
+- [README.md](../README.md)
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ARCHITECTURE.md](../ARCHITECTURE.md)
+- [LEARNING_GOALS_MATRIX.md](LEARNING_GOALS_MATRIX.md)
