@@ -63,3 +63,7 @@ Contributions of all sizes are welcome! See the CONTRIBUTING.md￼for guidelines
 ## License
 
 This project is licensed under the terms of the MIT License. Feel free to reuse and remix with attribution.
+
+## Testing & Data Validation
+
+For a beginner-friendly walkthrough of automated checks, data validation, and step-by-step local testing, see [Testing and Validation Guide](docs/TESTING_AND_VALIDATION.md).
