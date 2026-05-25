@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-23T12:07:48.072Z",
+  "updatedAt": "2026-05-25T14:17:37.581Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-23T12:07:48.072Z",
+  "weatherUpdatedAt": "2026-05-25T14:17:37.581Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,116 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-05-23-tuscaloosa-river-market",
-      "title": "Tuscaloosa Farmers Market",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
-      "start": "2026-05-23T07:00:00-05:00",
-      "end": "2026-05-23T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Every Saturday morning @ 7am! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that cannot be replicated, the Tuscaloosa Farmers Market has something for everyone! Support local fa...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-23",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-made-in-america-exhibit-2026-05-23-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/made-in-america-exhibit/",
-      "start": "2026-05-23T09:00:00-05:00",
-      "end": "2026-05-23T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-23",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-casual-campus-cruise-2026-05-23-velo-city-cycles",
-      "title": "Casual Campus Cruise",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/casual-campus-cruise/",
-      "start": "2026-05-23T09:00:00-05:00",
-      "end": "2026-05-23T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Velo City Cycles",
-      "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
-      "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-23",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-a-memorial-day-weekend-concert-with-denny-chimes-2026-05-24-the-quad-university-of-alabama-campus",
-      "title": "A Memorial Day Weekend Concert with Denny Chimes",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/a-memorial-day-weekend-concert-with-denny-chimes",
-      "start": "2026-05-24T02:00:00-05:00",
-      "end": "2026-05-24T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Quad, University of Alabama Campus",
-      "address": "",
-      "description": "Free outdoor carillon concert presented by University Carillonneur Dr. Amir Zaheri. Program features patriotic anthems, folk songs, popular favorites, and timeless classics. A brief moment of remembrance will be offered by Rev. Robin C. Wi...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-24",
-        "temperature": 83,
-        "temperatureUnit": "F",
-        "precipitationChance": 76,
-        "periodName": "Sunday"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-a-memorial-day-weekend-concert-with-denny-chimes-2026-05-24-university-of-alabama",
-      "title": "A Memorial Day Weekend Concert with Denny Chimes",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/a-memorial-day-weekend-concert-with-denny-chimes/",
-      "start": "2026-05-24T14:00:00-05:00",
-      "end": "2026-05-24T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama",
-      "address": "QUAD - The Quad / Denny Chimes, 739 University Boulevard, Tuscaloosa, AL 35487",
-      "description": "The University of Alabama’s iconic Denny Chimes will ring out across the historic Quad on Sunday, May 24, 2026, when University Carillonneur Dr. Amir Zaheri presents “A Memorial Day Weekend Concert with Denny Chimes” — a free, outdoor cari...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-24",
-        "temperature": 83,
-        "temperatureUnit": "F",
-        "precipitationChance": 76,
-        "periodName": "Sunday"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-25-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -140,9 +30,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-25",
-        "temperature": 80,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 94,
+        "precipitationChance": 86,
         "periodName": "Memorial Day"
       }
     },
@@ -162,9 +52,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-25",
-        "temperature": 80,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 94,
+        "precipitationChance": 86,
         "periodName": "Memorial Day"
       }
     },
@@ -184,9 +74,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-25",
-        "temperature": 80,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 94,
+        "precipitationChance": 86,
         "periodName": "Memorial Day"
       }
     },
@@ -208,7 +98,29 @@
         "forecastDate": "2026-05-26",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 89,
+        "precipitationChance": 84,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-05-26-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-05-26T09:00:00-05:00",
+      "end": "2026-05-26T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-26",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "precipitationChance": 84,
         "periodName": "Tuesday"
       }
     },
@@ -230,7 +142,7 @@
         "forecastDate": "2026-05-26",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 89,
+        "precipitationChance": 84,
         "periodName": "Tuesday"
       }
     },
@@ -252,7 +164,7 @@
         "forecastDate": "2026-05-27",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 76,
         "periodName": "Wednesday"
       }
     },
@@ -274,7 +186,7 @@
         "forecastDate": "2026-05-27",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 76,
         "periodName": "Wednesday"
       }
     },
@@ -296,7 +208,7 @@
         "forecastDate": "2026-05-27",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 76,
         "periodName": "Wednesday"
       }
     },
@@ -318,7 +230,7 @@
         "forecastDate": "2026-05-27",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 76,
         "periodName": "Wednesday"
       }
     },
@@ -338,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 75,
+        "precipitationChance": 65,
         "periodName": "Thursday"
       }
     },
@@ -360,9 +272,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 75,
+        "precipitationChance": 65,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-mid-morning-walking-break-2026-05-28-gorgas-library",
+      "title": "Mid-Morning Walking Break",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
+      "start": "2026-05-28T10:00:00-05:00",
+      "end": "2026-05-28T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas Library",
+      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
+      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-28",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 65,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-education-doctoral-programs-edd-phd-information-session-2026-05-28",
+      "title": "Education Doctoral Programs (EdD/PhD) Information Session",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/education-doctoral-programs-eddphd-information-session",
+      "start": "2026-05-28T12:00:00-05:00",
+      "end": "2026-05-28T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This information session will provide general information about the College of Education doctoral programs, such as available programs, admissions requirements, application deadlines, and funding.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-28",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 65,
         "periodName": "Thursday"
       }
     },
@@ -382,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 75,
+        "precipitationChance": 65,
         "periodName": "Thursday"
       }
     },
@@ -404,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 78,
         "periodName": "Friday"
       }
     },
@@ -426,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 78,
         "periodName": "Friday"
       }
     },
@@ -448,10 +404,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 65,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 78,
         "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-05-30-tuscaloosa-river-market",
+      "title": "Tuscaloosa Farmers Market",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
+      "start": "2026-05-30T07:00:00-05:00",
+      "end": "2026-05-30T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Every Saturday morning @ 7am! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that cannot be replicated, the Tuscaloosa Farmers Market has something for everyone! Support local fa...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-30",
+        "temperature": 83,
+        "temperatureUnit": "F",
+        "precipitationChance": 79,
+        "periodName": "Saturday"
       }
     },
     {
@@ -467,7 +445,14 @@
       "address": "700 14th Street , Tuscaloosa, AL 35401",
       "description": "This inaugural charity event is being held on Saturday, May 30th from 2:00 pm to 4:00 pm at Druid City Brewing to benefit the Tuscaloosa Public Library’s Bookmobile. Local restaurants will be competing for the Golden Egg Award for the best...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-30",
+        "temperature": 83,
+        "temperatureUnit": "F",
+        "precipitationChance": 79,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "tuscaloosa-patch-cretaceous-critters-2026-06-01-tuscaloosa-public-library",
@@ -845,6 +830,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-alabama-volleyball-skills-camp-setting-and-attacking-2026-06-10-foster-auditorium",
+      "title": "Alabama Volleyball Skills Camp: Setting and Attacking",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-skills-camp-setting-and-attacking/",
+      "start": "2026-06-10T08:00:00-05:00",
+      "end": "2026-06-10T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Foster Auditorium",
+      "address": "801 6th Ave, Tuscaloosa, AL 35487",
+      "description": "This year, the Alabama volleyball program is making a focused effort to bring home-state talent through its doors. From Tuscaloosa and Birmingham to Huntsville, Montgomery, and Mobile — if you call Alabama home, there is a spot in this gym...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-necessary-knowledge-and-third-party-resolution-for-supervisors-2026-06-10-employee-resource-center",
       "title": "Necessary Knowledge and Third Party Resolution for Supervisors",
       "source": "University of Alabama",
@@ -857,6 +857,21 @@
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "ATTENTION -Registration is required five (5) days before your session start date. -This course is for supervisors of non-student employees. Behavioral Expectations Supported: Effective Communication, Collaboration, Continuous Improvement h...",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-shrek-2001-2026-06-10-the-historic-bama-theatre",
+      "title": "Shrek (2001)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/shrek-2001/",
+      "start": "2026-06-10T10:00:00-05:00",
+      "end": "2026-06-10T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "A green ogre living a life of solitude in a far away swamp, Shrek is suddenly invaded by a horde of fairy tale characters, such as the Big Bad Wolf and the Three Little Pigs, all refugees of their homes who have been shunned by the evil Lo...",
+      "category": "Community",
       "isVirtual": false
     },
     {
