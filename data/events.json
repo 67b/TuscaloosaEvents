@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-25T14:17:37.581Z",
+  "updatedAt": "2026-05-26T14:10:23.849Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-25T14:17:37.581Z",
+  "weatherUpdatedAt": "2026-05-26T14:10:23.849Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-25-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-26-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-25T00:00:00-05:00",
-      "end": "2026-05-25T00:00:00-05:00",
+      "start": "2026-05-26T00:00:00-05:00",
+      "end": "2026-05-26T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,55 +29,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-25",
-        "temperature": 81,
+        "forecastDate": "2026-05-26",
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 86,
-        "periodName": "Memorial Day"
-      }
-    },
-    {
-      "id": "university-of-alabama-memorial-day-ua-closed-2026-05-25",
-      "title": "Memorial Day (UA closed)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/memorial_day_ua_closed",
-      "start": "2026-05-25T00:00:00-05:00",
-      "end": "2026-05-25T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "University of Alabama event listed on the campus calendar.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-25",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "precipitationChance": 86,
-        "periodName": "Memorial Day"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-25-catherine-and-pettus-randall-wel",
-      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-25T08:00:00-05:00",
-      "end": "2026-05-25T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Catherine and Pettus Randall Welcome Center",
-      "address": "",
-      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-25",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "precipitationChance": 86,
-        "periodName": "Memorial Day"
+        "precipitationChance": 77,
+        "periodName": "Today"
       }
     },
     {
@@ -96,10 +52,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-26",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
-        "periodName": "Tuesday"
+        "precipitationChance": 77,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-26-catherine-and-pettus-randall-wel",
+      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
+      "start": "2026-05-26T08:00:00-05:00",
+      "end": "2026-05-26T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Catherine and Pettus Randall Welcome Center",
+      "address": "",
+      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-26",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "precipitationChance": 77,
+        "periodName": "Today"
       }
     },
     {
@@ -118,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-26",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
-        "periodName": "Tuesday"
+        "precipitationChance": 77,
+        "periodName": "Today"
       }
     },
     {
@@ -140,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-26",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
-        "periodName": "Tuesday"
+        "precipitationChance": 77,
+        "periodName": "Today"
       }
     },
     {
@@ -162,9 +140,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 76,
+        "precipitationChance": 77,
         "periodName": "Wednesday"
       }
     },
@@ -184,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 76,
+        "precipitationChance": 77,
         "periodName": "Wednesday"
       }
     },
@@ -206,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 76,
+        "precipitationChance": 77,
         "periodName": "Wednesday"
       }
     },
@@ -228,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 76,
+        "precipitationChance": 77,
         "periodName": "Wednesday"
       }
     },
@@ -250,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 87,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 79,
         "periodName": "Thursday"
       }
     },
@@ -272,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 87,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 79,
         "periodName": "Thursday"
       }
     },
@@ -294,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 87,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 79,
         "periodName": "Thursday"
       }
     },
@@ -316,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 87,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 79,
         "periodName": "Thursday"
       }
     },
@@ -338,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 87,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 79,
         "periodName": "Thursday"
       }
     },
@@ -360,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 85,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 84,
         "periodName": "Friday"
       }
     },
@@ -382,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 85,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 84,
         "periodName": "Friday"
       }
     },
@@ -406,7 +384,7 @@
         "forecastDate": "2026-05-29",
         "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 84,
         "periodName": "Friday Night"
       }
     },
@@ -426,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-30",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 84,
         "periodName": "Saturday"
       }
     },
@@ -448,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-30",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 84,
         "periodName": "Saturday"
       }
     },
@@ -467,7 +445,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-01",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "precipitationChance": 32,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "tuscaloosa-patch-dig-deep-make-a-delicious-dirt-cup-2026-06-01-tuscaloosa-public-library-weaver-bolden-branch",
@@ -482,7 +467,14 @@
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-01",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "precipitationChance": 32,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "tuscaloosa-patch-tpl-presents-miss-calliope-2026-06-01-northport-city-hall",
@@ -497,7 +489,14 @@
       "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-01",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "precipitationChance": 32,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "tuscaloosa-patch-storytime-o-saurus-2026-06-02-tuscaloosa-public-library-weaver-bolden-branch",
