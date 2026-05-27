@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-26T14:10:23.849Z",
+  "updatedAt": "2026-05-27T14:33:29.270Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-26T14:10:23.849Z",
+  "weatherUpdatedAt": "2026-05-27T14:33:29.269Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-26-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-27-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-26T00:00:00-05:00",
-      "end": "2026-05-26T00:00:00-05:00",
+      "start": "2026-05-27T00:00:00-05:00",
+      "end": "2026-05-27T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,42 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-26",
-        "temperature": 82,
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
+        "precipitationChance": 56,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-classes-begin-for-full-term-and-summer-1-2026-05-26",
-      "title": "Classes Begin for Full Term and Summer 1",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/classes_begin_for_full_term_and_summer_1",
-      "start": "2026-05-26T00:00:00-05:00",
-      "end": "2026-05-26T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "University of Alabama event listed on the campus calendar.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-26",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-26-catherine-and-pettus-randall-wel",
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-27-catherine-and-pettus-randall-wel",
       "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-26T08:00:00-05:00",
-      "end": "2026-05-26T17:00:00-05:00",
+      "start": "2026-05-27T08:00:00-05:00",
+      "end": "2026-05-27T17:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Catherine and Pettus Randall Welcome Center",
@@ -73,20 +51,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-26",
-        "temperature": 82,
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
+        "precipitationChance": 56,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-05-26-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-05-27-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-05-26T09:00:00-05:00",
-      "end": "2026-05-26T16:30:00-05:00",
+      "start": "2026-05-27T09:00:00-05:00",
+      "end": "2026-05-27T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -95,32 +73,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-26",
-        "temperature": 82,
+        "forecastDate": "2026-05-27",
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-successfully-navigating-perimenopause-2026-05-26",
-      "title": "Successfully Navigating Perimenopause",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/successfully-navigating-perimenopause-1961",
-      "start": "2026-05-26T12:00:00-05:00",
-      "end": "2026-05-26T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Discover practical tips, nutritional guidance, and strategies to confidently navigate the physical and emotional changes of perimenopause. Register through your WellBAMA portal.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-26",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 77,
+        "precipitationChance": 56,
         "periodName": "Today"
       }
     },
@@ -140,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 84,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Wednesday"
+        "precipitationChance": 56,
+        "periodName": "Today"
       }
     },
     {
@@ -162,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 84,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Wednesday"
+        "precipitationChance": 56,
+        "periodName": "Today"
       }
     },
     {
@@ -184,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 84,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Wednesday"
+        "precipitationChance": 56,
+        "periodName": "Today"
       }
     },
     {
@@ -206,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-27",
-        "temperature": 84,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Wednesday"
+        "precipitationChance": 56,
+        "periodName": "Today"
       }
     },
     {
@@ -230,7 +186,7 @@
         "forecastDate": "2026-05-28",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 78,
         "periodName": "Thursday"
       }
     },
@@ -252,7 +208,7 @@
         "forecastDate": "2026-05-28",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 78,
         "periodName": "Thursday"
       }
     },
@@ -274,7 +230,7 @@
         "forecastDate": "2026-05-28",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 78,
         "periodName": "Thursday"
       }
     },
@@ -296,7 +252,29 @@
         "forecastDate": "2026-05-28",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 78,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-everyvoice-book-club-2026-05-28-legends-bistro-at-hotel-capstone",
+      "title": "EveryVoice Book Club",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/everyvoice-book-club-5533",
+      "start": "2026-05-28T12:00:00-05:00",
+      "end": "2026-05-28T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Legends Bistro at Hotel Capstone",
+      "address": "",
+      "description": "EveryVoice Book Club is open to faculty, staff, community members, and graduate students. The group meets monthly to discuss books related to interpersonal violence. You can join the book club by emailing our Program Coordinator, Elizabeth...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-28",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 78,
         "periodName": "Thursday"
       }
     },
@@ -318,7 +296,7 @@
         "forecastDate": "2026-05-28",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 79,
+        "precipitationChance": 78,
         "periodName": "Thursday"
       }
     },
@@ -404,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-30",
-        "temperature": 82,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 67,
         "periodName": "Saturday"
       }
     },
@@ -426,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-30",
-        "temperature": 82,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 67,
         "periodName": "Saturday"
       }
     },
@@ -448,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 81,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -470,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 81,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -492,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 81,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -511,7 +489,14 @@
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "tuscaloosa-patch-tpl-presents-miss-calliope-2026-06-02-tuscaloosa-public-library",
@@ -526,7 +511,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "visit-tuscaloosa-tuesday-s-tuscaloosa-farmers-market-2026-06-02-tuscaloosa-river-market",
@@ -541,7 +533,14 @@
       "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
       "description": "Enjoy Tuscaloosa’s Tuesday Farmers Markets at the River Market every June and July from 3 to 7 p.m., featuring fresh local produce, baked goods, artisan crafts, and food trucks. It’s the perfect midweek outing, especially with a scenic str...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "tuscaloosa-patch-teen-lab-2026-06-02-tuscaloosa-public-library",
@@ -556,7 +555,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "visit-tuscaloosa-jumanji-1995-2026-06-02-the-historic-bama-theatre",
@@ -571,7 +577,14 @@
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Two kids discover an old board game and when they start playing it they are greeted by a man who has spent years trapped inside the game since playing it at age 12. His only hope for freedom involves finishing the dangerous game. Runtime:...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 63,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
+        "periodName": "Tuesday Night"
+      }
     },
     {
       "id": "university-of-alabama-alabama-opioid-prevention-summit-birmingham-2026-06-03-hyatt-regency-birmingham-wynfrey-hotel",
