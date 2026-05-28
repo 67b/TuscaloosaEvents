@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-27T14:33:29.270Z",
+  "updatedAt": "2026-05-28T14:46:15.346Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-27T14:33:29.269Z",
+  "weatherUpdatedAt": "2026-05-28T14:46:15.346Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-27-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-28-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-27T00:00:00-05:00",
-      "end": "2026-05-27T00:00:00-05:00",
+      "start": "2026-05-28T00:00:00-05:00",
+      "end": "2026-05-28T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,20 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "forecastDate": "2026-05-28",
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 56,
+        "precipitationChance": 44,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-27-catherine-and-pettus-randall-wel",
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-28-catherine-and-pettus-randall-wel",
       "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-27T08:00:00-05:00",
-      "end": "2026-05-27T17:00:00-05:00",
+      "start": "2026-05-28T08:00:00-05:00",
+      "end": "2026-05-28T17:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Catherine and Pettus Randall Welcome Center",
@@ -51,20 +51,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "forecastDate": "2026-05-28",
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 56,
+        "precipitationChance": 44,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-05-27-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-05-28-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-05-27T09:00:00-05:00",
-      "end": "2026-05-27T16:30:00-05:00",
+      "start": "2026-05-28T09:00:00-05:00",
+      "end": "2026-05-28T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -73,98 +73,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
+        "forecastDate": "2026-05-28",
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 56,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-budgeting-cgat-course-2026-05-27-bryant-conference-center",
-      "title": "Budgeting - CGAT Course",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/budgeting-cgat-course-962",
-      "start": "2026-05-27T09:00:00-05:00",
-      "end": "2026-05-27T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "The CGAT program, sponsored by the Government Finance Officers Association of Alabama, is a series of courses intended to improve the professional and fiscal skills of attendees. This training is not exclusive to GFOAA members. Budgeting i...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 56,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-using-technology-to-increase-student-engagement-2026-05-27-gordon-palmer-hall",
-      "title": "Using Technology to Increase Student Engagement",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/using-technology-to-increase-student-engagement",
-      "start": "2026-05-27T10:30:00-05:00",
-      "end": "2026-05-27T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gordon Palmer Hall",
-      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 56,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-make-your-blackboard-course-accessible-with-ally-2026-05-27",
-      "title": "Make Your Blackboard Course Accessible with Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/make-your-blackboard-course-accessible-with-ally-7298",
-      "start": "2026-05-27T14:00:00-05:00",
-      "end": "2026-05-27T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 56,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-root-cause-analysis-2026-05-27-employee-resource-center",
-      "title": "Root Cause Analysis",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/root-cause-analysis",
-      "start": "2026-05-27T15:30:00-05:00",
-      "end": "2026-05-27T16:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "This course introduces the concept of root cause analysis (RCA) as a method of identifying the causes of a problem or issue. Presents how to identify factors and breakdowns in the processes or systems that contributed to the problem and de...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-27",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 56,
+        "precipitationChance": 44,
         "periodName": "Today"
       }
     },
@@ -184,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Thursday"
+        "precipitationChance": 44,
+        "periodName": "Today"
       }
     },
     {
@@ -206,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Thursday"
+        "precipitationChance": 44,
+        "periodName": "Today"
       }
     },
     {
@@ -228,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Thursday"
+        "precipitationChance": 44,
+        "periodName": "Today"
       }
     },
     {
@@ -250,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Thursday"
+        "precipitationChance": 44,
+        "periodName": "Today"
       }
     },
     {
@@ -272,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Thursday"
+        "precipitationChance": 44,
+        "periodName": "Today"
       }
     },
     {
@@ -294,10 +206,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-28",
-        "temperature": 85,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Thursday"
+        "precipitationChance": 44,
+        "periodName": "Today"
       }
     },
     {
@@ -316,9 +228,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 83,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 74,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-wellbama-health-screening-2026-05-29-northeast-medical-building",
+      "title": "WellBAMA Health Screening",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/wellbama-health-screening-5858",
+      "start": "2026-05-29T07:30:00-05:00",
+      "end": "2026-05-29T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Northeast Medical Building",
+      "address": "211 PETER BRYCE BLVD, TUSCALOOSA, AL 35401",
+      "description": "All full-time, benefit eligible employees who attend their annual WellBAMA health screening will receive a T-Shirt, 50 WellBAMA points, and a $50 gift card. Schedule your 15-minute appointment through your wellness portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 74,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-moundville-minis-a-possum-s-tail-2026-05-29-moundville-archaeological-park",
+      "title": "Moundville Minis: A Possum’s Tail",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/moundville-minis-a-possums-tail",
+      "start": "2026-05-29T09:15:00-05:00",
+      "end": "2026-05-29T09:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Join us at Moundville Archaeological Park on May 29 from 9:15 a.m. until 9:45 a.m. for Moundville Minis! Little learners are invited for a special book reading of A Possum’s Tail by Amy Bluemel from the Chickasaw Nation, followed by a fun,...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 74,
         "periodName": "Friday"
       }
     },
@@ -338,9 +294,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 83,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 74,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-modernize-your-course-materials-with-documents-in-blackboard-2026-05-29-gordon-palmer-hall",
+      "title": "Modernize Your Course Materials with Documents in Blackboard",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/modernize-your-course-materials-with-documents-in-blackboard",
+      "start": "2026-05-29T10:00:00-05:00",
+      "end": "2026-05-29T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "Discover how to efficiently create, organize, and share course materials using Documents in Blackboard Ultra. Learn best practices for building engaging content that streamlines the student experience and enhances your course delivery.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 74,
         "periodName": "Friday"
       }
     },
@@ -360,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 68,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 73,
         "periodName": "Friday Night"
       }
     },
@@ -384,7 +362,7 @@
         "forecastDate": "2026-05-30",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 71,
         "periodName": "Saturday"
       }
     },
@@ -406,7 +384,7 @@
         "forecastDate": "2026-05-30",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 71,
         "periodName": "Saturday"
       }
     },
@@ -428,7 +406,7 @@
         "forecastDate": "2026-06-01",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 47,
         "periodName": "Monday"
       }
     },
@@ -450,7 +428,7 @@
         "forecastDate": "2026-06-01",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 47,
         "periodName": "Monday"
       }
     },
@@ -472,8 +450,30 @@
         "forecastDate": "2026-06-01",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 47,
         "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-06-02-rose-administration-building",
+      "title": "UA faculty/staff headshots",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
+      "start": "2026-06-02T08:30:00-05:00",
+      "end": "2026-06-02T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rose Administration Building",
+      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
+      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -492,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 24,
         "periodName": "Tuesday"
       }
     },
@@ -514,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 24,
         "periodName": "Tuesday"
       }
     },
@@ -536,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 24,
         "periodName": "Tuesday"
       }
     },
@@ -558,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 24,
         "periodName": "Tuesday"
       }
     },
@@ -580,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 63,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 24,
         "periodName": "Tuesday Night"
       }
     },
@@ -599,7 +599,14 @@
       "address": "1000 Galleria Cir, Hoover, AL",
       "description": "The First Annual Alabama Opioid Prevention Summit, presented by VitAL and the Alabama Department of Mental Health, brings together prevention professionals, health care providers, community leaders and policymakers committed to addressing...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-patch-tpl-presents-dynamic-education-2026-06-03-tuscaloosa-public-library-weaver-bolden-branch",
@@ -614,7 +621,14 @@
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-patch-jurassic-juniors-2026-06-03-tuscaloosa-public-library",
@@ -629,7 +643,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-patch-dinostomp-storytime-2026-06-04-tuscaloosa-public-library",
@@ -638,6 +659,21 @@
       "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260604/706d7de2-fa14-45dd-878b-2368ad318df8/dinostomp-storytime",
       "start": "2026-06-04T10:00:00-05:00",
       "end": "2026-06-04T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-seashell-painting-2026-06-04-tuscaloosa-public-library",
+      "title": "Seashell Painting",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260604/49f5855b-42b4-4c50-a8bd-421e969c29ab/seashell-painting",
+      "start": "2026-06-04T15:30:00-05:00",
+      "end": "2026-06-04T21:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
@@ -962,21 +998,6 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-dig-deep-dino-sun-paint-2026-06-11-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "Dig Deep! Dino Sun Paint",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260611/cf9093a7-a33a-41b9-a8c2-087ab4d9d557/dig-deep-dino-sun-paint",
-      "start": "2026-06-11T13:00:00-05:00",
-      "end": "2026-06-11T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
       "id": "mercedes-benz-amphitheater-alabama-shakes-2026-06-12-mercedes-benz-amphitheater",
       "title": "Alabama Shakes",
       "source": "Mercedes-Benz Amphitheater",
@@ -1004,6 +1025,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "38 Special and Kansas with Brother Cane Show Time: 6:00 PM Gate Time: 5:00 PM Get Tickets Classic rock legends 38 Special and Kansas, with Brother Cane, will bring decades of iconic hits to the Mercedes-Benz Amphitheater in Tuscaloosa on S...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-are-you-fitter-than-a-5th-grader-fitness-testing-2026-06-15-robert-e-witt-student-activity-center",
+      "title": "Are You Fitter Than a 5th Grader? Fitness Testing",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/are-you-fitter-than-a-5th-grader-fitness-testing",
+      "start": "2026-06-15T11:00:00-05:00",
+      "end": "2026-06-15T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Robert E. Witt Student Activity Center",
+      "address": "654 ABERCROMBIE LANE, TUSCALOOSA, AL 35401",
+      "description": "Register for fitness testing on June 15 and July 13 at the Witt Center from 11:00am–1:00pm. These will help you establish a baseline, practice proper form, and track progress. Each test will take about 45 minutes, so please wear workout at...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
