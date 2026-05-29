@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-28T14:46:15.346Z",
+  "updatedAt": "2026-05-29T14:15:06.188Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-28T14:46:15.346Z",
+  "weatherUpdatedAt": "2026-05-29T14:15:06.187Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-28-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-29-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-28T00:00:00-05:00",
-      "end": "2026-05-28T00:00:00-05:00",
+      "start": "2026-05-29T00:00:00-05:00",
+      "end": "2026-05-29T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,186 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-28-catherine-and-pettus-randall-wel",
-      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-28T08:00:00-05:00",
-      "end": "2026-05-28T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Catherine and Pettus Randall Welcome Center",
-      "address": "",
-      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-05-28-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-05-28T09:00:00-05:00",
-      "end": "2026-05-28T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-grounded-at-moundville-2026-05-28-moundville-archaeological-park",
-      "title": "Grounded at Moundville",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/grounded-at-moundville",
-      "start": "2026-05-28T09:00:00-05:00",
-      "end": "2026-05-28T10:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Start your day with a refreshing movement and stretch on the Moundville lawn! This all-levels outdoor class, led by a local instructor, blends gentle movement with nature. The class features a blend of gentle flow pilates. Bring a yoga mat...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-grounded-at-moundville-2026-05-28-moundville-archaeological-park",
-      "title": "Grounded at Moundville",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/grounded-at-moundville/",
-      "start": "2026-05-28T09:00:00-05:00",
-      "end": "2026-05-28T10:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474",
-      "description": "Start your day with a refreshing movement and stretch on the Moundville lawn! On May 28 from 9:00 a.m. until 10:00 p.m. we’ll have an all-levels outdoor class, led by a local instructor, that blends gentle movement with nature. The class f...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-mid-morning-walking-break-2026-05-28-gorgas-library",
-      "title": "Mid-Morning Walking Break",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
-      "start": "2026-05-28T10:00:00-05:00",
-      "end": "2026-05-28T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-education-doctoral-programs-edd-phd-information-session-2026-05-28",
-      "title": "Education Doctoral Programs (EdD/PhD) Information Session",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/education-doctoral-programs-eddphd-information-session",
-      "start": "2026-05-28T12:00:00-05:00",
-      "end": "2026-05-28T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This information session will provide general information about the College of Education doctoral programs, such as available programs, admissions requirements, application deadlines, and funding.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-everyvoice-book-club-2026-05-28-legends-bistro-at-hotel-capstone",
-      "title": "EveryVoice Book Club",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/everyvoice-book-club-5533",
-      "start": "2026-05-28T12:00:00-05:00",
-      "end": "2026-05-28T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Legends Bistro at Hotel Capstone",
-      "address": "",
-      "description": "EveryVoice Book Club is open to faculty, staff, community members, and graduate students. The group meets monthly to discuss books related to interpersonal violence. You can join the book club by emailing our Program Coordinator, Elizabeth...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-shakes-homecoming-events-2026-05-28-mercedes-benz-amphitheater",
-      "title": "Alabama Shakes “Homecoming” Events",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-homecoming-events/",
-      "start": "2026-05-28T17:00:00-05:00",
-      "end": "2026-05-28T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Alabama Shakes are bringing their long-awaited return home to Alabama when they perform at the Mercedes-Benz Amphitheater on Friday, June 12 at 7:30 p.m., marking the band’s only Alabama stop for their 2026 U.S. Tour. Celebrate Tuscaloosa,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-28",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 63,
         "periodName": "Today"
       }
     },
@@ -230,8 +54,8 @@
         "forecastDate": "2026-05-29",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Friday"
+        "precipitationChance": 63,
+        "periodName": "Today"
       }
     },
     {
@@ -252,8 +76,52 @@
         "forecastDate": "2026-05-29",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Friday"
+        "precipitationChance": 63,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-29-catherine-and-pettus-randall-wel",
+      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
+      "start": "2026-05-29T08:00:00-05:00",
+      "end": "2026-05-29T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Catherine and Pettus Randall Welcome Center",
+      "address": "",
+      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-05-29-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-05-29T09:00:00-05:00",
+      "end": "2026-05-29T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Today"
       }
     },
     {
@@ -274,8 +142,8 @@
         "forecastDate": "2026-05-29",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Friday"
+        "precipitationChance": 63,
+        "periodName": "Today"
       }
     },
     {
@@ -296,8 +164,8 @@
         "forecastDate": "2026-05-29",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Friday"
+        "precipitationChance": 63,
+        "periodName": "Today"
       }
     },
     {
@@ -318,8 +186,30 @@
         "forecastDate": "2026-05-29",
         "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Friday"
+        "precipitationChance": 63,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-shakes-homecoming-events-2026-05-29-mercedes-benz-amphitheater",
+      "title": "Alabama Shakes “Homecoming” Events",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-homecoming-events/",
+      "start": "2026-05-29T17:00:00-05:00",
+      "end": "2026-05-29T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Alabama Shakes are bringing their long-awaited return home to Alabama when they perform at the Mercedes-Benz Amphitheater on Friday, June 12 at 7:30 p.m., marking the band’s only Alabama stop for their 2026 U.S. Tour. Celebrate Tuscaloosa,...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Today"
       }
     },
     {
@@ -338,10 +228,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-29",
-        "temperature": 69,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
-        "periodName": "Friday Night"
+        "precipitationChance": 58,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-live-music-scooters-w-rydin-durty-band-2026-05-29-scooter-s",
+      "title": "Live Music @ Scooters w/Rydin’ Durty Band",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260529/2d1df5c8-dedc-4c03-be45-8520023fbfa1/live-music-scooters-w-rydin-durty-band",
+      "start": "2026-05-29T21:00:00-05:00",
+      "end": "2026-05-30T03:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Scooter's",
+      "address": "Scooter's, 3620 Greensboro Ave, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-29",
+        "temperature": 70,
+        "temperatureUnit": "F",
+        "precipitationChance": 58,
+        "periodName": "Tonight"
       }
     },
     {
@@ -362,7 +274,7 @@
         "forecastDate": "2026-05-30",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 78,
         "periodName": "Saturday"
       }
     },
@@ -384,7 +296,7 @@
         "forecastDate": "2026-05-30",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 78,
         "periodName": "Saturday"
       }
     },
@@ -404,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 84,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 14,
         "periodName": "Monday"
       }
     },
@@ -426,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 84,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 14,
         "periodName": "Monday"
       }
     },
@@ -448,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 84,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 14,
         "periodName": "Monday"
       }
     },
@@ -470,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 85,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
         "periodName": "Tuesday"
       }
     },
@@ -492,9 +404,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 85,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-building-confidence-with-resistance-machines-2026-06-02-university-recreation-center",
+      "title": "Building Confidence with Resistance Machines",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/building-confidence-with-resistance-machines",
+      "start": "2026-06-02T12:00:00-05:00",
+      "end": "2026-06-02T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "University Recreation Center",
+      "address": "",
+      "description": "This interactive session builds employee confidence using resistance machines, including pin-select and plate-loaded equipment, by combining foundational instruction with hands-on experience. Participants first learn resistance training fu...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-graduate-programs-applications-and-admissions-process-q-and-a-session-2026-06-02",
+      "title": "Graduate Programs Applications & Admissions Process Q&A Session",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/graduate-programs-applications-admissions-process-qa-session",
+      "start": "2026-06-02T12:00:00-05:00",
+      "end": "2026-06-02T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Joing us to learn more about our graduate programs admissions requirements and application process, including application tips and best practices, and program options and opportunities.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-gad-131-trash-trolls-treasure-2026-06-02-church-of-the-holy-comforter",
+      "title": "GAD 131 Trash, Trolls, Treasure",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gad-131-trash-trolls-treasure",
+      "start": "2026-06-02T13:30:00-05:00",
+      "end": "2026-06-02T14:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Church of the Holy Comforter",
+      "address": "156 S 9th St, Gadsden, AL 35901",
+      "description": "Join us online for our free public programs — and bring a friend! Learn how Danish artist Thomas Dambo transforms recycled wood into giant troll sculptures found around the world. Frances Douglas introduces Dambo's imaginative works — from...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
         "periodName": "Tuesday"
       }
     },
@@ -514,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 85,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
         "periodName": "Tuesday"
       }
     },
@@ -536,9 +514,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 85,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-psychological-safety-2026-06-02-employee-resource-center",
+      "title": "Psychological Safety",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/psychological-safety-398",
+      "start": "2026-06-02T15:30:00-05:00",
+      "end": "2026-06-02T16:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Empower your Role - Create a Culture of Trust and Openess. Unlock your Team's Potential: Built Trust, Speak Freely, Thrive Together! This course introduces the concept of psychological safety and how to create an environment where employee...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
         "periodName": "Tuesday"
       }
     },
@@ -558,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 85,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
         "periodName": "Tuesday"
       }
     },
@@ -580,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
         "periodName": "Tuesday Night"
       }
     },
@@ -602,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 19,
         "periodName": "Wednesday"
       }
     },
@@ -624,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 19,
         "periodName": "Wednesday"
       }
     },
@@ -646,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 19,
         "periodName": "Wednesday"
       }
     },
@@ -665,7 +665,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-04",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "tuscaloosa-patch-seashell-painting-2026-06-04-tuscaloosa-public-library",
@@ -680,7 +687,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-04",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "tuscaloosa-patch-triassic-tweens-2026-06-04-tuscaloosa-public-library",
@@ -695,7 +709,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-04",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "visit-tuscaloosa-first-friday-2026-06-05-dinah-washington-cultural-arts-center",
@@ -983,21 +1004,6 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-dinostomp-storytime-2026-06-11-tuscaloosa-public-library",
-      "title": "DinoSTOMP Storytime",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260611/88351b04-9277-4170-8612-221bc55d0d69/dinostomp-storytime",
-      "start": "2026-06-11T10:00:00-05:00",
-      "end": "2026-06-11T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
       "id": "mercedes-benz-amphitheater-alabama-shakes-2026-06-12-mercedes-benz-amphitheater",
       "title": "Alabama Shakes",
       "source": "Mercedes-Benz Amphitheater",
@@ -1010,6 +1016,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Alabama Shakes with The Secret Sisters Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Alabama Shakes are returning to Tuscaloosa on Friday, June 12th with support from The Secret Sisters! Alabama Shakes are poised to make their return, anno...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-shakes-with-the-secret-sisters-2026-06-12-mercedes-benz-amphitheater",
+      "title": "Alabama Shakes with The Secret Sisters",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-with-the-secret-sisters/",
+      "start": "2026-06-12T19:30:00-05:00",
+      "end": "2026-06-13T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Alabama Shakes are returning to Tuscaloosa on Friday, June 12th with support from The Secret Sisters! Alabama Shakes are poised to make their return, announcing a 2026 Tour across the U.S. The Athens, AL-raised band comprised of vocalist/g...",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -1219,6 +1240,21 @@
       "venue": "",
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-last-day-to-add-a-course-or-drop-a-course-without-a-grade-of-w-for-the-fall-full-term-2026-08-26",
+      "title": "Last Day to Add a Course or Drop a Course Without a Grade of \"W\" for the Fall Full Term",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/last_day_to_add_a_course_or_drop_a_course_without_a_grade_of_w_for_the_fall_full_term",
+      "start": "2026-08-26T00:00:00-05:00",
+      "end": "2026-08-26T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Last Day to Add a Course or Drop a Course Without a Grade of \"W\" for the Fall Full Term",
       "category": "Campus",
       "isVirtual": false
     },
