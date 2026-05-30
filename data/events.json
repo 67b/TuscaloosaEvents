@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-29T14:15:06.188Z",
+  "updatedAt": "2026-05-30T12:15:38.622Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-29T14:15:06.187Z",
+  "weatherUpdatedAt": "2026-05-30T12:15:38.622Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,226 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-05-29-paul-r-jones-museum",
-      "title": "\"The Domestic Liminal\" Exhibition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-05-29T00:00:00-05:00",
-      "end": "2026-05-29T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-last-day-to-add-a-course-or-drop-a-course-without-a-grade-of-w-for-summer-full-term-2026-05-29",
-      "title": "Last Day to Add a Course or Drop a Course Without a Grade of \"W\" for Summer Full Term",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/last_day_to_add_a_course_or_drop_a_course_without_a_grade_of_w_for_summer_full_term",
-      "start": "2026-05-29T00:00:00-05:00",
-      "end": "2026-05-29T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "University of Alabama event listed on the campus calendar.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-wellbama-health-screening-2026-05-29-northeast-medical-building",
-      "title": "WellBAMA Health Screening",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/wellbama-health-screening-5858",
-      "start": "2026-05-29T07:30:00-05:00",
-      "end": "2026-05-29T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Northeast Medical Building",
-      "address": "211 PETER BRYCE BLVD, TUSCALOOSA, AL 35401",
-      "description": "All full-time, benefit eligible employees who attend their annual WellBAMA health screening will receive a T-Shirt, 50 WellBAMA points, and a $50 gift card. Schedule your 15-minute appointment through your wellness portal.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cotton-cloth-and-community-alabama-quilting-traditions-2026-05-29-catherine-and-pettus-randall-wel",
-      "title": "Cotton, Cloth, and Community: Alabama Quilting Traditions",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cotton-cloth-and-community-alabama-quilting-traditions",
-      "start": "2026-05-29T08:00:00-05:00",
-      "end": "2026-05-29T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Catherine and Pettus Randall Welcome Center",
-      "address": "",
-      "description": "The Gorgas House Museum, UA Museums, and the Barefield College of Arts & Sciences, in collaboration with the Freedom Quilting Bee Legacy, are excited to present “Cotton, Cloth, and Community: Alabama Quilting Traditions” from March 2 – May...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-05-29-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-05-29T09:00:00-05:00",
-      "end": "2026-05-29T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-moundville-minis-a-possum-s-tail-2026-05-29-moundville-archaeological-park",
-      "title": "Moundville Minis: A Possum’s Tail",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/moundville-minis-a-possums-tail",
-      "start": "2026-05-29T09:15:00-05:00",
-      "end": "2026-05-29T09:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Join us at Moundville Archaeological Park on May 29 from 9:15 a.m. until 9:45 a.m. for Moundville Minis! Little learners are invited for a special book reading of A Possum’s Tail by Amy Bluemel from the Chickasaw Nation, followed by a fun,...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-moundville-minis-a-possum-s-tail-2026-05-29-moundville-archaeological-park",
-      "title": "Moundville Minis: A Possum’s Tail",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/moundville-minis-a-possums-tail/",
-      "start": "2026-05-29T09:15:00-05:00",
-      "end": "2026-05-29T09:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474",
-      "description": "Join us at Moundville Archaeological Park on May 29 from 9:15 a.m. until 9:45 a.m. for Moundville Minis! Little learners are invited for a special book reading of A Possum’s Tail by Amy Bluemel from the Chickasaw Nation, followed by a fun,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-modernize-your-course-materials-with-documents-in-blackboard-2026-05-29-gordon-palmer-hall",
-      "title": "Modernize Your Course Materials with Documents in Blackboard",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/modernize-your-course-materials-with-documents-in-blackboard",
-      "start": "2026-05-29T10:00:00-05:00",
-      "end": "2026-05-29T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gordon Palmer Hall",
-      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "Discover how to efficiently create, organize, and share course materials using Documents in Blackboard Ultra. Learn best practices for building engaging content that streamlines the student experience and enhances your course delivery.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-shakes-homecoming-events-2026-05-29-mercedes-benz-amphitheater",
-      "title": "Alabama Shakes “Homecoming” Events",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-homecoming-events/",
-      "start": "2026-05-29T17:00:00-05:00",
-      "end": "2026-05-29T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Alabama Shakes are bringing their long-awaited return home to Alabama when they perform at the Mercedes-Benz Amphitheater on Friday, June 12 at 7:30 p.m., marking the band’s only Alabama stop for their 2026 U.S. Tour. Celebrate Tuscaloosa,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "precipitationChance": 63,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-live-at-the-plaza-2026-05-29-government-plaza",
-      "title": "Live at the Plaza",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/live-at-the-plaza/",
-      "start": "2026-05-29T18:00:00-05:00",
-      "end": "2026-05-29T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Government Plaza",
-      "address": "7th St. and 22th Ave. SE., Tuscaloosa, AL",
-      "description": "Join us every Friday in May and June from 6 – 9 pm at Government Plaza for free, live and local music. Live at the Plaza is family (and pet!) friendly, with a Kid Zone available for fun activities. Grab your crew, a picnic blanket, and som...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 70,
-        "temperatureUnit": "F",
-        "precipitationChance": 58,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "tuscaloosa-patch-live-music-scooters-w-rydin-durty-band-2026-05-29-scooter-s",
       "title": "Live Music @ Scooters w/Rydin’ Durty Band",
@@ -247,14 +27,7 @@
       "address": "Scooter's, 3620 Greensboro Ave, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-05-29",
-        "temperature": 70,
-        "temperatureUnit": "F",
-        "precipitationChance": 58,
-        "periodName": "Tonight"
-      }
+      "isVirtual": false
     },
     {
       "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-05-30-tuscaloosa-river-market",
@@ -272,10 +45,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-30",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Saturday"
+        "precipitationChance": 66,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-05-30-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-05-30T09:00:00-05:00",
+      "end": "2026-05-30T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-05-30",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 66,
+        "periodName": "Today"
       }
     },
     {
@@ -294,10 +89,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-05-30",
-        "temperature": 85,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Saturday"
+        "precipitationChance": 66,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-01-paul-r-jones-museum",
+      "title": "\"The Domestic Liminal\" Exhibition",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
+      "start": "2026-06-01T00:00:00-05:00",
+      "end": "2026-06-01T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-01",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Monday"
       }
     },
     {
@@ -316,9 +133,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 89,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Monday"
       }
     },
@@ -338,9 +155,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 89,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Monday"
       }
     },
@@ -360,9 +177,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 89,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Monday"
       }
     },
@@ -384,7 +201,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -406,7 +223,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -428,7 +245,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -450,7 +267,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -472,7 +289,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +311,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +333,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -538,7 +355,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -560,7 +377,29 @@
         "forecastDate": "2026-06-02",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 25,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-shakes-homecoming-events-2026-06-02-mercedes-benz-amphitheater",
+      "title": "Alabama Shakes “Homecoming” Events",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-homecoming-events/",
+      "start": "2026-06-02T17:00:00-05:00",
+      "end": "2026-06-02T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Alabama Shakes are bringing their long-awaited return home to Alabama when they perform at the Mercedes-Benz Amphitheater on Friday, June 12 at 7:30 p.m., marking the band’s only Alabama stop for their 2026 U.S. Tour. Celebrate Tuscaloosa,...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-02",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
         "periodName": "Tuesday"
       }
     },
@@ -580,10 +419,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 12,
         "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-wellbama-health-screening-2026-06-03-rose-administration-building",
+      "title": "WellBAMA Health Screening",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/wellbama-health-screening-841",
+      "start": "2026-06-03T07:30:00-05:00",
+      "end": "2026-06-03T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rose Administration Building",
+      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
+      "description": "All full-time, benefit eligible employees who attend their annual WellBAMA health screening will receive a T-Shirt, 50 WellBAMA points, and a $50 gift card. Schedule your 15-minute appointment through your wellness portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -602,9 +463,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 19,
+        "precipitationChance": 6,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ol-131-revolutionary-lives-medicine-war-and-the-constitution-2026-06-03-bryant-conference-center",
+      "title": "OL 131 Revolutionary Lives: Medicine, War and the Constitution",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ol-131-revolutionary-lives-medicine-war-and-the-constitution",
+      "start": "2026-06-03T10:30:00-05:00",
+      "end": "2026-06-03T11:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us online for our free public programs — and bring a friend! June 3 – Framing the Conduct of the American Revolutionary War – Dr. Harold Selesky June 10 – Leeches, Laudanum and Liberty: Practicing Medicine in Revolutionary America – D...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-06-03-bryant-conference-center",
+      "title": "TUS 161 Lagniappe – Various Topics",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
+      "start": "2026-06-03T12:00:00-05:00",
+      "end": "2026-06-03T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-06-03",
+      "title": "Make Your Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-8286",
+      "start": "2026-06-03T13:30:00-05:00",
+      "end": "2026-06-03T14:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
         "periodName": "Wednesday"
       }
     },
@@ -624,9 +551,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 19,
+        "precipitationChance": 6,
         "periodName": "Wednesday"
       }
     },
@@ -646,9 +573,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 19,
+        "precipitationChance": 6,
         "periodName": "Wednesday"
       }
     },
@@ -670,7 +597,7 @@
         "forecastDate": "2026-06-04",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 14,
         "periodName": "Thursday"
       }
     },
@@ -692,7 +619,7 @@
         "forecastDate": "2026-06-04",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 14,
         "periodName": "Thursday"
       }
     },
@@ -714,7 +641,7 @@
         "forecastDate": "2026-06-04",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 14,
         "periodName": "Thursday"
       }
     },
@@ -731,7 +658,36 @@
       "address": "620 Greensboro Ave, Tuscaloosa, AL",
       "description": "Visit Downtown Tuscaloosa for First Friday! Take advantage of GREAT regional art, food and maybe a drink to get your weekend started! Please visit each gallery page for specific information about exhibits, activities, hours of operation, w...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-05",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 26,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-live-at-the-plaza-2026-06-05-government-plaza",
+      "title": "Live at the Plaza",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/live-at-the-plaza/",
+      "start": "2026-06-05T18:00:00-05:00",
+      "end": "2026-06-05T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Government Plaza",
+      "address": "7th St. and 22th Ave. SE., Tuscaloosa, AL",
+      "description": "Join us every Friday in May and June from 6 – 9 pm at Government Plaza for free, live and local music. Live at the Plaza is family (and pet!) friendly, with a Kid Zone available for fun activities. Grab your crew, a picnic blanket, and som...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-05",
+        "temperature": 67,
+        "temperatureUnit": "F",
+        "precipitationChance": 26,
+        "periodName": "Friday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-iron-man-2008-2026-06-05-the-historic-bama-theatre",
@@ -746,7 +702,14 @@
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Suit up for action with Robert Downey Jr. in the ultimate adventure movie you’ve been waiting for, Iron Man! When jet-setting genius-industrialist Tony Stark is captured in enemy territory, he builds a high-tech suit of armor to escape. No...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-05",
+        "temperature": 67,
+        "temperatureUnit": "F",
+        "precipitationChance": 26,
+        "periodName": "Friday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-1-2026-06-06-foster-auditorium",
@@ -1004,6 +967,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-dr-strange-2016-2026-06-12-the-historic-bama-theatre",
+      "title": "Dr. Strange (2016)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/dr-strange-2016/",
+      "start": "2026-06-12T07:30:00-05:00",
+      "end": "2026-06-12T13:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "From Marvel Studios comes “Doctor Strange,” the story of world-famous neurosurgeon Dr. Stephen Strange whose life changes forever after a horrific car accident robs him of the use of his hands. When traditional medicine fails him, he is fo...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "mercedes-benz-amphitheater-alabama-shakes-2026-06-12-mercedes-benz-amphitheater",
       "title": "Alabama Shakes",
       "source": "Mercedes-Benz Amphitheater",
@@ -1060,6 +1038,21 @@
       "venue": "Robert E. Witt Student Activity Center",
       "address": "654 ABERCROMBIE LANE, TUSCALOOSA, AL 35401",
       "description": "Register for fitness testing on June 15 and July 13 at the Witt Center from 11:00am–1:00pm. These will help you establish a baseline, practice proper form, and track progress. Each test will take about 45 minutes, so please wear workout at...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-brainstorming-strategies-2026-06-18-employee-resource-center",
+      "title": "Brainstorming Strategies",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/brainstorming-strategies-3245",
+      "start": "2026-06-18T08:30:00-05:00",
+      "end": "2026-06-18T09:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "In this course, you will learn some new techniques to energize your brainstorming sessions, including reversal, random, metaphorical thinking, and fantasy chain brainstorming methods. Adding these techniques to your repertoire will help yo...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1259,6 +1252,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-registration-begins-for-fall-2-2026-08-27",
+      "title": "Registration Begins for Fall 2",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/registration_begins_for_fall_2",
+      "start": "2026-08-27T00:00:00-05:00",
+      "end": "2026-08-27T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Registration Begins for Fall 2",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "mercedes-benz-amphitheater-ty-myers-2026-09-10-mercedes-benz-amphitheater",
       "title": "Ty Myers",
       "source": "Mercedes-Benz Amphitheater",
@@ -1300,6 +1308,21 @@
       "venue": "Mercedes-Benz Amphitheater",
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "The Avett Brothers with support from Drive-By Truckers Show Time: 7:00 PM Gates: 6:00 PM Get Tickets The Avett Brothers, with special guest Drive-By Truckers, will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, October...",
+      "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "mercedes-benz-amphitheater-gov-t-mule-2026-10-09-mercedes-benz-amphitheater",
+      "title": "Gov’t Mule",
+      "source": "Mercedes-Benz Amphitheater",
+      "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/govt-mule/",
+      "start": "2026-10-09T18:00:00-05:00",
+      "end": "2026-10-10T02:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Gov’t Mule | Ziggy Marley Larkin Poe DJ set by Yola Show Time: 6:00 PM Gates: 5:30 PM Get Tickets Gov’t Mule, Ziggy Marley, and Larkin Poe will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, October 9 at 6:00pm. For mor...",
       "category": "Music",
       "isVirtual": false
     },
