@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-31T12:20:32.689Z",
+  "updatedAt": "2026-06-01T16:47:04.064Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-05-31T12:20:32.688Z",
+  "weatherUpdatedAt": "2026-06-01T16:47:04.064Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -30,10 +30,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 90,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Monday"
+        "precipitationChance": 48,
+        "periodName": "Today"
       }
     },
     {
@@ -52,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 90,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Monday"
+        "precipitationChance": 48,
+        "periodName": "Today"
       }
     },
     {
@@ -74,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 90,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Monday"
+        "precipitationChance": 48,
+        "periodName": "Today"
       }
     },
     {
@@ -96,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-01",
-        "temperature": 90,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Monday"
+        "precipitationChance": 48,
+        "periodName": "Today"
       }
     },
     {
@@ -118,9 +118,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -140,9 +140,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -162,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -184,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -206,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -228,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -250,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -272,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -294,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -316,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -338,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 32,
         "periodName": "Tuesday"
       }
     },
@@ -362,7 +362,7 @@
         "forecastDate": "2026-06-02",
         "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 11,
+        "precipitationChance": 27,
         "periodName": "Tuesday Night"
       }
     },
@@ -382,7 +382,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -404,7 +404,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -426,7 +426,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -448,7 +448,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -470,7 +470,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -492,7 +492,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -514,7 +514,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Wednesday"
@@ -536,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-04",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Thursday"
       }
     },
@@ -558,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-04",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Thursday"
       }
     },
@@ -580,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-04",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Thursday"
       }
     },
@@ -604,7 +604,7 @@
         "forecastDate": "2026-06-05",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 2,
         "periodName": "Friday"
       }
     },
@@ -624,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-05",
-        "temperature": 67,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 3,
         "periodName": "Friday Night"
       }
     },
@@ -646,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-05",
-        "temperature": 67,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 3,
         "periodName": "Friday Night"
       }
     },
@@ -670,7 +670,7 @@
         "forecastDate": "2026-06-06",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 14,
         "periodName": "Saturday"
       }
     },
@@ -692,7 +692,7 @@
         "forecastDate": "2026-06-06",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 14,
         "periodName": "Saturday"
       }
     },
@@ -714,7 +714,7 @@
         "forecastDate": "2026-06-06",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 14,
         "periodName": "Saturday"
       }
     },
@@ -736,7 +736,7 @@
         "forecastDate": "2026-06-06",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 14,
         "periodName": "Saturday"
       }
     },
@@ -753,7 +753,14 @@
       "address": "2921 Stillman Blvd. Tuscaloosa, AL 35401",
       "description": "First African Baptist Church invites the community to reflect and remember a pivotal moment in Tuscaloosa’s civil rights history—Bloody Tuesday, June 9, 1964. This commemorative event honors the courage, sacrifice, and resilience of those...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-07",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 31,
+        "periodName": "Sunday"
+      }
     },
     {
       "id": "tuscaloosa-patch-cretaceous-critters-2026-06-08-tuscaloosa-public-library",
