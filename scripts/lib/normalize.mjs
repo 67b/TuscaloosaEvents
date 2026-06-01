@@ -15,6 +15,7 @@ export function normalizeEvent(input) {
   const venue = cleanText(input.venue);
   const address = cleanText(input.address);
   const timeStatus = normalizeTimeStatus(input.timeStatus);
+  const description = formatDescriptionWithAgeGuidance(input.description, input.recommendedAges);
 
   return {
     id: input.id || makeEventId(source, title, start, venue || address),
@@ -27,7 +28,7 @@ export function normalizeEvent(input) {
     timeStatus,
     venue,
     address,
-    description: truncate(cleanText(input.description), 240),
+    description,
     category: cleanText(input.category) || "Community",
     isVirtual: Boolean(input.isVirtual || /virtual|online/i.test(`${venue} ${address}`))
   };
@@ -89,6 +90,41 @@ export function validateEvents(events) {
   });
 
   return errors;
+}
+
+function formatDescriptionWithAgeGuidance(description, recommendedAges) {
+  const cleanedDescription = cleanText(description);
+  const ageGuidance = cleanText(recommendedAges) || extractAgeGuidance(cleanedDescription);
+  if (!ageGuidance) return truncate(cleanedDescription, 240);
+
+  const prefix = `Recommended ages: ${ageGuidance}.`;
+  if (cleanedDescription.toLowerCase().startsWith(prefix.toLowerCase())) {
+    return truncate(cleanedDescription, 240);
+  }
+
+  return truncate([prefix, cleanedDescription].filter(Boolean).join(" "), 240);
+}
+
+function extractAgeGuidance(value) {
+  const text = cleanText(value);
+  if (!text) return "";
+
+  if (/\ball\s+ages\b/i.test(text)) return "All ages";
+  if (/\badults?\s+only\b/i.test(text)) return "Adults only";
+
+  const ageRange = text.match(/\bages?\s+(\d{1,2})\s*(?:-|–|—|to|through)\s*(\d{1,2})\b/i);
+  if (ageRange) return `Ages ${ageRange[1]}–${ageRange[2]}`;
+
+  const childrenAgeRange = text.match(/\b(?:children|kids|toddlers|preschoolers)\s+ages?\s+(\d{1,2})\s*(?:-|–|—|to|through)\s*(\d{1,2})\b/i);
+  if (childrenAgeRange) return `Ages ${childrenAgeRange[1]}–${childrenAgeRange[2]}`;
+
+  const agePlus = text.match(/\bages?\s+(\d{1,2})\s*(?:\+|and\s+(?:up|older)|or\s+older)\b/i);
+  if (agePlus) return `Ages ${agePlus[1]}+`;
+
+  const ageMinimum = text.match(/\b(?:adults?|teens?)\s+(\d{1,2})\s*(?:\+|and\s+(?:up|older)|or\s+older)\b/i);
+  if (ageMinimum) return `Ages ${ageMinimum[1]}+`;
+
+  return "";
 }
 
 function normalizeTimeStatus(value) {
