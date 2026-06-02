@@ -349,8 +349,6 @@ async function fetchPatchEvents() {
 async function safeFetchPatchDetail(url) {
   try {
     const html = await fetchText(url);
-    const visibleDescription = extractPatchEventDescription(html);
-    if (visibleDescription) return { description: visibleDescription };
 
     for (const block of extractJsonLd(html)) {
       const candidates = Array.isArray(block?.["@graph"]) ? block["@graph"] : Array.isArray(block) ? block : [block];
@@ -360,31 +358,21 @@ async function safeFetchPatchDetail(url) {
       }
     }
 
-    return null;
+    const lines = textLines(html);
+    const detailsIndex = lines.findIndex((line) => /^Event Details$/i.test(line));
+    if (detailsIndex < 0) return null;
+
+    const calendarIndex = lines.findIndex((line, index) => index > detailsIndex && /^Add to calendar$/i.test(line));
+    if (calendarIndex < 0) return null;
+
+    const shareIndex = lines.findIndex((line, index) => index > calendarIndex && /^Share$/i.test(line));
+    const descriptionLines = lines.slice(calendarIndex + 2, shareIndex > calendarIndex ? shareIndex : undefined);
+    const description = cleanText(descriptionLines.join(" "));
+
+    return description ? { description } : null;
   } catch {
     return null;
   }
-}
-
-function extractPatchEventDescription(html) {
-  const lines = textLines(html);
-  const detailsIndex = lines.findIndex((line) => /^Event Details$/i.test(line));
-  if (detailsIndex < 0) return "";
-
-  const calendarIndex = lines.findIndex((line, index) => index > detailsIndex && /^Add to calendar$/i.test(line));
-  if (calendarIndex < 0) return "";
-
-  const shareIndex = lines.findIndex((line, index) => index > calendarIndex && /^Share$/i.test(line));
-  const afterCalendar = lines.slice(calendarIndex + 1, shareIndex > calendarIndex ? shareIndex : undefined);
-  const firstDescriptionLine = afterCalendar.findIndex((line) => !isPatchDetailMetadata(line));
-  if (firstDescriptionLine < 0) return "";
-
-  return cleanText(afterCalendar.slice(firstDescriptionLine).join(" "));
-}
-
-function isPatchDetailMetadata(line) {
-  return /^(More info here|https?:\/\/)/i.test(line)
-    || /^(?:.+),\s*AL(?:,?\s*\d{5})?$/i.test(line);
 }
 
 async function fetchLibraryEvents() {
