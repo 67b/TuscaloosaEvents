@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-01T16:47:04.064Z",
+  "updatedAt": "2026-06-02T15:11:17.144Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-01T16:47:04.064Z",
+  "weatherUpdatedAt": "2026-06-02T15:11:17.143Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-01-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-02-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-06-01T00:00:00-05:00",
-      "end": "2026-06-01T00:00:00-05:00",
+      "start": "2026-06-02T00:00:00-05:00",
+      "end": "2026-06-02T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,76 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-01",
-        "temperature": 94,
+        "forecastDate": "2026-06-02",
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-cretaceous-critters-2026-06-01-tuscaloosa-public-library",
-      "title": "Cretaceous Critters",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260601/3c08f88d-5aeb-4c09-81b7-fd832019badd/cretaceous-critters",
-      "start": "2026-06-01T10:00:00-05:00",
-      "end": "2026-06-01T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-01",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-dig-deep-make-a-delicious-dirt-cup-2026-06-01-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "Dig Deep! Make a delicious Dirt Cup",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260601/74e28e15-d1ca-4667-94e8-175199104141/dig-deep-make-a-delicious-dirt-cup",
-      "start": "2026-06-01T13:00:00-05:00",
-      "end": "2026-06-01T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: Ages 6–12. Mix, measure, and devour a cool summer treat. Ages 6-12. Registration required.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-01",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-miss-calliope-2026-06-01-northport-city-hall",
-      "title": "TPL Presents: Miss. Calliope",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260601/69a9b2e3-e8ba-4fd2-ab4b-1d4c793cb3fe/tpl-presents-miss-calliope",
-      "start": "2026-06-01T14:00:00-05:00",
-      "end": "2026-06-01T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Northport City Hall",
-      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
-      "description": "\"From the Soil to the Stars.\" Learn about everything from the soil to the stars through song and dance!",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-01",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 43,
         "periodName": "Today"
       }
     },
@@ -120,8 +54,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -142,8 +76,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -157,15 +91,15 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6.",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -186,8 +120,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -208,8 +142,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -230,8 +164,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -245,15 +179,15 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "\"From the Soil to the Stars.\" Learn about everything from the soil to the stars through song and dance!",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -274,8 +208,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -296,8 +230,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -311,15 +245,15 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Ages 13–18. Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some video games. Ages 13-18.",
+      "description": "Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -340,8 +274,8 @@
         "forecastDate": "2026-06-02",
         "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tuesday"
+        "precipitationChance": 43,
+        "periodName": "Today"
       }
     },
     {
@@ -360,10 +294,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-02",
-        "temperature": 64,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 32,
+        "periodName": "Tonight"
       }
     },
     {
@@ -384,7 +318,7 @@
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -406,7 +340,7 @@
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -428,7 +362,7 @@
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -450,7 +384,7 @@
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -472,7 +406,7 @@
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -487,14 +421,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: All ages. \"Dinosaurs, Reactions, and Explosions, Oh my!\" Learn about the science of dinosaurs through exciting experiments. This program is for all ages.",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -516,7 +450,7 @@
         "forecastDate": "2026-06-03",
         "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Wednesday"
       }
     },
@@ -531,7 +465,7 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3.",
+      "description": "Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
@@ -553,7 +487,7 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Adults only. \"It's time to come out of your shell and kick off Summer Reading with this creative and educational program for adults. Learn about some of Alabama's unique ecology from one of the University...",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
       "isVirtual": false,
       "weather": {
@@ -624,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-05",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 5,
         "periodName": "Friday Night"
       }
     },
@@ -646,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-05",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 5,
         "periodName": "Friday Night"
       }
     },
@@ -668,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-06",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 10,
         "periodName": "Saturday"
       }
     },
@@ -690,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-06",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 10,
         "periodName": "Saturday"
       }
     },
@@ -712,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-06",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 10,
         "periodName": "Saturday"
       }
     },
@@ -729,14 +663,14 @@
       "timeStatus": "confirmed",
       "venue": "Ernest & Hadley Booksellers",
       "address": "Ernest & Hadley Booksellers, 1928 7th St, Tuscaloosa",
-      "description": "Starting June 6, join us in the Blue House at 10am for story time with an activity to follow in the Brick House. Each Saturday until July 25th will feature a different children's book and activity. Please note that adult supervision is required...",
+      "description": "Starting June 6, join us in the Blue House at 10am for story time with an activity to follow in the Brick House. Each Saturday...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-06",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 10,
         "periodName": "Saturday"
       }
     },
@@ -758,7 +692,7 @@
         "forecastDate": "2026-06-07",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 30,
         "periodName": "Sunday"
       }
     },
@@ -775,7 +709,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-08",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 38,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "tuscaloosa-patch-dig-deep-excavation-station-2026-06-08-tuscaloosa-public-library-weaver-bolden-branch",
@@ -788,9 +729,16 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: Ages 6–12. Learn about paleontology and help excavate a T-Rex skeleton with the Alabama Museum of Natural History. Ages 6-12. Registration required.",
+      "description": "Recommended ages: Ages 6–12. Learn about paleontology and help excavate a T-Rex skeleton with the Alabama Museum of Natural History.Ages 6-12.Registration...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-08",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 38,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "tuscaloosa-patch-tpl-presents-dynamic-education-2026-06-08-northport-city-hall",
@@ -803,9 +751,16 @@
       "timeStatus": "confirmed",
       "venue": "Northport City Hall",
       "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
-      "description": "Recommended ages: All ages. \"Dinosaurs, Reactions, and Explosions, Oh my!\" Learn about the science of dinosaurs through exciting experiments. This program is for all ages.",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-08",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 38,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "visit-tuscaloosa-alabama-volleyball-skills-camp-serving-and-passing-2026-06-09-foster-auditorium",
@@ -833,7 +788,7 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6.",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
       "category": "Community",
       "isVirtual": false
     },
@@ -938,7 +893,7 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: All ages. Learn about kindness with this funny, dino-themed show. This program is for all ages. Located at the Weaver Bolden Branch of the Tuscaloosa Public Library.",
+      "description": "Recommended ages: All ages. Learn about kindness with this funny, dino-themed show. This program is for all ages. Located at the Weaver Bolden Branch of...",
       "category": "Community",
       "isVirtual": false
     },
@@ -968,7 +923,52 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3.",
+      "description": "Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-dig-deep-dino-sun-paint-2026-06-11-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "Dig Deep! Dino Sun Paint",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260611/cf9093a7-a33a-41b9-a8c2-087ab4d9d557/dig-deep-dino-sun-paint",
+      "start": "2026-06-11T13:00:00-05:00",
+      "end": "2026-06-11T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Recommended ages: Ages 6–12. Use the power of the sun and learn how to make a cyanotype, also known as a sun print.Ages 6-12.Registration required.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-string-art-2026-06-11-tuscaloosa-public-library",
+      "title": "String Art",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260611/b3ee1848-f8f0-4157-b2fa-fa65c9f5a86e/string-art",
+      "start": "2026-06-11T17:30:00-05:00",
+      "end": "2026-06-11T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-triassic-tweens-2026-06-11-tuscaloosa-public-library",
+      "title": "Triassic Tweens",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260611/fb90c3c9-292c-4996-b2e3-e5d2be0354f5/triassic-tweens",
+      "start": "2026-06-11T17:30:00-05:00",
+      "end": "2026-06-11T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: Ages 9–12. This program is for ages 9-12. Registration is required and will begin a week before the program date. More info coming soon.",
       "category": "Community",
       "isVirtual": false
     },
