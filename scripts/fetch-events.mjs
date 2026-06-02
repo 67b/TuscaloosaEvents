@@ -325,16 +325,18 @@ async function fetchPatchEvents() {
 
       const start = buildIso({ ...dateParts, ...time });
       const location = cleanText(htmlToText(item[4]));
+      const sourceUrl = new URL(item[1], "https://patch.com").toString();
+      const detail = await safeFetchPatchDetail(sourceUrl);
       events.push({
         title,
         source: "Tuscaloosa Patch",
-        sourceUrl: new URL(item[1], "https://patch.com").toString(),
+        sourceUrl,
         start,
         end: addHours(start, 1),
         allDay: false,
         venue: location.split(",")[0],
         address: location,
-        description: "Local event listed on Patch's Tuscaloosa calendar.",
+        description: detail?.description || "Local event listed on Patch's Tuscaloosa calendar.",
         category: "Community",
         isVirtual: false
       });
@@ -342,6 +344,47 @@ async function fetchPatchEvents() {
   }
 
   return events;
+}
+
+async function safeFetchPatchDetail(url) {
+  try {
+    const html = await fetchText(url);
+    const visibleDescription = extractPatchEventDescription(html);
+    if (visibleDescription) return { description: visibleDescription };
+
+    for (const block of extractJsonLd(html)) {
+      const candidates = Array.isArray(block?.["@graph"]) ? block["@graph"] : Array.isArray(block) ? block : [block];
+      const event = candidates.find((item) => item?.["@type"] === "Event" && item.description);
+      if (event) {
+        return { description: cleanText(htmlToText(event.description)) };
+      }
+    }
+
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+function extractPatchEventDescription(html) {
+  const lines = textLines(html);
+  const detailsIndex = lines.findIndex((line) => /^Event Details$/i.test(line));
+  if (detailsIndex < 0) return "";
+
+  const calendarIndex = lines.findIndex((line, index) => index > detailsIndex && /^Add to calendar$/i.test(line));
+  if (calendarIndex < 0) return "";
+
+  const shareIndex = lines.findIndex((line, index) => index > calendarIndex && /^Share$/i.test(line));
+  const afterCalendar = lines.slice(calendarIndex + 1, shareIndex > calendarIndex ? shareIndex : undefined);
+  const firstDescriptionLine = afterCalendar.findIndex((line) => !isPatchDetailMetadata(line));
+  if (firstDescriptionLine < 0) return "";
+
+  return cleanText(afterCalendar.slice(firstDescriptionLine).join(" "));
+}
+
+function isPatchDetailMetadata(line) {
+  return /^(More info here|https?:\/\/)/i.test(line)
+    || /^(?:.+),\s*AL(?:,?\s*\d{5})?$/i.test(line);
 }
 
 async function fetchLibraryEvents() {
