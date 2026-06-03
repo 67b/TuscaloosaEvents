@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-02T15:11:17.144Z",
+  "updatedAt": "2026-06-03T15:54:23.682Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-02T15:11:17.143Z",
+  "weatherUpdatedAt": "2026-06-03T15:54:23.682Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -11,16 +11,17 @@
     "Mercedes-Benz Amphitheater"
   ],
   "warnings": [
+    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://visittuscaloosa.com/events/\ncurl: (35) Recv failure: Connection reset by peer\n",
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-02-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-03-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-06-02T00:00:00-05:00",
-      "end": "2026-06-02T00:00:00-05:00",
+      "start": "2026-06-03T00:00:00-05:00",
+      "end": "2026-06-03T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,275 +30,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
+        "forecastDate": "2026-06-03",
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 0,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-06-02-rose-administration-building",
-      "title": "UA faculty/staff headshots",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
-      "start": "2026-06-02T08:30:00-05:00",
-      "end": "2026-06-02T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rose Administration Building",
-      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
-      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-06-02-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-06-02T09:00:00-05:00",
-      "end": "2026-06-02T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-storytime-o-saurus-2026-06-02-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "Storytime-o-saurus",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260602/76dd75ab-1e90-4e3e-ad6e-bee5bc73a572/storytime-o-saurus",
-      "start": "2026-06-02T10:00:00-05:00",
-      "end": "2026-06-02T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-building-confidence-with-resistance-machines-2026-06-02-university-recreation-center",
-      "title": "Building Confidence with Resistance Machines",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/building-confidence-with-resistance-machines",
-      "start": "2026-06-02T12:00:00-05:00",
-      "end": "2026-06-02T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University Recreation Center",
-      "address": "",
-      "description": "This interactive session builds employee confidence using resistance machines, including pin-select and plate-loaded equipment, by combining foundational instruction with hands-on experience. Participants first learn resistance training fu...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-graduate-programs-applications-and-admissions-process-q-and-a-session-2026-06-02",
-      "title": "Graduate Programs Applications & Admissions Process Q&A Session",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/graduate-programs-applications-admissions-process-qa-session",
-      "start": "2026-06-02T12:00:00-05:00",
-      "end": "2026-06-02T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Joing us to learn more about our graduate programs admissions requirements and application process, including application tips and best practices, and program options and opportunities.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-gad-131-trash-trolls-treasure-2026-06-02-church-of-the-holy-comforter",
-      "title": "GAD 131 Trash, Trolls, Treasure",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gad-131-trash-trolls-treasure",
-      "start": "2026-06-02T13:30:00-05:00",
-      "end": "2026-06-02T14:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Church of the Holy Comforter",
-      "address": "156 S 9th St, Gadsden, AL 35901",
-      "description": "Join us online for our free public programs — and bring a friend! Learn how Danish artist Thomas Dambo transforms recycled wood into giant troll sculptures found around the world. Frances Douglas introduces Dambo's imaginative works — from...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-miss-calliope-2026-06-02-tuscaloosa-public-library",
-      "title": "TPL Presents: Miss Calliope",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260602/a0fe1047-ed53-43ab-b942-21f92fbde882/tpl-presents-miss-calliope",
-      "start": "2026-06-02T14:00:00-05:00",
-      "end": "2026-06-02T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-tuesday-s-tuscaloosa-farmers-market-2026-06-02-tuscaloosa-river-market",
-      "title": "Tuesday’s Tuscaloosa Farmers Market",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuesdays-tuscaloosa-farmers-market/",
-      "start": "2026-06-02T15:00:00-05:00",
-      "end": "2026-06-02T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Enjoy Tuscaloosa’s Tuesday Farmers Markets at the River Market every June and July from 3 to 7 p.m., featuring fresh local produce, baked goods, artisan crafts, and food trucks. It’s the perfect midweek outing, especially with a scenic str...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-psychological-safety-2026-06-02-employee-resource-center",
-      "title": "Psychological Safety",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/psychological-safety-398",
-      "start": "2026-06-02T15:30:00-05:00",
-      "end": "2026-06-02T16:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Empower your Role - Create a Culture of Trust and Openess. Unlock your Team's Potential: Built Trust, Speak Freely, Thrive Together! This course introduces the concept of psychological safety and how to create an environment where employee...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-teen-lab-2026-06-02-tuscaloosa-public-library",
-      "title": "Teen Lab",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260602/80b9e2d3-4be8-4c4f-99be-b3ed75af8d61/teen-lab",
-      "start": "2026-06-02T16:00:00-05:00",
-      "end": "2026-06-02T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-shakes-homecoming-events-2026-06-02-mercedes-benz-amphitheater",
-      "title": "Alabama Shakes “Homecoming” Events",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-homecoming-events/",
-      "start": "2026-06-02T17:00:00-05:00",
-      "end": "2026-06-02T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Alabama Shakes are bringing their long-awaited return home to Alabama when they perform at the Mercedes-Benz Amphitheater on Friday, June 12 at 7:30 p.m., marking the band’s only Alabama stop for their 2026 U.S. Tour. Celebrate Tuscaloosa,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "precipitationChance": 43,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-jumanji-1995-2026-06-02-the-historic-bama-theatre",
-      "title": "Jumanji (1995)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/jumanji-1995/",
-      "start": "2026-06-02T19:00:00-05:00",
-      "end": "2026-06-03T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Two kids discover an old board game and when they start playing it they are greeted by a man who has spent years trapped inside the game since playing it at age 12. His only hope for freedom involves finishing the dangerous game. Runtime:...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-02",
-        "temperature": 66,
-        "temperatureUnit": "F",
-        "precipitationChance": 32,
-        "periodName": "Tonight"
       }
     },
     {
@@ -316,10 +53,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -338,10 +75,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-06-03-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-06-03T09:00:00-05:00",
+      "end": "2026-06-03T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -360,10 +119,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -382,10 +141,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -404,10 +163,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-ally-for-students-2026-06-03",
+      "title": "Ally for Students",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ally-for-students",
+      "start": "2026-06-03T14:30:00-05:00",
+      "end": "2026-06-03T15:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Blackboard’s Ally tool gives students multiple ways to engage with their class content. This session take a hands-on look at the formats generated by Ally.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-03",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -426,10 +207,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -448,10 +229,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-03",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -470,9 +251,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-04",
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-mid-morning-walking-break-2026-06-04-gorgas-library",
+      "title": "Mid-Morning Walking Break",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
+      "start": "2026-06-04T10:00:00-05:00",
+      "end": "2026-06-04T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas Library",
+      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
+      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-04",
+        "temperature": 83,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-fixing-a-pdf-2026-06-04",
+      "title": "Fixing a PDF",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fixing-a-pdf",
+      "start": "2026-06-04T13:00:00-05:00",
+      "end": "2026-06-04T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "PDFs are a great way to share information, but they can be kind of intimidating when it comes to making them accessible. This session will examine basic ways to remediate two different types of PDFs to make them more accessible.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-04",
+        "temperature": 83,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ultra-basics-2026-06-04",
+      "title": "Ultra Basics",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ultra-basics-2143",
+      "start": "2026-06-04T14:00:00-05:00",
+      "end": "2026-06-04T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join this session to learn the basics: navigation, key features, and how to build course content from scratch and by copying other Bb courses. This session is for instructors, teaching assistants, and course designers and builders.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-04",
+        "temperature": 83,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
         "periodName": "Thursday"
       }
     },
@@ -492,9 +339,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-04",
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Thursday"
       }
     },
@@ -514,25 +361,25 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-04",
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Thursday"
       }
     },
     {
-      "id": "visit-tuscaloosa-first-friday-2026-06-05-dinah-washington-cultural-arts-center",
-      "title": "First Friday",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/first-friday-2/",
-      "start": "2026-06-05T17:00:00-05:00",
-      "end": "2026-06-05T20:00:00-05:00",
+      "id": "university-of-alabama-alabama-opioid-prevention-summit-prattville-2026-06-05-marriott-at-capitol-hill",
+      "title": "Alabama Opioid Prevention Summit - Prattville",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/alabama-opioid-prevention-summit-prattville",
+      "start": "2026-06-05T08:30:00-05:00",
+      "end": "2026-06-05T16:15:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "Dinah Washington Cultural Arts Center",
-      "address": "620 Greensboro Ave, Tuscaloosa, AL",
-      "description": "Visit Downtown Tuscaloosa for First Friday! Take advantage of GREAT regional art, food and maybe a drink to get your weekend started! Please visit each gallery page for specific information about exhibits, activities, hours of operation, w...",
-      "category": "Community",
+      "venue": "Marriott at Capitol Hill",
+      "address": "2500 Legends Circle, Prattville, AL",
+      "description": "The First Annual Alabama Opioid Prevention Summit, presented by VitAL and the Alabama Department of Mental Health, brings together prevention professionals, health care providers, community leaders and policymakers committed to addressing...",
+      "category": "Campus",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-05",
@@ -540,116 +387,6 @@
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Friday"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-live-at-the-plaza-2026-06-05-government-plaza",
-      "title": "Live at the Plaza",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/live-at-the-plaza/",
-      "start": "2026-06-05T18:00:00-05:00",
-      "end": "2026-06-05T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Government Plaza",
-      "address": "7th St. and 22th Ave. SE., Tuscaloosa, AL",
-      "description": "Join us every Friday in May and June from 6 – 9 pm at Government Plaza for free, live and local music. Live at the Plaza is family (and pet!) friendly, with a Kid Zone available for fun activities. Grab your crew, a picnic blanket, and som...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-05",
-        "temperature": 65,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Friday Night"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-iron-man-2008-2026-06-05-the-historic-bama-theatre",
-      "title": "Iron Man (2008)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/iron-man-2008/",
-      "start": "2026-06-05T19:30:00-05:00",
-      "end": "2026-06-06T01:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Suit up for action with Robert Downey Jr. in the ultimate adventure movie you’ve been waiting for, Iron Man! When jet-setting genius-industrialist Tony Stark is captured in enemy territory, he builds a high-tech suit of armor to escape. No...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-05",
-        "temperature": 65,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Friday Night"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-1-2026-06-06-foster-auditorium",
-      "title": "Alabama Volleyball Camp: College Prep 1",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-camp-college-prep-1/",
-      "start": "2026-06-06T00:00:00-05:00",
-      "end": "2026-06-07T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "Foster Auditorium",
-      "address": "801 6th Ave , Tuscaloosa, AL 35487",
-      "description": "The University of Alabama Volleyball program is proud to announce that registration is now open for the 2026 Alabama Volleyball Summer Camps. This summer, the Crimson Tide is extending a special invitation to local players, aspiring athlet...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-06-06-tuscaloosa-river-market",
-      "title": "Tuscaloosa Farmers Market",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
-      "start": "2026-06-06T07:00:00-05:00",
-      "end": "2026-06-06T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Every Saturday morning @ 7am! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that cannot be replicated, the Tuscaloosa Farmers Market has something for everyone! Support local fa...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-bumby-s-corner-a-children-s-story-time-hour-at-ernest-and-hadley-booksellers-2026-06-06-ernest-and-hadl",
-      "title": "Bumby’s Corner, a children’s story time hour at Ernest and Hadley Booksellers!",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/bumbys-corner-a-childrens-story-time-hour-at-ernest-and-hadley-booksellers/",
-      "start": "2026-06-06T10:00:00-05:00",
-      "end": "2026-06-06T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Ernest & Hadley Booksellers",
-      "address": "1928 7th St, Tuscaloosa, AL",
-      "description": "Starting June 6, join us in the Blue House at 10am for story time with an activity to follow in the Brick House. Each Saturday until July 25th will feature a different children’s book and activity. Please note that adult supervision is req...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Saturday"
       }
     },
     {
@@ -668,32 +405,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-06",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 25,
         "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-remembering-tuscaloosa-s-bloody-tuesday-2026-06-07-2921-stillman-blvd-tuscaloosa-al-35401",
-      "title": "Remembering Tuscaloosa’s Bloody Tuesday",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/remembering-bloody-tuesday/",
-      "start": "2026-06-07T14:00:00-05:00",
-      "end": "2026-06-07T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "2921 Stillman Blvd., Tuscaloosa, AL 35401",
-      "address": "2921 Stillman Blvd. Tuscaloosa, AL 35401",
-      "description": "First African Baptist Church invites the community to reflect and remember a pivotal moment in Tuscaloosa’s civil rights history—Bloody Tuesday, June 9, 1964. This commemorative event honors the courage, sacrifice, and resilience of those...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-07",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Sunday"
       }
     },
     {
@@ -714,7 +429,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -736,7 +451,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -758,24 +473,9 @@
         "forecastDate": "2026-06-08",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-volleyball-skills-camp-serving-and-passing-2026-06-09-foster-auditorium",
-      "title": "Alabama Volleyball Skills Camp: Serving and Passing",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-skills-camp-serving-and-passing/",
-      "start": "2026-06-09T08:00:00-05:00",
-      "end": "2026-06-09T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "801 6th Ave, Tuscaloosa, AL 35487",
-      "description": "This year, the Alabama volleyball program is making a focused effort to bring home-state talent through its doors. From Tuscaloosa and Birmingham to Huntsville, Montgomery, and Mobile — if you call Alabama home, there is a spot in this gym...",
-      "category": "Community",
-      "isVirtual": false
     },
     {
       "id": "tuscaloosa-patch-storytime-o-saurus-2026-06-09-tuscaloosa-public-library-weaver-bolden-branch",
@@ -790,37 +490,14 @@
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
       "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
       "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-ferris-bueller-s-day-off-1986-2026-06-09-the-historic-bama-theatre",
-      "title": "Ferris Bueller’s Day Off (1986)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/ferris-buellers-day-off-1986/",
-      "start": "2026-06-09T19:00:00-05:00",
-      "end": "2026-06-10T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "A charismatic high-school student convinces his repressed best friend to play hooky with him and his girlfriend and attempts to bring the young man out of his shell during a memorable day in Chicago. Runtime: 103 minutes Rating: PG-13 Star...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-volleyball-skills-camp-setting-and-attacking-2026-06-10-foster-auditorium",
-      "title": "Alabama Volleyball Skills Camp: Setting and Attacking",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-skills-camp-setting-and-attacking/",
-      "start": "2026-06-10T08:00:00-05:00",
-      "end": "2026-06-10T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "801 6th Ave, Tuscaloosa, AL 35487",
-      "description": "This year, the Alabama volleyball program is making a focused effort to bring home-state talent through its doors. From Tuscaloosa and Birmingham to Huntsville, Montgomery, and Mobile — if you call Alabama home, there is a spot in this gym...",
-      "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-09",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "university-of-alabama-necessary-knowledge-and-third-party-resolution-for-supervisors-2026-06-10-employee-resource-center",
@@ -835,21 +512,6 @@
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "ATTENTION -Registration is required five (5) days before your session start date. -This course is for supervisors of non-student employees. Behavioral Expectations Supported: Effective Communication, Collaboration, Continuous Improvement h...",
       "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-shrek-2001-2026-06-10-the-historic-bama-theatre",
-      "title": "Shrek (2001)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/shrek-2001/",
-      "start": "2026-06-10T10:00:00-05:00",
-      "end": "2026-06-10T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "A green ogre living a life of solitude in a far away swamp, Shrek is suddenly invaded by a horde of fairy tale characters, such as the Big Bad Wolf and the Three Little Pigs, all refugees of their homes who have been shunned by the evil Lo...",
-      "category": "Community",
       "isVirtual": false
     },
     {
@@ -973,17 +635,17 @@
       "isVirtual": false
     },
     {
-      "id": "visit-tuscaloosa-dr-strange-2016-2026-06-12-the-historic-bama-theatre",
-      "title": "Dr. Strange (2016)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/dr-strange-2016/",
-      "start": "2026-06-12T07:30:00-05:00",
-      "end": "2026-06-12T13:30:00-05:00",
+      "id": "tuscaloosa-patch-the-community-summit-2026-06-12-hotel-capstone",
+      "title": "The Community Summit",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260612/877f8858-0462-4082-ada7-58db52a9036b/the-community-summit",
+      "start": "2026-06-12T08:00:00-05:00",
+      "end": "2026-06-12T14:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "From Marvel Studios comes “Doctor Strange,” the story of world-famous neurosurgeon Dr. Stephen Strange whose life changes forever after a horrific car accident robs him of the use of his hands. When traditional medicine fails him, he is fo...",
+      "venue": "Hotel Capstone",
+      "address": "Hotel Capstone, 320 Paul W Bryant Dr, Tuscaloosa",
+      "description": "Alabama's Nonprofit Leaders Have One Day to Change Everything. June 12. Hotel Capstone. 8am to 6pm. Every...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1003,17 +665,32 @@
       "isVirtual": false
     },
     {
-      "id": "visit-tuscaloosa-alabama-shakes-with-the-secret-sisters-2026-06-12-mercedes-benz-amphitheater",
-      "title": "Alabama Shakes with The Secret Sisters",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-shakes-with-the-secret-sisters/",
-      "start": "2026-06-12T19:30:00-05:00",
-      "end": "2026-06-13T01:30:00-05:00",
+      "id": "tuscaloosa-patch-live-music-jake-s-juke-joint-w-30-06-band-2026-06-12-jake-s-juke-joint",
+      "title": "Live Music@ Jake’s Juke Joint W/30-06 Band",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260612/2b8f36bf-1ee9-4962-96c0-b2caf56ea52e/live-music-jake-s-juke-joint-w-30-06-band",
+      "start": "2026-06-12T20:30:00-05:00",
+      "end": "2026-06-13T02:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Alabama Shakes are returning to Tuscaloosa on Friday, June 12th with support from The Secret Sisters! Alabama Shakes are poised to make their return, announcing a 2026 Tour across the U.S. The Athens, AL-raised band comprised of vocalist/g...",
+      "venue": "Jake's Juke Joint",
+      "address": "Jake's Juke Joint, 5675 US-43, Northport",
+      "description": "Looking for a great restaurant in Northport to enjoy a steak and music? Come out to Jake’s on June 12th, get there early and...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-saturday-in-the-park-necklace-making-2026-06-13-moundville-archaeological-park",
+      "title": "Saturday in the Park: Necklace Making",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260613/4a7b5c35-a3e7-439b-9e47-a9f1a0b8df6e/saturday-in-the-park-necklace-making",
+      "start": "2026-06-13T09:00:00-05:00",
+      "end": "2026-06-13T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
+      "description": "On Saturday, June 13, 2026, visitors are invited to create your own necklace inspired by Moundville’s traditions! Join two site...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1045,21 +722,6 @@
       "address": "654 ABERCROMBIE LANE, TUSCALOOSA, AL 35401",
       "description": "Register for fitness testing on June 15 and July 13 at the Witt Center from 11:00am–1:00pm. These will help you establish a baseline, practice proper form, and track progress. Each test will take about 45 minutes, so please wear workout at...",
       "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-bring-it-on-2000-2026-06-16-the-historic-bama-theatre",
-      "title": "Bring It On (2000)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/bring-it-on-2000/",
-      "start": "2026-06-16T19:00:00-05:00",
-      "end": "2026-06-17T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "A cheerleading-squad captain faces stiff competition from an inner-city squad, plus she must train a new team member and replace routines her former captain stole from other squads Runtime: 99 minutes Rating: PG-13 Starring: Kirsten Dunst,...",
-      "category": "Community",
       "isVirtual": false
     },
     {
