@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-06T12:18:04.682Z",
+  "updatedAt": "2026-06-07T12:52:20.386Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-06T12:18:04.682Z",
+  "weatherUpdatedAt": "2026-06-07T12:52:20.385Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -11,16 +11,16 @@
     "Mercedes-Benz Amphitheater"
   ],
   "warnings": [
-    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
+    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (28) Failed to connect to www.tuscaloosa-library.org port 443 after 134435 ms: Couldn't connect to server\n"
   ],
   "events": [
     {
-      "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-1-2026-06-06-foster-auditorium",
+      "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-1-2026-06-07-foster-auditorium",
       "title": "Alabama Volleyball Camp: College Prep 1",
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-camp-college-prep-1/",
-      "start": "2026-06-06T00:00:00-05:00",
-      "end": "2026-06-07T05:00:00-05:00",
+      "start": "2026-06-07T00:00:00-05:00",
+      "end": "2026-06-08T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
       "venue": "Foster Auditorium",
@@ -29,120 +29,10 @@
       "category": "Community",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 90,
+        "forecastDate": "2026-06-07",
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-psi-the-climb-more-than-blue-documentary-screening-2026-06-06-the-historic-bama-theatre",
-      "title": "PSI – The Climb: More Than Blue Documentary Screening",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/psi-the-climb-more-than-blue-documentary-screening/",
-      "start": "2026-06-06T00:00:00-05:00",
-      "end": "2026-06-07T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Avenue, Tuscaloosa, AL 35401",
-      "description": "Join us for a meaningful evening of connection, awareness, and impact as we gather for a special screening of More Than Blue in support of Postpartum Support International (PSI) Alabama through The Climb. This event is more than a movie—it...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-2026-06-06-tuscaloosa-river-market",
-      "title": "Tuscaloosa Farmers Market",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
-      "start": "2026-06-06T07:00:00-05:00",
-      "end": "2026-06-06T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Every Saturday morning @ 7am! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that cannot be replicated, the Tuscaloosa Farmers Market has something for everyone! Support local fa...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-06-06-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-06-06T09:00:00-05:00",
-      "end": "2026-06-06T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-bumby-s-corner-a-children-s-story-time-hour-at-ernest-and-hadley-booksellers-2026-06-06-ernest-and-hadl",
-      "title": "Bumby’s Corner, a children’s story time hour at Ernest and Hadley Booksellers!",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/bumbys-corner-a-childrens-story-time-hour-at-ernest-and-hadley-booksellers/",
-      "start": "2026-06-06T10:00:00-05:00",
-      "end": "2026-06-06T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Ernest & Hadley Booksellers",
-      "address": "1928 7th St, Tuscaloosa, AL",
-      "description": "Starting June 6, join us in the Blue House at 10am for story time with an activity to follow in the Brick House. Each Saturday until July 25th will feature a different children’s book and activity. Please note that adult supervision is req...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-introducing-bumby-s-corner-a-children-s-story-time-hour-at-ernest-and-hadley-booksellers-2026-06-06-ern",
-      "title": "Introducing Bumby's Corner, a children's story time hour at Ernest and Hadley Booksellers",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260606/1521c856-d9c3-4d0d-8a58-af144d171b6d/introducing-bumbys-corner-a-children-s-story-time-hour-at-ernest-and-hadley-booksellers",
-      "start": "2026-06-06T10:00:00-05:00",
-      "end": "2026-06-06T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Ernest & Hadley Booksellers",
-      "address": "Ernest & Hadley Booksellers, 1928 7th St, Tuscaloosa",
-      "description": "Starting June 6, join us in the Blue House at 10am for story time with an activity to follow in the Brick House. Each Saturday...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-06",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 90,
         "periodName": "Today"
       }
     },
@@ -162,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-07",
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 91,
-        "periodName": "Sunday"
+        "precipitationChance": 90,
+        "periodName": "Today"
       }
     },
     {
@@ -186,7 +76,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -208,7 +98,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -223,14 +113,14 @@
       "timeStatus": "unknown",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest and Hadley Booksel...",
+      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Volley...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -252,7 +142,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -274,7 +164,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -289,14 +179,14 @@
       "timeStatus": "confirmed",
       "venue": "Weaver Bolden Library",
       "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 6–12. Learn about paleontology and help excavate a T-Rex skeleton with the Alabama Museum of Natural History. Ages 6-12. Registration required. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest and...",
+      "description": "Recommended ages: Ages 6–12. Learn about paleontology and help excavate a T-Rex skeleton with the Alabama Museum of Natural History. Ages 6-12. Registration required. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ###...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -318,7 +208,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -340,7 +230,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -355,14 +245,14 @@
       "timeStatus": "confirmed",
       "venue": "Northport City Hall/Civic Center",
       "address": "3500 McFarland Blvd, Northport, AL 35476",
-      "description": "Recommended ages: All ages. “Dinosaurs, Reactions, and Explosions, Oh my!” Learn about the science of dinosaurs through exciting experiments. This program is for all ages. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest...",
+      "description": "Recommended ages: All ages. “Dinosaurs, Reactions, and Explosions, Oh my!” Learn about the science of dinosaurs through exciting experiments. This program is for all ages. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -384,7 +274,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -406,7 +296,7 @@
         "forecastDate": "2026-06-08",
         "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 52,
         "periodName": "Monday"
       }
     },
@@ -428,7 +318,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -450,7 +340,29 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-06-09-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-06-09T09:00:00-05:00",
+      "end": "2026-06-09T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-09",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -465,14 +377,14 @@
       "timeStatus": "confirmed",
       "venue": "Weaver Bolden Library",
       "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest and Hadley Booksellers! View Bookmarks ### Alab...",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Volleyball Camp: College Prep 1 Vie...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +406,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +428,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -538,7 +450,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -560,7 +472,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -582,7 +494,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -604,7 +516,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday"
       }
     },
@@ -626,7 +538,7 @@
         "forecastDate": "2026-06-09",
         "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Tuesday Night"
       }
     },
@@ -646,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -668,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -690,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -707,14 +619,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, 1801 Jack Warner Pkwy, AL 35401",
-      "description": "Recommended ages: All ages. Learn about kindness with this funny, dino-themed show. This program is for all ages. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest and Hadley Booksellers! View Bookmarks ### Alabama Volley...",
+      "description": "Recommended ages: All ages. Learn about kindness with this funny, dino-themed show. This program is for all ages. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Volleyball Camp: College Prep 1 View Bookmark...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -734,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -756,9 +668,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -778,9 +690,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -795,14 +707,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest and Hadley Booksel...",
+      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Volley...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -822,9 +734,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-10",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -839,12 +751,12 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3. #### Map ### Bumby’s Corner, a children’s story time hour at Ernest and Had...",
+      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Ala...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-11",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
         "precipitationChance": 18,
         "periodName": "Thursday"
@@ -866,7 +778,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-11",
-        "temperature": 93,
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-dig-deep-dino-sun-paint-2026-06-11-weaver-bolden-library",
+      "title": "Dig Deep! Dino Sun Paint",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/dig-deep-dino-sun-paint/",
+      "start": "2026-06-11T13:00:00-05:00",
+      "end": "2026-06-11T14:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Weaver Bolden Library",
+      "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 6–12. Use the power of the sun and learn how to make a cyanotype, also known as a sun print. Ages 6-12. Registration required. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Volleybal...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-11",
+        "temperature": 92,
         "temperatureUnit": "F",
         "precipitationChance": 18,
         "periodName": "Thursday"
@@ -888,7 +822,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-11",
-        "temperature": 93,
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-string-art-2026-06-11-tuscaloosa-public-library",
+      "title": "String Art",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/string-art/",
+      "start": "2026-06-11T17:30:00-05:00",
+      "end": "2026-06-11T18:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "“Let’s get tangled up in a good craft! Grab a friend and join us for a fun evening of DIY string art and friendship bracelets. All supplies provided.” #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Volleyba...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-11",
+        "temperature": 92,
         "temperatureUnit": "F",
         "precipitationChance": 18,
         "periodName": "Thursday"
@@ -910,7 +866,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-11",
-        "temperature": 93,
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-triassic-tweens-2026-06-11-tuscaloosa-public-library",
+      "title": "Triassic Tweens",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/triassic-tweens-2/",
+      "start": "2026-06-11T17:30:00-05:00",
+      "end": "2026-06-11T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 9–12. This program is for ages 9-12. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Remembering Tuscaloosa’s Bloody Tuesday View Bookmarks ### Alabama Voll...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-11",
+        "temperature": 92,
         "temperatureUnit": "F",
         "precipitationChance": 18,
         "periodName": "Thursday"
@@ -932,7 +910,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-11",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
         "precipitationChance": 18,
         "periodName": "Thursday"
@@ -956,7 +934,7 @@
         "forecastDate": "2026-06-12",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 38,
         "periodName": "Friday"
       }
     },
@@ -976,9 +954,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-12",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 38,
         "periodName": "Friday Night"
       }
     },
@@ -998,9 +976,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-12",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 38,
         "periodName": "Friday Night"
       }
     },
@@ -1017,7 +995,14 @@
       "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
       "description": "On Saturday, June 13, 2026, visitors are invited to create your own necklace inspired by Moundville’s traditions! Join two site...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-13",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 45,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "tuscaloosa-patch-color-me-crazy-byo-tie-dye-2026-06-13-tuscaloosa-public-library",
@@ -1032,7 +1017,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Let's get colorful! Bring your own white shirt or bag or whatever you desire-be creative- and get ready to work your color...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-13",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 45,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "tuscaloosa-patch-safe-kids-safety-fair-2026-06-13-northport-city-hall",
@@ -1047,7 +1039,14 @@
       "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
       "description": "Join us for an engaging community day dedicated to family well-being! This fair features free food, interactive safety games, a...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-13",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 45,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "mercedes-benz-amphitheater-38-special-and-kansas-2026-06-13-mercedes-benz-amphitheater",
@@ -1062,7 +1061,14 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "38 Special and Kansas with Brother Cane Show Time: 6:00 PM Gate Time: 5:00 PM Get Tickets Classic rock legends 38 Special and Kansas, with Brother Cane, will bring decades of iconic hits to the Mercedes-Benz Amphitheater in Tuscaloosa on S...",
       "category": "Music",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-13",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "precipitationChance": 45,
+        "periodName": "Saturday Night"
+      }
     },
     {
       "id": "tuscaloosa-patch-cretaceous-critters-2026-06-15-tuscaloosa-public-library",
@@ -1121,6 +1127,21 @@
       "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
       "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
       "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-the-science-guys-of-atlanta-2026-06-16-tuscaloosa-public-library",
+      "title": "TPL Presents: The Science Guys of Atlanta",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260616/3e2646e6-14a1-4035-affd-2cb3548f5e9a/tpl-presents-the-science-guys-of-atlanta",
+      "start": "2026-06-16T14:00:00-05:00",
+      "end": "2026-06-16T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "“Journey to the Center of the Earth.” Make your way to the Earth's core with this interactive, science show. This program is...",
       "category": "Community",
       "isVirtual": false
     },
