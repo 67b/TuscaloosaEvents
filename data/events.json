@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-13T12:58:03.132Z",
+  "updatedAt": "2026-06-14T13:03:57.369Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-13T12:58:03.132Z",
+  "weatherUpdatedAt": "2026-06-14T13:03:57.369Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,278 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "mercedes-benz-amphitheater-alabama-shakes-2026-06-12-mercedes-benz-amphitheater",
-      "title": "Alabama Shakes",
-      "source": "Mercedes-Benz Amphitheater",
-      "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/alabama-shakes/",
-      "start": "2026-06-12T19:30:00-05:00",
-      "end": "2026-06-13T03:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Alabama Shakes with The Secret Sisters Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Alabama Shakes are returning to Tuscaloosa on Friday, June 12th with support from The Secret Sisters! Alabama Shakes are poised to make their return, anno...",
-      "category": "Music",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-live-music-jake-s-juke-joint-w-30-06-band-2026-06-12-jake-s-juke-joint",
-      "title": "Live Music@ Jake’s Juke Joint W/30-06 Band",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260612/2b8f36bf-1ee9-4962-96c0-b2caf56ea52e/live-music-jake-s-juke-joint-w-30-06-band",
-      "start": "2026-06-12T20:30:00-05:00",
-      "end": "2026-06-13T02:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Jake's Juke Joint",
-      "address": "Jake's Juke Joint, 5675 US-43, Northport",
-      "description": "Looking for a great restaurant in Northport to enjoy a steak and music? Come out to Jake’s on June 12th, get there early and...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-06-13-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-06-13T09:00:00-05:00",
-      "end": "2026-06-13T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-made-in-america-exhibit-2026-06-13-the-gorgas-house-museum",
-      "title": "“Made In America” Exhibit",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260613/a2adf065-e3f9-4abf-87bd-2055a0c8b6a0/made-in-america-exhibit",
-      "start": "2026-06-13T09:00:00-05:00",
-      "end": "2026-06-13T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Gorgas House Museum",
-      "address": "The Gorgas House Museum, 810 Capstone Dr, Tuscaloosa",
-      "description": "Discover American identity through the home at the Gorgas House Museum, featuring items ranging from a 1778 grandfather clock...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-fathers-in-the-park-2026-2026-06-13-snow-hinton-park",
-      "title": "Fathers in the Park 2026",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/fathers-in-the-park-2026/",
-      "start": "2026-06-13T09:00:00-05:00",
-      "end": "2026-06-13T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Snow Hinton Park",
-      "address": "Hinton Pk Dr, Tuscaloosa, AL 35404",
-      "description": "Fathers in the Park is an annual community event hosted by Tuscaloosa’s One Place to celebrate dads and father figures with a full day of family fun in the park! Fathers in the Park 2026 will take place on Saturday, June 13 from 9 a.m. – 1...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-saturday-in-the-park-necklace-making-2026-06-13-moundville-archaeological-park",
-      "title": "Saturday in the Park: Necklace Making",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/saturday-in-the-park-necklace-making",
-      "start": "2026-06-13T09:00:00-05:00",
-      "end": "2026-06-13T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "On Saturday, June 13, 2026, visitors are invited to create your own necklace inspired by Moundville’s traditions! Join two site archaeologists and skilled craftsperson Bill Skinner to learn about personal adornment and trade at Moundville...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-saturday-in-the-park-necklace-making-2026-06-13-moundville-archaeological-park",
-      "title": "Saturday in the Park: Necklace Making",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/saturday-in-the-park-necklace-making/",
-      "start": "2026-06-13T09:00:00-05:00",
-      "end": "2026-06-13T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474",
-      "description": "On Saturday, June 13, 2026, visitors are invited to create your own necklace inspired by Moundville’s traditions! Join two site archaeologists and skilled craftsperson Bill Skinner to learn about personal adornment and trade at Moundville...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-saturday-in-the-park-necklace-making-2026-06-13-moundville-archaeological-park",
-      "title": "Saturday in the Park: Necklace Making",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260613/4a7b5c35-a3e7-439b-9e47-a9f1a0b8df6e/saturday-in-the-park-necklace-making",
-      "start": "2026-06-13T09:00:00-05:00",
-      "end": "2026-06-13T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
-      "description": "On Saturday, June 13, 2026, visitors are invited to create your own necklace inspired by Moundville’s traditions! Join two site...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-color-me-crazy-byo-tie-dye-2026-06-13-tuscaloosa-public-library",
-      "title": "Color Me Crazy: BYO Tie Dye",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/color-me-crazy-byo-tie-dye/",
-      "start": "2026-06-13T10:00:00-05:00",
-      "end": "2026-06-13T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Adults only. Let’s get colorful! Bring your own white shirt or bag or whatever you desire-be creative- and get ready to work your color magic! Dyes will be provided! Adults Only. Registration required. #### Map ### Father...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-color-me-crazy-byo-tie-dye-2026-06-13-tuscaloosa-public-library",
-      "title": "Color Me Crazy: BYO Tie Dye",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260613/34210bda-6c09-4cb2-a6bb-f02d5130f024/color-me-crazy-byo-tie-dye",
-      "start": "2026-06-13T10:00:00-05:00",
-      "end": "2026-06-13T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Let's get colorful! Bring your own white shirt or bag or whatever you desire-be creative- and get ready to work your color...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-safe-kids-safety-fair-2026-06-13-northport-city-hall",
-      "title": "Safe Kids' Safety Fair",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260613/a26c4115-bd6b-4268-93ba-5590ced5d288/safe-kids-safety-fair",
-      "start": "2026-06-13T10:00:00-05:00",
-      "end": "2026-06-13T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Northport City Hall",
-      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
-      "description": "Join us for an engaging community day dedicated to family well-being! This fair features free food, interactive safety games, a...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-join-the-mojo-cooter-brown-and-nashville-recording-artist-glen-templeton-2026-06-13-rhythm-and-brews",
-      "title": "Join THE MOJO, Cooter Brown & Nashville Recording Artist Glen Templeton!!",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260613/953b8c67-7c66-4594-96cb-34e2c45dbacc/join-the-mojo-cooter-brown-nashville-recording-artist-glen-templeton",
-      "start": "2026-06-13T17:00:00-05:00",
-      "end": "2026-06-13T23:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rhythm & Brews",
-      "address": "Rhythm & Brews, 2308 4th St, Tuscaloosa",
-      "description": "Come help us celebrate 25 years of LIVE MUSIC @Rhythm and Brews in Tuscaloosa! SATURDAY, JUNE 13th with Musical guests......",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "mercedes-benz-amphitheater-38-special-and-kansas-2026-06-13-mercedes-benz-amphitheater",
-      "title": "38 Special and Kansas",
-      "source": "Mercedes-Benz Amphitheater",
-      "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/38-special-and-kansas/",
-      "start": "2026-06-13T18:00:00-05:00",
-      "end": "2026-06-14T02:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "38 Special and Kansas with Brother Cane Show Time: 6:00 PM Gate Time: 5:00 PM Get Tickets Classic rock legends 38 Special and Kansas, with Brother Cane, will bring decades of iconic hits to the Mercedes-Benz Amphitheater in Tuscaloosa on S...",
-      "category": "Music",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-13",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-15-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -302,9 +30,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -319,14 +47,14 @@
       "timeStatus": "unknown",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in America” Exhibit Vie...",
+      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critters View Boo...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -346,9 +74,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -368,9 +96,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -390,9 +118,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -407,14 +135,14 @@
       "timeStatus": "confirmed",
       "venue": "Weaver Bolden Library",
       "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 6–12. Our popular polymer clay program returns! Make a fun project with Ashley Ruffin. Ages 6-12. Registration required. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in America” Exhibit View Bookmar...",
+      "description": "Recommended ages: Ages 6–12. Our popular polymer clay program returns! Make a fun project with Ashley Ruffin. Ages 6-12. Registration required. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critters View Bookmarks ##...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -434,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -456,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
+        "precipitationChance": 78,
         "periodName": "Monday"
       }
     },
@@ -478,10 +206,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "precipitationChance": 78,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-06-16-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-06-16T09:00:00-05:00",
+      "end": "2026-06-16T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-16",
         "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 81,
-        "periodName": "Monday"
+        "precipitationChance": 65,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -495,14 +245,14 @@
       "timeStatus": "confirmed",
       "venue": "Weaver Bolden Library",
       "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Color Me Craz...",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critters View Bookmarks ### Dig Deep! Polymer...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -522,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -544,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -561,14 +311,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: All ages. “Journey to the Center of the Earth.” Make your way to the Earth’s core with this interactive, science show. This program is for all ages. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in Americ...",
+      "description": "Recommended ages: All ages. “Journey to the Center of the Earth.” Make your way to the Earth’s core with this interactive, science show. This program is for all ages. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Cri...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -588,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -610,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -632,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -649,14 +399,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 13–18. Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some video games. This program is for ages 13-18. #### Map ### Fathers in the Park 2026 Vie...",
+      "description": "Recommended ages: Ages 13–18. Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some video games. This program is for ages 13-18. #### Map ### “Made in America” Exhibit Vi...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -676,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -698,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -720,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 82,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 65,
         "periodName": "Tuesday"
       }
     },
@@ -742,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 67,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 65,
         "periodName": "Tuesday Night"
       }
     },
@@ -766,7 +516,7 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -788,7 +538,7 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -803,14 +553,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: All ages. “Journey to the Center of the Earth.” Make your way to the Earth’s core with this interactive, science show. This program is for all ages. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in Americ...",
+      "description": "Recommended ages: All ages. “Journey to the Center of the Earth.” Make your way to the Earth’s core with this interactive, science show. This program is for all ages. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Cri...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -832,7 +582,7 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -854,7 +604,7 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -876,7 +626,29 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-06-17-bryant-conference-center",
+      "title": "TUS 161 Lagniappe – Various Topics",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
+      "start": "2026-06-17T12:00:00-05:00",
+      "end": "2026-06-17T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-17",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -898,7 +670,7 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -913,14 +685,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in America” Exhibit Vie...",
+      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critters View Boo...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -942,7 +714,7 @@
         "forecastDate": "2026-06-17",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
+        "precipitationChance": 55,
         "periodName": "Wednesday"
       }
     },
@@ -962,9 +734,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 69,
         "periodName": "Thursday"
       }
     },
@@ -984,9 +756,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 69,
         "periodName": "Thursday"
       }
     },
@@ -1001,14 +773,14 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3. #### Map ### Fathers in the Park 2026 View Bookmarks ### “Made in America”...",
+      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critte...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 69,
         "periodName": "Thursday"
       }
     },
@@ -1028,9 +800,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 90,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 69,
         "periodName": "Thursday"
       }
     },
@@ -1050,9 +822,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 83,
         "periodName": "Juneteenth"
       }
     },
@@ -1072,11 +844,48 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 72,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 83,
         "periodName": "Friday Night"
       }
+    },
+    {
+      "id": "visit-tuscaloosa-captain-america-the-winter-soldier-2014-2026-06-19-the-historic-bama-theatre",
+      "title": "Captain America: The Winter Soldier (2014)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/captain-america-the-winter-soldier-2014/",
+      "start": "2026-06-19T19:30:00-05:00",
+      "end": "2026-06-20T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Captain America teams with Black Widow and the Falcon to fight the villainous Winter Soldier. Meanwhile, S.H.I.E.L.D. comes under attack, and a malevolent conspiracy threatens to destabilize the entire planet. Runtime: 136 minutes Rating:...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-19",
+        "temperature": 70,
+        "temperatureUnit": "F",
+        "precipitationChance": 83,
+        "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-cretaceous-critters-2026-06-22-tuscaloosa-public-library",
+      "title": "Cretaceous Critters",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/cretaceous-critters-4/",
+      "start": "2026-06-22T00:00:00-05:00",
+      "end": "2026-06-23T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critters View Boo...",
+      "category": "Community",
+      "isVirtual": false
     },
     {
       "id": "tuscaloosa-patch-cretaceous-critters-2026-06-22-tuscaloosa-public-library",
@@ -1109,6 +918,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-tpl-presents-dennis-regling-wonder-shows-2026-06-22-northport-city-hall-civic-center",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tpl-presents-dennis-regling-wonder-shows-4/",
+      "start": "2026-06-22T14:00:00-05:00",
+      "end": "2026-06-22T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Northport City Hall/Civic Center",
+      "address": "3500 McFarland Blvd, Northport, AL 35476",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages. #### Map ### “Made in America” Exhibit View Bookmarks ### Cretaceous Critters View Bookmarks ### Dig Deep! Polymer Clay Vie...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-22-northport-city-hall",
       "title": "TPL Presents: Dennis Regling Wonder Shows",
       "source": "Tuscaloosa Patch",
@@ -1120,6 +944,21 @@
       "venue": "Northport City Hall",
       "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
       "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-storytime-o-saurus-2026-06-23-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "Storytime-o-saurus",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260623/87b4ad8e-aeb6-4c06-b6fe-4ac226c0b3be/storytime-o-saurus",
+      "start": "2026-06-23T10:00:00-05:00",
+      "end": "2026-06-23T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
       "category": "Community",
       "isVirtual": false
     },
@@ -1136,6 +975,21 @@
       "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
       "description": "Join UAPD for a practical self-defense class where you'll learn simple, effective skills for everyday situations. No experience needed—just dress comfortably and be ready to move! Register at wellness.ua.edu",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-23-tuscaloosa-public-library",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260623/8c6ec177-bd0d-4a30-acd2-7220f6ea54c6/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-23T14:00:00-05:00",
+      "end": "2026-06-23T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -1166,6 +1020,66 @@
       "address": "",
       "description": "This two-day workshop provides the skills and knowledge to identify, document, and apply best practices to improve current and future project performance and foster the application of best practices throughout the organization. Build a bes...",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-grounded-at-moundville-pilates-2026-06-24-moundville-archaeological-park",
+      "title": "Grounded at Moundville: Pilates",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/a1b2595c-29b2-4a4f-ae36-df817e010a20/grounded-at-moundville-pilates",
+      "start": "2026-06-24T09:00:00-05:00",
+      "end": "2026-06-24T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
+      "description": "On June 24, 2026 from 9:00 a.m. – 10:00 a.m., Moundville Archaeological Park invites visitors to start your day with refreshing...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/74a62cb4-1d3d-4f18-ad71-6189a46fb2da/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-24T10:00:00-05:00",
+      "end": "2026-06-24T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/e5e73eb1-e9f6-4014-bee7-b5f6441ad64a/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-24T14:30:00-05:00",
+      "end": "2026-06-24T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-24-tuscaloosa-public-library",
+      "title": "Jurassic Juniors",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/6b4e633a-1dce-401c-acd4-a85ee1d7a2ed/jurassic-juniors",
+      "start": "2026-06-24T16:00:00-05:00",
+      "end": "2026-06-24T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon.",
+      "category": "Community",
       "isVirtual": false
     },
     {
