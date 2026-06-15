@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-14T13:03:57.369Z",
+  "updatedAt": "2026-06-15T16:25:10.041Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-14T13:03:57.369Z",
+  "weatherUpdatedAt": "2026-06-15T16:25:10.041Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -11,7 +11,7 @@
     "Mercedes-Benz Amphitheater"
   ],
   "warnings": [
-    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
+    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (28) Failed to connect to www.tuscaloosa-library.org port 443 after 134782 ms: Couldn't connect to server\n"
   ],
   "events": [
     {
@@ -30,10 +30,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -52,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -74,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -96,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -118,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -140,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -162,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -184,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -206,10 +206,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-15",
-        "temperature": 82,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
-        "periodName": "Monday"
+        "precipitationChance": 30,
+        "periodName": "Today"
       }
     },
     {
@@ -228,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -250,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -272,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -294,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -316,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -338,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -360,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -382,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -404,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -426,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -448,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -470,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-16",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +494,7 @@
         "forecastDate": "2026-06-16",
         "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 65,
+        "precipitationChance": 74,
         "periodName": "Tuesday Night"
       }
     },
@@ -514,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -536,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -558,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -580,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -602,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -624,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -646,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -668,9 +668,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -690,9 +690,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -712,9 +712,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-17",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 64,
         "periodName": "Wednesday"
       }
     },
@@ -734,9 +734,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 69,
+        "precipitationChance": 82,
         "periodName": "Thursday"
       }
     },
@@ -756,9 +756,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 69,
+        "precipitationChance": 82,
         "periodName": "Thursday"
       }
     },
@@ -778,9 +778,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 69,
+        "precipitationChance": 82,
         "periodName": "Thursday"
       }
     },
@@ -800,9 +800,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 69,
+        "precipitationChance": 82,
         "periodName": "Thursday"
       }
     },
@@ -822,9 +822,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 86,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "precipitationChance": 83,
+        "precipitationChance": 87,
         "periodName": "Juneteenth"
       }
     },
@@ -844,9 +844,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 83,
+        "precipitationChance": 85,
         "periodName": "Friday Night"
       }
     },
@@ -866,10 +866,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 83,
+        "precipitationChance": 85,
         "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony-2026-06-20-bryant-conference-center",
+      "title": "Pro Boxing Show + Alabama Boxing Hall of Fame Induction Ceremony",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/848b2908-4725-452a-b243-b7923e9c7d70/pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony",
+      "start": "2026-06-20T12:00:00-05:00",
+      "end": "2026-06-20T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "Bryant Conference Center, 240 Paul W Bryant Dr, Tuscaloosa",
+      "description": "Experience an action-packed night featuring a live professional boxing show and the prestigious Alabama Boxing Hall of Fame...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-20",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 28,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tbdc-s-35th-anniversary-dance-with-the-drew-white-orchestra-2026-06-20-mcabee-center",
+      "title": "TBDC’s 35th Anniversary Dance with the Drew White Orchestra",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/a628c563-73ed-45ac-b141-a10023572ae3/tbdc-s-35th-anniversary-dance-with-the-drew-white-orchestra",
+      "start": "2026-06-20T19:00:00-05:00",
+      "end": "2026-06-21T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "McAbee Center",
+      "address": "McAbee Center, 3801 Loop Rd, Tuscaloosa",
+      "description": "Anniversary Dance: Saturday, June 20, 2026 ~ You are cordially invited to attend a celebration as TBDC commemorates the 35th...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-20",
+        "temperature": 68,
+        "temperatureUnit": "F",
+        "precipitationChance": 19,
+        "periodName": "Saturday Night"
       }
     },
     {
@@ -1034,51 +1078,6 @@
       "venue": "Moundville Archaeological Park",
       "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
       "description": "On June 24, 2026 from 9:00 a.m. – 10:00 a.m., Moundville Archaeological Park invites visitors to start your day with refreshing...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library",
-      "title": "TPL Presents: Dennis Regling Wonder Shows",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/74a62cb4-1d3d-4f18-ad71-6189a46fb2da/tpl-presents-dennis-regling-wonder-shows",
-      "start": "2026-06-24T10:00:00-05:00",
-      "end": "2026-06-24T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "TPL Presents: Dennis Regling Wonder Shows",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/e5e73eb1-e9f6-4014-bee7-b5f6441ad64a/tpl-presents-dennis-regling-wonder-shows",
-      "start": "2026-06-24T14:30:00-05:00",
-      "end": "2026-06-24T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-24-tuscaloosa-public-library",
-      "title": "Jurassic Juniors",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/6b4e633a-1dce-401c-acd4-a85ee1d7a2ed/jurassic-juniors",
-      "start": "2026-06-24T16:00:00-05:00",
-      "end": "2026-06-24T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon.",
       "category": "Community",
       "isVirtual": false
     },
@@ -1305,6 +1304,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Ty Myers with support from Brent Cobb and Benny G Show Time: 7:30 PM Gates: 6:00 PM Get Tickets Ty Myers, with special guests Brent Cobb and Benny G, will perform at the Mercedes-Benz Amphitheater on Thursday, September 10, at 7:30 p.m. Ty...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-high-school-theatre-and-dance-festival-2026-09-12-bryce-main",
+      "title": "UA High School Theatre and Dance Festival",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-high-school-theatre-and-dance-festival",
+      "start": "2026-09-12T08:30:00-05:00",
+      "end": "2026-09-12T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryce Main",
+      "address": "",
+      "description": "Our High School Theatre and Dance Festival opens the door for students from Grades 9-12 to the next step in their training. By bringing together our High School Theatre Festival and the High School Dance Day, UA Theatre & Dance is excited...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
