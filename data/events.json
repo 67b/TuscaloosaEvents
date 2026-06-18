@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-17T14:29:13.284Z",
+  "updatedAt": "2026-06-18T14:23:59.258Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-17T14:29:13.283Z",
+  "weatherUpdatedAt": "2026-06-18T14:23:59.257Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -11,17 +11,16 @@
     "Mercedes-Benz Amphitheater"
   ],
   "warnings": [
-    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://visittuscaloosa.com/events/\ncurl: (35) Recv failure: Connection reset by peer\n",
-    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
+    "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (28) Failed to connect to www.tuscaloosa-library.org port 443 after 134838 ms: Couldn't connect to server\n"
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-17-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-18-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-06-17T00:00:00-05:00",
-      "end": "2026-06-17T00:00:00-05:00",
+      "start": "2026-06-18T00:00:00-05:00",
+      "end": "2026-06-18T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -30,297 +29,33 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
+        "forecastDate": "2026-06-18",
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 98,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-06-17-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-06-17T09:00:00-05:00",
-      "end": "2026-06-17T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-moundville-for-minis-we-are-grateful-otsaliheliga-2026-06-17-moundville-archaeological-park",
-      "title": "Moundville for Minis: “We Are Grateful: Otsaliheliga\"",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/moundville-for-minis-we-are-grateful-otsaliheliga",
-      "start": "2026-06-17T09:15:00-05:00",
-      "end": "2026-06-17T09:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park invites visitors to join us on June 17, 2026 from 9:15 a.m. – 9:45 a.m. for a special outdoor storytime featuring “We Are Grateful” by Cherokee author Traci Sorell. This seasonal story introduces the Cherokee...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-moundville-for-minis-we-are-grateful-otsaliheliga-2026-06-17-moundville-archaeological-park",
-      "title": "Moundville for Minis: “We Are Grateful: Otsaliheliga”",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/6d589c49-04e2-4194-a101-74f13400ff7b/moundville-for-minis-we-are-grateful-otsaliheliga",
-      "start": "2026-06-17T09:15:00-05:00",
-      "end": "2026-06-17T15:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
-      "description": "Moundville Archaeological Park invites visitors to join us on June 17, 2026 from 9:15 a.m. – 9:45 a.m. for a special outdoor...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-the-science-guys-of-atlanta-2026-06-17-tuscaloosa-public-library",
-      "title": "TPL Presents: The Science Guys of Atlanta",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/586db34b-1bcc-434f-97e1-4484c12d9582/tpl-presents-the-science-guys-of-atlanta",
-      "start": "2026-06-17T10:00:00-05:00",
-      "end": "2026-06-17T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "“Journey to the Center of the Earth.” Make your way to the Earth's core with this interactive, science show. This program is...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-designing-exemplary-blackboard-courses-2026-06-17",
-      "title": "Designing Exemplary Blackboard Courses",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/designing-exemplary-blackboard-courses",
-      "start": "2026-06-17T10:30:00-05:00",
-      "end": "2026-06-17T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
+      "id": "visit-tuscaloosa-tuscaloosa-restaurant-week-2026-06-18",
+      "title": "Tuscaloosa Restaurant Week",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-restaurant-week/",
+      "start": "2026-06-18T00:00:00-05:00",
+      "end": "2026-06-19T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
       "venue": "",
       "address": "",
-      "description": "Join us to learn how to build a Blackboard course that is clear, organized, and designed for student success. This workshop focuses on course structure and content organization aligned with exemplary course design standards. Participants w...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ol-131-revolutionary-lives-medicine-war-and-the-constitution-2026-06-17-bryant-conference-center",
-      "title": "OL 131 Revolutionary Lives: Medicine, War and the Constitution",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ol-131-revolutionary-lives-medicine-war-and-the-constitution",
-      "start": "2026-06-17T10:30:00-05:00",
-      "end": "2026-06-17T11:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Join us online for our free public programs — and bring a friend! June 3 – Framing the Conduct of the American Revolutionary War – Dr. Harold Selesky June 10 – Leeches, Laudanum and Liberty: Practicing Medicine in Revolutionary America – D...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-liberty-tree-dedication-2026-06-17-the-county-s-synergic-center",
-      "title": "Liberty Tree Dedication",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/a9af44c6-512c-4996-80bb-f36697cdb79f/liberty-tree-dedication",
-      "start": "2026-06-17T11:00:00-05:00",
-      "end": "2026-06-17T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The County's Synergic Center",
-      "address": "The County's Synergic Center, 3650 5th St, Northport",
-      "description": "Join the Tuscaloosa County 250 Committee for a semiquincentennial celebration featuring the dedication of a Princeton Elm...",
+      "description": "From renowned BBQ joints and world-class chefs to beloved diners and an authentic array of international cuisine, Tuscaloosa is a true haven for food enthusiasts. Participating restaurants offer exclusive menu items and special discounts o...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
+        "forecastDate": "2026-06-18",
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 57,
+        "precipitationChance": 98,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-06-17-bryant-conference-center",
-      "title": "TUS 161 Lagniappe – Various Topics",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
-      "start": "2026-06-17T12:00:00-05:00",
-      "end": "2026-06-17T13:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-06-17",
-      "title": "Make Your Course Accessible with Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-5181",
-      "start": "2026-06-17T13:00:00-05:00",
-      "end": "2026-06-17T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tpl-presents-the-science-guys-of-atlanta-2026-06-17-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "TPL Presents: The Science Guys of Atlanta",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/8bbbe10a-0b6d-4691-bc84-3afc7b8c9d8d/tpl-presents-the-science-guys-of-atlanta",
-      "start": "2026-06-17T14:30:00-05:00",
-      "end": "2026-06-17T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "“Journey to the Center of the Earth.” Make your way to the Earth's core with this interactive, science show. This program is...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-17-tuscaloosa-public-library",
-      "title": "Jurassic Juniors",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/50652d35-db32-4227-a568-f64aa17e0330/jurassic-juniors",
-      "start": "2026-06-17T16:00:00-05:00",
-      "end": "2026-06-17T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 57,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-druid-city-pride-skate-night-2026-06-17-super-skate",
-      "title": "Druid City Pride Skate Night",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260617/728affff-a3c3-4cec-bb25-bcd9654e8e87/druid-city-pride-skate-night",
-      "start": "2026-06-17T18:30:00-05:00",
-      "end": "2026-06-18T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Super Skate",
-      "address": "Super Skate, 5900 McFarland Blvd E, Tuscaloosa",
-      "description": "Celebrate Pride by showing off your rockin' skate skills with the Druid City Derby Team! This community skate night at Super...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "precipitationChance": 69,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "university-of-alabama-family-fun-night-pool-edition-2026-06-17-student-recreation-center",
-      "title": "Family Fun Night: Pool Edition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/family-fun-night-pool-edition",
-      "start": "2026-06-17T18:30:00-05:00",
-      "end": "2026-06-17T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Recreation Center",
-      "address": "400 PETER BRYCE BLVD, TUSCALOOSA, AL 35401",
-      "description": "Bring the whole family to campus for a FREE Family Fun Night Pool Party on Wednesday, June 17 at the Outdoor Recreation Center Pool! Enjoy a fun evening in the pool to relax with co-workers, family and friends. Fresh popcorn and beverages...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-17",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "precipitationChance": 69,
-        "periodName": "Tonight"
       }
     },
     {
@@ -339,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 96,
-        "periodName": "Thursday"
+        "precipitationChance": 98,
+        "periodName": "Today"
       }
     },
     {
@@ -361,10 +96,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 96,
-        "periodName": "Thursday"
+        "precipitationChance": 98,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-06-18-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-06-18T09:00:00-05:00",
+      "end": "2026-06-18T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-18",
+        "temperature": 80,
+        "temperatureUnit": "F",
+        "precipitationChance": 98,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-dinostomp-storytime-2026-06-18-tuscaloosa-public-library",
+      "title": "DinoSTOMP Storytime",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/dinostomp-storytime-4/",
+      "start": "2026-06-18T10:00:00-05:00",
+      "end": "2026-06-18T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-18",
+        "temperature": 80,
+        "temperatureUnit": "F",
+        "precipitationChance": 98,
+        "periodName": "Today"
       }
     },
     {
@@ -383,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 96,
-        "periodName": "Thursday"
+        "precipitationChance": 98,
+        "periodName": "Today"
       }
     },
     {
@@ -405,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 96,
-        "periodName": "Thursday"
+        "precipitationChance": 98,
+        "periodName": "Today"
       }
     },
     {
@@ -427,10 +206,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 96,
-        "periodName": "Thursday"
+        "precipitationChance": 98,
+        "periodName": "Today"
       }
     },
     {
@@ -449,10 +228,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 96,
-        "periodName": "Thursday"
+        "precipitationChance": 98,
+        "periodName": "Today"
       }
     },
     {
@@ -471,10 +250,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
         "precipitationChance": 87,
-        "periodName": "Thursday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -493,10 +272,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-18",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
         "precipitationChance": 87,
-        "periodName": "Thursday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -515,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 87,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 89,
+        "precipitationChance": 47,
         "periodName": "Juneteenth"
       }
     },
@@ -537,10 +316,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 87,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 89,
+        "precipitationChance": 47,
         "periodName": "Juneteenth"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-live-at-the-plaza-2026-06-19-government-plaza",
+      "title": "Live at the Plaza",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/live-at-the-plaza/",
+      "start": "2026-06-19T18:00:00-05:00",
+      "end": "2026-06-19T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Government Plaza",
+      "address": "7th St. and 22th Ave. SE., Tuscaloosa, AL",
+      "description": "Join us every Friday in May and June from 6 – 9 pm at Government Plaza for free, live and local music. Live at the Plaza is family (and pet!) friendly, with a Kid Zone available for fun activities. Grab your crew, a picnic blanket, and som...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-19",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "precipitationChance": 47,
+        "periodName": "Friday Night"
       }
     },
     {
@@ -559,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 70,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 47,
         "periodName": "Friday Night"
       }
     },
@@ -581,9 +382,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 70,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 47,
+        "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-captain-america-the-winter-soldier-2014-2026-06-19-the-historic-bama-theatre",
+      "title": "Captain America: The Winter Soldier (2014)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/captain-america-the-winter-soldier-2014/",
+      "start": "2026-06-19T19:30:00-05:00",
+      "end": "2026-06-20T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Captain America teams with Black Widow and the Falcon to fight the villainous Winter Soldier. Meanwhile, S.H.I.E.L.D. comes under attack, and a malevolent conspiracy threatens to destabilize the entire planet. Runtime: 136 minutes Rating:...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-19",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "precipitationChance": 47,
         "periodName": "Friday Night"
       }
     },
@@ -603,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-19",
-        "temperature": 70,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 47,
         "periodName": "Friday Night"
       }
     },
@@ -625,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-20",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 62,
         "periodName": "Saturday"
       }
     },
@@ -647,31 +470,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-20",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 62,
         "periodName": "Saturday"
       }
     },
     {
-      "id": "tuscaloosa-patch-test-10-00-am-pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony-2026-06-20-bryant-conferen",
-      "title": "Test 10:00 am Pro Boxing Show + Alabama Boxing Hall of Fame Induction Ceremony",
+      "id": "tuscaloosa-patch-pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony-2026-06-20-bryant-conference-center",
+      "title": "Pro Boxing Show + Alabama Boxing Hall of Fame Induction Ceremony",
       "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/4555c46a-5594-4fea-93e3-4f254f560671/test",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/848b2908-4725-452a-b243-b7923e9c7d70/pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony",
       "start": "2026-06-20T12:00:00-05:00",
       "end": "2026-06-20T18:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Bryant Conference Center",
       "address": "Bryant Conference Center, 240 Paul W Bryant Dr, Tuscaloosa",
-      "description": "test",
+      "description": "Experience an action-packed night featuring a live professional boxing show and the prestigious Alabama Boxing Hall of Fame...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-20",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 62,
         "periodName": "Saturday"
       }
     },
@@ -691,10 +514,318 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-20",
-        "temperature": 71,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 56,
         "periodName": "Saturday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tbdc-s-35th-anniversary-dance-with-the-drew-white-orchestra-2026-06-20-mcabee-center",
+      "title": "TBDC’s 35th Anniversary Dance with the Drew White Orchestra",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/a628c563-73ed-45ac-b141-a10023572ae3/tbdc-s-35th-anniversary-dance-with-the-drew-white-orchestra",
+      "start": "2026-06-20T19:00:00-05:00",
+      "end": "2026-06-21T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "McAbee Center",
+      "address": "McAbee Center, 3801 Loop Rd, Tuscaloosa",
+      "description": "Anniversary Dance: Saturday, June 20, 2026 ~ You are cordially invited to attend a celebration as TBDC commemorates the 35th...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-20",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "precipitationChance": 56,
+        "periodName": "Saturday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-annual-juneteenth-celebration-2026-06-21-faucet-para-indoor-gymnasium",
+      "title": "Annual Juneteenth Celebration",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260621/417e748d-2b0a-4197-90db-799417eaf8d4/annual-juneteenth-celebration",
+      "start": "2026-06-21T14:00:00-05:00",
+      "end": "2026-06-21T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Faucet PARA Indoor Gymnasium",
+      "address": "Faucet PARA Indoor Gymnasium, Northport, AL",
+      "description": "Join the Juneteenth of Northport Committee for a family-friendly celebration featuring live blues and R&B performances, comedy...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-21",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 78,
+        "periodName": "Sunday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-cretaceous-critters-2026-06-22-tuscaloosa-public-library",
+      "title": "Cretaceous Critters",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/cretaceous-critters-4/",
+      "start": "2026-06-22T00:00:00-05:00",
+      "end": "2026-06-23T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit V...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-cretaceous-critters-2026-06-22-tuscaloosa-public-library",
+      "title": "Cretaceous Critters",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260622/780f744e-c360-46b1-894a-84567066207b/cretaceous-critters",
+      "start": "2026-06-22T10:00:00-05:00",
+      "end": "2026-06-22T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: Ages 0–4. This program is for ages 0-4. Registration is required and will begin a week before the program date. More info coming soon.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-fixing-a-pdf-2026-06-22",
+      "title": "Fixing a PDF",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fixing-a-pdf-9744",
+      "start": "2026-06-22T10:30:00-05:00",
+      "end": "2026-06-22T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "PDFs are a great way to share information, but they can be kind of intimidating when it comes to making them accessible. This session will examine basic ways to remediate two different types of PDFs to make them more accessible.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ally-for-students-2026-06-22",
+      "title": "Ally for Students",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ally-for-students-7652",
+      "start": "2026-06-22T13:00:00-05:00",
+      "end": "2026-06-22T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Blackboard’s Ally tool gives students multiple ways to engage with their class content. This session take a hands-on look at the formats generated by Ally.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-dig-deep-kid-s-sip-and-paint-2026-06-22-tuscaloosa-public-library",
+      "title": "Dig Deep! Kid's Sip And Paint",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260622/2bba1d72-4154-452a-bc51-1bbec355e927/dig-deep-kids-sip-and-paint",
+      "start": "2026-06-22T13:00:00-05:00",
+      "end": "2026-06-22T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Bring your young artists to paint their favorite dinosaur while enjoying a refreshing juice pouch. This creative event is...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-dig-deep-kid-s-sip-and-paint-2026-06-22-tuscaloosa-public-library",
+      "title": "Dig Deep! Kid’s Sip and Paint",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/dig-deep-kids-sip-and-paint/",
+      "start": "2026-06-22T13:00:00-05:00",
+      "end": "2026-06-22T14:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 6–12. Paint your favorite dinosaur while you sip on a refreshing juice pouch. Ages 6-12. Registration required. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit View Bookmarks ###...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-designing-exemplary-blackboard-courses-2026-06-22",
+      "title": "Designing Exemplary Blackboard Courses",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/designing-exemplary-blackboard-courses",
+      "start": "2026-06-22T14:00:00-05:00",
+      "end": "2026-06-22T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join us to learn how to build a Blackboard course that is clear, organized, and designed for student success. This workshop focuses on course structure and content organization aligned with exemplary course design standards. Participants w...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-dig-deep-kid-s-sip-and-paint-2026-06-22-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "Dig Deep! Kid's Sip and Paint",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260622/01c0c83d-4461-4227-9eeb-1648aa74a1fc/dig-deep-kids-sip-and-paint",
+      "start": "2026-06-22T14:00:00-05:00",
+      "end": "2026-06-22T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Recommended ages: Ages 6–12. Paint your favorite dinosaur while you sip on a refreshing juice pouch.Ages 6-12.Registration required.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tpl-presents-dennis-regling-wonder-shows-2026-06-22-northport-city-hall-civic-center",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tpl-presents-dennis-regling-wonder-shows-4/",
+      "start": "2026-06-22T14:00:00-05:00",
+      "end": "2026-06-22T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Northport City Hall/Civic Center",
+      "address": "3500 McFarland Blvd, Northport, AL 35476",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit View Bookmarks ### DinoSTOMP Storytime...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-22-northport-city-hall",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260622/3385edad-d0e3-4487-adb4-5a10d0bcd269/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-22T14:00:00-05:00",
+      "end": "2026-06-22T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Northport City Hall",
+      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-22",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 51,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-storytime-o-saurus-2026-06-23-weaver-bolden-library",
+      "title": "Storytime-o-saurus",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/storytime-o-saurus-4/",
+      "start": "2026-06-23T10:00:00-05:00",
+      "end": "2026-06-23T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Weaver Bolden Library",
+      "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit View Bookmarks ### DinoSTOMP S...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-storytime-o-saurus-2026-06-23-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "Storytime-o-saurus",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260623/87b4ad8e-aeb6-4c06-b6fe-4ac226c0b3be/storytime-o-saurus",
+      "start": "2026-06-23T10:00:00-05:00",
+      "end": "2026-06-23T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more!Ages 3-6.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -713,10 +844,142 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 90,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 53,
         "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-gad-134-armchair-travel-the-panama-canal-2026-06-23-church-of-the-holy-comforter",
+      "title": "GAD 134 Armchair Travel: The Panama Canal",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gad-134-armchair-travel-the-panama-canal",
+      "start": "2026-06-23T13:30:00-05:00",
+      "end": "2026-06-23T14:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Church of the Holy Comforter",
+      "address": "156 S 9th St, Gadsden, AL 35901",
+      "description": "Join us online for our free public programs — and bring a friend! The Panama Canal is an artificial 51-mile waterway that connects the Pacific Ocean with the Caribbean Sea. It cuts across the narrowest point of the Isthmus of Panama. Let’s...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tpl-presents-dennis-regling-wonder-shows-2026-06-23-tuscaloosa-public-library",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tpl-presents-dennis-regling-wonder-shows-2/",
+      "start": "2026-06-23T14:00:00-05:00",
+      "end": "2026-06-23T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit View Bookmarks ### DinoSTOMP Storytime...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-23-tuscaloosa-public-library",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260623/8c6ec177-bd0d-4a30-acd2-7220f6ea54c6/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-23T14:00:00-05:00",
+      "end": "2026-06-23T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuesday-s-tuscaloosa-farmers-market-2026-06-23-tuscaloosa-river-market",
+      "title": "Tuesday’s Tuscaloosa Farmers Market",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuesdays-tuscaloosa-farmers-market/",
+      "start": "2026-06-23T15:00:00-05:00",
+      "end": "2026-06-23T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Enjoy Tuscaloosa’s Tuesday Farmers Markets at the River Market every June and July from 3 to 7 p.m., featuring fresh local produce, baked goods, artisan crafts, and food trucks. It’s the perfect midweek outing, especially with a scenic str...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-saving-private-ryan-1988-2026-06-23-the-historic-bama-theatre",
+      "title": "Saving Private Ryan (1988)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/saving-private-ryan-1988/",
+      "start": "2026-06-23T19:00:00-05:00",
+      "end": "2026-06-24T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "A U.S. Army captain leads a mission to rescue a GI trapped behind enemy lines in France on D-Day after all three of the soldier’s brothers are killed in action. As the search commences, the close-knit squad sets out through areas still thi...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-23",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-chicken-little-2005-2026-06-24-the-historic-bama-theatre",
+      "title": "Chicken Little (2005)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/chicken-little-2005/",
+      "start": "2026-06-24T00:00:00-05:00",
+      "end": "2026-06-25T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Young Chicken Little (Zach Braff) throws his small town into panic by claiming the sky is falling. Unable to find the piece of “sky” that hit him, he earns the town’s scorn. A year later, outcast Little tries to redeem himself by joining t...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -732,7 +995,14 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "university-of-alabama-project-management-certificate-program-building-and-sustaining-best-practices-in-project-managemen",
@@ -747,7 +1017,58 @@
       "address": "",
       "description": "This two-day workshop provides the skills and knowledge to identify, document, and apply best practices to improve current and future project performance and foster the application of best practices throughout the organization. Build a bes...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-grounded-at-moundville-pilates-2026-06-24-moundville-archaeological-park",
+      "title": "Grounded at Moundville: Pilates",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/grounded-at-moundville-pilates/",
+      "start": "2026-06-24T09:00:00-05:00",
+      "end": "2026-06-24T10:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "1 Mound Parkway, 634 Mound State Parkway, Moundville, AL 35474",
+      "description": "On June 24, 2026 from 9:00 a.m. – 10:00 a.m., Moundville Archaeological Park invites visitors to start your day with refreshing movement and stretching on the Moundville lawn! This all-levels outdoor class, led by a local instructor, blend...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tpl-presents-dennis-regling-wonder-shows-3/",
+      "start": "2026-06-24T10:00:00-05:00",
+      "end": "2026-06-24T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit View Bookmarks ### DinoSTOMP Storytime...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "university-of-alabama-valuable-skills-interpersonal-skills-2026-06-24-employee-resource-center",
@@ -762,6 +1083,65 @@
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "Behavioral Expectations Supported: Collaboration and Effective Communication Note: This is Part I of a two-part series on Interpersonal Communication and Public Speaking. Participants are encouraged, but not required to enroll to attend bo...",
       "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-jurassic-juniors-2026-06-24-tuscaloosa-public-library",
+      "title": "Jurassic Juniors",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/jurassic-juniors-4/",
+      "start": "2026-06-24T16:00:00-05:00",
+      "end": "2026-06-24T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit V...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 35,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-dinostomp-storytime-2026-06-25-tuscaloosa-public-library",
+      "title": "DinoSTOMP Storytime",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/dinostomp-storytime-3/",
+      "start": "2026-06-25T10:00:00-05:00",
+      "end": "2026-06-25T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 0–3. Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for ages 0-3. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-triassic-tweens-2026-06-25-tuscaloosa-public-library",
+      "title": "Triassic Tweens",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/triassic-tweens-3/",
+      "start": "2026-06-25T17:30:00-05:00",
+      "end": "2026-06-25T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 9–12. This program is for ages 9-12. Registration is required and will begin a week before the program date. More info coming soon. #### Map ### Tuscaloosa Restaurant Week View Bookmarks ### “Made in America” Exhibit...",
+      "category": "Community",
       "isVirtual": false
     },
     {
