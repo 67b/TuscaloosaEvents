@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-20T12:58:43.156Z",
+  "updatedAt": "2026-06-21T13:17:39.180Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-20T12:58:43.156Z",
+  "weatherUpdatedAt": "2026-06-21T13:17:39.180Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,226 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "tuscaloosa-patch-city-of-tuscaloosa-farmers-market-2026-06-20-tuscaloosa-river-market",
-      "title": "City Of Tuscaloosa Farmers Market",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/2b7b5155-ed23-49c6-86d2-1835e02fc529/city-of-tuscaloosa-farmers-market",
-      "start": "2026-06-20T07:00:00-05:00",
-      "end": "2026-06-20T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa River Market",
-      "address": "Tuscaloosa River Market, 1900 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Experience a vibrant rain or shine market featuring over 60 vendors offering Sweet Grown Alabama seasonal produce, baked goods,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-kentuck-s-art-markets-2026-06-20-kentuck-at-queen-city",
-      "title": "Kentuck's Art Markets",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/70a570ce-6b9b-4477-88d8-3520a8d280c7/kentucks-art-markets",
-      "start": "2026-06-20T08:30:00-05:00",
-      "end": "2026-06-20T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Kentuck at Queen City",
-      "address": "Kentuck at Queen City, 1901 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Join the Kentuck Art Center for their monthly art market featuring a diverse selection of local creative works. Held on the...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-casual-campus-cruise-2026-06-20-velocity-cycles",
-      "title": "Casual Campus Cruise",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/f311638e-efc8-4546-88e2-3f17d836fa30/casual-campus-cruise",
-      "start": "2026-06-20T09:00:00-05:00",
-      "end": "2026-06-20T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "VeloCity Cycles",
-      "address": "VeloCity Cycles, 401A 22nd Ave, Tuscaloosa",
-      "description": "Join VeloCity Cycles for a 12-mile, easy-going bicycle ride through downtown and campus. This social cruise is perfect for...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-bumby-s-corner-children-s-story-time-hour-2026-06-20-ernest-and-hadley-booksellers",
-      "title": "Bumby's Corner | Children's Story Time Hour",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/5109442c-4680-46e1-817d-81d55b5593d4/bumbys-corner-children-s-story-time-hour",
-      "start": "2026-06-20T10:00:00-05:00",
-      "end": "2026-06-20T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Ernest & Hadley Booksellers",
-      "address": "Ernest & Hadley Booksellers, 1928 7th St, Tuscaloosa",
-      "description": "Welcome to Bumby's Reading Corner, where books and imagination meet! Bring the little ones for a delightful Saturday morning...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-juneteenth-car-show-2026-06-20-palmore-park",
-      "title": "Juneteenth Car Show",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/44bbffba-2042-4e6e-830c-a770805814d3/juneteenth-car-show",
-      "start": "2026-06-20T12:00:00-05:00",
-      "end": "2026-06-20T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Palmore Park",
-      "address": "Palmore Park, 3701 Fosters Ferry Rd, Tuscaloosa",
-      "description": "Join the Tuscaloosa NAACP for a high-energy Juneteenth Car Show featuring car clubs and individual owners from across West...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony-2026-06-20-bryant-conference-center",
-      "title": "Pro Boxing Show + Alabama Boxing Hall of Fame Induction Ceremony",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/848b2908-4725-452a-b243-b7923e9c7d70/pro-boxing-show-alabama-boxing-hall-of-fame-induction-ceremony",
-      "start": "2026-06-20T12:00:00-05:00",
-      "end": "2026-06-20T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "Bryant Conference Center, 240 Paul W Bryant Dr, Tuscaloosa",
-      "description": "Experience an action-packed night featuring a live professional boxing show and the prestigious Alabama Boxing Hall of Fame...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tuscaloosa-county-branch-naacp-juneteenth-parade-2026-06-20-palmore-park",
-      "title": "Tuscaloosa County Branch NAACP Juneteenth Parade",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/25229070-9f19-41b5-89de-5e627d16b8c7/tuscaloosa-county-branch-naacp-juneteenth-parade",
-      "start": "2026-06-20T12:00:00-05:00",
-      "end": "2026-06-20T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Palmore Park",
-      "address": "Palmore Park, 3701 Fosters Ferry Rd, Tuscaloosa",
-      "description": "Join one of the largest Juneteenth gatherings in West Alabama, featuring a vibrant parade followed by exciting Community Day...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 88,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-spider-man-into-the-spider-verse-2026-06-20-6052-watermelon-rd",
-      "title": "Spider Man: Into The Spider Verse",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/72711947-26db-4527-9631-ca15a1b40485/spider-man-into-the-spider-verse",
-      "start": "2026-06-20T18:00:00-05:00",
-      "end": "2026-06-21T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "6052 Watermelon Rd",
-      "address": "6052 Watermelon Rd, Northport",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 71,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tbdc-s-35th-anniversary-dance-with-the-drew-white-orchestra-2026-06-20-mcabee-center",
-      "title": "TBDC’s 35th Anniversary Dance with the Drew White Orchestra",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/a628c563-73ed-45ac-b141-a10023572ae3/tbdc-s-35th-anniversary-dance-with-the-drew-white-orchestra",
-      "start": "2026-06-20T19:00:00-05:00",
-      "end": "2026-06-21T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "McAbee Center",
-      "address": "McAbee Center, 3801 Loop Rd, Tuscaloosa",
-      "description": "Anniversary Dance: Saturday, June 20, 2026 ~ You are cordially invited to attend a celebration as TBDC commemorates the 35th...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 71,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-sqquat-2-and-hocky-2026-06-20-druid-city-brewing-company",
-      "title": "Sqquat 2 & Hocky",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260620/e8e0e1fe-7f2f-4963-a5ee-6151ee12ee2b/sqquat-2-hocky",
-      "start": "2026-06-20T19:45:00-05:00",
-      "end": "2026-06-21T01:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Druid City Brewing Company",
-      "address": "Druid City Brewing Company, Tuscaloosa",
-      "description": "Experience an epic return as legendary Tuscaloosa band Sqquat comes out of hibernation for a high-energy performance alongside...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-20",
-        "temperature": 71,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "tuscaloosa-patch-annual-juneteenth-celebration-2026-06-21-faucet-para-indoor-gymnasium",
       "title": "Annual Juneteenth Celebration",
@@ -252,8 +32,8 @@
         "forecastDate": "2026-06-21",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
-        "periodName": "Sunday"
+        "precipitationChance": 56,
+        "periodName": "Today"
       }
     },
     {
@@ -272,9 +52,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -294,9 +74,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -316,9 +96,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -338,9 +118,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -360,9 +140,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -382,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -404,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -426,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -448,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -470,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -492,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -514,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 53,
+        "precipitationChance": 55,
         "periodName": "Monday"
       }
     },
@@ -536,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-22",
-        "temperature": 74,
+        "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 72,
         "periodName": "Monday Night"
       }
     },
@@ -558,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -580,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -602,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -624,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -646,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -668,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -690,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday"
       }
     },
@@ -712,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 72,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday Night"
       }
     },
@@ -734,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 72,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday Night"
       }
     },
@@ -756,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-23",
-        "temperature": 72,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 72,
+        "precipitationChance": 70,
         "periodName": "Tuesday Night"
       }
     },
@@ -778,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -800,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -822,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -844,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -866,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -888,9 +668,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -910,9 +690,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-grounded-at-moundville-pilates-2026-06-24-moundville-archaeological-park",
+      "title": "Grounded at Moundville: Pilates",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/a1b2595c-29b2-4a4f-ae36-df817e010a20/grounded-at-moundville-pilates",
+      "start": "2026-06-24T09:00:00-05:00",
+      "end": "2026-06-24T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
+      "description": "On June 24, 2026 from 9:00 a.m. – 10:00 a.m., Moundville Archaeological Park invites visitors to start your day with refreshing...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -932,9 +734,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/74a62cb4-1d3d-4f18-ad71-6189a46fb2da/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-24T10:00:00-05:00",
+      "end": "2026-06-24T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -954,9 +778,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-chicken-little-2005-2026-06-24-the-historic-bama-theatre",
+      "title": "Chicken Little (2005)",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/557351f1-e537-481d-8435-3f68bdde8aa9/chicken-little-2005",
+      "start": "2026-06-24T12:00:00-05:00",
+      "end": "2026-06-24T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "The Historic Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
+      "description": "Experience the high-action comedy of young Chicken Little as he tries to save his hometown from a real alien invasion in this...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tpl-presents-dennis-regling-wonder-shows-2026-06-24-tuscaloosa-public-library-weaver-bolden-branch",
+      "title": "TPL Presents: Dennis Regling Wonder Shows",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/e5e73eb1-e9f6-4014-bee7-b5f6441ad64a/tpl-presents-dennis-regling-wonder-shows",
+      "start": "2026-06-24T14:30:00-05:00",
+      "end": "2026-06-24T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
+      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
+      "description": "Recommended ages: All ages. Experience the magic of science with this WONDERful show! This program is for all ages.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
         "periodName": "Wednesday"
       }
     },
@@ -976,10 +844,76 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-24",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
+        "precipitationChance": 59,
         "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-jurassic-juniors-2026-06-24-tuscaloosa-public-library",
+      "title": "Jurassic Juniors",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/6b4e633a-1dce-401c-acd4-a85ee1d7a2ed/jurassic-juniors",
+      "start": "2026-06-24T16:00:00-05:00",
+      "end": "2026-06-24T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: Ages 5–8. This program is for ages 5-8. Registration is required and will begin a week before the program date. More info coming soon.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-cornhole-tournament-blind-draw-2026-06-24-tuscaloosa-moose-lodge-804",
+      "title": "Cornhole Tournament - Blind Draw",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260624/fee37d56-a413-4fd1-8d53-6cc3df6d6bc1/cornhole-tournament-blind-draw",
+      "start": "2026-06-24T19:00:00-05:00",
+      "end": "2026-06-25T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Moose Lodge #804",
+      "address": "Tuscaloosa Moose Lodge #804, 221 25th Ave NE, Tuscaloosa",
+      "description": "Get ready for a weekly evening of friendly competition and old-fashioned fun with our blind draw cornhole tournament! Enjoy a...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-24",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "precipitationChance": 59,
+        "periodName": "Wednesday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-taspa-s-2026-2027-registration-2026-06-25-the-alberta-school-of-performing-arts",
+      "title": "Taspa's 2026 -2027 Registration",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260625/62ff8073-7b0c-4011-809b-6d21ee1c9fa3/taspas-2026-2027-registration",
+      "start": "2026-06-25T08:00:00-05:00",
+      "end": "2026-06-25T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Alberta School of Performing Arts",
+      "address": "The Alberta School of Performing Arts, 2700 University Blvd E, Tuscaloosa",
+      "description": "Get ready for the 2026 - 2027 school year at The Alberta School of Performing Arts! We are excited to welcome students and...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-25",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Thursday"
       }
     },
     {
@@ -1000,7 +934,29 @@
         "forecastDate": "2026-06-25",
         "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 53,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-dinostomp-storytime-2026-06-25-tuscaloosa-public-library",
+      "title": "DinoSTOMP Storytime",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260625/cb4da827-a341-42e1-a6f5-6efc30a0c075/dinostomp-storytime",
+      "start": "2026-06-25T10:00:00-05:00",
+      "end": "2026-06-25T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Stomp and soar to the Main Library this June for stories, songs, and movement that will have you ROARING! This program is for...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-25",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
         "periodName": "Thursday"
       }
     },
@@ -1022,7 +978,7 @@
         "forecastDate": "2026-06-25",
         "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 53,
         "periodName": "Thursday"
       }
     },
@@ -1044,7 +1000,29 @@
         "forecastDate": "2026-06-25",
         "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 53,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-triassic-tweens-2026-06-25-tuscaloosa-public-library",
+      "title": "Triassic Tweens",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260625/4adf887e-abbe-4101-a7ee-2fb912b88104/triassic-tweens",
+      "start": "2026-06-25T17:30:00-05:00",
+      "end": "2026-06-25T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Recommended ages: Ages 9–12. This program is for ages 9-12. Registration is required and will begin a week before the program date. More info coming soon.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-06-25",
+        "temperature": 89,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
         "periodName": "Thursday"
       }
     },
@@ -1064,9 +1042,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-26",
-        "temperature": 89,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 25,
         "periodName": "Friday"
       }
     },
@@ -1086,9 +1064,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-26",
-        "temperature": 72,
+        "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 25,
         "periodName": "Friday Night"
       }
     },
