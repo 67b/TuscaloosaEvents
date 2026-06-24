@@ -1,18 +1,18 @@
 :root {
   color-scheme: light;
-  --bg: #e5e9e8;
-  --panel: #fbfaf8;
-  --ink: #242722;
-  --muted: #5b615d;
-  --line: #c4cdcb;
-  --accent: #6f755f;
-  --accent-dark: #4f5747;
-  --teal: #50615d;
-  --gold: #d3968c;
+  --bg: #edf5fb;
+  --panel: #ffffff;
+  --ink: #011f4b;
+  --muted: #03396c;
+  --line: #b3cde0;
+  --accent: #005b96;
+  --accent-dark: #03396c;
+  --teal: #005b96;
+  --gold: #6497b1;
   --radius: 8px;
   --radius-control: 999px;
-  --shadow: 0 16px 36px rgba(60, 68, 63, 0.1);
-  --shadow-soft: 0 8px 20px rgba(60, 68, 63, 0.07);
+  --shadow: 0 16px 36px rgba(1, 31, 75, 0.1);
+  --shadow-soft: 0 8px 20px rgba(1, 31, 75, 0.07);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
@@ -60,7 +60,7 @@ a {
   position: relative;
   overflow: hidden;
   background:
-    linear-gradient(135deg, #ded8d5 0%, #bec8c8 50%, #8c907c 100%);
+    linear-gradient(135deg, #b3cde0 0%, #6497b1 50%, #005b96 100%);
   border-bottom: 1px solid var(--line);
 }
 
@@ -70,8 +70,8 @@ a {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, rgba(229, 233, 232, 0.94) 0%, rgba(229, 233, 232, 0.76) 42%, rgba(229, 233, 232, 0.1) 100%),
-    linear-gradient(180deg, rgba(36, 39, 34, 0.02), rgba(36, 39, 34, 0.08));
+    linear-gradient(90deg, rgba(237, 245, 251, 0.94) 0%, rgba(237, 245, 251, 0.76) 42%, rgba(237, 245, 251, 0.1) 100%),
+    linear-gradient(180deg, rgba(1, 31, 75, 0.02), rgba(1, 31, 75, 0.08));
 }
 
 .site-header__inner,
@@ -98,7 +98,7 @@ a {
   z-index: 0;
   width: min(47rem, 68%);
   height: auto;
-  color: #4f5747;
+  color: #03396c;
   opacity: 0.88;
   transform: translateY(-50%);
 }
@@ -130,8 +130,8 @@ a {
 
 .github-link:hover {
   color: var(--accent);
-  background: #fffdfb;
-  border-color: rgba(111, 117, 95, 0.28);
+  background: #ffffff;
+  border-color: rgba(0, 91, 150, 0.28);
 }
 
 .github-link svg {
@@ -166,7 +166,7 @@ h1 {
   position: sticky;
   top: 0;
   z-index: 3;
-  background: rgba(229, 233, 232, 0.92);
+  background: rgba(237, 245, 251, 0.92);
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(14px);
 }
@@ -202,20 +202,20 @@ select {
 
 input:hover,
 select:hover {
-  background: #fffdfb;
-  border-color: #adb9b5;
+  background: #ffffff;
+  border-color: #6497b1;
 }
 
 input:focus,
 select:focus,
 button:focus-visible,
 a:focus-visible {
-  outline: 3px solid rgba(111, 117, 95, 0.28);
+  outline: 3px solid rgba(0, 91, 150, 0.28);
   outline-offset: 2px;
 }
 
 .status-band {
-  background: rgba(190, 200, 200, 0.28);
+  background: rgba(179, 205, 224, 0.38);
   border-bottom: 1px solid var(--line);
 }
 
@@ -272,8 +272,8 @@ a:focus-visible {
 }
 
 .event-card:hover {
-  border-color: #adb9b5;
-  box-shadow: 0 18px 34px rgba(60, 68, 63, 0.12);
+  border-color: #6497b1;
+  box-shadow: 0 18px 34px rgba(1, 31, 75, 0.12);
 }
 
 .event-card__top {
@@ -294,15 +294,15 @@ a:focus-visible {
   min-height: 1.55rem;
   padding: 0.28rem 0.6rem;
   border-radius: var(--radius-control);
-  background: #f0e3e0;
-  color: #6f443e;
+  background: #d8eaf6;
+  color: #03396c;
   font-size: 0.76rem;
   font-weight: 750;
 }
 
 .pill--source {
-  background: #e7e8df;
-  color: #4f5747;
+  background: #d8eaf6;
+  color: #03396c;
 }
 
 .event-card h2 {
@@ -331,8 +331,8 @@ a:focus-visible {
   width: fit-content;
   padding: 0.48rem 0.7rem;
   border-radius: var(--radius);
-  background: #edf0ef;
-  color: #50615d;
+  background: #e8f2fa;
+  color: #005b96;
   font-weight: 750;
 }
 
@@ -358,29 +358,29 @@ a:focus-visible {
 
 .button--primary {
   background: var(--accent);
-  color: #fffdfb;
-  box-shadow: 0 10px 18px rgba(111, 117, 95, 0.2);
+  color: #ffffff;
+  box-shadow: 0 10px 18px rgba(0, 91, 150, 0.2);
 }
 
 .button--primary:hover {
   background: var(--accent-dark);
-  box-shadow: 0 12px 22px rgba(79, 87, 71, 0.24);
+  box-shadow: 0 12px 22px rgba(3, 57, 108, 0.24);
 }
 
 .button--secondary {
-  background: #edf0ef;
+  background: #e8f2fa;
   color: var(--teal);
-  border-color: rgba(111, 117, 95, 0.38);
+  border-color: rgba(0, 91, 150, 0.38);
 }
 
 .button--secondary:hover {
-  background: #e7e8df;
-  border-color: rgba(111, 117, 95, 0.55);
+  background: #d8eaf6;
+  border-color: rgba(0, 91, 150, 0.55);
 }
 
 .button--secondary:hover {
-  background: #eef5f2;
-  border-color: rgba(21, 115, 107, 0.52);
+  background: #edf5fb;
+  border-color: rgba(0, 91, 150, 0.52);
 }
 
 .empty-state {
@@ -428,8 +428,8 @@ a:focus-visible {
 @media (max-width: 560px) {
   .site-header::before {
     background:
-      linear-gradient(90deg, rgba(229, 233, 232, 0.95) 0%, rgba(229, 233, 232, 0.82) 58%, rgba(229, 233, 232, 0.34) 100%),
-      linear-gradient(180deg, rgba(36, 39, 34, 0.02), rgba(36, 39, 34, 0.08));
+      linear-gradient(90deg, rgba(237, 245, 251, 0.95) 0%, rgba(237, 245, 251, 0.82) 58%, rgba(237, 245, 251, 0.34) 100%),
+      linear-gradient(180deg, rgba(1, 31, 75, 0.02), rgba(1, 31, 75, 0.08));
   }
 
   .hero-art {
