@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-29T14:52:59.565Z",
+  "updatedAt": "2026-06-30T13:15:18.690Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-06-29T14:52:59.565Z",
+  "weatherUpdatedAt": "2026-06-30T13:15:18.690Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-29-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-06-30-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-06-29T00:00:00-05:00",
-      "end": "2026-06-29T00:00:00-05:00",
+      "start": "2026-06-30T00:00:00-05:00",
+      "end": "2026-06-30T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,20 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-29",
-        "temperature": 98,
+        "forecastDate": "2026-06-30",
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 17,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-one-2026-06-29",
+      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-one-2026-06-30",
       "title": "2026 Advanced Placement Summer Institute – Week One",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/2026-advanced-placement-summer-institute-week-one",
-      "start": "2026-06-29T08:00:00-05:00",
-      "end": "2026-06-29T17:00:00-05:00",
+      "start": "2026-06-30T08:00:00-05:00",
+      "end": "2026-06-30T17:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "",
@@ -51,54 +51,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-06-29",
-        "temperature": 98,
+        "forecastDate": "2026-06-30",
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-dig-deep-ceramic-dinosaur-steps-2026-06-29-tuscaloosa-public-library-weaver-bolden-branch",
-      "title": "Dig Deep! Ceramic Dinosaur Steps",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260629/a97c54b3-5221-4d87-9cd4-07f1db41ec58/dig-deep-ceramic-dinosaur-steps",
-      "start": "2026-06-29T13:00:00-05:00",
-      "end": "2026-06-29T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library Weaver Bolden Branch",
-      "address": "Tuscaloosa Public Library Weaver Bolden Branch, 2522 Lanier Ave, Tuscaloosa",
-      "description": "Join Amy Smoot from Kentuck Art Center and make your very own clay dinosaur footprint. Projects will be fired in the kiln and...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-29",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-dig-deep-ceramic-dinosaur-steps-2026-06-29-weaver-bolden-library",
-      "title": "Dig Deep!: Ceramic Dinosaur Steps",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/dig-deep-ceramic-dinosaur-steps/",
-      "start": "2026-06-29T13:00:00-05:00",
-      "end": "2026-06-29T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Weaver Bolden Library",
-      "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 6–12. Join Amy Smoot from Kentuck Art Center and make your very own clay dinosaur footprint. Projects will be fired in the kiln and picked up later in the summer. Ages 6-12. Registration required. #### Map ### “Made...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-06-29",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 17,
         "periodName": "Today"
       }
     },
@@ -120,8 +76,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -142,8 +98,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -164,8 +120,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -179,15 +135,15 @@
       "timeStatus": "confirmed",
       "venue": "Weaver Bolden Library",
       "address": "2522 Lanier Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### “Made in America” Exhibit View Bookmarks ### Dig Deep!: Ceramic Dinosaur Steps View Bookmarks ### Tues...",
+      "description": "Recommended ages: Ages 3–6. Shake your spines and stomp your feet—join us for stories, songs, movement, and more! Ages 3-6. #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### “Made in America” Exhibit View Bookmarks ### St...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -208,8 +164,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -230,8 +186,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -252,8 +208,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -274,8 +230,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -296,8 +252,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -311,15 +267,15 @@
       "timeStatus": "confirmed",
       "venue": "Tuscaloosa Public Library",
       "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 13–18. Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some video games. This program is for ages 13-18. #### Map ### “Made in America” Exhibit Vi...",
+      "description": "Recommended ages: Ages 13–18. Join us for the first summer hangout edition of Teen Lab and create a keychain, bag charm, shoe charm, or simply play some video games. This program is for ages 13-18. #### Map ### Tuesday’s Tuscaloosa Farmers...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -340,8 +296,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -362,8 +318,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -384,8 +340,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday"
+        "precipitationChance": 17,
+        "periodName": "Today"
       }
     },
     {
@@ -406,8 +362,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 17,
+        "periodName": "Tonight"
       }
     },
     {
@@ -428,8 +384,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 17,
+        "periodName": "Tonight"
       }
     },
     {
@@ -450,8 +406,8 @@
         "forecastDate": "2026-06-30",
         "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 17,
+        "periodName": "Tonight"
       }
     },
     {
@@ -470,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-01",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 26,
         "periodName": "Wednesday"
       }
     },
@@ -492,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-01",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 26,
         "periodName": "Wednesday"
       }
     },
@@ -514,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-01",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 26,
         "periodName": "Wednesday"
       }
     },
@@ -538,7 +494,7 @@
         "forecastDate": "2026-07-02",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 25,
         "periodName": "Thursday"
       }
     },
@@ -560,7 +516,29 @@
         "forecastDate": "2026-07-02",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 25,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-power-bi-visualizations-online-2026-07-02",
+      "title": "Power BI Visualizations (Online)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/power-bi-visualizations-online-2771",
+      "start": "2026-07-02T16:00:00-05:00",
+      "end": "2026-07-02T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Learn the nuances of creating visualizations using Power BI. This session will demonstrate how to take your raw data and turn it into professional looking visualizations. This class will: Demonstrate how to create and modify several differ...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-02",
+        "temperature": 97,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
         "periodName": "Thursday"
       }
     },
@@ -582,7 +560,7 @@
         "forecastDate": "2026-07-03",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 19,
         "periodName": "Friday"
       }
     },
@@ -604,7 +582,7 @@
         "forecastDate": "2026-07-03",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 19,
         "periodName": "Friday"
       }
     },
@@ -626,7 +604,7 @@
         "forecastDate": "2026-07-03",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 19,
         "periodName": "Friday"
       }
     },
@@ -648,7 +626,7 @@
         "forecastDate": "2026-07-03",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 19,
         "periodName": "Friday Night"
       }
     },
@@ -670,7 +648,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 30,
         "periodName": "Independence Day"
       }
     },
@@ -692,7 +670,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 30,
         "periodName": "Independence Day"
       }
     },
@@ -714,7 +692,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 30,
         "periodName": "Independence Day"
       }
     },
@@ -736,7 +714,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 30,
         "periodName": "Independence Day"
       }
     },
@@ -758,7 +736,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 30,
         "periodName": "Independence Day"
       }
     },
@@ -773,14 +751,14 @@
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
       "address": "2710 Jack Warner Parkway, Tuscaloosa, AL",
-      "description": "This free, family-friendly Independence Day event presented by the City of Tuscaloosa will include fireworks, kids’ activities, live music by the Tuscaloosa Symphony Orchestra, and more! #### Map ### “Made in America” Exhibit View Bookmark...",
+      "description": "This free, family-friendly Independence Day event presented by the City of Tuscaloosa will include fireworks, kids’ activities, live music by the Tuscaloosa Symphony Orchestra, and more! #### Map ### Tuesday’s Tuscaloosa Farmers Market Vie...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 46,
+        "precipitationChance": 32,
         "periodName": "Saturday Night"
       }
     },
@@ -802,7 +780,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 46,
+        "precipitationChance": 32,
         "periodName": "Saturday Night"
       }
     },
@@ -824,7 +802,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 46,
+        "precipitationChance": 32,
         "periodName": "Saturday Night"
       }
     },
@@ -841,7 +819,14 @@
       "address": "The University of Alabama, Tuscaloosa",
       "description": "Special Education students will be working one-on-one with K-3 elementary children who are a year or two behind in reading....",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-06",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 56,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "university-of-alabama-last-day-to-drop-a-course-with-a-grade-of-w-for-summer-full-term-2026-07-07",
@@ -1049,7 +1034,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### Dig Deep!: Ceramic Dinosaur Steps View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### Storytime-o-saurus View Bookmarks ### Teen Lab View Bookmarks ### Free 15...",
+      "description": "#### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Storytime-o-saurus View Bookmarks ### Teen Lab View Bookmarks ### Free 151st Army Band Concert to Celebrate America’s 250th An...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1081,6 +1066,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Lauren Daigle with Kyndal Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle, with spe...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-lauren-daigle-at-mercedes-benz-amphitheater-2026-07-16-mercedes-benz-amphitheater",
+      "title": "LAUREN DAIGLE at Mercedes-Benz Amphitheater",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/lauren-daigle-at-mercedes-benz-amphitheater/",
+      "start": "2026-07-16T19:30:00-05:00",
+      "end": "2026-07-17T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle will be performing at the Mercedes-Benz Amphitheater in Tuscaloosa on Thursday, J...",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -1156,6 +1156,21 @@
       "address": "1201 COLISEUM DRIVE , TUSCALOOSA , AL 35401",
       "description": "Please visit the Commencement website for more information.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-sean-of-the-south-2026-08-01-bama-theatre",
+      "title": "Sean Of The South",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260801/dac6205e-2ed0-41e9-87c4-e7ee4c43b419/sean-of-the-south",
+      "start": "2026-08-01T18:30:00-05:00",
+      "end": "2026-08-02T00:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bama Theatre",
+      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
+      "description": "Experience the return of Sean Dietrich for an evening of music, storytelling, and laughs at the historic Bama Theatre. A...",
+      "category": "Community",
       "isVirtual": false
     },
     {
