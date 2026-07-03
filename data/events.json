@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-02T13:06:30.873Z",
+  "updatedAt": "2026-07-03T13:10:13.400Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-02T13:06:30.872Z",
+  "weatherUpdatedAt": "2026-07-03T13:10:13.400Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-02-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-03-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-02T00:00:00-05:00",
-      "end": "2026-07-02T00:00:00-05:00",
+      "start": "2026-07-03T00:00:00-05:00",
+      "end": "2026-07-03T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,231 +29,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-02",
+        "forecastDate": "2026-07-03",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 19,
+        "precipitationChance": 23,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-one-2026-07-02",
-      "title": "2026 Advanced Placement Summer Institute – Week One",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/2026-advanced-placement-summer-institute-week-one",
-      "start": "2026-07-02T08:00:00-05:00",
-      "end": "2026-07-02T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The University of Alabama is proud to partner with the College Board® to offer the Advanced Placement Institute, a professional learning experience designed for both new and experienced AP teachers. Participants will explore subject-specif...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-annual-public-reading-of-the-declaration-of-independence-2026-07-02-tuscaloosa-county-courthouse",
-      "title": "Annual Public Reading of the Declaration of Independence",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260702/a828464e-f930-44f8-add2-bbea058f9279/annual-public-reading-of-the-declaration-of-independence",
-      "start": "2026-07-02T08:30:00-05:00",
-      "end": "2026-07-02T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa County Courthouse",
-      "address": "Tuscaloosa County Courthouse, 714 Greensboro Ave, Tuscaloosa",
-      "description": "Join local attorneys, judges, public officials, and community members as the Tuscaloosa County Bar Association honors our...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-02-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-02T09:00:00-05:00",
-      "end": "2026-07-02T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-02-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-02T09:00:00-05:00",
-      "end": "2026-07-02T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-mid-morning-walking-break-2026-07-02-gorgas-library",
-      "title": "Mid-Morning Walking Break",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
-      "start": "2026-07-02T10:00:00-05:00",
-      "end": "2026-07-02T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-power-bi-visualizations-2026-07-02-bruno-business-library",
-      "title": "Power BI Visualizations",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/power-bi-visualizations",
-      "start": "2026-07-02T11:00:00-05:00",
-      "end": "2026-07-02T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bruno Business Library",
-      "address": "425 STADIUM DRIVE , TUSCALOOSA, AL 35401",
-      "description": "Learn the nuances of creating visualizations using Power BI. This session will demonstrate how to take your raw data and turn it into professional looking visualizations. This class will: Demonstrate how to create and modify several differ...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-07-02",
-      "title": "Make Your Course Accessible with Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-4028",
-      "start": "2026-07-02T13:30:00-05:00",
-      "end": "2026-07-02T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-power-bi-visualizations-online-2026-07-02",
-      "title": "Power BI Visualizations (Online)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/power-bi-visualizations-online-2771",
-      "start": "2026-07-02T16:00:00-05:00",
-      "end": "2026-07-02T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Learn the nuances of creating visualizations using Power BI. This session will demonstrate how to take your raw data and turn it into professional looking visualizations. This class will: Demonstrate how to create and modify several differ...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-indivisible-west-alabama-meet-and-greet-2026-07-02-druid-city-brewing-company",
-      "title": "Indivisible West Alabama Meet-and-Greet",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260702/6e3595db-9e62-4418-852d-c194cf6320c2/indivisible-west-alabama-meet-and-greet",
-      "start": "2026-07-02T18:00:00-05:00",
-      "end": "2026-07-03T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Druid City Brewing Company",
-      "address": "Druid City Brewing Company, Tuscaloosa",
-      "description": "Join Indivisible West Alabama for an evening social gathering at Druid City Brewing Company. This public event is the perfect...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-vulcan-eejits-concert-and-video-shoot-2026-07-02-the-sanctuary-on-25th",
-      "title": "Vulcan Eejits! Concert and Video Shoot",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260702/e9b048d7-17be-4deb-a004-4be29d8cc53f/vulcan-eejits-concert-and-video-shoot",
-      "start": "2026-07-02T18:00:00-05:00",
-      "end": "2026-07-03T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Sanctuary on 25th",
-      "address": "The Sanctuary on 25th, 1710 25th Ave, Tuscaloosa",
-      "description": "Experience a lively evening of Irish, Scottish, and American folk music where you can sing and tap along while enjoying fine...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-02",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Tonight"
       }
     },
     {
@@ -272,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-03",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -294,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-03",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -316,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-03",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -338,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-03",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -362,8 +142,8 @@
         "forecastDate": "2026-07-03",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Friday Night"
+        "precipitationChance": 30,
+        "periodName": "Tonight"
       }
     },
     {
@@ -384,8 +164,8 @@
         "forecastDate": "2026-07-03",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Friday Night"
+        "precipitationChance": 30,
+        "periodName": "Tonight"
       }
     },
     {
@@ -406,8 +186,8 @@
         "forecastDate": "2026-07-03",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Friday Night"
+        "precipitationChance": 30,
+        "periodName": "Tonight"
       }
     },
     {
@@ -426,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -448,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -470,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -492,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -514,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -536,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -558,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -580,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -602,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Independence Day"
       }
     },
@@ -626,7 +406,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Saturday Night"
       }
     },
@@ -648,7 +428,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Saturday Night"
       }
     },
@@ -670,7 +450,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 27,
         "periodName": "Saturday Night"
       }
     },
@@ -690,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 49,
         "periodName": "Monday"
       }
     },
@@ -712,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 49,
         "periodName": "Monday"
       }
     },
@@ -734,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 49,
         "periodName": "Monday"
       }
     },
@@ -756,9 +536,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 49,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tools-ua-faculty-should-know-2026-07-06",
+      "title": "Tools UA Faculty Should Know",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tools-ua-faculty-should-know-5642",
+      "start": "2026-07-06T14:00:00-05:00",
+      "end": "2026-07-06T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Empower your teaching with the essential instructional technologies supported at UA! This session introduces faculty to the most impactful tools for course design, delivery, and student engagement. Whether you’re new to UA or looking to re...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-06",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 49,
         "periodName": "Monday"
       }
     },
@@ -778,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 49,
         "periodName": "Monday"
       }
     },
@@ -800,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 49,
         "periodName": "Monday"
       }
     },
@@ -822,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 55,
         "periodName": "Tuesday"
       }
     },
@@ -844,9 +646,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 55,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-160-songs-of-americana-the-soundtrack-of-america-at-250-2026-07-07-bryant-conference-center",
+      "title": "TUS 160 Songs of Americana: The Soundtrack of America at 250",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-160-songs-of-americana-the-soundtrack-of-america-at-250",
+      "start": "2026-07-07T12:00:00-05:00",
+      "end": "2026-07-07T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! As we honor America250, this course explores the music that tells America’s story. From folk ballads and spirituals to blues, country and modern-day America, we will listen closely to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-07",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 55,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ultra-basics-2026-07-07",
+      "title": "Ultra Basics",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ultra-basics-3311",
+      "start": "2026-07-07T14:00:00-05:00",
+      "end": "2026-07-07T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join this session to learn the basics: navigation, key features, and how to build course content from scratch and by copying other Bb courses. This session is for instructors, teaching assistants, and course designers and builders.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-07",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 55,
         "periodName": "Tuesday"
       }
     },
@@ -866,9 +712,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 55,
         "periodName": "Tuesday"
       }
     },
@@ -888,10 +734,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 55,
         "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-curriculum-and-instruction-graduate-programs-information-session-2026-07-07",
+      "title": "Curriculum & Instruction Graduate Programs Information Session",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/curriculum-instruction-graduate-programs-information-session-4747",
+      "start": "2026-07-07T18:00:00-05:00",
+      "end": "2026-07-07T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Are you ready to advance your career in education? Join us for a virtual information session to learn more about our graduate programs in Curriculum & Instruction, Elementary Education and Secondary Education 🍎📚 Whether you’re looking to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-07",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 55,
+        "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-17th-social-justice-sing-along-we-the-people-edition-2026-07-07-druid-city-brewing-company",
+      "title": "17th Social-Justice Sing-Along: We The People Edition",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260707/108acd3f-ccf0-40a3-9051-650a8b7d9f54/17th-social-justice-sing-along-we-the-people-edition",
+      "start": "2026-07-07T19:00:00-05:00",
+      "end": "2026-07-08T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Druid City Brewing Company",
+      "address": "Druid City Brewing Company, Tuscaloosa",
+      "description": "Experience a community-building evening celebrating the US Constitution and the Declaration of Independence through song. This...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-07",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 55,
+        "periodName": "Tuesday Night"
       }
     },
     {
@@ -910,9 +800,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 55,
         "periodName": "Tuesday Night"
       }
     },
@@ -932,10 +822,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 55,
         "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-dr-seuss-the-lorax-2012-2026-07-08-bama-theatre",
+      "title": "Dr. Seuss' The Lorax (2012)",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260708/b2c64bf7-bc24-442b-92bd-ed1d0bdd46ad/dr-seuss-the-lorax-2012",
+      "start": "2026-07-08T10:00:00-05:00",
+      "end": "2026-07-08T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bama Theatre",
+      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
+      "description": "Experience this charming animated adaptation of the Dr. Seuss classic where a young boy searches for a real tree to win over...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-08",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 43,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -954,9 +866,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 43,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-total-body-mobility-2026-07-08-gorgas-library",
+      "title": "Total Body Mobility",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/total-body-mobility",
+      "start": "2026-07-08T12:00:00-05:00",
+      "end": "2026-07-08T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas Library",
+      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
+      "description": "A full-body stretching and mobility class designed to improve flexibility, reduce tension, and increase range of motion for better everyday movement. Please wear workout attire and bring a mat or towel. Register through the WellBAMA portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-08",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 43,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-07-08-bryant-conference-center",
+      "title": "TUS 161 Lagniappe – Various Topics",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
+      "start": "2026-07-08T12:00:00-05:00",
+      "end": "2026-07-08T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-08",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 43,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tus-161-lagniappe-various-topics-2026-07-08-bryant-conference-center",
+      "title": "TUS 161 Lagniappe – Various Topics",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260708/72db98b1-66f8-4d8d-89f8-ff1fe1f7ae3e/tus-161-lagniappe-various-topics",
+      "start": "2026-07-08T12:00:00-05:00",
+      "end": "2026-07-08T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "Bryant Conference Center, 240 Paul W Bryant Dr, Tuscaloosa",
+      "description": "Join OLLI at UA for a free public program featuring a wide range of topics ranging from history and travel to arts, hobbies,...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-08",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 43,
         "periodName": "Wednesday"
       }
     },
@@ -973,6 +951,28 @@
       "address": "",
       "description": "Boost your energy and mood with practical strategies for better rest and nutrition. Taught by Registered Dietitian, Sheena Gregg from Health Promotion and Wellness. Register through your WellBAMA portal.",
       "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-09",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 41,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-live-at-the-plaza-rescheduled-2026-07-10-government-plaza",
+      "title": "Live at the Plaza (Rescheduled)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/live-at-the-plaza-rescheduled/",
+      "start": "2026-07-10T18:00:00-05:00",
+      "end": "2026-07-10T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Government Plaza",
+      "address": "",
+      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### “Made in America” Exhibi...",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -1092,21 +1092,6 @@
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "A wealthy African prince who rebels against an arranged marriage travels to Queens, New York City. Once he arrives, he poses as an average guy in order to seek out a worthy American woman to become his wife. Runtime: 116 minutes Rating: R...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-volleyball-high-school-all-skills-camp-2026-07-14-foster-auditorium",
-      "title": "Alabama Volleyball High School All Skills Camp",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-high-school-all-skills-camp/",
-      "start": "2026-07-14T08:00:00-05:00",
-      "end": "2026-07-14T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "801 6th Ave, Tuscaloosa, AL 35487",
-      "description": "This year, the Alabama volleyball program is making a focused effort to bring home-state talent through its doors. From Tuscaloosa and Birmingham to Huntsville, Montgomery, and Mobile — if you call Alabama home, there is a spot in this gym...",
       "category": "Community",
       "isVirtual": false
     },
