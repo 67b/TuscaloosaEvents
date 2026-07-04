@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-03T13:10:13.400Z",
+  "updatedAt": "2026-07-04T12:17:12.383Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-03T13:10:13.400Z",
+  "weatherUpdatedAt": "2026-07-04T12:17:12.383Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,182 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-03-paul-r-jones-museum",
-      "title": "\"The Domestic Liminal\" Exhibition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-03T00:00:00-05:00",
-      "end": "2026-07-03T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-independence-day-observed-ua-closed-2026-07-03",
-      "title": "Independence Day (Observed) (UA closed)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/independence_day_observed_ua_closed",
-      "start": "2026-07-03T00:00:00-05:00",
-      "end": "2026-07-03T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "University of Alabama event listed on the campus calendar.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-traditional-specialty-masters-information-session-2026-07-03",
-      "title": "Traditional/Specialty Masters Information Session",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/traditionalspecialty-masters-information-session",
-      "start": "2026-07-03T11:00:00-05:00",
-      "end": "2026-07-03T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join us to learn more about our MBA programs!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-first-friday-2026-07-03-dinah-washington-cultural-arts-center",
-      "title": "First Friday",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/first-friday/",
-      "start": "2026-07-03T17:00:00-05:00",
-      "end": "2026-07-03T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Dinah Washington Cultural Arts Center",
-      "address": "620 Greensboro Ave, Tuscaloosa, AL",
-      "description": "Visit Downtown Tuscaloosa for First Friday! Take advantage of GREAT regional art, food and maybe a drink to get your weekend started! Please visit each gallery page for specific information about exhibits, activities, hours of operation, w...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-first-friday-2026-07-03-dinah-washington-cultural-arts-center",
-      "title": "First Friday",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260703/a7777859-6ec7-471c-b557-e403e2f5db09/first-friday",
-      "start": "2026-07-03T17:00:00-05:00",
-      "end": "2026-07-03T23:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Dinah Washington Cultural Arts Center",
-      "address": "Dinah Washington Cultural Arts Center, 620 Greensboro Ave, Tuscaloosa",
-      "description": "Kick off your weekend in Downtown Tuscaloosa with an evening dedicated to great regional art and food. Explore local galleries,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-line-dance-beginner-camp-2026-07-03-dinah-washington-cultural-arts-center",
-      "title": "Line Dance Beginner Camp",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260703/055560d1-83cb-469a-b1e6-f83c258f3524/line-dance-beginner-camp",
-      "start": "2026-07-03T18:00:00-05:00",
-      "end": "2026-07-04T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Dinah Washington Cultural Arts Center",
-      "address": "Dinah Washington Cultural Arts Center, 620 Greensboro Ave, Tuscaloosa",
-      "description": "Join Bougie Boogie Line Dancing for a three-hour beginner camp designed to teach basic techniques and some of the top line...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-america-250-in-vance-2026-07-03-vance-ballpark",
-      "title": "America 250 in Vance",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260703/ee6b8038-0626-4cb1-b9e6-87b77ca57b28/america-250-in-vance",
-      "start": "2026-07-03T18:30:00-05:00",
-      "end": "2026-07-04T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Vance Ballpark",
-      "address": "Vance Ballpark, 117755 Municipal Drive, Vance, AL, 35490",
-      "description": "Join the town of Vance for a monumental 250th anniversary celebration featuring a free hotdog meal, ice cream, and a variety of...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-legit-band-2026-07-03-the-sanctuary-on-25th",
-      "title": "Legit Band",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260703/b53a7a13-54a6-447a-b057-3f9cf608cd89/legit-band",
-      "start": "2026-07-03T19:00:00-05:00",
-      "end": "2026-07-04T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Sanctuary on 25th",
-      "address": "The Sanctuary on 25th, 1710 25th Ave, Tuscaloosa",
-      "description": "Experience an incredible night of live music featuring Legit Band at The Sanctuary. This public event promises three hours of...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-03",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "tuscaloosa-patch-sunrise-yoga-in-the-park-2026-07-04-the-park-at-manderson-landing",
       "title": "Sunrise Yoga in the Park",
@@ -208,7 +32,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -230,7 +54,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -252,7 +76,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -274,7 +98,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -296,7 +120,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -318,7 +142,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -340,7 +164,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -362,7 +186,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -384,7 +208,7 @@
         "forecastDate": "2026-07-04",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 18,
         "periodName": "Independence Day"
       }
     },
@@ -399,15 +223,15 @@
       "timeStatus": "confirmed",
       "venue": "Mercedes-Benz Amphitheater",
       "address": "2710 Jack Warner Parkway, Tuscaloosa, AL",
-      "description": "This free, family-friendly Independence Day event presented by the City of Tuscaloosa will include fireworks, kids’ activities, live music by the Tuscaloosa Symphony Orchestra, and more! #### Map ### “Made in America” Exhibit View Bookmark...",
+      "description": "This free, family-friendly Independence Day event presented by the City of Tuscaloosa will include fireworks, kids’ activities, live music by the Tuscaloosa Symphony Orchestra, and more! #### Map ### 4th on Main – Northport, Alabama View B...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Saturday Night"
+        "precipitationChance": 22,
+        "periodName": "Tonight"
       }
     },
     {
@@ -428,8 +252,8 @@
         "forecastDate": "2026-07-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Saturday Night"
+        "precipitationChance": 22,
+        "periodName": "Tonight"
       }
     },
     {
@@ -450,8 +274,30 @@
         "forecastDate": "2026-07-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Saturday Night"
+        "precipitationChance": 22,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-06-paul-r-jones-museum",
+      "title": "\"The Domestic Liminal\" Exhibition",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
+      "start": "2026-07-06T00:00:00-05:00",
+      "end": "2026-07-06T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-06",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 73,
+        "periodName": "Monday"
       }
     },
     {
@@ -470,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -492,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -514,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -536,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -558,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -580,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -602,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 73,
         "periodName": "Monday"
       }
     },
@@ -626,7 +472,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 52,
         "periodName": "Tuesday"
       }
     },
@@ -648,7 +494,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 52,
         "periodName": "Tuesday"
       }
     },
@@ -670,7 +516,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 52,
         "periodName": "Tuesday"
       }
     },
@@ -692,7 +538,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 52,
         "periodName": "Tuesday"
       }
     },
@@ -714,7 +560,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 52,
         "periodName": "Tuesday"
       }
     },
@@ -736,7 +582,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 52,
         "periodName": "Tuesday"
       }
     },
@@ -758,7 +604,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 45,
         "periodName": "Tuesday Night"
       }
     },
@@ -780,7 +626,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 45,
         "periodName": "Tuesday Night"
       }
     },
@@ -802,7 +648,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 45,
         "periodName": "Tuesday Night"
       }
     },
@@ -824,7 +670,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 45,
         "periodName": "Tuesday Night"
       }
     },
@@ -846,7 +692,7 @@
         "forecastDate": "2026-07-08",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 30,
         "periodName": "Wednesday"
       }
     },
@@ -868,7 +714,7 @@
         "forecastDate": "2026-07-08",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 30,
         "periodName": "Wednesday"
       }
     },
@@ -890,7 +736,7 @@
         "forecastDate": "2026-07-08",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 30,
         "periodName": "Wednesday"
       }
     },
@@ -912,7 +758,7 @@
         "forecastDate": "2026-07-08",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 30,
         "periodName": "Wednesday"
       }
     },
@@ -934,7 +780,51 @@
         "forecastDate": "2026-07-08",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 43,
+        "precipitationChance": 30,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-communication-features-in-ultra-2026-07-08",
+      "title": "Communication Features in Ultra",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/communication-features-in-ultra-4201",
+      "start": "2026-07-08T13:00:00-05:00",
+      "end": "2026-07-08T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Blackboard Ultra offers a wide variety of ways for instructors to communicate with their students. This workshop will examine and demonstrate how to access and use Ultra’s communication features.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-08",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-10-things-you-didn-t-know-you-could-do-in-ultra-2026-07-08",
+      "title": "10 Things You Didn’t Know You Could Do in Ultra",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/10-things-you-didnt-know-you-could-do-in-ultra-8721",
+      "start": "2026-07-08T14:30:00-05:00",
+      "end": "2026-07-08T15:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Blackboard Ultra has an impressive list of features. It’s built for mobile, it’s more inclusive, and it provides services we need from a learning management system. But here’s the thing: it also does some cool things you may not know about...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-08",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
         "periodName": "Wednesday"
       }
     },
@@ -956,8 +846,30 @@
         "forecastDate": "2026-07-09",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 44,
         "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-singo-night-at-shrimp-basket-tuscaloosa-2026-07-09-shrimp-basket-tuscaloosa",
+      "title": "Singo Night at Shrimp Basket Tuscaloosa",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260709/15d86d5d-1091-48cd-8d16-9628b6e63e42/singo-night-at-shrimp-basket-tuscaloosa",
+      "start": "2026-07-09T18:30:00-05:00",
+      "end": "2026-07-10T00:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Shrimp Basket Tuscaloosa",
+      "address": "Shrimp Basket Tuscaloosa, 3429 McFarland Blvd E, Tuscaloosa",
+      "description": "Thursday nights in T-Town just got more fun with SINGO, the exciting musical twist on bingo where you match songs to your game...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-09",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 44,
+        "periodName": "Thursday Night"
       }
     },
     {
@@ -971,9 +883,16 @@
       "timeStatus": "confirmed",
       "venue": "Government Plaza",
       "address": "",
-      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### “Made in America” Exhibi...",
+      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### 4th on Main – Northport,...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-10",
+        "temperature": 76,
+        "temperatureUnit": "F",
+        "precipitationChance": 41,
+        "periodName": "Friday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-captain-america-civil-war-2016-2026-07-10-the-historic-bama-theatre",
@@ -988,7 +907,14 @@
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Steve Rogers leads the newly formed team of Avengers in their continued efforts to safeguard humanity. But after another incident involving the Avengers results in collateral damage, political pressure mounts to install a system of account...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-10",
+        "temperature": 76,
+        "temperatureUnit": "F",
+        "precipitationChance": 41,
+        "periodName": "Friday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
@@ -1006,6 +932,51 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-patch-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
+      "title": "Saturday in the Park: Copper Work Demonstration",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/d96fcb1a-f2cd-40e8-a788-5fdb6f7ddfc0/saturday-in-the-park-copper-work-demonstration",
+      "start": "2026-07-11T09:15:00-05:00",
+      "end": "2026-07-11T15:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
+      "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-leon-maisel-book-signing-normandy-echoes-in-the-blood-2026-07-11-barnes-and-noble",
+      "title": "Leon Maisel Book Signing \"Normandy, Echoes In The Blood\"",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/00f30d99-6913-414d-9e2f-2145285ac197/leon-maisel-book-signing-normandy-echoes-in-the-blood",
+      "start": "2026-07-11T12:00:00-05:00",
+      "end": "2026-07-11T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Barnes & Noble",
+      "address": "Barnes & Noble, 1800 McFarland Blvd E, Tuscaloosa",
+      "description": "Local event listed on Patch's Tuscaloosa calendar.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-your-story-your-voice-memoir-writing-workshop-2026-07-11-tuscaloosa-public-library",
+      "title": "Your Story, Your Voice - Memoir Writing Workshop",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/4bddb892-ba7f-46ae-ba5c-3f5545b1312a/your-story-your-voice-memoir-writing-workshop",
+      "start": "2026-07-11T14:00:00-05:00",
+      "end": "2026-07-11T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa Public Library",
+      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Join a supportive workshop where you can learn the art of transforming your life experiences and memories into compelling...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-top-gun-2026-07-11-the-venue-tuscaloosa",
       "title": "Top Gun",
       "source": "Visit Tuscaloosa",
@@ -1016,7 +987,7 @@
       "timeStatus": "confirmed",
       "venue": "The Venue Tuscaloosa",
       "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### First Friday View Bookmarks ### 4th on Main – Northport, Alabam...",
+      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### 4th on Main – Northport, Alabama View Bookmarks ### Celebration on the River View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Independence Day Boat Parad...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1092,6 +1063,21 @@
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "A wealthy African prince who rebels against an arranged marriage travels to Queens, New York City. Once he arrives, he poses as an average guy in order to seek out a worthy American woman to become his wife. Runtime: 116 minutes Rating: R...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-volleyball-high-school-all-skills-camp-2026-07-14-foster-auditorium",
+      "title": "Alabama Volleyball High School All Skills Camp",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-high-school-all-skills-camp/",
+      "start": "2026-07-14T08:00:00-05:00",
+      "end": "2026-07-14T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Foster Auditorium",
+      "address": "801 6th Ave, Tuscaloosa, AL 35487",
+      "description": "This year, the Alabama volleyball program is making a focused effort to bring home-state talent through its doors. From Tuscaloosa and Birmingham to Huntsville, Montgomery, and Mobile — if you call Alabama home, there is a spot in this gym...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1362,6 +1348,21 @@
       "venue": "",
       "address": "",
       "description": "Classes Begin for Fall 2",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-moundville-native-american-festival-2026-10-01-moundville-archaeological-park",
+      "title": "Moundville Native American Festival",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/moundville-native-american-festival-9205",
+      "start": "2026-10-01T09:00:00-05:00",
+      "end": "2026-10-01T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "",
+      "description": "Join us from October 1-3, 2026 for the Moundville Native American Festival! Bring your family and friends to meet Native American artisans, see traditional dances, listen to stories and music, and support local and Native American business...",
       "category": "Campus",
       "isVirtual": false
     },
