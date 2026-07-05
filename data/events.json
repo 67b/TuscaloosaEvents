@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-04T12:17:12.383Z",
+  "updatedAt": "2026-07-05T12:41:13.455Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-04T12:17:12.383Z",
+  "weatherUpdatedAt": "2026-07-05T12:41:13.455Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,270 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "tuscaloosa-patch-sunrise-yoga-in-the-park-2026-07-04-the-park-at-manderson-landing",
-      "title": "Sunrise Yoga in the Park",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/8b186d72-09d2-4220-81fa-efe8eb4d46bb/sunrise-yoga-in-the-park",
-      "start": "2026-07-04T07:00:00-05:00",
-      "end": "2026-07-04T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Park At Manderson Landing",
-      "address": "The Park At Manderson Landing, 69 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Start your morning with a 45-minute Vinyasa flow, core Yogalates, and 10 minutes of guided meditation in the elements of...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-america-s-250th-boat-parade-2026-07-04-binion-creek-boat-landing",
-      "title": "America's 250th Boat Parade",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/5e17e85c-bdfe-4a08-b835-884c231f93ff/americas-250th-boat-parade",
-      "start": "2026-07-04T10:00:00-05:00",
-      "end": "2026-07-04T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Binion Creek Boat Landing",
-      "address": "Binion Creek Boat Landing, 16553 Binion Creek Heights, Northport",
-      "description": "Celebrate our nation's historic milestone on Lake Tuscaloosa with a spectacular boat parade, horn salute, and a stunning drone...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-druid-city-brewing-4th-of-july-celebration-and-karaoke-2026-07-04-druid-city-brewing-company",
-      "title": "Druid City Brewing 4th Of July Celebration & Karaoke",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/4a3babd1-e782-43ab-a9b7-fbfffdc7e712/druid-city-brewing-4th-of-july-celebration-karaoke",
-      "start": "2026-07-04T12:00:00-05:00",
-      "end": "2026-07-04T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Druid City Brewing Company",
-      "address": "Druid City Brewing Company, 700 14th St, Tuscaloosa",
-      "description": "Celebrate America's birthday at Druid City Brewing with delicious fare from Ell's Kitchen, including $2.50 hotdogs and $5 BBQ...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-pirates-of-the-warrior-4th-of-july-boat-parade-2026-07-04-eagle-cove-marina",
-      "title": "Pirates Of The Warrior 4th Of July Boat Parade",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/207bd968-eae2-4ce5-b5cb-a872b25419fe/pirates-of-the-warrior-4th-of-july-boat-parade",
-      "start": "2026-07-04T12:00:00-05:00",
-      "end": "2026-07-04T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Eagle Cove Marina",
-      "address": "Eagle Cove Marina, 11912 Recreation Area Rd, Cottondale",
-      "description": "Gather your crew and decorate your boats for an epic Independence Day celebration on the water featuring a festive boat parade...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-independence-day-boat-parade-2026-07-04-captain-s-club",
-      "title": "Independence Day Boat Parade",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/independence-day-boat-parade/",
-      "start": "2026-07-04T13:00:00-05:00",
-      "end": "2026-07-04T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Captain’s Club",
-      "address": "Meeting in the water in front of Captain’s Club!",
-      "description": "Join us for the 2026 Independence Day Boat Parade at Captain’s Club on Saturday, July 4, 2026 Decorate your boat, gather your crew, and help us celebrate Independence Day on the water. The parade begins at 1:00 PM, and prizes will be award...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-4th-on-main-northport-alabama-2026-07-04-430-main-ave-northport-al-35476",
-      "title": "4th on Main – Northport, Alabama",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/4th-on-main-northport-albama/",
-      "start": "2026-07-04T16:00:00-05:00",
-      "end": "2026-07-04T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "430 Main Ave., Northport, AL 35476",
-      "address": "430 Main Ave. Northport, AL 35476",
-      "description": "Northport will hold a new Independence Day event, the 4th on Main Celebration, 4-10 p.m. July 4 in its downtown area, where Fifth Street and Main Avenue intersect. Presented by the city of Northport, Friends of Historic Northport, Billy’s...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-the-4th-on-main-celebration-2026-07-04-downtown-northport",
-      "title": "The 4th On Main Celebration",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/dcffacdf-a312-4ce3-bfd0-380b521ac8a0/the-4th-on-main-celebration",
-      "start": "2026-07-04T16:00:00-05:00",
-      "end": "2026-07-04T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Downtown Northport",
-      "address": "Downtown Northport, Main Ave, Northport",
-      "description": "Join the inaugural community celebration commemorating the 250th anniversary of the United States with a non-motorized...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-4th-of-july-celebration-2026-07-04-coaling-ballpark",
-      "title": "4th Of July Celebration!",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/aa5d250e-95ee-45ab-9025-f0985e0c8343/4th-of-july-celebration",
-      "start": "2026-07-04T17:00:00-05:00",
-      "end": "2026-07-04T23:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Coaling Ballpark",
-      "address": "Coaling Ballpark, 11281 Stephens Loop, Coaling",
-      "description": "Join the community for a massive 250th year anniversary festival featuring live entertainment from The Mojo Band and plenty of...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-celebrate-4th-of-july-on-the-rooftop-2026-07-04-hotel-indigo-tuscaloosa-downtown",
-      "title": "Celebrate 4th of July on the Rooftop!",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/6aaad616-196c-4bbe-a41b-02a878d54da0/celebrate-4th-of-july-on-the-rooftop",
-      "start": "2026-07-04T17:00:00-05:00",
-      "end": "2026-07-04T23:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Hotel Indigo Tuscaloosa-Downtown",
-      "address": "Hotel Indigo Tuscaloosa-Downtown, 111 Greensboro Ave, Tuscaloosa",
-      "description": "Join us on the Rooftop to watch the Celebration on the River with live music and a limited menu available. Entry is just $10...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 18,
-        "periodName": "Independence Day"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-celebration-on-the-river-2026-07-04-mercedes-benz-amphitheater",
-      "title": "Celebration on the River",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/celebration-on-the-river/",
-      "start": "2026-07-04T18:00:00-05:00",
-      "end": "2026-07-04T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Parkway, Tuscaloosa, AL",
-      "description": "This free, family-friendly Independence Day event presented by the City of Tuscaloosa will include fireworks, kids’ activities, live music by the Tuscaloosa Symphony Orchestra, and more! #### Map ### 4th on Main – Northport, Alabama View B...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 22,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "mercedes-benz-amphitheater-celebration-on-the-river-2026-07-04-mercedes-benz-amphitheater",
-      "title": "Celebration on the River",
-      "source": "Mercedes-Benz Amphitheater",
-      "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/celebration-on-the-river/",
-      "start": "2026-07-04T18:00:00-05:00",
-      "end": "2026-07-04T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: All ages. Celebration on the River Celebrate Independence Day and America’s 250th anniversary at Celebration on the River at the Mercedes-Benz Amphitheater on Saturday, July 4, from 6:00pm-9:00pm. Presented by the City of...",
-      "category": "Music",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 22,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-celebration-on-the-river-2026-07-04-mercedes-benz-amphitheater",
-      "title": "Celebration On The River",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260704/ea22aed2-9b72-40b1-807d-9fcee0a1e669/celebration-on-the-river",
-      "start": "2026-07-04T18:00:00-05:00",
-      "end": "2026-07-05T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "Mercedes-Benz Amphitheater, 2710 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Celebrate Independence Day and America’s 250th anniversary with a free, family-friendly evening featuring live music by the...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-04",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 22,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-06-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -294,9 +30,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -316,9 +52,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -338,9 +74,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -360,9 +96,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -382,9 +118,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -404,9 +140,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -426,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -448,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-06",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 73,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -472,7 +208,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +230,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +252,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -538,7 +274,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -560,7 +296,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -582,7 +318,7 @@
         "forecastDate": "2026-07-07",
         "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -602,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 45,
+        "precipitationChance": 27,
         "periodName": "Tuesday Night"
       }
     },
@@ -624,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 45,
+        "precipitationChance": 27,
         "periodName": "Tuesday Night"
       }
     },
@@ -646,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 45,
+        "precipitationChance": 27,
         "periodName": "Tuesday Night"
       }
     },
@@ -668,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 45,
+        "precipitationChance": 27,
         "periodName": "Tuesday Night"
       }
     },
@@ -690,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -712,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -734,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -756,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -778,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -800,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -822,9 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 15,
         "periodName": "Wednesday"
       }
     },
@@ -844,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-09",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 23,
         "periodName": "Thursday"
       }
     },
@@ -868,7 +604,7 @@
         "forecastDate": "2026-07-09",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 23,
         "periodName": "Thursday Night"
       }
     },
@@ -883,14 +619,14 @@
       "timeStatus": "confirmed",
       "venue": "Government Plaza",
       "address": "",
-      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### 4th on Main – Northport,...",
+      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### “Made in America” Exhibi...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 51,
         "periodName": "Friday Night"
       }
     },
@@ -910,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 51,
         "periodName": "Friday Night"
       }
     },
@@ -929,7 +665,14 @@
       "address": "1 Mound Parkway, 634 Mound State Parkway, Moundville, AL 35474",
       "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration outside the Jones Archaeological Museum! Learn about the history of pre-contact copper craftsmanship in the Southeas...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "tuscaloosa-patch-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
@@ -944,7 +687,14 @@
       "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
       "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "tuscaloosa-patch-leon-maisel-book-signing-normandy-echoes-in-the-blood-2026-07-11-barnes-and-noble",
@@ -959,7 +709,14 @@
       "address": "Barnes & Noble, 1800 McFarland Blvd E, Tuscaloosa",
       "description": "Local event listed on Patch's Tuscaloosa calendar.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "tuscaloosa-patch-your-story-your-voice-memoir-writing-workshop-2026-07-11-tuscaloosa-public-library",
@@ -974,7 +731,14 @@
       "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
       "description": "Join a supportive workshop where you can learn the art of transforming your life experiences and memories into compelling...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-top-gun-2026-07-11-the-venue-tuscaloosa",
@@ -987,9 +751,16 @@
       "timeStatus": "confirmed",
       "venue": "The Venue Tuscaloosa",
       "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### 4th on Main – Northport, Alabama View Bookmarks ### Celebration on the River View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Independence Day Boat Parad...",
+      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloo...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac-2026-07-11-bama-theatre",
@@ -1003,6 +774,72 @@
       "venue": "Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Recommended ages: All ages. Sweet Fleet is America’s premier tribute to Fleetwood Mac, delivering a powerful, witchy, and visually stunning show that captures the magic of the legendary band. With spot-on vocals, authentic costumes, and si...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac-2026-07-11-bama-theatre",
+      "title": "An Evening with Sweet Fleet: A Tribute to Fleetwood Mac",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/5059b1dc-04e0-4e5b-bfac-5cc25f066364/an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac",
+      "start": "2026-07-11T19:00:00-05:00",
+      "end": "2026-07-12T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bama Theatre",
+      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
+      "description": "Experience America's premier tribute to Fleetwood Mac with Sweet Fleet, featuring spot-on vocals, authentic costumes, and...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-tuscaloosa-republican-party-america-250-bbq-2026-07-11-the-buddy-powell-pavilion",
+      "title": "Tuscaloosa Republican Party America 250 BBQ",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/99a7d538-a081-4b6f-a466-86e55d2286f9/tuscaloosa-republican-party-america-250-bbq",
+      "start": "2026-07-11T19:00:00-05:00",
+      "end": "2026-07-12T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Buddy Powell Pavilion",
+      "address": "The Buddy Powell Pavilion, 4205 Northridge Rd, Tuscaloosa",
+      "description": "Join the Tuscaloosa County Republican Party to celebrate 250 years of America with fellow patriots. Attendees can enjoy...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Saturday Night"
+      }
+    },
+    {
+      "id": "tuscaloosa-patch-shark-week-summer-brunch-2026-07-12-decades-pub-and-grub",
+      "title": "Shark Week Summer Brunch",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260712/30f17b76-c1f4-4e60-bc93-19a9492abadb/shark-week-summer-brunch",
+      "start": "2026-07-12T11:00:00-05:00",
+      "end": "2026-07-12T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Decades Pub and Grub",
+      "address": "Decades Pub and Grub, 2314 4th St, Tuscaloosa",
+      "description": "Dive into a fin-tastic afternoon in downtown Tuscaloosa featuring fierce drag performances and jaw-dropping diva energy. This...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1082,6 +919,81 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-patch-roll-to-remember-bunco-fundraiser-2026-07-14-the-sanctuary-on-25th",
+      "title": "Roll To Remember-Bunco Fundraiser",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260714/686e8116-399a-4c74-935d-14beee843d69/roll-to-remember-bunco-fundraiser",
+      "start": "2026-07-14T17:15:00-05:00",
+      "end": "2026-07-14T23:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Sanctuary On 25th",
+      "address": "The Sanctuary On 25th, 1710 25th Ave, Tuscaloosa",
+      "description": "Join a special night of bunco gameplay to support the West AL Walk to End Alzheimer's. This public event offers a fun way to...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-freedom-day-back-to-school-bash-2026-07-15-tuscaloosa-river-market",
+      "title": "Freedom Day Back to School Bash",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260715/bc1ac6fe-c1cc-4ee9-8926-185303c54778/freedom-day-back-to-school-bash",
+      "start": "2026-07-15T10:00:00-05:00",
+      "end": "2026-07-15T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa River Market",
+      "address": "Tuscaloosa River Market, 1900 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Join us for our annual community event supporting families and college students as they prepare for the new school year with...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-he-s-still-sam-2026-07-15-bama-theatre",
+      "title": "He's Still Sam",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260715/9d44231e-4360-4888-b79e-b249a845970e/hes-still-sam",
+      "start": "2026-07-15T18:30:00-05:00",
+      "end": "2026-07-16T00:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bama Theatre",
+      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
+      "description": "Join us at the historic Bama Theatre for a special screening or presentation of He's Still Sam, brought to you by Dowling Video...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-he-s-still-sam-2026-07-15-the-historic-bama-theatre",
+      "title": "He’s Still Sam",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/hes-still-sam/",
+      "start": "2026-07-15T18:30:00-05:00",
+      "end": "2026-07-16T00:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### Jaws (1975) View Book...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-big-fish-2026-07-16-9500-old-greensboro-road-tuscaloosa-al-35405",
+      "title": "Big Fish",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
+      "start": "2026-07-16T00:00:00-05:00",
+      "end": "2026-07-17T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "",
+      "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
+      "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "mercedes-benz-amphitheater-lauren-daigle-2026-07-16-mercedes-benz-amphitheater",
       "title": "Lauren Daigle",
       "source": "Mercedes-Benz Amphitheater",
@@ -1094,6 +1006,51 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Lauren Daigle with Kyndal Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle, with spe...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-lauren-daigle-at-mercedes-benz-amphitheater-2026-07-16-mercedes-benz-amphitheater",
+      "title": "LAUREN DAIGLE at Mercedes-Benz Amphitheater",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/lauren-daigle-at-mercedes-benz-amphitheater/",
+      "start": "2026-07-16T19:30:00-05:00",
+      "end": "2026-07-17T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle will be performing at the Mercedes-Benz Amphitheater in Tuscaloosa on Thursday, J...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-lauren-daigle-with-kyndal-2026-07-16-mercedes-benz-amphitheater",
+      "title": "Lauren Daigle with Kyndal",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260716/f032a8b0-738d-447f-a41b-4608a78d3887/lauren-daigle-with-kyndal",
+      "start": "2026-07-16T19:30:00-05:00",
+      "end": "2026-07-17T01:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "Mercedes-Benz Amphitheater, 2710 Jack Warner Pkwy, Tuscaloosa",
+      "description": "Experience an unforgettable evening with two-time GRAMMY Award winner Lauren Daigle as she brings her powerful vocals and...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-patch-lemonade-day-2026-2026-07-17-jaycee-park-clubhouse",
+      "title": "Lemonade Day 2026",
+      "source": "Tuscaloosa Patch",
+      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260717/30164420-181d-42a5-874f-b1913a7d9c8a/lemonade-day-2026",
+      "start": "2026-07-17T10:00:00-05:00",
+      "end": "2026-07-17T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Jaycee Park Clubhouse",
+      "address": "Jaycee Park Clubhouse, 2201 Positive Pl, Tuscaloosa",
+      "description": "Get ready to squeeze the day and support the Boys & Girls Clubs of West Alabama at their annual entrepreneurship showcase. Come...",
+      "category": "Community",
       "isVirtual": false
     },
     {
