@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-05T12:41:13.455Z",
+  "updatedAt": "2026-07-06T14:36:27.056Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-05T12:41:13.455Z",
+  "weatherUpdatedAt": "2026-07-06T14:36:27.056Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -32,8 +32,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -54,8 +54,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -76,8 +76,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -98,8 +98,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -120,8 +120,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -142,8 +142,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -164,8 +164,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -186,8 +186,8 @@
         "forecastDate": "2026-07-06",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
-        "periodName": "Monday"
+        "precipitationChance": 36,
+        "periodName": "Today"
       }
     },
     {
@@ -206,9 +206,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-07-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-07T09:00:00-05:00",
+      "end": "2026-07-07T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-07",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 28,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-07-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-07T09:00:00-05:00",
+      "end": "2026-07-07T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-07",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 28,
         "periodName": "Tuesday"
       }
     },
@@ -228,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday"
       }
     },
@@ -250,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday"
       }
     },
@@ -272,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday"
       }
     },
@@ -294,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday"
       }
     },
@@ -316,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday"
       }
     },
@@ -338,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday Night"
       }
     },
@@ -360,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday Night"
       }
     },
@@ -382,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday Night"
       }
     },
@@ -404,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-07",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 28,
         "periodName": "Tuesday Night"
       }
     },
@@ -426,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -448,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -470,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -492,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -514,53 +558,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-08",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Wednesday"
-      }
-    },
-    {
-      "id": "university-of-alabama-communication-features-in-ultra-2026-07-08",
-      "title": "Communication Features in Ultra",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/communication-features-in-ultra-4201",
-      "start": "2026-07-08T13:00:00-05:00",
-      "end": "2026-07-08T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard Ultra offers a wide variety of ways for instructors to communicate with their students. This workshop will examine and demonstrate how to access and use Ultra’s communication features.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Wednesday"
-      }
-    },
-    {
-      "id": "university-of-alabama-10-things-you-didn-t-know-you-could-do-in-ultra-2026-07-08",
-      "title": "10 Things You Didn’t Know You Could Do in Ultra",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/10-things-you-didnt-know-you-could-do-in-ultra-8721",
-      "start": "2026-07-08T14:30:00-05:00",
-      "end": "2026-07-08T15:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard Ultra has an impressive list of features. It’s built for mobile, it’s more inclusive, and it provides services we need from a learning management system. But here’s the thing: it also does some cool things you may not know about...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -580,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-09",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 20,
         "periodName": "Thursday"
       }
     },
@@ -604,7 +604,7 @@
         "forecastDate": "2026-07-09",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 20,
         "periodName": "Thursday Night"
       }
     },
@@ -624,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 12,
         "periodName": "Friday Night"
       }
     },
@@ -646,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 51,
+        "precipitationChance": 12,
         "periodName": "Friday Night"
       }
     },
@@ -668,9 +668,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 91,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 31,
         "periodName": "Saturday"
       }
     },
@@ -690,9 +690,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 91,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 31,
         "periodName": "Saturday"
       }
     },
@@ -712,9 +712,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 91,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 31,
         "periodName": "Saturday"
       }
     },
@@ -734,9 +734,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 91,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 31,
         "periodName": "Saturday"
       }
     },
@@ -751,14 +751,14 @@
       "timeStatus": "confirmed",
       "venue": "The Venue Tuscaloosa",
       "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloo...",
+      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’s Tuscaloo...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 35,
         "periodName": "Saturday Night"
       }
     },
@@ -778,9 +778,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 35,
         "periodName": "Saturday Night"
       }
     },
@@ -800,9 +800,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 35,
         "periodName": "Saturday Night"
       }
     },
@@ -822,9 +822,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 35,
         "periodName": "Saturday Night"
       }
     },
@@ -841,7 +841,14 @@
       "address": "Decades Pub and Grub, 2314 4th St, Tuscaloosa",
       "description": "Dive into a fin-tastic afternoon in downtown Tuscaloosa featuring fierce drag performances and jaw-dropping diva energy. This...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-12",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 57,
+        "periodName": "Sunday"
+      }
     },
     {
       "id": "visit-tuscaloosa-alabama-volleyball-middle-school-all-skills-camp-2026-07-13-foster-auditorium",
@@ -974,7 +981,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### Jaws (1975) View Book...",
+      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### Jaws (1975) View Book...",
       "category": "Community",
       "isVirtual": false
     },
