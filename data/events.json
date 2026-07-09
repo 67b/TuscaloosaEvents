@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-08T12:50:59.157Z",
+  "updatedAt": "2026-07-09T13:58:42.021Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-08T12:50:59.156Z",
+  "weatherUpdatedAt": "2026-07-09T13:58:42.021Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-08-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-09-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-08T00:00:00-05:00",
-      "end": "2026-07-08T00:00:00-05:00",
+      "start": "2026-07-09T00:00:00-05:00",
+      "end": "2026-07-09T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,230 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-08",
+        "forecastDate": "2026-07-09",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-08-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-08T09:00:00-05:00",
-      "end": "2026-07-08T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-08-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-08T09:00:00-05:00",
-      "end": "2026-07-08T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-dr-seuss-the-lorax-2012-2026-07-08-bama-theatre",
-      "title": "Dr. Seuss' The Lorax (2012)",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260708/b2c64bf7-bc24-442b-92bd-ed1d0bdd46ad/dr-seuss-the-lorax-2012",
-      "start": "2026-07-08T10:00:00-05:00",
-      "end": "2026-07-08T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Experience this charming animated adaptation of the Dr. Seuss classic where a young boy searches for a real tree to win over...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-dr-suess-the-lorax-2012-2026-07-08-the-historic-bama-theatre",
-      "title": "Dr. Suess’ The Lorax (2012)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/dr-suess-the-lorax-2012/",
-      "start": "2026-07-08T10:00:00-05:00",
-      "end": "2026-07-08T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "In this charming adaptation of the Dr. Seuss story, a young boy seeks to impress his pretty neighbor by getting a tree, since real vegetation in their land is rare. In the process, he meets the Lorax, a cantankerous yet endearing forest dw...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-total-body-mobility-2026-07-08-gorgas-library",
-      "title": "Total Body Mobility",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/total-body-mobility",
-      "start": "2026-07-08T12:00:00-05:00",
-      "end": "2026-07-08T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "A full-body stretching and mobility class designed to improve flexibility, reduce tension, and increase range of motion for better everyday movement. Please wear workout attire and bring a mat or towel. Register through the WellBAMA portal.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-07-08-bryant-conference-center",
-      "title": "TUS 161 Lagniappe – Various Topics",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
-      "start": "2026-07-08T12:00:00-05:00",
-      "end": "2026-07-08T13:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tus-161-lagniappe-various-topics-2026-07-08-bryant-conference-center",
-      "title": "TUS 161 Lagniappe – Various Topics",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260708/72db98b1-66f8-4d8d-89f8-ff1fe1f7ae3e/tus-161-lagniappe-various-topics",
-      "start": "2026-07-08T12:00:00-05:00",
-      "end": "2026-07-08T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "Bryant Conference Center, 240 Paul W Bryant Dr, Tuscaloosa",
-      "description": "Join OLLI at UA for a free public program featuring a wide range of topics ranging from history and travel to arts, hobbies,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-communication-features-in-ultra-2026-07-08",
-      "title": "Communication Features in Ultra",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/communication-features-in-ultra-4201",
-      "start": "2026-07-08T13:00:00-05:00",
-      "end": "2026-07-08T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard Ultra offers a wide variety of ways for instructors to communicate with their students. This workshop will examine and demonstrate how to access and use Ultra’s communication features.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-10-things-you-didn-t-know-you-could-do-in-ultra-2026-07-08",
-      "title": "10 Things You Didn’t Know You Could Do in Ultra",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/10-things-you-didnt-know-you-could-do-in-ultra-8721",
-      "start": "2026-07-08T14:30:00-05:00",
-      "end": "2026-07-08T15:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard Ultra has an impressive list of features. It’s built for mobile, it’s more inclusive, and it provides services we need from a learning management system. But here’s the thing: it also does some cool things you may not know about...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-using-technology-to-increase-student-engagement-virtual-2026-07-08",
-      "title": "Using Technology to Increase Student Engagement (virtual)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/using-technology-to-increase-student-engagement-virtual",
-      "start": "2026-07-08T16:00:00-05:00",
-      "end": "2026-07-08T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-08",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 46,
         "periodName": "Today"
       }
     },
@@ -274,8 +54,52 @@
         "forecastDate": "2026-07-09",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Thursday"
+        "precipitationChance": 46,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-09-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-09T09:00:00-05:00",
+      "end": "2026-07-09T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-09",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-09-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-09T09:00:00-05:00",
+      "end": "2026-07-09T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-09",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "Today"
       }
     },
     {
@@ -296,8 +120,8 @@
         "forecastDate": "2026-07-09",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Thursday"
+        "precipitationChance": 46,
+        "periodName": "Today"
       }
     },
     {
@@ -318,30 +142,8 @@
         "forecastDate": "2026-07-09",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Thursday"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-singo-night-at-shrimp-basket-tuscaloosa-2026-07-09-shrimp-basket-tuscaloosa",
-      "title": "Singo Night at Shrimp Basket Tuscaloosa",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260709/15d86d5d-1091-48cd-8d16-9628b6e63e42/singo-night-at-shrimp-basket-tuscaloosa",
-      "start": "2026-07-09T18:30:00-05:00",
-      "end": "2026-07-10T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Shrimp Basket Tuscaloosa",
-      "address": "Shrimp Basket Tuscaloosa, 3429 McFarland Blvd E, Tuscaloosa",
-      "description": "Thursday nights in T-Town just got more fun with SINGO, the exciting musical twist on bingo where you match songs to your game...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 75,
-        "temperatureUnit": "F",
-        "precipitationChance": 44,
-        "periodName": "Thursday Night"
+        "precipitationChance": 46,
+        "periodName": "Today"
       }
     },
     {
@@ -362,7 +164,51 @@
         "forecastDate": "2026-07-10",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 29,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-connection-catalyst-fueling-belonging-at-work-2026-07-10-russell-hall",
+      "title": "Connection Catalyst: Fueling Belonging at Work",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/connection-catalyst-fueling-belonging-at-work",
+      "start": "2026-07-10T12:00:00-05:00",
+      "end": "2026-07-10T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Russell Hall",
+      "address": "504 UNIVERSITY BLVD, TUSCALOOSA, AL 35401",
+      "description": "Learn why connection at work matters, develop practical skills for building higher-quality relationships with colleagues, and make a personal commitment to take initiative. Register through your WellBAMA portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-10",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 29,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-designing-exemplary-blackboard-courses-virtual-2026-07-10",
+      "title": "Designing Exemplary Blackboard Courses (virtual)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/designing-exemplary-blackboard-courses-virtual",
+      "start": "2026-07-10T12:00:00-05:00",
+      "end": "2026-07-10T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join us to learn how to build a Blackboard course that is clear, organized, and designed for student success. This workshop focuses on course structure and content organization aligned with exemplary course design standards. Participants w...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-10",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 29,
         "periodName": "Friday"
       }
     },
@@ -377,14 +223,14 @@
       "timeStatus": "confirmed",
       "venue": "Government Plaza",
       "address": "",
-      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### Dr. Suess’ The Lorax (20...",
+      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### “Made in America” Exhibi...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 29,
         "periodName": "Friday Night"
       }
     },
@@ -404,10 +250,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 29,
         "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
+      "title": "Saturday in the Park: Copper Work Demonstration",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/saturday-in-the-park-copper-work-demonstration",
+      "start": "2026-07-11T09:15:00-05:00",
+      "end": "2026-07-11T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration outside the Jones Archaeological Museum! Learn about the history of pre-contact copper craftsmanship in the Southeas...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-11",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 61,
+        "periodName": "Saturday"
       }
     },
     {
@@ -426,75 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 94,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
-        "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
-      "title": "Saturday in the Park: Copper Work Demonstration",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/d96fcb1a-f2cd-40e8-a788-5fdb6f7ddfc0/saturday-in-the-park-copper-work-demonstration",
-      "start": "2026-07-11T09:15:00-05:00",
-      "end": "2026-07-11T15:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
-      "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 47,
-        "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-leon-maisel-book-signing-normandy-echoes-in-the-blood-2026-07-11-barnes-and-noble",
-      "title": "Leon Maisel Book Signing \"Normandy, Echoes In The Blood\"",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/00f30d99-6913-414d-9e2f-2145285ac197/leon-maisel-book-signing-normandy-echoes-in-the-blood",
-      "start": "2026-07-11T12:00:00-05:00",
-      "end": "2026-07-11T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Barnes & Noble",
-      "address": "Barnes & Noble, 1800 McFarland Blvd E, Tuscaloosa",
-      "description": "Local event listed on Patch's Tuscaloosa calendar.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 47,
-        "periodName": "Saturday"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-your-story-your-voice-memoir-writing-workshop-2026-07-11-tuscaloosa-public-library",
-      "title": "Your Story, Your Voice - Memoir Writing Workshop",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/4bddb892-ba7f-46ae-ba5c-3f5545b1312a/your-story-your-voice-memoir-writing-workshop",
-      "start": "2026-07-11T14:00:00-05:00",
-      "end": "2026-07-11T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa Public Library",
-      "address": "Tuscaloosa Public Library, 1801 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Join a supportive workshop where you can learn the art of transforming your life experiences and memories into compelling...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 61,
         "periodName": "Saturday"
       }
     },
@@ -509,14 +311,14 @@
       "timeStatus": "confirmed",
       "venue": "The Venue Tuscaloosa",
       "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### Dr. Suess’ The Lorax (2012) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Captain America:...",
+      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Captain America: Civil War (2016) View Bookmarks ### Live at th...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 61,
         "periodName": "Saturday Night"
       }
     },
@@ -538,74 +340,8 @@
         "forecastDate": "2026-07-11",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 47,
+        "precipitationChance": 61,
         "periodName": "Saturday Night"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac-2026-07-11-bama-theatre",
-      "title": "An Evening with Sweet Fleet: A Tribute to Fleetwood Mac",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/5059b1dc-04e0-4e5b-bfac-5cc25f066364/an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac",
-      "start": "2026-07-11T19:00:00-05:00",
-      "end": "2026-07-12T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Experience America's premier tribute to Fleetwood Mac with Sweet Fleet, featuring spot-on vocals, authentic costumes, and...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "precipitationChance": 47,
-        "periodName": "Saturday Night"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-tuscaloosa-republican-party-america-250-bbq-2026-07-11-the-buddy-powell-pavilion",
-      "title": "Tuscaloosa Republican Party America 250 BBQ",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260711/99a7d538-a081-4b6f-a466-86e55d2286f9/tuscaloosa-republican-party-america-250-bbq",
-      "start": "2026-07-11T19:00:00-05:00",
-      "end": "2026-07-12T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Buddy Powell Pavilion",
-      "address": "The Buddy Powell Pavilion, 4205 Northridge Rd, Tuscaloosa",
-      "description": "Join the Tuscaloosa County Republican Party to celebrate 250 years of America with fellow patriots. Attendees can enjoy...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "precipitationChance": 47,
-        "periodName": "Saturday Night"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-shark-week-summer-brunch-2026-07-12-decades-pub-and-grub",
-      "title": "Shark Week Summer Brunch",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260712/30f17b76-c1f4-4e60-bc93-19a9492abadb/shark-week-summer-brunch",
-      "start": "2026-07-12T11:00:00-05:00",
-      "end": "2026-07-12T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Decades Pub and Grub",
-      "address": "Decades Pub and Grub, 2314 4th St, Tuscaloosa",
-      "description": "Dive into a fin-tastic afternoon in downtown Tuscaloosa featuring fierce drag performances and jaw-dropping diva energy. This...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-12",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "precipitationChance": 60,
-        "periodName": "Sunday"
       }
     },
     {
@@ -624,9 +360,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 66,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-two-2026-07-13",
+      "title": "2026 Advanced Placement Summer Institute – Week Two",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/2026-advanced-placement-summer-institute-week-two",
+      "start": "2026-07-13T08:00:00-05:00",
+      "end": "2026-07-13T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The University of Alabama is proud to partner with the College Board® to offer the Advanced Placement Institute, a professional learning experience designed for both new and experienced AP teachers. Participants will explore subject-specif...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-13",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -646,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -668,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -690,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 67,
+        "precipitationChance": 66,
         "periodName": "Monday"
       }
     },
@@ -712,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 91,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -734,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 91,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -756,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 91,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -778,53 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 91,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Tuesday"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-business-after-hours-stillman-college-2026-07-14-stillman-college",
-      "title": "Business After Hours - Stillman College",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260714/7367e8b4-6905-45e9-972d-b7c06c0d374f/business-after-hours-stillman-college",
-      "start": "2026-07-14T17:00:00-05:00",
-      "end": "2026-07-14T23:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Stillman College",
-      "address": "Stillman College, 3601 Stillman Blvd, Tuscaloosa",
-      "description": "Join over 150 business and community leaders for a premier monthly networking event featuring delicious food, exciting door...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-14",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Tuesday"
-      }
-    },
-    {
-      "id": "tuscaloosa-patch-roll-to-remember-bunco-fundraiser-2026-07-14-the-sanctuary-on-25th",
-      "title": "Roll To Remember-Bunco Fundraiser",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260714/686e8116-399a-4c74-935d-14beee843d69/roll-to-remember-bunco-fundraiser",
-      "start": "2026-07-14T17:15:00-05:00",
-      "end": "2026-07-14T23:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Sanctuary On 25th",
-      "address": "The Sanctuary On 25th, 1710 25th Ave, Tuscaloosa",
-      "description": "Join a special night of bunco gameplay to support the West AL Walk to End Alzheimer's. This public event offers a fun way to...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-14",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -844,41 +558,11 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 91,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
-    },
-    {
-      "id": "tuscaloosa-patch-freedom-day-back-to-school-bash-2026-07-15-tuscaloosa-river-market",
-      "title": "Freedom Day Back to School Bash",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260715/bc1ac6fe-c1cc-4ee9-8926-185303c54778/freedom-day-back-to-school-bash",
-      "start": "2026-07-15T10:00:00-05:00",
-      "end": "2026-07-15T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa River Market",
-      "address": "Tuscaloosa River Market, 1900 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Join us for our annual community event supporting families and college students as they prepare for the new school year with...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-he-s-still-sam-2026-07-15-bama-theatre",
-      "title": "He's Still Sam",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260715/9d44231e-4360-4888-b79e-b249a845970e/hes-still-sam",
-      "start": "2026-07-15T18:30:00-05:00",
-      "end": "2026-07-16T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Join us at the historic Bama Theatre for a special screening or presentation of He's Still Sam, brought to you by Dowling Video...",
-      "category": "Community",
-      "isVirtual": false
     },
     {
       "id": "visit-tuscaloosa-he-s-still-sam-2026-07-15-the-historic-bama-theatre",
@@ -891,9 +575,16 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### Dr. Suess’ The Lorax (2012) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Captain America: Civil War (2016) View Bookmarks ### Live at the Plaza (Re...",
+      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Captain America: Civil War (2016) View Bookmarks ### Live at the Plaza (Rescheduled) View Bookmarks ### An Evening with S...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-15",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 33,
+        "periodName": "Wednesday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-big-fish-2026-07-16-9500-old-greensboro-road-tuscaloosa-al-35405",
@@ -941,36 +632,6 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-lauren-daigle-with-kyndal-2026-07-16-mercedes-benz-amphitheater",
-      "title": "Lauren Daigle with Kyndal",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260716/f032a8b0-738d-447f-a41b-4608a78d3887/lauren-daigle-with-kyndal",
-      "start": "2026-07-16T19:30:00-05:00",
-      "end": "2026-07-17T01:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "Mercedes-Benz Amphitheater, 2710 Jack Warner Pkwy, Tuscaloosa",
-      "description": "Experience an unforgettable evening with two-time GRAMMY Award winner Lauren Daigle as she brings her powerful vocals and...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-lemonade-day-2026-2026-07-17-jaycee-park-clubhouse",
-      "title": "Lemonade Day 2026",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260717/30164420-181d-42a5-874f-b1913a7d9c8a/lemonade-day-2026",
-      "start": "2026-07-17T10:00:00-05:00",
-      "end": "2026-07-17T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Jaycee Park Clubhouse",
-      "address": "Jaycee Park Clubhouse, 2201 Positive Pl, Tuscaloosa",
-      "description": "Get ready to squeeze the day and support the Boys & Girls Clubs of West Alabama at their annual entrepreneurship showcase. Come...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
       "id": "visit-tuscaloosa-black-panther-2018-2026-07-17-the-historic-bama-theatre",
       "title": "Black Panther (2018)",
       "source": "Visit Tuscaloosa",
@@ -986,47 +647,17 @@
       "isVirtual": false
     },
     {
-      "id": "tuscaloosa-patch-black-panther-2018-2026-07-17-bama-theatre",
-      "title": "Black Panther (2018)",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260717/c229d3d0-215b-431d-b6bb-51f3475d6fe4/black-panther-2018",
-      "start": "2026-07-17T19:30:00-05:00",
-      "end": "2026-07-18T01:30:00-05:00",
+      "id": "visit-tuscaloosa-casual-campus-cruise-2026-07-18-velo-city-cycles",
+      "title": "Casual Campus Cruise",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/casual-campus-cruise/",
+      "start": "2026-07-18T09:00:00-05:00",
+      "end": "2026-07-18T15:00:00-05:00",
       "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Experience the epic journey of T'Challa as he defends the technologically advanced nation of Wakanda from a powerful dissident....",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-lake-nicol-paddle-fest-2026-07-18-lake-nicol",
-      "title": "Lake Nicol Paddle Fest",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260718/70489437-c2f1-4da1-acf0-9f90b04be6bd/lake-nicol-paddle-fest",
-      "start": "2026-07-18T07:30:00-05:00",
-      "end": "2026-07-18T13:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Lake Nicol",
-      "address": "Lake Nicol, 4409 Nicol Park Rd, Tuscaloosa",
-      "description": "Celebrate National Lakes Appreciation Month with a morning of paddling, friendly competition, and lakeside fun at one of...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-princess-bride-1987-2026-07-21-bama-theatre",
-      "title": "Princess Bride (1987)",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260721/c995fbff-9415-4bf5-97f5-2b7ff03dfb42/princess-bride-1987",
-      "start": "2026-07-21T19:00:00-05:00",
-      "end": "2026-07-22T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "Bama Theatre, 600 Greensboro Ave, Tuscaloosa",
-      "description": "Relive the magic of this 1987 cult classic featuring a tale of swashbuckling adventure, romance, and outrageously hilarious...",
+      "timeStatus": "inferred",
+      "venue": "Velo City Cycles",
+      "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
+      "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1043,36 +674,6 @@
       "address": "",
       "description": "PDFs are a great way to share information, but they can be kind of intimidating when it comes to making them accessible. This session will examine basic ways to remediate two different types of PDFs to make them more accessible.",
       "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-district-1-town-hall-meeting-with-northport-councilman-turnley-smith-2026-07-23-northport-city-hall",
-      "title": "District 1 Town Hall Meeting with Northport Councilman Turnley Smith",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260723/cb257cd8-f920-48d6-860a-342b124fa39b/district-1-town-hall-meeting-with-northport-councilman-turnley-smith",
-      "start": "2026-07-23T17:30:00-05:00",
-      "end": "2026-07-23T23:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Northport City Hall",
-      "address": "Northport City Hall, 3500 McFarland Blvd, Northport",
-      "description": "Join Councilman Smith for a quarterly town hall to receive direct updates on what is happening in District 1. This is a primary...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "tuscaloosa-patch-moundville-for-minis-the-butterfly-2026-07-24-moundville-archaeological-park",
-      "title": "Moundville for Minis: The Butterfly",
-      "source": "Tuscaloosa Patch",
-      "sourceUrl": "https://patch.com/alabama/tuscaloosa/calendar/event/20260724/44e50dac-ed59-4e73-ac9e-721757a24dad/moundville-for-minis-the-butterfly",
-      "start": "2026-07-24T09:15:00-05:00",
-      "end": "2026-07-24T15:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "Moundville Archaeological Park, 634 Mound State Parkway, Moundville",
-      "description": "Join Moundville Archaeological Park on July 24 from 9:15 a.m. to 9:45 a.m. for a special indoor storytime! Moundville educators...",
-      "category": "Community",
       "isVirtual": false
     },
     {
