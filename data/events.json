@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-09T13:58:42.021Z",
+  "updatedAt": "2026-07-10T13:18:49.214Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-09T13:58:42.021Z",
+  "weatherUpdatedAt": "2026-07-10T13:18:49.213Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-09-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-10-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-09T00:00:00-05:00",
-      "end": "2026-07-09T00:00:00-05:00",
+      "start": "2026-07-10T00:00:00-05:00",
+      "end": "2026-07-10T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,42 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 93,
+        "forecastDate": "2026-07-10",
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 46,
+        "precipitationChance": 9,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-process-automation-2026-07-09-employee-resource-center",
-      "title": "Process Automation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/process-automation",
-      "start": "2026-07-09T08:30:00-05:00",
-      "end": "2026-07-09T09:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Process Automation is defined as the use of software and technologies to automate processes and functions to facilitate and improve your processes as part of your improvement initiatives. In this class, you will learn about the following p...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 46,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-09-gorgas-house-museum",
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-10-gorgas-house-museum",
       "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-09T09:00:00-05:00",
-      "end": "2026-07-09T16:30:00-05:00",
+      "start": "2026-07-10T09:00:00-05:00",
+      "end": "2026-07-10T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -73,20 +51,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 93,
+        "forecastDate": "2026-07-10",
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 46,
+        "precipitationChance": 9,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-09-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-10-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-09T09:00:00-05:00",
-      "end": "2026-07-09T16:30:00-05:00",
+      "start": "2026-07-10T09:00:00-05:00",
+      "end": "2026-07-10T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -95,54 +73,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 93,
+        "forecastDate": "2026-07-10",
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 46,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-mid-morning-walking-break-2026-07-09-gorgas-library",
-      "title": "Mid-Morning Walking Break",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/mid-morning-walking-break",
-      "start": "2026-07-09T10:00:00-05:00",
-      "end": "2026-07-09T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Join us every Thursday between 10–11am to recharge, enjoy a few quad laps, and take a break with your coworkers. We'll meet in front of the steps of Gorgas Library. Come and go as you like — we'll have cold water and fun giveaways to keep...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 46,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-fuel-for-rest-the-link-between-nutrition-and-sleep-2026-07-09",
-      "title": "Fuel for Rest: The Link Between Nutrition and Sleep",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/fuel-for-rest-the-link-between-nutrition-and-sleep-4677",
-      "start": "2026-07-09T12:00:00-05:00",
-      "end": "2026-07-09T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Boost your energy and mood with practical strategies for better rest and nutrition. Taught by Registered Dietitian, Sheena Gregg from Health Promotion and Wellness. Register through your WellBAMA portal.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-09",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 46,
+        "precipitationChance": 9,
         "periodName": "Today"
       }
     },
@@ -162,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
-        "periodName": "Friday"
+        "precipitationChance": 9,
+        "periodName": "Today"
       }
     },
     {
@@ -184,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
-        "periodName": "Friday"
+        "precipitationChance": 9,
+        "periodName": "Today"
       }
     },
     {
@@ -206,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
-        "periodName": "Friday"
+        "precipitationChance": 9,
+        "periodName": "Today"
       }
     },
     {
@@ -223,15 +157,15 @@
       "timeStatus": "confirmed",
       "venue": "Government Plaza",
       "address": "",
-      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### “Made in America” Exhibi...",
+      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### Captain America: Civil W...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
-        "periodName": "Friday Night"
+        "precipitationChance": 9,
+        "periodName": "Tonight"
       }
     },
     {
@@ -250,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-10",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
-        "periodName": "Friday Night"
+        "precipitationChance": 9,
+        "periodName": "Tonight"
       }
     },
     {
@@ -272,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 92,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 59,
         "periodName": "Saturday"
       }
     },
@@ -294,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 92,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 59,
         "periodName": "Saturday"
       }
     },
@@ -311,14 +245,14 @@
       "timeStatus": "confirmed",
       "venue": "The Venue Tuscaloosa",
       "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Captain America: Civil War (2016) View Bookmarks ### Live at th...",
+      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### Captain America: Civil War (2016) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Live at th...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 59,
         "periodName": "Saturday Night"
       }
     },
@@ -340,7 +274,7 @@
         "forecastDate": "2026-07-11",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 59,
         "periodName": "Saturday Night"
       }
     },
@@ -360,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 88,
         "periodName": "Monday"
       }
     },
@@ -382,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 88,
         "periodName": "Monday"
       }
     },
@@ -404,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 88,
         "periodName": "Monday"
       }
     },
@@ -426,9 +360,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 88,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-bhm-131-the-pipe-organ-king-of-musical-instruments-2026-07-13-riverchase-united-methodist-church",
+      "title": "BHM 131 The Pipe Organ: King of Musical Instruments",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bhm-131-the-pipe-organ-king-of-musical-instruments",
+      "start": "2026-07-13T10:30:00-05:00",
+      "end": "2026-07-13T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Riverchase United Methodist Church",
+      "address": "1953 Old Montgomery Hwy, Birmingham, AL 35244",
+      "description": "Join us online for our free public programs — and bring a friend! Walt Rogers, organist for over 30 years at Riverchase United Methodist Church, will utilize his musical skills to show why the organ is the \"king\" of instruments. BHM 131 Th...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-13",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 88,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-07-13",
+      "title": "Make Your Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-4028",
+      "start": "2026-07-13T10:30:00-05:00",
+      "end": "2026-07-13T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-13",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 88,
         "periodName": "Monday"
       }
     },
@@ -448,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 88,
         "periodName": "Monday"
       }
     },
@@ -470,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -492,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -514,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -536,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -558,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 44,
+        "precipitationChance": 74,
         "periodName": "Tuesday"
       }
     },
@@ -575,7 +553,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Captain America: Civil War (2016) View Bookmarks ### Live at the Plaza (Rescheduled) View Bookmarks ### An Evening with S...",
+      "description": "#### Map ### Captain America: Civil War (2016) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Live at the Plaza (Rescheduled) View Bookmarks ### An Evening with S...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
@@ -599,7 +577,14 @@
       "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
       "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-16",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "mercedes-benz-amphitheater-lauren-daigle-2026-07-16-mercedes-benz-amphitheater",
@@ -614,7 +599,14 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Lauren Daigle with Kyndal Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle, with spe...",
       "category": "Music",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-16",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Thursday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-lauren-daigle-at-mercedes-benz-amphitheater-2026-07-16-mercedes-benz-amphitheater",
@@ -629,7 +621,14 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle will be performing at the Mercedes-Benz Amphitheater in Tuscaloosa on Thursday, J...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-16",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Thursday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-black-panther-2018-2026-07-17-the-historic-bama-theatre",
