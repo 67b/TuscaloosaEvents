@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-10T13:18:49.214Z",
+  "updatedAt": "2026-07-11T12:05:02.275Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-10T13:18:49.213Z",
+  "weatherUpdatedAt": "2026-07-11T12:05:02.275Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,34 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-10-paul-r-jones-museum",
-      "title": "\"The Domestic Liminal\" Exhibition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-10T00:00:00-05:00",
-      "end": "2026-07-10T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-10-gorgas-house-museum",
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-11-gorgas-house-museum",
       "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-10T09:00:00-05:00",
-      "end": "2026-07-10T16:30:00-05:00",
+      "start": "2026-07-11T09:00:00-05:00",
+      "end": "2026-07-11T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -51,20 +29,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-10",
+        "forecastDate": "2026-07-11",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 19,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-10-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-11-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-10T09:00:00-05:00",
-      "end": "2026-07-10T16:30:00-05:00",
+      "start": "2026-07-11T09:00:00-05:00",
+      "end": "2026-07-11T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -73,121 +51,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-10",
+        "forecastDate": "2026-07-11",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 19,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-awi-waterworks-2026-07-10-lloyd-hall",
-      "title": "AWI WaterWorks",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/awi-waterworks-8012",
-      "start": "2026-07-10T12:00:00-05:00",
-      "end": "2026-07-10T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Lloyd Hall",
-      "address": "503 6TH AVENUE , TUSCALOOSA, AL 35401",
-      "description": "Please join us for our summer WaterWorks lecture! Lunch will be provided on a first-come, first-serve basis.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-connection-catalyst-fueling-belonging-at-work-2026-07-10-russell-hall",
-      "title": "Connection Catalyst: Fueling Belonging at Work",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/connection-catalyst-fueling-belonging-at-work",
-      "start": "2026-07-10T12:00:00-05:00",
-      "end": "2026-07-10T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Russell Hall",
-      "address": "504 UNIVERSITY BLVD, TUSCALOOSA, AL 35401",
-      "description": "Learn why connection at work matters, develop practical skills for building higher-quality relationships with colleagues, and make a personal commitment to take initiative. Register through your WellBAMA portal.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-designing-exemplary-blackboard-courses-virtual-2026-07-10",
-      "title": "Designing Exemplary Blackboard Courses (virtual)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/designing-exemplary-blackboard-courses-virtual",
-      "start": "2026-07-10T12:00:00-05:00",
-      "end": "2026-07-10T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join us to learn how to build a Blackboard course that is clear, organized, and designed for student success. This workshop focuses on course structure and content organization aligned with exemplary course design standards. Participants w...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-live-at-the-plaza-rescheduled-2026-07-10-government-plaza",
-      "title": "Live at the Plaza (Rescheduled)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/live-at-the-plaza-rescheduled/",
-      "start": "2026-07-10T18:00:00-05:00",
-      "end": "2026-07-10T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Government Plaza",
-      "address": "",
-      "description": "DwanyeBaba and The Prologue and The Locked Band may have been rained out in June, but they are back for a rescheduled date of July 10 at 6:00 PM! Come out and enjoy this year’s final Live at The Plaza! #### Map ### Captain America: Civil W...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-10",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-captain-america-civil-war-2016-2026-07-10-the-historic-bama-theatre",
-      "title": "Captain America: Civil War (2016)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/captain-america-civil-war-2016/",
-      "start": "2026-07-10T19:30:00-05:00",
-      "end": "2026-07-11T01:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Steve Rogers leads the newly formed team of Avengers in their continued efforts to safeguard humanity. But after another incident involving the Avengers results in collateral damage, political pressure mounts to install a system of account...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-10",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Tonight"
       }
     },
     {
@@ -206,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
-        "periodName": "Saturday"
+        "precipitationChance": 19,
+        "periodName": "Today"
       }
     },
     {
@@ -228,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
-        "periodName": "Saturday"
+        "precipitationChance": 19,
+        "periodName": "Today"
       }
     },
     {
@@ -245,15 +113,15 @@
       "timeStatus": "confirmed",
       "venue": "The Venue Tuscaloosa",
       "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### Captain America: Civil War (2016) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Live at th...",
+      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### An Evening with Sweet Fleet: A Tribute to Fleetwood Mac View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Top Gun View Bookmarks ### Saturday in the Park:...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
-        "periodName": "Saturday Night"
+        "precipitationChance": 27,
+        "periodName": "Tonight"
       }
     },
     {
@@ -272,10 +140,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-11",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
-        "periodName": "Saturday Night"
+        "precipitationChance": 27,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-13-paul-r-jones-museum",
+      "title": "\"The Domestic Liminal\" Exhibition",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
+      "start": "2026-07-13T00:00:00-05:00",
+      "end": "2026-07-13T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-13",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "precipitationChance": 71,
+        "periodName": "Monday"
       }
     },
     {
@@ -294,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -316,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -338,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -360,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -382,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -404,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -426,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 88,
+        "precipitationChance": 71,
         "periodName": "Monday"
       }
     },
@@ -448,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 84,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 61,
         "periodName": "Tuesday"
       }
     },
@@ -470,9 +360,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 84,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 61,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-project-management-certificate-program-developing-project-management-skills-2026-07-14",
+      "title": "Project Management Certificate Program - Developing Project Management Skills",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-developing-project-management-skills-4148",
+      "start": "2026-07-14T08:30:00-05:00",
+      "end": "2026-07-14T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This three-day, results-oriented, “roll up your sleeves” workshop will introduce you to the quality-drive philosophies and tools that contribute to enhancing the project team’s participation and productivity. Build a foundation of project...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 61,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-07-14-rose-administration-building",
+      "title": "UA faculty/staff headshots",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
+      "start": "2026-07-14T08:30:00-05:00",
+      "end": "2026-07-14T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rose Administration Building",
+      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
+      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 61,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-fixing-a-pdf-2026-07-14",
+      "title": "Fixing a PDF",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fixing-a-pdf-511",
+      "start": "2026-07-14T10:00:00-05:00",
+      "end": "2026-07-14T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "PDFs are a great way to share information, but they can be kind of intimidating when it comes to making them accessible. This session will examine basic ways to remediate two different types of PDFs to make them more accessible.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 61,
         "periodName": "Tuesday"
       }
     },
@@ -492,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 84,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 61,
         "periodName": "Tuesday"
       }
     },
@@ -514,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 84,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 61,
         "periodName": "Tuesday"
       }
     },
@@ -536,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 84,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 61,
         "periodName": "Tuesday"
       }
     },
@@ -553,14 +509,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### Captain America: Civil War (2016) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Live at the Plaza (Rescheduled) View Bookmarks ### An Evening with S...",
+      "description": "#### Map ### An Evening with Sweet Fleet: A Tribute to Fleetwood Mac View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Top Gun View Bookmarks ### Saturday in the Park: Copper Work Demonstration View Bookmarks ### “Clara Maass...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-15",
-        "temperature": 73,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 34,
         "periodName": "Wednesday Night"
       }
     },
@@ -580,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-16",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 22,
         "periodName": "Thursday"
       }
     },
@@ -604,7 +560,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 22,
         "periodName": "Thursday Night"
       }
     },
@@ -626,7 +582,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 22,
         "periodName": "Thursday Night"
       }
     },
@@ -642,6 +598,43 @@
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "A superhero known as Black Panther defends Wakanda, a technologically advanced country in Africa that has hidden itself away from the rest of the world. Now, he must face a dissident who wants to sell the country’s natural resources to fun...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-17",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 29,
+        "periodName": "Friday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-lake-nicol-paddle-fest-2026-07-18-lake-nicol",
+      "title": "Lake Nicol Paddle Fest",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/lake-nicol-paddle-fest/",
+      "start": "2026-07-18T07:30:00-05:00",
+      "end": "2026-07-18T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Lake Nicol",
+      "address": "4409 Nicol Park Rd, Tuscaloosa, AL 35406",
+      "description": "Recommended ages: Ages 15+. Celebrate National Lakes Appreciation Month on the water at the Lake Nicol Paddle Fest! Hosted by Tuscaloosa Water in partnership with Tuscaloosa Paddleboards and Mountain High Outfitters, this free community ev...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-2-2026-07-18-foster-auditorium",
+      "title": "Alabama Volleyball Camp: College Prep 2",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-camp-college-prep-2/",
+      "start": "2026-07-18T08:00:00-05:00",
+      "end": "2026-07-18T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Foster Auditorium",
+      "address": "801 6th Ave, Tuscaloosa, AL 35487",
+      "description": "The University of Alabama Volleyball program is proud to announce that registration is now open for the 2026 Alabama Volleyball Summer Camps. This summer, the Crimson Tide is extending a special invitation to local players, aspiring athlet...",
       "category": "Community",
       "isVirtual": false
     },
