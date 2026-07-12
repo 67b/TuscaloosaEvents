@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-11T12:05:02.275Z",
+  "updatedAt": "2026-07-12T12:07:27.721Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-11T12:05:02.275Z",
+  "weatherUpdatedAt": "2026-07-12T12:07:27.720Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,138 +14,6 @@
     "Command failed: curl -L --fail --silent --show-error --user-agent TuscaloosaEventsBot/1.0 (+https://github.com/) https://www.tuscaloosa-library.org/events/\ncurl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-11-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-11T09:00:00-05:00",
-      "end": "2026-07-11T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-11-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-11T09:00:00-05:00",
-      "end": "2026-07-11T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
-      "title": "Saturday in the Park: Copper Work Demonstration",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/saturday-in-the-park-copper-work-demonstration",
-      "start": "2026-07-11T09:15:00-05:00",
-      "end": "2026-07-11T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration outside the Jones Archaeological Museum! Learn about the history of pre-contact copper craftsmanship in the Southeas...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-saturday-in-the-park-copper-work-demonstration-2026-07-11-moundville-archaeological-park",
-      "title": "Saturday in the Park: Copper Work Demonstration",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/saturday-in-the-park-copper-work-demonstration/",
-      "start": "2026-07-11T09:15:00-05:00",
-      "end": "2026-07-11T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "1 Mound Parkway, 634 Mound State Parkway, Moundville, AL 35474",
-      "description": "Join Moundville Archaeological Park on Saturday, July 11, 2026 from 9:15 a.m. to 1:00 p.m. for a copper work demonstration outside the Jones Archaeological Museum! Learn about the history of pre-contact copper craftsmanship in the Southeas...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 19,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-top-gun-2026-07-11-the-venue-tuscaloosa",
-      "title": "Top Gun",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/top-gun/",
-      "start": "2026-07-11T18:00:00-05:00",
-      "end": "2026-07-12T00:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Venue Tuscaloosa",
-      "address": "6052 Watermelon Rd, Northport, AL",
-      "description": "Join us for a playing of favorite “Top Gun” at The Venue! #### Map ### An Evening with Sweet Fleet: A Tribute to Fleetwood Mac View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Top Gun View Bookmarks ### Saturday in the Park:...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 75,
-        "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac-2026-07-11-bama-theatre",
-      "title": "An Evening with Sweet Fleet: A Tribute to Fleetwood Mac",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/an-evening-with-sweet-fleet-a-tribute-to-fleetwood-mac/",
-      "start": "2026-07-11T19:00:00-05:00",
-      "end": "2026-07-12T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: All ages. Sweet Fleet is America’s premier tribute to Fleetwood Mac, delivering a powerful, witchy, and visually stunning show that captures the magic of the legendary band. With spot-on vocals, authentic costumes, and si...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-11",
-        "temperature": 75,
-        "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-13-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -162,9 +30,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -184,9 +52,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -206,9 +74,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -228,9 +96,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -250,9 +118,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -272,9 +140,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -294,9 +162,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -316,9 +184,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 71,
+        "precipitationChance": 74,
         "periodName": "Monday"
       }
     },
@@ -338,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -360,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -382,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -404,9 +272,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-14-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-14T09:00:00-05:00",
+      "end": "2026-07-14T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 78,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-14-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-14T09:00:00-05:00",
+      "end": "2026-07-14T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -426,9 +338,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-finding-wellness-outdoors-in-alabama-2026-07-14",
+      "title": "Finding Wellness Outdoors in Alabama",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/finding-wellness-outdoors-in-alabama",
+      "start": "2026-07-14T11:00:00-05:00",
+      "end": "2026-07-14T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Discover diverse activities that will keep you moving, from hiking trails to kayaking waterways, all while staying right here in Alabama and enriching your well-being. Register through the WellBAMA portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -448,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -470,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -492,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 88,
+        "temperature": 86,
         "temperatureUnit": "F",
-        "precipitationChance": 61,
+        "precipitationChance": 78,
         "periodName": "Tuesday"
       }
     },
@@ -509,14 +443,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### An Evening with Sweet Fleet: A Tribute to Fleetwood Mac View Bookmarks ### “Made in America” Exhibit View Bookmarks ### Top Gun View Bookmarks ### Saturday in the Park: Copper Work Demonstration View Bookmarks ### “Clara Maass...",
+      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Alabama Volleyball Middle School All Skills Camp View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-15",
-        "temperature": 74,
+        "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
+        "precipitationChance": 49,
         "periodName": "Wednesday Night"
       }
     },
@@ -536,7 +470,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-16",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
         "precipitationChance": 22,
         "periodName": "Thursday"
@@ -558,7 +492,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-16",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 22,
         "periodName": "Thursday Night"
@@ -580,7 +514,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-16",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 22,
         "periodName": "Thursday Night"
@@ -604,7 +538,7 @@
         "forecastDate": "2026-07-17",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 25,
         "periodName": "Friday Night"
       }
     },
@@ -621,7 +555,14 @@
       "address": "4409 Nicol Park Rd, Tuscaloosa, AL 35406",
       "description": "Recommended ages: Ages 15+. Celebrate National Lakes Appreciation Month on the water at the Lake Nicol Paddle Fest! Hosted by Tuscaloosa Water in partnership with Tuscaloosa Paddleboards and Mountain High Outfitters, this free community ev...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-18",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-2-2026-07-18-foster-auditorium",
@@ -636,7 +577,14 @@
       "address": "801 6th Ave, Tuscaloosa, AL 35487",
       "description": "The University of Alabama Volleyball program is proud to announce that registration is now open for the 2026 Alabama Volleyball Summer Camps. This summer, the Crimson Tide is extending a special invitation to local players, aspiring athlet...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-18",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-casual-campus-cruise-2026-07-18-velo-city-cycles",
@@ -650,6 +598,43 @@
       "venue": "Velo City Cycles",
       "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
       "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-18",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-princess-bride-1987-2026-07-21-the-historic-bama-theatre",
+      "title": "Princess Bride (1987)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/princess-bride-1987/",
+      "start": "2026-07-21T19:00:00-05:00",
+      "end": "2026-07-22T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "A kid (Fred Savage), home sick from school, grudgingly allows his grandfather (Peter Falk) to read him a dusty storybook—which is how we meet the innocent Buttercup (Robin Wright, in her breakout role), about to marry the nefarious Prince...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-trolls-2016-2026-07-22-the-historic-bama-theatre",
+      "title": "Trolls (2016)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/trolls-2016/",
+      "start": "2026-07-22T10:00:00-05:00",
+      "end": "2026-07-22T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "After a forest tribe of cotton-candy-colored, shock-headed trolls discover that they’re the new favorite gourmet treat for King Gristle, the unlikely duo of bubbly Poppy and worrywart Branch must rescue their friends from the royals’ chef...",
       "category": "Community",
       "isVirtual": false
     },
@@ -666,6 +651,21 @@
       "address": "",
       "description": "PDFs are a great way to share information, but they can be kind of intimidating when it comes to making them accessible. This session will examine basic ways to remediate two different types of PDFs to make them more accessible.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-bourbon-and-ballers-2026-07-23-the-sanctuary-on-25th",
+      "title": "Bourbon & Ballers",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/bourbon-ballers/",
+      "start": "2026-07-23T18:00:00-05:00",
+      "end": "2026-07-23T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Sanctuary on 25th",
+      "address": "1710 25th Avenue, Tuscaloosa, AL 35401",
+      "description": "Something special is happening this summer, and Yea Alabama wants you to be a part of it. Yea Alabama is thrilled to partner with three of the University of Alabama’s inspiring women’s athletic programs Women’s Basketball, Volleyball and S...",
+      "category": "Community",
       "isVirtual": false
     },
     {
