@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-12T12:07:27.721Z",
+  "updatedAt": "2026-07-13T13:29:26.876Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-12T12:07:27.720Z",
+  "weatherUpdatedAt": "2026-07-13T13:29:26.876Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -30,10 +30,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
@@ -52,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
@@ -74,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
@@ -96,17 +96,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-hpc-summer-series-2026-07-13-gorgas-library",
       "title": "HPC Summer Series",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/hpc-summer-series",
+      "sourceUrl": "http://calendar.ua.edu/event/hpc-summer-series",
       "start": "2026-07-13T09:00:00-05:00",
       "end": "2026-07-13T15:00:00-05:00",
       "allDay": false,
@@ -118,17 +118,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-bhm-131-the-pipe-organ-king-of-musical-instruments-2026-07-13-riverchase-united-methodist-church",
       "title": "BHM 131 The Pipe Organ: King of Musical Instruments",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bhm-131-the-pipe-organ-king-of-musical-instruments",
+      "sourceUrl": "http://calendar.ua.edu/event/bhm-131-the-pipe-organ-king-of-musical-instruments",
       "start": "2026-07-13T10:30:00-05:00",
       "end": "2026-07-13T12:00:00-05:00",
       "allDay": false,
@@ -140,17 +140,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-07-13",
       "title": "Make Your Course Accessible with Ally",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-4028",
+      "sourceUrl": "http://calendar.ua.edu/event/make-your-course-accessible-with-ally-4028",
       "start": "2026-07-13T10:30:00-05:00",
       "end": "2026-07-13T11:30:00-05:00",
       "allDay": false,
@@ -162,17 +162,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-are-you-fitter-than-a-5th-grader-fitness-testing-2026-07-13-robert-e-witt-student-activity-center",
       "title": "Are You Fitter Than a 5th Grader? Fitness Testing",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/are-you-fitter-than-a-5th-grader-fitness-testing",
+      "sourceUrl": "http://calendar.ua.edu/event/are-you-fitter-than-a-5th-grader-fitness-testing",
       "start": "2026-07-13T11:00:00-05:00",
       "end": "2026-07-13T13:00:00-05:00",
       "allDay": false,
@@ -184,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-13",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
-        "periodName": "Monday"
+        "precipitationChance": 68,
+        "periodName": "Today"
       }
     },
     {
@@ -206,9 +206,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -228,9 +228,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -238,7 +238,7 @@
       "id": "university-of-alabama-project-management-certificate-program-developing-project-management-skills-2026-07-14",
       "title": "Project Management Certificate Program - Developing Project Management Skills",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-developing-project-management-skills-4148",
+      "sourceUrl": "http://calendar.ua.edu/event/project-management-certificate-program-developing-project-management-skills-4148",
       "start": "2026-07-14T08:30:00-05:00",
       "end": "2026-07-14T16:00:00-05:00",
       "allDay": false,
@@ -250,9 +250,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -272,9 +272,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -294,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -316,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -326,7 +326,7 @@
       "id": "university-of-alabama-fixing-a-pdf-2026-07-14",
       "title": "Fixing a PDF",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/fixing-a-pdf-511",
+      "sourceUrl": "http://calendar.ua.edu/event/fixing-a-pdf-511",
       "start": "2026-07-14T10:00:00-05:00",
       "end": "2026-07-14T11:00:00-05:00",
       "allDay": false,
@@ -338,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -348,7 +348,7 @@
       "id": "university-of-alabama-finding-wellness-outdoors-in-alabama-2026-07-14",
       "title": "Finding Wellness Outdoors in Alabama",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/finding-wellness-outdoors-in-alabama",
+      "sourceUrl": "http://calendar.ua.edu/event/finding-wellness-outdoors-in-alabama",
       "start": "2026-07-14T11:00:00-05:00",
       "end": "2026-07-14T12:00:00-05:00",
       "allDay": false,
@@ -360,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -370,7 +370,7 @@
       "id": "university-of-alabama-making-campus-events-happen-practical-planning-for-faculty-and-staff-2026-07-14-employee-resource-",
       "title": "Making Campus Events Happen: Practical Planning for Faculty & Staff",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/making-campus-events-happen-practical-planning-for-faculty-staff-2035",
+      "sourceUrl": "http://calendar.ua.edu/event/making-campus-events-happen-practical-planning-for-faculty-staff-2035",
       "start": "2026-07-14T15:00:00-05:00",
       "end": "2026-07-14T16:30:00-05:00",
       "allDay": false,
@@ -382,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -404,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -426,9 +426,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 78,
+        "precipitationChance": 92,
         "periodName": "Tuesday"
       }
     },
@@ -443,14 +443,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Alabama Volleyball Middle School All Skills Camp View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’...",
+      "description": "#### Map ### Alabama Volleyball Middle School All Skills Camp View Bookmarks ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-15",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 59,
         "periodName": "Wednesday Night"
       }
     },
@@ -470,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-16",
-        "temperature": 91,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 42,
         "periodName": "Thursday"
       }
     },
@@ -494,7 +494,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 42,
         "periodName": "Thursday Night"
       }
     },
@@ -516,7 +516,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 42,
         "periodName": "Thursday Night"
       }
     },
@@ -538,7 +538,7 @@
         "forecastDate": "2026-07-17",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 39,
         "periodName": "Friday Night"
       }
     },
@@ -560,7 +560,7 @@
         "forecastDate": "2026-07-18",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 25,
         "periodName": "Saturday"
       }
     },
@@ -582,7 +582,7 @@
         "forecastDate": "2026-07-18",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 25,
         "periodName": "Saturday"
       }
     },
@@ -604,7 +604,7 @@
         "forecastDate": "2026-07-18",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 25,
         "periodName": "Saturday"
       }
     },
