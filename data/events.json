@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-13T13:29:26.876Z",
+  "updatedAt": "2026-07-14T12:39:48.950Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-13T13:29:26.876Z",
+  "weatherUpdatedAt": "2026-07-14T12:39:48.950Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-13-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-14-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-13T00:00:00-05:00",
-      "end": "2026-07-13T00:00:00-05:00",
+      "start": "2026-07-14T00:00:00-05:00",
+      "end": "2026-07-14T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -29,164 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
+        "forecastDate": "2026-07-14",
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-k-pop-summer-dance-series-2026-07-13-the-historic-bama-theatre",
-      "title": "K-pop Summer Dance Series",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/k-pop-summer-dance-series/",
-      "start": "2026-07-13T00:00:00-05:00",
-      "end": "2026-07-14T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Come join an energetic and supportive class for all, taught by Celeste Lewis, focusing on having fun and dancing to your favorite songs with K-pop fans. This event offers two levels of difficulty, one being beginner and the other advanced....",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-two-2026-07-13",
-      "title": "2026 Advanced Placement Summer Institute – Week Two",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/2026-advanced-placement-summer-institute-week-two",
-      "start": "2026-07-13T08:00:00-05:00",
-      "end": "2026-07-13T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The University of Alabama is proud to partner with the College Board® to offer the Advanced Placement Institute, a professional learning experience designed for both new and experienced AP teachers. Participants will explore subject-specif...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-volleyball-middle-school-all-skills-camp-2026-07-13-foster-auditorium",
-      "title": "Alabama Volleyball Middle School All Skills Camp",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-middle-school-all-skills-camp/",
-      "start": "2026-07-13T08:00:00-05:00",
-      "end": "2026-07-13T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "801 6th Ave, Tuscaloosa, AL 35487",
-      "description": "The University of Alabama Volleyball program is proud to announce that registration is now open for the 2026 Alabama Volleyball Summer Camps. This summer, the Crimson Tide is extending a special invitation to local players, aspiring athlet...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-hpc-summer-series-2026-07-13-gorgas-library",
-      "title": "HPC Summer Series",
-      "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/hpc-summer-series",
-      "start": "2026-07-13T09:00:00-05:00",
-      "end": "2026-07-13T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Join us for a three‑day event (July 13th-July 15th) featuring faculty research insights, hands‑on instruction, and real‑world use cases. You’ll have opportunities to connect with fellow researchers, build relationships across the UA HPC co...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bhm-131-the-pipe-organ-king-of-musical-instruments-2026-07-13-riverchase-united-methodist-church",
-      "title": "BHM 131 The Pipe Organ: King of Musical Instruments",
-      "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/bhm-131-the-pipe-organ-king-of-musical-instruments",
-      "start": "2026-07-13T10:30:00-05:00",
-      "end": "2026-07-13T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Riverchase United Methodist Church",
-      "address": "1953 Old Montgomery Hwy, Birmingham, AL 35244",
-      "description": "Join us online for our free public programs — and bring a friend! Walt Rogers, organist for over 30 years at Riverchase United Methodist Church, will utilize his musical skills to show why the organ is the \"king\" of instruments. BHM 131 Th...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-07-13",
-      "title": "Make Your Course Accessible with Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/make-your-course-accessible-with-ally-4028",
-      "start": "2026-07-13T10:30:00-05:00",
-      "end": "2026-07-13T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-are-you-fitter-than-a-5th-grader-fitness-testing-2026-07-13-robert-e-witt-student-activity-center",
-      "title": "Are You Fitter Than a 5th Grader? Fitness Testing",
-      "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/are-you-fitter-than-a-5th-grader-fitness-testing",
-      "start": "2026-07-13T11:00:00-05:00",
-      "end": "2026-07-13T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Robert E. Witt Student Activity Center",
-      "address": "654 ABERCROMBIE LANE, TUSCALOOSA, AL 35401",
-      "description": "Register for fitness testing on June 15 and July 13 at the Witt Center from 11:00am–1:00pm. These will help you establish a baseline, practice proper form, and track progress. Each test will take about 45 minutes, so please wear workout at...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-13",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 87,
         "periodName": "Today"
       }
     },
@@ -206,10 +52,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-two-2026-07-14",
+      "title": "2026 Advanced Placement Summer Institute – Week Two",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/2026-advanced-placement-summer-institute-week-two",
+      "start": "2026-07-14T08:00:00-05:00",
+      "end": "2026-07-14T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The University of Alabama is proud to partner with the College Board® to offer the Advanced Placement Institute, a professional learning experience designed for both new and experienced AP teachers. Participants will explore subject-specif...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
@@ -228,17 +96,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-project-management-certificate-program-developing-project-management-skills-2026-07-14",
       "title": "Project Management Certificate Program - Developing Project Management Skills",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/project-management-certificate-program-developing-project-management-skills-4148",
+      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-developing-project-management-skills-4148",
       "start": "2026-07-14T08:30:00-05:00",
       "end": "2026-07-14T16:00:00-05:00",
       "allDay": false,
@@ -250,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
@@ -272,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
@@ -294,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
@@ -316,17 +184,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-fixing-a-pdf-2026-07-14",
       "title": "Fixing a PDF",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/fixing-a-pdf-511",
+      "sourceUrl": "https://calendar.ua.edu/event/fixing-a-pdf-511",
       "start": "2026-07-14T10:00:00-05:00",
       "end": "2026-07-14T11:00:00-05:00",
       "allDay": false,
@@ -338,17 +206,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-finding-wellness-outdoors-in-alabama-2026-07-14",
       "title": "Finding Wellness Outdoors in Alabama",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/finding-wellness-outdoors-in-alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/finding-wellness-outdoors-in-alabama",
       "start": "2026-07-14T11:00:00-05:00",
       "end": "2026-07-14T12:00:00-05:00",
       "allDay": false,
@@ -360,17 +228,39 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-160-songs-of-americana-the-soundtrack-of-america-at-250-2026-07-14-bryant-conference-center",
+      "title": "TUS 160 Songs of Americana: The Soundtrack of America at 250",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-160-songs-of-americana-the-soundtrack-of-america-at-250",
+      "start": "2026-07-14T12:00:00-05:00",
+      "end": "2026-07-14T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! As we honor America250, this course explores the music that tells America’s story. From folk ballads and spirituals to blues, country and modern-day America, we will listen closely to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-14",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
       "id": "university-of-alabama-making-campus-events-happen-practical-planning-for-faculty-and-staff-2026-07-14-employee-resource-",
       "title": "Making Campus Events Happen: Practical Planning for Faculty & Staff",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/making-campus-events-happen-practical-planning-for-faculty-staff-2035",
+      "sourceUrl": "https://calendar.ua.edu/event/making-campus-events-happen-practical-planning-for-faculty-staff-2035",
       "start": "2026-07-14T15:00:00-05:00",
       "end": "2026-07-14T16:30:00-05:00",
       "allDay": false,
@@ -382,10 +272,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
@@ -404,10 +294,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
       }
     },
     {
@@ -426,10 +316,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-14",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
-        "periodName": "Tuesday"
+        "precipitationChance": 87,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-new-management-orientation-2026-07-15",
+      "title": "New Management Orientation",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/new-management-orientation-584",
+      "start": "2026-07-15T08:30:00-05:00",
+      "end": "2026-07-15T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Behavioral Expectations Supported: Collaboration, Effective Communication, Ethics and Integrity, Continuous Improvement https://hr.ua.edu/employee-resources/performance-management/behavioral New Management Orientation is for those new to a...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-15",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-presence-bringing-your-boldest-self-to-your-biggest-challenges-2026-07-15-employee-resource-center",
+      "title": "Presence: Bringing your Boldest Self to Your Biggest Challenges",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/presence-bringing-your-boldest-self-to-your-biggest-challenges",
+      "start": "2026-07-15T10:30:00-05:00",
+      "end": "2026-07-15T11:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Have you ever faced a big meeting, an interview, a hard discussion, etc., with dread, only to leave the meeting with regret? Regret that you didn’t say all you wanted to or respond the way you planned? Come learn how to harness your own pe...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-15",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -443,14 +377,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "#### Map ### Alabama Volleyball Middle School All Skills Camp View Bookmarks ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’...",
+      "description": "#### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### Coming To America (1988) View Bookmarks ### Alabama Volleyball High School All Skills Camp View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Practical Democ...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-15",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
+        "precipitationChance": 63,
         "periodName": "Wednesday Night"
       }
     },
@@ -472,7 +406,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 24,
         "periodName": "Thursday"
       }
     },
@@ -494,7 +428,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 24,
         "periodName": "Thursday Night"
       }
     },
@@ -516,7 +450,7 @@
         "forecastDate": "2026-07-16",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 24,
         "periodName": "Thursday Night"
       }
     },
@@ -536,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-17",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 39,
+        "precipitationChance": 27,
         "periodName": "Friday Night"
       }
     },
@@ -558,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 23,
         "periodName": "Saturday"
       }
     },
@@ -580,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 23,
         "periodName": "Saturday"
       }
     },
@@ -602,10 +536,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
+        "precipitationChance": 23,
         "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-k-pop-summer-dance-series-2026-07-20-the-historic-bama-theatre",
+      "title": "K-pop Summer Dance Series",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/k-pop-summer-dance-series/",
+      "start": "2026-07-20T00:00:00-05:00",
+      "end": "2026-07-21T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Come join an energetic and supportive class for all, taught by Celeste Lewis, focusing on having fun and dancing to your favorite songs with K-pop fans. This event offers two levels of difficulty, one being beginner and the other advanced....",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-20",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 19,
+        "periodName": "Monday"
       }
     },
     {
@@ -665,6 +621,21 @@
       "venue": "The Sanctuary on 25th",
       "address": "1710 25th Avenue, Tuscaloosa, AL 35401",
       "description": "Something special is happening this summer, and Yea Alabama wants you to be a part of it. Yea Alabama is thrilled to partner with three of the University of Alabama’s inspiring women’s athletic programs Women’s Basketball, Volleyball and S...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-thor-ragnarok-2019-2026-07-24-the-historic-bama-theatre",
+      "title": "Thor Ragnarok (2019)",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/thor-ragnarok-2019/",
+      "start": "2026-07-24T07:30:00-05:00",
+      "end": "2026-07-24T13:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "After being defeated in combat by his half-sister Hela, Thor ends up as an imprisoned gladiator on a distant world ruled by the Grandmaster. Now, he must work together with fellow Avenger the Hulk, another combatant fighting for the Grandm...",
       "category": "Community",
       "isVirtual": false
     },
@@ -815,6 +786,21 @@
       "venue": "",
       "address": "",
       "description": "Labor Day (UA closed)",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-dch-blanket-and-toy-drive-2026-09-09-student-center-plaza",
+      "title": "DCH Blanket and Toy Drive",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/dch-blanket-and-toy-drive",
+      "start": "2026-09-09T10:30:00-05:00",
+      "end": "2026-09-09T14:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Student Center Plaza",
+      "address": "",
+      "description": "We will be collecting blanket and toy donations for children in pediatric care within the DCH Health System. We will then deliver the donations to DCH Volunteer Services. All toys must be in their original packaging or have a tag attached.",
       "category": "Campus",
       "isVirtual": false
     },
