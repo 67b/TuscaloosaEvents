@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-16T12:50:28.192Z",
+  "updatedAt": "2026-07-17T12:20:18.799Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-16T12:50:28.192Z",
+  "weatherUpdatedAt": "2026-07-17T12:20:18.799Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -12,248 +12,6 @@
   ],
   "warnings": [],
   "events": [
-    {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-16-paul-r-jones-museum",
-      "title": "\"The Domestic Liminal\" Exhibition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-16T00:00:00-05:00",
-      "end": "2026-07-16T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-big-fish-2026-07-16-9500-old-greensboro-road-tuscaloosa-al-35405",
-      "title": "Big Fish",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
-      "start": "2026-07-16T00:00:00-05:00",
-      "end": "2026-07-17T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "",
-      "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
-      "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-2026-advanced-placement-summer-institute-week-two-2026-07-16",
-      "title": "2026 Advanced Placement Summer Institute – Week Two",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/2026-advanced-placement-summer-institute-week-two",
-      "start": "2026-07-16T08:00:00-05:00",
-      "end": "2026-07-16T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The University of Alabama is proud to partner with the College Board® to offer the Advanced Placement Institute, a professional learning experience designed for both new and experienced AP teachers. Participants will explore subject-specif...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-project-management-certificate-program-developing-project-management-skills-2026-07-16",
-      "title": "Project Management Certificate Program - Developing Project Management Skills",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-developing-project-management-skills-4148",
-      "start": "2026-07-16T08:30:00-05:00",
-      "end": "2026-07-16T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This three-day, results-oriented, “roll up your sleeves” workshop will introduce you to the quality-drive philosophies and tools that contribute to enhancing the project team’s participation and productivity. Build a foundation of project...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-16-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-16T09:00:00-05:00",
-      "end": "2026-07-16T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-16-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-16T09:00:00-05:00",
-      "end": "2026-07-16T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-07-16-main-library-first-floor",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-07-16/",
-      "start": "2026-07-16T11:00:00-05:00",
-      "end": "2026-07-16T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-dax-scripting-for-power-bi-2026-07-16-bruno-business-library",
-      "title": "DAX Scripting for Power BI",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/dax-scripting-for-power-bi",
-      "start": "2026-07-16T11:00:00-05:00",
-      "end": "2026-07-16T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bruno Business Library",
-      "address": "425 STADIUM DRIVE , TUSCALOOSA, AL 35401",
-      "description": "Make more out of your data using DAX (Data Analysis Expressions). DAX is the scripting language for Power BI that can produce more detailed answers to what your data offers. This class will provide examples of standard calculations and com...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bodyweight-strength-training-2026-07-16-gorgas-library",
-      "title": "Bodyweight Strength Training",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bodyweight-strength-training",
-      "start": "2026-07-16T12:00:00-05:00",
-      "end": "2026-07-16T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Foundational strength exercises using your own bodyweight to build muscle, improve stability, and enhance overall fitness. Please wear workout attire and bring a mat or towel. Register through the WellBAMA portal.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-dax-scripting-for-power-bi-online-2026-07-16",
-      "title": "DAX Scripting for Power BI (Online)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/dax-scripting-for-power-bi-online",
-      "start": "2026-07-16T16:00:00-05:00",
-      "end": "2026-07-16T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Make more out of your data using DAX (Data Analysis Expressions). DAX is the scripting language for Power BI that can produce more detailed answers to what your data offers. This class will provide examples of standard calculations and com...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-culverhouse-executives-society-chicago-reception-2026-07-16-chicago-chop-house",
-      "title": "Culverhouse Executives Society Chicago Reception",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/culverhouse-executives-society-chicago-reception",
-      "start": "2026-07-16T17:00:00-05:00",
-      "end": "2026-07-16T18:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Chicago Chop House",
-      "address": "60 W Ontario St. Chicago IL 60654",
-      "description": "Please join The Culverhouse College of Business for an alumni reception at the Chicago Chophouse on July 16, 2026, from 5-6:30 pm. Come and hear an update from the college and network with other local Alumni.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "mercedes-benz-amphitheater-lauren-daigle-2026-07-16-mercedes-benz-amphitheater",
       "title": "Lauren Daigle",
@@ -267,35 +25,94 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Lauren Daigle with Kyndal Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle, with spe...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-17-paul-r-jones-museum",
+      "title": "\"The Domestic Liminal\" Exhibition",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
+      "start": "2026-07-17T00:00:00-05:00",
+      "end": "2026-07-17T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
+      "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 74,
+        "forecastDate": "2026-07-17",
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tonight"
+        "precipitationChance": 16,
+        "periodName": "Today"
       }
     },
     {
-      "id": "visit-tuscaloosa-lauren-daigle-at-mercedes-benz-amphitheater-2026-07-16-mercedes-benz-amphitheater",
-      "title": "LAUREN DAIGLE at Mercedes-Benz Amphitheater",
+      "id": "visit-tuscaloosa-big-fish-2026-07-17-9500-old-greensboro-road-tuscaloosa-al-35405",
+      "title": "Big Fish",
       "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/lauren-daigle-at-mercedes-benz-amphitheater/",
-      "start": "2026-07-16T19:30:00-05:00",
-      "end": "2026-07-17T01:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle will be performing at the Mercedes-Benz Amphitheater in Tuscaloosa on Thursday, J...",
+      "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
+      "start": "2026-07-17T00:00:00-05:00",
+      "end": "2026-07-18T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "",
+      "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
+      "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
       "category": "Community",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-16",
-        "temperature": 74,
+        "forecastDate": "2026-07-17",
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Tonight"
+        "precipitationChance": 16,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-17-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-17T09:00:00-05:00",
+      "end": "2026-07-17T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-17",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 16,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-17-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-17T09:00:00-05:00",
+      "end": "2026-07-17T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-17",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 16,
+        "periodName": "Today"
       }
     },
     {
@@ -314,9 +131,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 15,
         "periodName": "Saturday"
       }
     },
@@ -336,9 +153,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 15,
         "periodName": "Saturday"
       }
     },
@@ -358,9 +175,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 15,
         "periodName": "Saturday"
       }
     },
@@ -382,7 +199,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 11,
+        "precipitationChance": 18,
         "periodName": "Monday"
       }
     },
@@ -404,7 +221,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 11,
+        "precipitationChance": 18,
         "periodName": "Monday"
       }
     },
@@ -426,7 +243,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 11,
+        "precipitationChance": 18,
         "periodName": "Monday"
       }
     },
@@ -448,7 +265,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Tuesday"
       }
     },
@@ -470,7 +287,51 @@
         "forecastDate": "2026-07-21",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tableau-visualizations-2026-07-21-bruno-business-library",
+      "title": "Tableau Visualizations",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tableau-visualizations",
+      "start": "2026-07-21T11:00:00-05:00",
+      "end": "2026-07-21T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bruno Business Library",
+      "address": "425 STADIUM DRIVE , TUSCALOOSA, AL 35401",
+      "description": "There are so many ways to represent your data in a visualization. Tableau gives you an overwhelming number of choices. We will learn how to create and modify some of the most popular charts and maps. *Students must have access to Tableau P...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-21",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-160-songs-of-americana-the-soundtrack-of-america-at-250-2026-07-21-bryant-conference-center",
+      "title": "TUS 160 Songs of Americana: The Soundtrack of America at 250",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-160-songs-of-americana-the-soundtrack-of-america-at-250",
+      "start": "2026-07-21T12:00:00-05:00",
+      "end": "2026-07-21T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! As we honor America250, this course explores the music that tells America’s story. From folk ballads and spirituals to blues, country and modern-day America, we will listen closely to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-21",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
         "periodName": "Tuesday"
       }
     },
@@ -492,7 +353,29 @@
         "forecastDate": "2026-07-21",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-communication-features-in-ultra-2026-07-21",
+      "title": "Communication Features in Ultra",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/communication-features-in-ultra-8391",
+      "start": "2026-07-21T14:00:00-05:00",
+      "end": "2026-07-21T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Blackboard Ultra offers a wide variety of ways for instructors to communicate with their students. This workshop will examine and demonstrate how to access and use Ultra’s communication features.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-21",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
         "periodName": "Tuesday"
       }
     },
@@ -514,7 +397,29 @@
         "forecastDate": "2026-07-21",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tableau-visualizations-online-2026-07-21",
+      "title": "Tableau Visualizations (Online)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tableau-visualizations-online",
+      "start": "2026-07-21T16:00:00-05:00",
+      "end": "2026-07-21T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "There are so many ways to represent your data in a visualization. Tableau gives you an overwhelming number of choices. We will learn how to create and modify some of the most popular charts and maps. *Students must have access to Tableau P...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-21",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
         "periodName": "Tuesday"
       }
     },
@@ -536,7 +441,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Tuesday"
       }
     },
@@ -556,10 +461,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 78,
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
+        "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-07-22-rose-administration-building",
+      "title": "UA faculty/staff headshots",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
+      "start": "2026-07-22T08:30:00-05:00",
+      "end": "2026-07-22T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rose Administration Building",
+      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
+      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-22",
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 16,
-        "periodName": "Tuesday Night"
+        "periodName": "Wednesday"
       }
     },
     {
@@ -580,7 +507,29 @@
         "forecastDate": "2026-07-22",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 16,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tools-ua-faculty-should-know-2026-07-22",
+      "title": "Tools UA Faculty Should Know",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tools-ua-faculty-should-know-5642",
+      "start": "2026-07-22T09:30:00-05:00",
+      "end": "2026-07-22T10:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Empower your teaching with the essential instructional technologies supported at UA! This session introduces faculty to the most impactful tools for course design, delivery, and student engagement. Whether you’re new to UA or looking to re...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-22",
+        "temperature": 97,
+        "temperatureUnit": "F",
+        "precipitationChance": 16,
         "periodName": "Wednesday"
       }
     },
@@ -602,7 +551,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 16,
         "periodName": "Wednesday"
       }
     },
@@ -624,7 +573,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 16,
         "periodName": "Wednesday"
       }
     },
@@ -646,7 +595,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 16,
         "periodName": "Wednesday"
       }
     },
@@ -668,7 +617,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 16,
         "periodName": "Wednesday"
       }
     },
@@ -690,7 +639,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 16,
         "periodName": "Wednesday"
       }
     },
@@ -707,7 +656,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-23",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "visit-tuscaloosa-bourbon-and-ballers-2026-07-23-the-sanctuary-on-25th",
@@ -722,7 +678,14 @@
       "address": "1710 25th Avenue, Tuscaloosa, AL 35401",
       "description": "Something special is happening this summer, and Yea Alabama wants you to be a part of it. Yea Alabama is thrilled to partner with three of the University of Alabama’s inspiring women’s athletic programs Women’s Basketball, Volleyball and S...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-23",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Thursday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-snake-id-and-safety-workshop-2026-07-23-university-of-alabama-arboretum",
@@ -737,7 +700,14 @@
       "address": "At the UA Arboretum Pavilion.",
       "description": "#### Curious about the snakes found in Alabama? Join us for the Snake ID and Safety Workshop on Thursday, July 23, from 6:30–7:30 PM at the University of Alabama Arboretum Pavilion. Learn how to identify common snakes, understand their rol...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-23",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Thursday Night"
+      }
     },
     {
       "id": "visit-tuscaloosa-moundville-for-minis-the-butterfly-2026-07-24-moundville-archaeological-park",
@@ -935,6 +905,21 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-07-30-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-07-30/",
+      "start": "2026-07-30T11:00:00-05:00",
+      "end": "2026-07-30T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-summer-commencement-2026-08-01-coleman-coliseum",
       "title": "Summer Commencement",
       "source": "University of Alabama",
@@ -961,6 +946,21 @@
       "venue": "Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Making his RETURN to The Historic Bama Theatre! A multi-instrumentalist, Sean Dietrich started playing Mandolin when he was seven years old, guitar at age eight and piano in church at age nine. Having lived through enough heartbreak, joy,...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-back-to-school-bash-tuscarts-onstage-season-reveal-2026-08-07-bama-theatre",
+      "title": "Back to School Bash/TuscArts Onstage Season Reveal",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/back-to-school-bash-tuscarts-onstage-season-reveal/",
+      "start": "2026-08-07T17:00:00-05:00",
+      "end": "2026-08-07T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bama Theatre",
+      "address": "The Historic Bama Theatre and The Dinah Washington Cultural Arts Center",
+      "description": "Join us at The Dinah Washington Cultural Arts Center, and The Historic Bama Theatre on August 7th for prizes, visits from local vendors, and to hear all about our upcoming workshops & performances! This event is free and open to the public...",
       "category": "Community",
       "isVirtual": false
     },
