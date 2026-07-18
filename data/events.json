@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-17T12:20:18.799Z",
+  "updatedAt": "2026-07-18T12:03:49.608Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-17T12:20:18.799Z",
+  "weatherUpdatedAt": "2026-07-18T12:03:49.608Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,49 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "mercedes-benz-amphitheater-lauren-daigle-2026-07-16-mercedes-benz-amphitheater",
-      "title": "Lauren Daigle",
-      "source": "Mercedes-Benz Amphitheater",
-      "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/lauren-daigle/",
-      "start": "2026-07-16T19:30:00-05:00",
-      "end": "2026-07-17T03:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Mercedes-Benz Amphitheater",
-      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Lauren Daigle with Kyndal Show Time: 7:30 PM Gates: 6:30 PM Get Tickets Lauren Daigle is a two-time Grammy, seven-time Billboard Music Award, four-time American Music Award, and ten-time GMA Dove Music Award winner. Lauren Daigle, with spe...",
-      "category": "Music",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-17-paul-r-jones-museum",
-      "title": "\"The Domestic Liminal\" Exhibition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-17T00:00:00-05:00",
-      "end": "2026-07-17T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-17",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 16,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-big-fish-2026-07-17-9500-old-greensboro-road-tuscaloosa-al-35405",
+      "id": "visit-tuscaloosa-big-fish-2026-07-18-9500-old-greensboro-road-tuscaloosa-al-35405",
       "title": "Big Fish",
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
-      "start": "2026-07-17T00:00:00-05:00",
-      "end": "2026-07-18T05:00:00-05:00",
+      "start": "2026-07-18T00:00:00-05:00",
+      "end": "2026-07-19T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
       "venue": "",
@@ -64,54 +27,10 @@
       "category": "Community",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-17",
+        "forecastDate": "2026-07-18",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-17-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-17T09:00:00-05:00",
-      "end": "2026-07-17T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-17",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 16,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-17-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-17T09:00:00-05:00",
-      "end": "2026-07-17T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-17",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 23,
         "periodName": "Today"
       }
     },
@@ -131,10 +50,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Saturday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -153,10 +72,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Saturday"
+        "precipitationChance": 23,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-18-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-18T09:00:00-05:00",
+      "end": "2026-07-18T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-18",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-18-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-18T09:00:00-05:00",
+      "end": "2026-07-18T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-18",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -175,10 +138,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-18",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Saturday"
+        "precipitationChance": 23,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-20-paul-r-jones-museum",
+      "title": "\"The Domestic Liminal\" Exhibition",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
+      "start": "2026-07-20T00:00:00-05:00",
+      "end": "2026-07-20T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-20",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Monday"
       }
     },
     {
@@ -199,7 +184,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 17,
         "periodName": "Monday"
       }
     },
@@ -221,7 +206,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 17,
         "periodName": "Monday"
       }
     },
@@ -243,7 +228,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 17,
         "periodName": "Monday"
       }
     },
@@ -263,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -285,9 +270,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -307,9 +292,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -329,9 +314,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -351,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -373,9 +358,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -395,9 +380,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -417,9 +402,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -439,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-21",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday"
       }
     },
@@ -463,7 +448,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 9,
         "periodName": "Tuesday Night"
       }
     },
@@ -483,7 +468,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -505,7 +490,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -527,7 +512,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -549,7 +534,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -571,7 +556,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -593,7 +578,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -615,7 +600,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -637,7 +622,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "precipitationChance": 16,
         "periodName": "Wednesday"
@@ -659,9 +644,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 95,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 7,
         "periodName": "Thursday"
       }
     },
@@ -681,9 +666,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 7,
         "periodName": "Thursday Night"
       }
     },
@@ -703,9 +688,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 7,
         "periodName": "Thursday Night"
       }
     },
@@ -722,7 +707,14 @@
       "address": "634 Mound State Parkway, Moundville, AL 35474",
       "description": "Join Moundville Archaeological Park on July 24 from 9:15 a.m. to 9:45 a.m. for a special indoor storytime! Moundville educators will be reading ‘The Butterfly’ from “Grayhawk’s Native American Folktales” by Grayhawk Perkins, a Native lesso...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-24",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 12,
+        "periodName": "Friday"
+      }
     },
     {
       "id": "university-of-alabama-using-technology-to-increase-student-engagement-virtual-2026-07-24",
@@ -737,7 +729,14 @@
       "address": "",
       "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-24",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 12,
+        "periodName": "Friday"
+      }
     },
     {
       "id": "visit-tuscaloosa-hot-hundred-2026-07-25",
@@ -1202,6 +1201,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Gov’t Mule | Ziggy Marley Larkin Poe DJ set by Yola Show Time: 6:00 PM Gates: 5:30 PM Get Tickets Gov’t Mule, Ziggy Marley, and Larkin Poe will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, October 9 at 6:00pm. For mor...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-adulting-webinar-2026-10-15",
+      "title": "#Adulting Webinar",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/adulting-webinar",
+      "start": "2026-10-15T12:00:00-05:00",
+      "end": "2026-10-15T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Think the Americans with Disabilities Act (ADA) only matters if you have a disability? Think again. From the ramps you walk up to the captions you scroll through, the ADA has shaped your college experience more than you might realize. Join...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
