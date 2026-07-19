@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-18T12:03:49.608Z",
+  "updatedAt": "2026-07-19T12:06:00.875Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-18T12:03:49.608Z",
+  "weatherUpdatedAt": "2026-07-19T12:06:00.875Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "visit-tuscaloosa-big-fish-2026-07-18-9500-old-greensboro-road-tuscaloosa-al-35405",
+      "id": "visit-tuscaloosa-big-fish-2026-07-19-9500-old-greensboro-road-tuscaloosa-al-35405",
       "title": "Big Fish",
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
-      "start": "2026-07-18T00:00:00-05:00",
-      "end": "2026-07-19T05:00:00-05:00",
+      "start": "2026-07-19T00:00:00-05:00",
+      "end": "2026-07-20T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
       "venue": "",
@@ -27,120 +27,10 @@
       "category": "Community",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-18",
-        "temperature": 94,
+        "forecastDate": "2026-07-19",
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-lake-nicol-paddle-fest-2026-07-18-lake-nicol",
-      "title": "Lake Nicol Paddle Fest",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/lake-nicol-paddle-fest/",
-      "start": "2026-07-18T07:30:00-05:00",
-      "end": "2026-07-18T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Lake Nicol",
-      "address": "4409 Nicol Park Rd, Tuscaloosa, AL 35406",
-      "description": "Recommended ages: Ages 15+. Celebrate National Lakes Appreciation Month on the water at the Lake Nicol Paddle Fest! Hosted by Tuscaloosa Water in partnership with Tuscaloosa Paddleboards and Mountain High Outfitters, this free community ev...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-18",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-alabama-volleyball-camp-college-prep-2-2026-07-18-foster-auditorium",
-      "title": "Alabama Volleyball Camp: College Prep 2",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/alabama-volleyball-camp-college-prep-2/",
-      "start": "2026-07-18T08:00:00-05:00",
-      "end": "2026-07-18T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "801 6th Ave, Tuscaloosa, AL 35487",
-      "description": "The University of Alabama Volleyball program is proud to announce that registration is now open for the 2026 Alabama Volleyball Summer Camps. This summer, the Crimson Tide is extending a special invitation to local players, aspiring athlet...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-18",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-18-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-18T09:00:00-05:00",
-      "end": "2026-07-18T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-18",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-18-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-18T09:00:00-05:00",
-      "end": "2026-07-18T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-18",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-casual-campus-cruise-2026-07-18-velo-city-cycles",
-      "title": "Casual Campus Cruise",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/casual-campus-cruise/",
-      "start": "2026-07-18T09:00:00-05:00",
-      "end": "2026-07-18T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Velo City Cycles",
-      "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
-      "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-18",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 51,
         "periodName": "Today"
       }
     },
@@ -162,7 +52,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 30,
         "periodName": "Monday"
       }
     },
@@ -184,7 +74,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 30,
         "periodName": "Monday"
       }
     },
@@ -206,7 +96,7 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 30,
         "periodName": "Monday"
       }
     },
@@ -228,8 +118,52 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 30,
         "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-21-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-21T09:00:00-05:00",
+      "end": "2026-07-21T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-21",
+        "temperature": 97,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-21-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-21T09:00:00-05:00",
+      "end": "2026-07-21T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-21",
+        "temperature": 97,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -250,7 +184,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -272,7 +206,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -294,7 +228,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -316,7 +250,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -338,7 +272,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -360,7 +294,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -382,7 +316,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -404,7 +338,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -426,7 +360,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -448,7 +382,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 18,
         "periodName": "Tuesday Night"
       }
     },
@@ -470,7 +404,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -492,7 +426,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -514,7 +448,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -536,7 +470,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -558,7 +492,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -580,7 +514,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -602,7 +536,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -624,7 +558,7 @@
         "forecastDate": "2026-07-22",
         "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 14,
         "periodName": "Wednesday"
       }
     },
@@ -646,7 +580,7 @@
         "forecastDate": "2026-07-23",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Thursday"
       }
     },
@@ -668,7 +602,7 @@
         "forecastDate": "2026-07-23",
         "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Thursday Night"
       }
     },
@@ -690,7 +624,7 @@
         "forecastDate": "2026-07-23",
         "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Thursday Night"
       }
     },
@@ -712,7 +646,7 @@
         "forecastDate": "2026-07-24",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 14,
         "periodName": "Friday"
       }
     },
@@ -734,7 +668,7 @@
         "forecastDate": "2026-07-24",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 14,
         "periodName": "Friday"
       }
     },
@@ -751,7 +685,14 @@
       "address": "",
       "description": "The Hot Hundred Ride is an annual cycling event hosted by the Druid City Bicycle Club (DCBC) in Tuscaloosa, Alabama. Celebrating over 24 years as “The Hottest Ride in the South,” it takes place on the last Saturday in July and has become o...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-25",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 18,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "university-of-alabama-secrets-to-self-motivation-2026-07-28-employee-resource-center",
@@ -960,6 +901,36 @@
       "venue": "Bama Theatre",
       "address": "The Historic Bama Theatre and The Dinah Washington Cultural Arts Center",
       "description": "Join us at The Dinah Washington Cultural Arts Center, and The Historic Bama Theatre on August 7th for prizes, visits from local vendors, and to hear all about our upcoming workshops & performances! This event is free and open to the public...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-casual-campus-cruise-2026-08-08-velo-city-cycles",
+      "title": "Casual Campus Cruise",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/casual-campus-cruise/",
+      "start": "2026-08-08T09:00:00-05:00",
+      "end": "2026-08-08T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Velo City Cycles",
+      "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
+      "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-a2uz-productions-presents-a-night-to-remember-2026-08-08-the-historic-bama-theatre",
+      "title": "A2uZ Productions Presents: A Night to Remember",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/a2uz-productions-presents-a-night-to-remember/",
+      "start": "2026-08-08T19:00:00-05:00",
+      "end": "2026-08-09T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Music and Comedy show #### Map ### Big Fish View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloosa Farme...",
       "category": "Community",
       "isVirtual": false
     },
