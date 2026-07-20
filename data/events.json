@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-19T12:06:00.875Z",
+  "updatedAt": "2026-07-20T13:16:31.972Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-19T12:06:00.875Z",
+  "weatherUpdatedAt": "2026-07-20T13:16:31.971Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -12,28 +12,6 @@
   ],
   "warnings": [],
   "events": [
-    {
-      "id": "visit-tuscaloosa-big-fish-2026-07-19-9500-old-greensboro-road-tuscaloosa-al-35405",
-      "title": "Big Fish",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
-      "start": "2026-07-19T00:00:00-05:00",
-      "end": "2026-07-20T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "",
-      "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
-      "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-19",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 51,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-20-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -52,8 +30,8 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -74,8 +52,8 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -96,8 +74,8 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -118,8 +96,8 @@
         "forecastDate": "2026-07-20",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
-        "periodName": "Monday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -140,7 +118,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -162,7 +140,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -184,7 +162,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -206,7 +184,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -228,7 +206,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -250,7 +228,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -272,7 +250,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -294,7 +272,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -316,7 +294,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -338,7 +316,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -360,7 +338,7 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -382,8 +360,30 @@
         "forecastDate": "2026-07-21",
         "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 14,
         "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-big-fish-2026-07-22-9500-old-greensboro-road-tuscaloosa-al-35405",
+      "title": "Big Fish",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
+      "start": "2026-07-22T00:00:00-05:00",
+      "end": "2026-07-23T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "",
+      "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
+      "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-22",
+        "temperature": 97,
+        "temperatureUnit": "F",
+        "precipitationChance": 14,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -402,7 +402,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -424,7 +424,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -446,7 +446,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -468,7 +468,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -490,7 +490,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -512,7 +512,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -534,7 +534,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -556,7 +556,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 14,
         "periodName": "Wednesday"
@@ -578,9 +578,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 27,
         "periodName": "Thursday"
       }
     },
@@ -600,9 +600,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 27,
         "periodName": "Thursday Night"
       }
     },
@@ -622,9 +622,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 27,
         "periodName": "Thursday Night"
       }
     },
@@ -646,7 +646,7 @@
         "forecastDate": "2026-07-24",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 21,
         "periodName": "Friday"
       }
     },
@@ -668,7 +668,7 @@
         "forecastDate": "2026-07-24",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 21,
         "periodName": "Friday"
       }
     },
@@ -688,9 +688,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-25",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 42,
         "periodName": "Saturday"
       }
     },
@@ -930,7 +930,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Big Fish View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloosa Farme...",
+      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ###...",
       "category": "Community",
       "isVirtual": false
     },
