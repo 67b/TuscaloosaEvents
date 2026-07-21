@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-20T13:16:31.972Z",
+  "updatedAt": "2026-07-21T12:43:06.232Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-20T13:16:31.971Z",
+  "weatherUpdatedAt": "2026-07-21T12:43:06.231Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-20-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-21-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-20T00:00:00-05:00",
-      "end": "2026-07-20T00:00:00-05:00",
+      "start": "2026-07-21T00:00:00-05:00",
+      "end": "2026-07-21T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,76 +27,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-20",
-        "temperature": 96,
+        "forecastDate": "2026-07-21",
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-k-pop-summer-dance-series-2026-07-20-the-historic-bama-theatre",
-      "title": "K-pop Summer Dance Series",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/k-pop-summer-dance-series/",
-      "start": "2026-07-20T00:00:00-05:00",
-      "end": "2026-07-21T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Come join an energetic and supportive class for all, taught by Celeste Lewis, focusing on having fun and dancing to your favorite songs with K-pop fans. This event offers two levels of difficulty, one being beginner and the other advanced....",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-20",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bhm-131-the-pipe-organ-king-of-musical-instruments-2026-07-20-riverchase-united-methodist-church",
-      "title": "BHM 131 The Pipe Organ: King of Musical Instruments",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bhm-131-the-pipe-organ-king-of-musical-instruments",
-      "start": "2026-07-20T10:30:00-05:00",
-      "end": "2026-07-20T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Riverchase United Methodist Church",
-      "address": "1953 Old Montgomery Hwy, Birmingham, AL 35244",
-      "description": "Join us online for our free public programs — and bring a friend! Walt Rogers, organist for over 30 years at Riverchase United Methodist Church, will utilize his musical skills to show why the organ is the \"king\" of instruments. BHM 131 Th...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-20",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ultra-basics-2026-07-20",
-      "title": "Ultra Basics",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ultra-basics-6250",
-      "start": "2026-07-20T13:00:00-05:00",
-      "end": "2026-07-20T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join this session to learn the basics: navigation, key features, and how to build course content from scratch and by copying other Bb courses. This session is for instructors, teaching assistants, and course designers and builders.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-20",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 8,
         "periodName": "Today"
       }
     },
@@ -118,8 +52,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -140,8 +74,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -162,8 +96,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -184,8 +118,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -206,8 +140,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -228,8 +162,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -250,8 +184,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -272,8 +206,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -294,8 +228,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -316,8 +250,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -338,8 +272,8 @@
         "forecastDate": "2026-07-21",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday"
+        "precipitationChance": 8,
+        "periodName": "Today"
       }
     },
     {
@@ -360,29 +294,29 @@
         "forecastDate": "2026-07-21",
         "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 8,
+        "periodName": "Tonight"
       }
     },
     {
-      "id": "visit-tuscaloosa-big-fish-2026-07-22-9500-old-greensboro-road-tuscaloosa-al-35405",
+      "id": "visit-tuscaloosa-big-fish-2026-07-22-theater-tuscaloosa",
       "title": "Big Fish",
       "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/big-fish/",
+      "sourceUrl": "https://visittuscaloosa.com/event/big-fish-2026/",
       "start": "2026-07-22T00:00:00-05:00",
       "end": "2026-07-23T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
-      "venue": "",
-      "address": "9500 Old Greensboro Road Tuscaloosa, AL 35405",
-      "description": "Visitor-friendly event listed by Visit Tuscaloosa.",
+      "venue": "Theater Tuscaloosa",
+      "address": "9500 Old Greensboro Road, Tuscaloosa, AL 35405",
+      "description": "### This sweeping musical untangles the mythic life of Edward Bloom through the grand, bedtime wonders he spins for his son, Will. As Edward watches his own twilight approach, Will races against the clock to sift truth from shadow, despera...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -402,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -424,9 +358,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -446,9 +380,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -468,9 +402,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -490,9 +424,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-agility-series-liberating-structures-2026-07-22-employee-resource-center",
+      "title": "Agility Series: Liberating Structures",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/agility-series-liberating-structures",
+      "start": "2026-07-22T10:30:00-05:00",
+      "end": "2026-07-22T11:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "This course introduces Liberating Structures, a collection of interaction patterns that allow you to include everyone in a group (from extroverted to introverted and from leaders to team members) to work and innovate together. In this cour...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-22",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -512,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -534,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -556,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-22",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 23,
         "periodName": "Wednesday"
       }
     },
@@ -578,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-23",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 43,
         "periodName": "Thursday"
       }
     },
@@ -602,7 +558,7 @@
         "forecastDate": "2026-07-23",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 43,
         "periodName": "Thursday Night"
       }
     },
@@ -624,7 +580,7 @@
         "forecastDate": "2026-07-23",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 43,
         "periodName": "Thursday Night"
       }
     },
@@ -644,9 +600,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-24",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 44,
         "periodName": "Friday"
       }
     },
@@ -666,14 +622,14 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-24",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 44,
         "periodName": "Friday"
       }
     },
     {
-      "id": "visit-tuscaloosa-hot-hundred-2026-07-25",
+      "id": "visit-tuscaloosa-hot-hundred-2026-07-25-parker-hauhn-park-river-district-park",
       "title": "Hot Hundred",
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/hot-hundred/",
@@ -681,17 +637,61 @@
       "end": "2026-07-26T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
-      "venue": "",
-      "address": "",
+      "venue": "Parker Hauhn Park/ River District Park",
+      "address": "180 Greensboro Ave., Tuscaloosa, AL 35401",
       "description": "The Hot Hundred Ride is an annual cycling event hosted by the Druid City Bicycle Club (DCBC) in Tuscaloosa, Alabama. Celebrating over 24 years as “The Hottest Ride in the South,” it takes place on the last Saturday in July and has become o...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-25",
-        "temperature": 94,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 55,
         "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-every-saturday-2026-07-25-tuscaloosa-river-market",
+      "title": "Tuscaloosa Farmers Market – Every Saturday",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
+      "start": "2026-07-25T07:00:00-05:00",
+      "end": "2026-07-25T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Every Saturday morning from 7:00 am until noon, join thousands of people who enjoy Tuscaloosa’s award winning Farmers Market! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-25",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 55,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-k-pop-summer-dance-series-2026-07-27-the-historic-bama-theatre",
+      "title": "K-pop Summer Dance Series",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/k-pop-summer-dance-series/",
+      "start": "2026-07-27T00:00:00-05:00",
+      "end": "2026-07-28T05:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "unknown",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Come join an energetic and supportive class for all, taught by Celeste Lewis, focusing on having fun and dancing to your favorite songs with K-pop fans. This event offers two levels of difficulty, one being beginner and the other advanced....",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-27",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Monday"
       }
     },
     {
@@ -905,6 +905,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-first-friday-2026-08-07-dinah-washington-cultural-arts-center",
+      "title": "First Friday",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/first-friday-9/",
+      "start": "2026-08-07T17:00:00-05:00",
+      "end": "2026-08-07T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Dinah Washington Cultural Arts Center",
+      "address": "620 Greensboro Ave., Tuscaloosa, AL 35401",
+      "description": "A great way to explore downtown Tuscaloosa is by visiting for the First Friday celebrations. Take advantage of great regional art, food, and drinks to begin your month! Please visit each gallery page for specific information about exhibits...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-casual-campus-cruise-2026-08-08-velo-city-cycles",
       "title": "Casual Campus Cruise",
       "source": "Visit Tuscaloosa",
@@ -916,21 +931,6 @@
       "venue": "Velo City Cycles",
       "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
       "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
-      "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "visit-tuscaloosa-a2uz-productions-presents-a-night-to-remember-2026-08-08-the-historic-bama-theatre",
-      "title": "A2uZ Productions Presents: A Night to Remember",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/a2uz-productions-presents-a-night-to-remember/",
-      "start": "2026-08-08T19:00:00-05:00",
-      "end": "2026-08-09T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ###...",
       "category": "Community",
       "isVirtual": false
     },
@@ -1201,6 +1201,21 @@
       "venue": "Mercedes-Benz Amphitheater",
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Breaking Benjamin with support from Chevelle, Starset and Kami Kehoe Show Time: 6:00 PM Gates: 5:00 PM Get Tickets Multi-platinum rock powerhouse Breaking Benjamin announced their massive 2026 North American tour with support from Chevelle...",
+      "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "mercedes-benz-amphitheater-jon-pardi-2026-10-23-mercedes-benz-amphitheater",
+      "title": "Jon Pardi",
+      "source": "Mercedes-Benz Amphitheater",
+      "sourceUrl": "https://www.mercedesbenzamphitheater.com/event/jon-pardi/",
+      "start": "2026-10-23T19:00:00-05:00",
+      "end": "2026-10-24T03:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Mercedes-Benz Amphitheater",
+      "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Jon Pardi with special guests, Alexandra Kay and Sadie Bass Show Time: 7:00 PM Gates: 5:30 PM Get Tickets Jon Pardi with special guests, Alexandra Kay and Sadie Bass will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, O...",
       "category": "Music",
       "isVirtual": false
     },
