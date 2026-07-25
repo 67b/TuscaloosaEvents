@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-24T12:44:39.436Z",
+  "updatedAt": "2026-07-25T12:09:00.253Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-24T12:44:39.436Z",
+  "weatherUpdatedAt": "2026-07-25T12:09:00.252Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,34 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-24-paul-r-jones-museum",
-      "title": "\"The Domestic Liminal\" Exhibition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-24T00:00:00-05:00",
-      "end": "2026-07-24T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-big-fish-2026-07-24-theater-tuscaloosa",
+      "id": "visit-tuscaloosa-big-fish-2026-07-25-theater-tuscaloosa",
       "title": "Big Fish",
       "source": "Visit Tuscaloosa",
       "sourceUrl": "https://visittuscaloosa.com/event/big-fish-2026/",
-      "start": "2026-07-24T00:00:00-05:00",
-      "end": "2026-07-25T05:00:00-05:00",
+      "start": "2026-07-25T00:00:00-05:00",
+      "end": "2026-07-26T05:00:00-05:00",
       "allDay": true,
       "timeStatus": "unknown",
       "venue": "Theater Tuscaloosa",
@@ -49,142 +27,10 @@
       "category": "Community",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
+        "forecastDate": "2026-07-25",
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-24-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-24T09:00:00-05:00",
-      "end": "2026-07-24T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-24-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-24T09:00:00-05:00",
-      "end": "2026-07-24T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-moundville-for-minis-the-butterfly-2026-07-24-moundville-archaeological-park",
-      "title": "Moundville for Minis: The Butterfly",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/moundville-for-minis-the-butterfly",
-      "start": "2026-07-24T09:15:00-05:00",
-      "end": "2026-07-24T09:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Join Moundville Archaeological Park on July 24 from 9:15 a.m. to 9:45 a.m. for a special indoor storytime! Moundville educators will be reading 'The Butterfly' from \"Grayhawk's Native American Folktales\" by Grayhawk Perkins, a Native lesso...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-moundville-for-minis-the-butterfly-2026-07-24-moundville-archaeological-park",
-      "title": "Moundville for Minis: The Butterfly",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/moundville-for-minis-the-butterfly/",
-      "start": "2026-07-24T09:15:00-05:00",
-      "end": "2026-07-24T09:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474",
-      "description": "Join Moundville Archaeological Park on July 24 from 9:15 a.m. to 9:45 a.m. for a special indoor storytime! Moundville educators will be reading ‘The Butterfly’ from “Grayhawk’s Native American Folktales” by Grayhawk Perkins, a Native lesso...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-4th-annual-sgpi-summer-bridge-reu-poster-competition-2026-07-24-bryant-conference-center",
-      "title": "4th Annual SGPI Summer Bridge-REU Poster Competition",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/4th-annual-sgpi-summer-bridge-reu-poster-competition",
-      "start": "2026-07-24T10:00:00-05:00",
-      "end": "2026-07-24T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "The SGPI Summer Bridge-REU Poster Competition is a showcase of student research, innovation, and academic excellence across multiple academic disciplines. Hosted by The University of Alabama Graduate School as part of the Strategic Graduat...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-using-technology-to-increase-student-engagement-virtual-2026-07-24",
-      "title": "Using Technology to Increase Student Engagement (virtual)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/using-technology-to-increase-student-engagement-virtual",
-      "start": "2026-07-24T10:00:00-05:00",
-      "end": "2026-07-24T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-24",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 39,
         "periodName": "Today"
       }
     },
@@ -206,8 +52,8 @@
         "forecastDate": "2026-07-25",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Saturday"
+        "precipitationChance": 39,
+        "periodName": "Today"
       }
     },
     {
@@ -228,8 +74,52 @@
         "forecastDate": "2026-07-25",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Saturday"
+        "precipitationChance": 39,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-25-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-25T09:00:00-05:00",
+      "end": "2026-07-25T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-25",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 39,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-25-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-25T09:00:00-05:00",
+      "end": "2026-07-25T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-25",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 39,
+        "periodName": "Today"
       }
     },
     {
@@ -250,8 +140,8 @@
         "forecastDate": "2026-07-25",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Saturday"
+        "precipitationChance": 39,
+        "periodName": "Today"
       }
     },
     {
@@ -272,8 +162,8 @@
         "forecastDate": "2026-07-25",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Saturday"
+        "precipitationChance": 39,
+        "periodName": "Today"
       }
     },
     {
@@ -294,8 +184,30 @@
         "forecastDate": "2026-07-25",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Saturday"
+        "precipitationChance": 39,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-27-paul-r-jones-museum",
+      "title": "\"The Domestic Liminal\" Exhibition",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
+      "start": "2026-07-27T00:00:00-05:00",
+      "end": "2026-07-27T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum is pleased to present The Domestic Liminal: The In-Betweenness of the Home from May 1st to August 21st. The public is invited to a reception on Friday, May 1st, from 5:00 p.m. to 8:00 p.m. during the First Friday A...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-27",
+        "temperature": 97,
+        "temperatureUnit": "F",
+        "precipitationChance": 2,
+        "periodName": "Monday"
       }
     },
     {
@@ -314,7 +226,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Monday"
@@ -336,7 +248,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Monday"
@@ -358,7 +270,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 2,
         "periodName": "Monday"
@@ -380,9 +292,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -402,9 +314,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -424,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -446,9 +358,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-07-28",
+      "title": "Make Your Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-7563",
+      "start": "2026-07-28T10:00:00-05:00",
+      "end": "2026-07-28T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-28",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -468,9 +402,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tableau-dashboards-2026-07-28-bruno-business-library",
+      "title": "Tableau Dashboards",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tableau-dashboards-1601",
+      "start": "2026-07-28T11:00:00-05:00",
+      "end": "2026-07-28T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bruno Business Library",
+      "address": "425 STADIUM DRIVE , TUSCALOOSA, AL 35401",
+      "description": "After you create your individual visualizations (sheets), you’ll need to create a space that brings all those items together. Dashboards are what you audience will see when you make your presentation, or upload it to an app. We will cover...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-28",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 2,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-160-songs-of-americana-the-soundtrack-of-america-at-250-2026-07-28-bryant-conference-center",
+      "title": "TUS 160 Songs of Americana: The Soundtrack of America at 250",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-160-songs-of-americana-the-soundtrack-of-america-at-250",
+      "start": "2026-07-28T12:00:00-05:00",
+      "end": "2026-07-28T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! As we honor America250, this course explores the music that tells America’s story. From folk ballads and spirituals to blues, country and modern-day America, we will listen closely to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-28",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -490,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -512,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -536,7 +514,7 @@
         "forecastDate": "2026-07-28",
         "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 4,
         "periodName": "Tuesday Night"
       }
     },
@@ -556,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -578,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -600,9 +578,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -622,9 +600,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -644,9 +622,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 99,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -666,9 +644,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 98,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 11,
         "periodName": "Thursday"
       }
     },
@@ -688,9 +666,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 98,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 11,
         "periodName": "Thursday"
       }
     },
@@ -707,6 +685,21 @@
       "address": "1201 COLISEUM DRIVE , TUSCALOOSA , AL 35401",
       "description": "Please visit the Commencement website for more information.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-fight-night-2-2026-08-01-tuscaloosa-river-market",
+      "title": "Fight Night 2",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/fight-night-2/",
+      "start": "2026-08-01T18:00:00-05:00",
+      "end": "2026-08-01T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Join Black Warrior Promotions for Fight Night 2 — a night of exciting mixed martial arts action at the Tuscaloosa River Market. Mark your calendar for Saturday, August 1, 2026. Doors open at 5:00 PM and the fights get underway at 6:00 PM....",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -840,7 +833,7 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Big Fish View Bookmarks ### “Made in America” Ex...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Take the Mic: A Celebration of Voices in the Hea...",
       "category": "Community",
       "isVirtual": false
     },
@@ -871,6 +864,21 @@
       "venue": "Weaver Bolden Branch",
       "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
       "description": "&lt;p&gt;Explore great reads, share insights, and enjoy thoughtful discussion in a welcoming atmosphere. Books provided.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-11-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-11/",
+      "start": "2026-08-11T11:00:00-05:00",
+      "end": "2026-08-11T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
       "isVirtual": false
     },
