@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-26T12:16:20.134Z",
+  "updatedAt": "2026-07-27T13:44:11.855Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-26T12:16:20.134Z",
+  "weatherUpdatedAt": "2026-07-27T13:44:11.855Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -12,28 +12,6 @@
   ],
   "warnings": [],
   "events": [
-    {
-      "id": "visit-tuscaloosa-big-fish-2026-07-26-theater-tuscaloosa",
-      "title": "Big Fish",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/big-fish-2026/",
-      "start": "2026-07-26T00:00:00-05:00",
-      "end": "2026-07-27T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "Theater Tuscaloosa",
-      "address": "9500 Old Greensboro Road, Tuscaloosa, AL 35405",
-      "description": "### This sweeping musical untangles the mythic life of Edward Bloom through the grand, bedtime wonders he spins for his son, Will. As Edward watches his own twilight approach, Will races against the clock to sift truth from shadow, despera...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-26",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 25,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-27-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -50,10 +28,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Monday"
+        "precipitationChance": 41,
+        "periodName": "Today"
       }
     },
     {
@@ -72,10 +50,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Monday"
+        "precipitationChance": 41,
+        "periodName": "Today"
       }
     },
     {
@@ -94,10 +72,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Monday"
+        "precipitationChance": 41,
+        "periodName": "Today"
       }
     },
     {
@@ -116,10 +94,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-27",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Monday"
+        "precipitationChance": 41,
+        "periodName": "Today"
       }
     },
     {
@@ -138,9 +116,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -160,9 +138,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -182,9 +160,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -204,9 +182,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -226,9 +204,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -248,9 +226,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -270,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -292,9 +270,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -314,9 +292,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -336,9 +314,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -358,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -380,9 +358,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -402,9 +380,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -426,7 +404,7 @@
         "forecastDate": "2026-07-28",
         "temperature": 78,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 8,
         "periodName": "Tuesday Night"
       }
     },
@@ -446,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 28,
         "periodName": "Wednesday"
       }
     },
@@ -468,9 +446,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 28,
         "periodName": "Wednesday"
       }
     },
@@ -490,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 28,
         "periodName": "Wednesday"
       }
     },
@@ -512,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 28,
         "periodName": "Wednesday"
       }
     },
@@ -534,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 28,
         "periodName": "Wednesday"
       }
     },
@@ -556,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 8,
         "periodName": "Thursday"
       }
     },
@@ -578,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 8,
         "periodName": "Thursday"
       }
     },
@@ -600,9 +578,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 8,
         "periodName": "Thursday"
       }
     },
@@ -622,9 +600,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-01",
-        "temperature": 91,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 59,
         "periodName": "Saturday"
       }
     },
@@ -644,9 +622,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-01",
-        "temperature": 91,
+        "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 37,
+        "precipitationChance": 59,
         "periodName": "Saturday"
       }
     },
@@ -668,7 +646,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 59,
         "periodName": "Saturday Night"
       }
     },
@@ -690,7 +668,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 42,
+        "precipitationChance": 59,
         "periodName": "Saturday Night"
       }
     },
@@ -810,7 +788,7 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Big Fish View Bookmarks ### “Made in America” Ex...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### K-p...",
       "category": "Community",
       "isVirtual": false
     },
@@ -855,7 +833,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Big Fish View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### Tuesday’s Tuscaloosa Farme...",
+      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ###...",
       "category": "Community",
       "isVirtual": false
     },
@@ -902,6 +880,21 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-moms-and-mimosas-2026-08-14-2111-14th-st-tuscaloosa-al-35401",
+      "title": "Moms & Mimosas",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/moms-mimosas/",
+      "start": "2026-08-14T16:00:00-05:00",
+      "end": "2026-08-14T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "2111 14th St, Tuscaloosa, AL 35401",
+      "address": "2111 14th St Tuscaloosa, AL 35401",
+      "description": "Southern Roots. Lasting Connections. An afternoon for moms (Dads can come too!) of incoming University of Alabama freshmen to meet, mingle, and get the inside scoop on life in Tuscaloosa. Think of it as a welcome-to-Tuscaloosa porch party...",
+      "category": "Community",
       "isVirtual": false
     },
     {
