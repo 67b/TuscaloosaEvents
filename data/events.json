@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-27T13:44:11.855Z",
+  "updatedAt": "2026-07-28T13:01:28.527Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-27T13:44:11.855Z",
+  "weatherUpdatedAt": "2026-07-28T13:01:28.527Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-27-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-28-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-27T00:00:00-05:00",
-      "end": "2026-07-27T00:00:00-05:00",
+      "start": "2026-07-28T00:00:00-05:00",
+      "end": "2026-07-28T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,76 +27,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-27",
-        "temperature": 97,
+        "forecastDate": "2026-07-28",
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-k-pop-summer-dance-series-2026-07-27-the-historic-bama-theatre",
-      "title": "K-pop Summer Dance Series",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/k-pop-summer-dance-series/",
-      "start": "2026-07-27T00:00:00-05:00",
-      "end": "2026-07-28T05:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Come join an energetic and supportive class for all, taught by Celeste Lewis, focusing on having fun and dancing to your favorite songs with K-pop fans. This event offers two levels of difficulty, one being beginner and the other advanced....",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-27",
-        "temperature": 97,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-child-health-and-welfare-summit-2026-07-27-bryant-conference-center",
-      "title": "Child Health and Welfare Summit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/child-health-and-welfare-summit-1005",
-      "start": "2026-07-27T08:30:00-05:00",
-      "end": "2026-07-27T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "In today’s rapidly evolving landscape, the health and well-being of children and families face complex challenges that demand urgent attention and collaborative solutions. Social workers are uniquely positioned at the intersection of polic...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-27",
-        "temperature": 97,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-10-things-you-didn-t-know-you-could-do-in-ultra-2026-07-27",
-      "title": "10 Things You Didn’t Know You Could Do in Ultra",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/10-things-you-didnt-know-you-could-do-in-ultra-2844",
-      "start": "2026-07-27T10:00:00-05:00",
-      "end": "2026-07-27T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard Ultra has an impressive list of features. It’s built for mobile, it’s more inclusive, and it provides services we need from a learning management system. But here’s the thing: it also does some cool things you may not know about...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-27",
-        "temperature": 97,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 1,
         "periodName": "Today"
       }
     },
@@ -116,10 +50,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -138,10 +72,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -160,10 +94,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -182,10 +116,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -204,10 +138,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -226,10 +160,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -248,10 +182,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -270,10 +204,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -292,10 +226,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -314,10 +248,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -336,10 +270,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -358,10 +292,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-data-governance-a-winning-strategy-for-better-data-2026-07-28-employee-resource-center",
+      "title": "Data Governance: A Winning Strategy for Better Data",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/data-governance-a-winning-strategy-for-better-data",
+      "start": "2026-07-28T15:30:00-05:00",
+      "end": "2026-07-28T16:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "The goal of this course is to explain how to manage and protect data effectively. You will learn to fix data quality issues, set data standards and policies, and ensure data security. The course will cover data ownership and the roles of t...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-28",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-designing-exemplary-blackboard-courses-virtual-2026-07-28",
+      "title": "Designing Exemplary Blackboard Courses (virtual)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/designing-exemplary-blackboard-courses-virtual",
+      "start": "2026-07-28T16:00:00-05:00",
+      "end": "2026-07-28T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join us to learn how to build a Blackboard course that is clear, organized, and designed for student success. This workshop focuses on course structure and content organization aligned with exemplary course design standards. Participants w...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-28",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "Today"
       }
     },
     {
@@ -380,10 +358,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
         "precipitationChance": 1,
-        "periodName": "Tuesday"
+        "periodName": "Today"
       }
     },
     {
@@ -402,10 +380,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-28",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 3,
+        "periodName": "Tonight"
       }
     },
     {
@@ -424,9 +402,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 34,
         "periodName": "Wednesday"
       }
     },
@@ -446,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 34,
         "periodName": "Wednesday"
       }
     },
@@ -468,9 +446,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 34,
         "periodName": "Wednesday"
       }
     },
@@ -490,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 34,
         "periodName": "Wednesday"
       }
     },
@@ -512,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-29",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 34,
         "periodName": "Wednesday"
       }
     },
@@ -534,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 6,
         "periodName": "Thursday"
       }
     },
@@ -556,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 6,
         "periodName": "Thursday"
       }
     },
@@ -578,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 6,
         "periodName": "Thursday"
       }
     },
@@ -602,7 +580,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
+        "precipitationChance": 68,
         "periodName": "Saturday"
       }
     },
@@ -624,7 +602,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
+        "precipitationChance": 68,
         "periodName": "Saturday"
       }
     },
@@ -646,7 +624,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
+        "precipitationChance": 68,
         "periodName": "Saturday Night"
       }
     },
@@ -668,7 +646,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 59,
+        "precipitationChance": 68,
         "periodName": "Saturday Night"
       }
     },
@@ -788,7 +766,7 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### K-p...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmar...",
       "category": "Community",
       "isVirtual": false
     },
@@ -833,7 +811,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### K-pop Summer Dance Series View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ###...",
+      "description": "Music and Comedy show #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### The Outsiders (1983) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Practical Democracy” Civic Education Series Led by UA Law Profe...",
       "category": "Community",
       "isVirtual": false
     },
@@ -894,6 +872,21 @@
       "venue": "2111 14th St, Tuscaloosa, AL 35401",
       "address": "2111 14th St Tuscaloosa, AL 35401",
       "description": "Southern Roots. Lasting Connections. An afternoon for moms (Dads can come too!) of incoming University of Alabama freshmen to meet, mingle, and get the inside scoop on life in Tuscaloosa. Think of it as a welcome-to-Tuscaloosa porch party...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-portal-to-hell-2026-08-18-the-historic-bama-theatre",
+      "title": "Portal to Hell",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/portal-to-hell/",
+      "start": "2026-08-18T19:00:00-05:00",
+      "end": "2026-08-19T01:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### The Outsiders (1983) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Practical Democracy” Civic...",
       "category": "Community",
       "isVirtual": false
     },
