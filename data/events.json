@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-28T13:01:28.527Z",
+  "updatedAt": "2026-07-29T13:06:38.118Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-28T13:01:28.527Z",
+  "weatherUpdatedAt": "2026-07-29T13:06:38.118Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-28-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-29-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-28T00:00:00-05:00",
-      "end": "2026-07-28T00:00:00-05:00",
+      "start": "2026-07-29T00:00:00-05:00",
+      "end": "2026-07-29T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,363 +27,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
+        "forecastDate": "2026-07-29",
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 24,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-essentials-for-management-part-3-communication-essentials-2026-07-28-employee-resource-center",
-      "title": "UA Essentials for Management Part 3: Communication Essentials",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-essentials-for-management-part-3-communication-essentials-9997",
-      "start": "2026-07-28T08:15:00-05:00",
-      "end": "2026-07-28T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "UA Essentials for Management Part 3: Communication Essentials This newly revised four-part series, intended for all employees with supervisory responsibilities, builds on the original UA Essentials for Management content and includes the a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-not-another-puff-youth-tobacco-vaping-and-treatment-summit-2026-07-28-wynfrey-hotel",
-      "title": "Not Another Puff: Youth Tobacco, Vaping and Treatment Summit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/not-another-puff-youth-tobacco-vaping-and-treatment-summit",
-      "start": "2026-07-28T08:30:00-05:00",
-      "end": "2026-07-28T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Wynfrey Hotel",
-      "address": "1000 Galleria Cir, Birmingham, AL 35244",
-      "description": "Nicotine use and dependence among young people are rising quickly due to vaping. This has become a serious public health issue that warrants urgent attention. The lack of programs designed specifically for youth who vape nicotine, tobacco...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-secrets-to-self-motivation-2026-07-28-employee-resource-center",
-      "title": "Secrets to Self-Motivation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/secrets-to-self-motivation",
-      "start": "2026-07-28T08:30:00-05:00",
-      "end": "2026-07-28T09:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "We can do anything we set our minds to. But sometimes it can feel like our brains are working against us when it comes to achieving our goals. Plans to learn a new skill, to get in shape or to save money keep getting pushed back in the hop...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-28-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-28T09:00:00-05:00",
-      "end": "2026-07-28T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-28-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-28T09:00:00-05:00",
-      "end": "2026-07-28T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-main-library-book-club-2026-07-28-main-library",
-      "title": "Main Library Book Club",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/book-discussion-9/2026-07-28/",
-      "start": "2026-07-28T10:00:00-05:00",
-      "end": "2026-07-28T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library",
-      "address": "1801 Jack Warner Pkwy, Tuscaloosa, AL, 35401",
-      "description": "&lt;p&gt;Engage in intellectual conversation with other bibliophiles. Books provided. Registration required. Call the reference desk to sign up.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-07-28",
-      "title": "Make Your Course Accessible with Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-7563",
-      "start": "2026-07-28T10:00:00-05:00",
-      "end": "2026-07-28T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-07-28-main-library-first-floor",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-07-28/",
-      "start": "2026-07-28T11:00:00-05:00",
-      "end": "2026-07-28T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-tableau-dashboards-2026-07-28-bruno-business-library",
-      "title": "Tableau Dashboards",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/tableau-dashboards-1601",
-      "start": "2026-07-28T11:00:00-05:00",
-      "end": "2026-07-28T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bruno Business Library",
-      "address": "425 STADIUM DRIVE , TUSCALOOSA, AL 35401",
-      "description": "After you create your individual visualizations (sheets), you’ll need to create a space that brings all those items together. Dashboards are what you audience will see when you make your presentation, or upload it to an app. We will cover...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-tus-160-songs-of-americana-the-soundtrack-of-america-at-250-2026-07-28-bryant-conference-center",
-      "title": "TUS 160 Songs of Americana: The Soundtrack of America at 250",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/tus-160-songs-of-americana-the-soundtrack-of-america-at-250",
-      "start": "2026-07-28T12:00:00-05:00",
-      "end": "2026-07-28T13:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Join us for a free public program — and bring a friend! As we honor America250, this course explores the music that tells America’s story. From folk ballads and spirituals to blues, country and modern-day America, we will listen closely to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-professional-identity-how-we-show-up-at-work-2026-07-28-employee-resource-center",
-      "title": "Professional Identity: How We Show Up at Work",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/professional-identity-how-we-show-up-at-work-4319",
-      "start": "2026-07-28T15:00:00-05:00",
-      "end": "2026-07-28T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "This interactive professional development session explores how professional identity is shaped by appearance, communication, and everyday workplace behaviors. Participants will gain clarity around workplace expectations, learn how to take...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-tuesday-s-tuscaloosa-farmers-market-2026-07-28-tuscaloosa-river-market",
-      "title": "Tuesday’s Tuscaloosa Farmers Market",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuesdays-tuscaloosa-farmers-market/",
-      "start": "2026-07-28T15:00:00-05:00",
-      "end": "2026-07-28T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Enjoy Tuscaloosa’s Tuesday Farmers Markets at the River Market every June and July from 3 to 7 p.m., featuring fresh local produce, baked goods, artisan crafts, and food trucks. It’s the perfect midweek outing, especially with a scenic str...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-data-governance-a-winning-strategy-for-better-data-2026-07-28-employee-resource-center",
-      "title": "Data Governance: A Winning Strategy for Better Data",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/data-governance-a-winning-strategy-for-better-data",
-      "start": "2026-07-28T15:30:00-05:00",
-      "end": "2026-07-28T16:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "The goal of this course is to explain how to manage and protect data effectively. You will learn to fix data quality issues, set data standards and policies, and ensure data security. The course will cover data ownership and the roles of t...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-designing-exemplary-blackboard-courses-virtual-2026-07-28",
-      "title": "Designing Exemplary Blackboard Courses (virtual)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/designing-exemplary-blackboard-courses-virtual",
-      "start": "2026-07-28T16:00:00-05:00",
-      "end": "2026-07-28T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Join us to learn how to build a Blackboard course that is clear, organized, and designed for student success. This workshop focuses on course structure and content organization aligned with exemplary course design standards. Participants w...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-practical-democracy-civic-education-series-led-by-ua-law-professor-jeff-baker-hosted-by-ernest-and-hadl",
-      "title": "“Practical Democracy” Civic Education Series Led by UA Law Professor Jeff Baker Hosted by Ernest & Hadley Booksellers",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/practical-democracy-civic-education-series-led-by-ua-law-professor-jeff-baker-hosted-by-ernest-hadley-booksellers/",
-      "start": "2026-07-28T17:30:00-05:00",
-      "end": "2026-07-28T23:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "",
-      "address": "",
-      "description": "Ernest & Hadley Booksellers is proud to welcome civic-minded community members to a new education series, Practical Democracy: The Constitution, Civil Rights, Justice & Community. Led by local legal expert Jeff Baker, this weekly series is...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 100,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-the-outsiders-1983-2026-07-28-the-historic-bama-theatre",
-      "title": "The Outsiders (1983)",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/the-outsiders-1983/",
-      "start": "2026-07-28T19:00:00-05:00",
-      "end": "2026-07-29T01:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Historic Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "In Tulsa, Oklahoma in 1964, the rivalry between two gangs, the poor Greasers and the rich Socs, heats up when one gang member accidently kills a members of the other. Rated PG-13 | 1h 31m | Coming-of-Age/Drama Written by: Kathleen Rowell,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-28",
-        "temperature": 79,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Tonight"
       }
     },
     {
@@ -404,8 +52,52 @@
         "forecastDate": "2026-07-29",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
-        "periodName": "Wednesday"
+        "precipitationChance": 24,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-29-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-29T09:00:00-05:00",
+      "end": "2026-07-29T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-29",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-29-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-29T09:00:00-05:00",
+      "end": "2026-07-29T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-29",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Today"
       }
     },
     {
@@ -426,8 +118,8 @@
         "forecastDate": "2026-07-29",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
-        "periodName": "Wednesday"
+        "precipitationChance": 24,
+        "periodName": "Today"
       }
     },
     {
@@ -448,8 +140,8 @@
         "forecastDate": "2026-07-29",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
-        "periodName": "Wednesday"
+        "precipitationChance": 24,
+        "periodName": "Today"
       }
     },
     {
@@ -470,8 +162,52 @@
         "forecastDate": "2026-07-29",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
-        "periodName": "Wednesday"
+        "precipitationChance": 24,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-07-29-bryant-conference-center",
+      "title": "TUS 161 Lagniappe – Various Topics",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
+      "start": "2026-07-29T12:00:00-05:00",
+      "end": "2026-07-29T13:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant Conference Center",
+      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-29",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-ally-for-students-2026-07-29",
+      "title": "Ally for Students",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ally-for-students-2264",
+      "start": "2026-07-29T14:00:00-05:00",
+      "end": "2026-07-29T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Blackboard’s Ally tool gives students multiple ways to engage with their class content. This session take a hands-on look at the formats generated by Ally.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-29",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Today"
       }
     },
     {
@@ -492,8 +228,8 @@
         "forecastDate": "2026-07-29",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
-        "periodName": "Wednesday"
+        "precipitationChance": 24,
+        "periodName": "Today"
       }
     },
     {
@@ -512,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 93,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -534,9 +270,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 93,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 5,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-using-technology-to-increase-student-engagement-virtual-2026-07-30",
+      "title": "Using Technology to Increase Student Engagement (virtual)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/using-technology-to-increase-student-engagement-virtual",
+      "start": "2026-07-30T14:00:00-05:00",
+      "end": "2026-07-30T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-30",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-how-to-work-with-complicated-people-practical-strategies-for-collaboration-2026-07-30-employee-res",
+      "title": "How to Work with Complicated People: Practical Strategies for Collaboration",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/how-to-work-with-complicated-people-practical-strategies-for-collaboration",
+      "start": "2026-07-30T15:00:00-05:00",
+      "end": "2026-07-30T16:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Based on Ryan Leak’s 2025 best-seller How to Work with Complicated People: Strategies for Effective Collaboration with Nearly Anyone, this interactive workshop equips employees of all levels with practical strategies for navigating challen...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-30",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -556,10 +336,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-30",
-        "temperature": 93,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 5,
         "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-tools-ua-faculty-should-know-2026-07-31",
+      "title": "Tools UA Faculty Should Know",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tools-ua-faculty-should-know-5642",
+      "start": "2026-07-31T10:00:00-05:00",
+      "end": "2026-07-31T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Empower your teaching with the essential instructional technologies supported at UA! This session introduces faculty to the most impactful tools for course design, delivery, and student engagement. Whether you’re new to UA or looking to re...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-31",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "Friday"
       }
     },
     {
@@ -580,7 +382,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 74,
         "periodName": "Saturday"
       }
     },
@@ -602,7 +404,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 74,
         "periodName": "Saturday"
       }
     },
@@ -624,7 +426,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 66,
         "periodName": "Saturday Night"
       }
     },
@@ -646,7 +448,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 68,
+        "precipitationChance": 66,
         "periodName": "Saturday Night"
       }
     },
@@ -663,7 +465,36 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-04",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 45,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-county-ua-alumni-fall-kickoff-2026-08-04-tuscaloosa-river-market",
+      "title": "Tuscaloosa County UA Alumni Fall Kickoff",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-county-ua-alumni-fall-kickoff/",
+      "start": "2026-08-04T17:30:00-05:00",
+      "end": "2026-08-04T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL 35401",
+      "description": "Recommended ages: Ages 8–12. Join the Tuscaloosa County Chapter of The University of Alabama National Alumni Association for our annual Kickoff Event on Tuesday, August 4, at 5:30 p.m. at the Tuscaloosa River Market. We’re excited to welco...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-04",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 45,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-quilting-group-2026-08-05-main-library-first-floor",
@@ -726,6 +557,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-wellbama-t-shirt-day-2026-08-07",
+      "title": "WellBAMA T-Shirt Day",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/wellbama-t-shirt-day-6368",
+      "start": "2026-08-07T00:00:00-05:00",
+      "end": "2026-08-07T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Lay out your WellBAMA t-shirt for the 3rd annual WellBAMA T-Shirt Day August 7th! Encourage your colleagues to wear their t-shirts all day to rep wellbeing at work, then share a picture with us (wellness@ua.edu) and we’ll send you a prize.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-back-to-school-bash-tuscarts-onstage-season-reveal-2026-08-07-bama-theatre",
       "title": "Back to School Bash/TuscArts Onstage Season Reveal",
       "source": "Visit Tuscaloosa",
@@ -766,7 +612,22 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmar...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### “Cl...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-signing-and-reading-andrew-farkas-feat-michael-martone-at-ernest-and-hadley-booksellers-2026-08-07-erne",
+      "title": "Signing & Reading, Andrew Farkas feat. Michael Martone at Ernest & Hadley Booksellers!",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/signing-reading-andrew-farkas-feat-michael-martone-at-ernest-hadley-booksellers/",
+      "start": "2026-08-07T17:30:00-05:00",
+      "end": "2026-08-07T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Ernest & Hadley Booksellers",
+      "address": "651 20th Ave, Tuscaloosa, AL 35401",
+      "description": "To open our fall author series, join us for a cinematic journey with Andrew Farkas and his latest novel, Movies Are Fine for a Bright Boy Like You. Farkas will be taking the stage on August 7 at 5:30pm in the Brick House and accompanied by...",
       "category": "Community",
       "isVirtual": false
     },
@@ -786,6 +647,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-saturday-in-the-park-hoop-dancing-with-lyndon-alec-2026-08-08-moundville-archaeological-park",
+      "title": "Saturday in the Park: Hoop Dancing with Lyndon Alec",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/saturday-in-the-park-hoop-dancing-with-lyndon-alec/",
+      "start": "2026-08-08T10:00:00-05:00",
+      "end": "2026-08-08T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474",
+      "description": "Join us at the Jones Museum on August 8, 2026 for a hoop dancing program with Lyndon Alec of the Alabama-Coushatta Tribe. From 10:00 a.m. until Noon, Lyndon will perform and demonstrate hoop dancing and share more about his tribe’s history...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-the-tuscaloosa-margarita-festival-2026-08-08-the-venue-tuscaloosa",
       "title": "The Tuscaloosa Margarita Festival",
       "source": "Visit Tuscaloosa",
@@ -801,6 +677,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-tied-with-the-tide-kick-off-2026-08-08-the-university-of-alabama-quad",
+      "title": "Tied with the Tide Kick Off",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tied-with-the-tide-kick-off",
+      "start": "2026-08-08T17:00:00-05:00",
+      "end": "2026-08-08T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Quad",
+      "address": "",
+      "description": "Start your semester off right at the University Programs Tied with the Tide Kick Off! Grab your friends and join us for a night filled with music, games, flowers, food, and nonstop fun as we celebrate the start of a new year together. Come...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-a2uz-productions-presents-a-night-to-remember-2026-08-08-the-historic-bama-theatre",
       "title": "A2uZ Productions Presents: A Night to Remember",
       "source": "Visit Tuscaloosa",
@@ -811,7 +702,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### The Outsiders (1983) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Practical Democracy” Civic Education Series Led by UA Law Profe...",
+      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### Sean of the South: LIVE! View Bookmarks ### Fight Nigh...",
       "category": "Community",
       "isVirtual": false
     },
@@ -861,6 +752,96 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-trivia-night-2026-08-11-egan-s-irish-pub",
+      "title": "Trivia Night",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/trivia-night-3/2026-08-11/",
+      "start": "2026-08-11T18:00:00-05:00",
+      "end": "2026-08-11T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Egan’s Irish Pub",
+      "address": "1229 University Blvd, Tuscaloosa, AL, 35401",
+      "description": "&lt;p&gt;Join us for Trivia Night at Egans Ages 21+&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-quilting-group-2026-08-12-main-library-first-floor",
+      "title": "Community Quilting Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-quilting-group-quilting-buds/2026-08-12/",
+      "start": "2026-08-12T11:30:00-05:00",
+      "end": "2026-08-12T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Beginners and seasoned quilters are welcome every Wednesday from 11:30 am to 2:00 pm. Come help us create for the community.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-14-inside-student-center-near-elephant",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-992",
+      "start": "2026-08-14T14:00:00-05:00",
+      "end": "2026-08-14T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Inside Student Center Near Elephant",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-14-southeast-corner-of-bryant-and-10th-avenue-near-tutwiler",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-6283",
+      "start": "2026-08-14T14:00:00-05:00",
+      "end": "2026-08-14T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Southeast corner of Bryant and 10th Avenue (Near Tutwiler)",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-14-southwest-corner-of-mccorvey-and-hackberry-near-lakeside",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-7748",
+      "start": "2026-08-14T14:00:00-05:00",
+      "end": "2026-08-14T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Southwest Corner of McCorvey and Hackberry (Near Lakeside)",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-14-southwest-corner-of-mccorvey-and-2nd-street-near-paty",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables",
+      "start": "2026-08-14T14:00:00-05:00",
+      "end": "2026-08-14T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Southwest Corner of McCorvey and 2nd Street (Near Paty)",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-moms-and-mimosas-2026-08-14-2111-14th-st-tuscaloosa-al-35401",
       "title": "Moms & Mimosas",
       "source": "Visit Tuscaloosa",
@@ -876,6 +857,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-15-quad-near-gorgas",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-9296",
+      "start": "2026-08-15T19:00:00-05:00",
+      "end": "2026-08-15T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Quad near Gorgas",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-portal-to-hell-2026-08-18-the-historic-bama-theatre",
       "title": "Portal to Hell",
       "source": "Visit Tuscaloosa",
@@ -886,7 +882,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Tuesday’s Tuscaloosa Farmers Market View Bookmarks ### The Outsiders (1983) View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Practical Democracy” Civic...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### Sean of the South:...",
       "category": "Community",
       "isVirtual": false
     },
@@ -902,6 +898,21 @@
       "venue": "",
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-08-25-uasc-3108",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
+      "start": "2026-08-25T18:00:00-05:00",
+      "end": "2026-08-25T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3108",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
       "category": "Campus",
       "isVirtual": false
     },
@@ -951,6 +962,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-01-uasc-3111",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-1661",
+      "start": "2026-09-01T18:00:00-05:00",
+      "end": "2026-09-01T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3111",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-labor-day-ua-closed-2026-09-07",
       "title": "Labor Day (UA closed)",
       "source": "University of Alabama",
@@ -962,6 +988,21 @@
       "venue": "",
       "address": "",
       "description": "Labor Day (UA closed)",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-08-uasc-2408",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-6226",
+      "start": "2026-09-08T18:00:00-05:00",
+      "end": "2026-09-08T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 2408",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1158,6 +1199,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Jon Pardi with special guests, Alexandra Kay and Sadie Bass Show Time: 7:00 PM Gates: 5:30 PM Get Tickets Jon Pardi with special guests, Alexandra Kay and Sadie Bass will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, O...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-registration-for-spring-2027-begins-2026-10-26",
+      "title": "Registration for Spring 2027 Begins",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/registration-for-spring-2027-begins",
+      "start": "2026-10-26T00:00:00-05:00",
+      "end": "2026-10-26T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Spring 2027 registration time assignments will be available by October 1, 2026.",
+      "category": "Campus",
       "isVirtual": false
     },
     {
