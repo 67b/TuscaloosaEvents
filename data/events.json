@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-29T13:06:38.118Z",
+  "updatedAt": "2026-07-30T12:54:37.974Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-29T13:06:38.118Z",
+  "weatherUpdatedAt": "2026-07-30T12:54:37.974Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-29-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-30-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-29T00:00:00-05:00",
-      "end": "2026-07-29T00:00:00-05:00",
+      "start": "2026-07-30T00:00:00-05:00",
+      "end": "2026-07-30T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,208 +27,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-29",
+        "forecastDate": "2026-07-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-last-day-to-withdraw-from-the-summer-full-summer-2-and-all-summer-terms-2026-07-29",
-      "title": "Last Day to Withdraw from the Summer Full, Summer 2, and All Summer Terms",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/last_day_to_withdraw_from_the_summer_full_summer_2_and_all_summer_terms",
-      "start": "2026-07-29T00:00:00-05:00",
-      "end": "2026-07-29T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This is the last day students have to withdraw from the term (all classes) without requiring approval from the student's college Dean's office. Withdrawals from Nursing and Law always require approval from the respective Dean's office.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-29-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-29T09:00:00-05:00",
-      "end": "2026-07-29T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-29-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-29T09:00:00-05:00",
-      "end": "2026-07-29T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-general-ledger-cgat-course-2026-07-29-bryant-conference-center",
-      "title": "General Ledger - CGAT Course",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/general-ledger-cgat-course-9907",
-      "start": "2026-07-29T09:00:00-05:00",
-      "end": "2026-07-29T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "The CGAT program, sponsored by the Government Finance Officers Association of Alabama, is a series of courses intended to improve the professional and fiscal skills of attendees. This training is not exclusive to GFOAA members. General Led...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-intermediate-microsoft-word-2026-07-29-main-library-computer-lab",
-      "title": "Intermediate Microsoft Word",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/intermediate-word-computer-class/",
-      "start": "2026-07-29T09:30:00-05:00",
-      "end": "2026-07-29T10:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – Computer Lab",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;This intermediate Word class builds on the basics, diving deeper into advanced editing, mail merge, and adding graphics like shapes, charts, and SmartArt.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-quilting-group-2026-07-29-main-library-first-floor",
-      "title": "Community Quilting Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-quilting-group-quilting-buds/2026-07-29/",
-      "start": "2026-07-29T11:30:00-05:00",
-      "end": "2026-07-29T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Beginners and seasoned quilters are welcome every Wednesday from 11:30 am to 2:00 pm. Come help us create for the community.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-tus-161-lagniappe-various-topics-2026-07-29-bryant-conference-center",
-      "title": "TUS 161 Lagniappe – Various Topics",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/tus-161-lagniappe-various-topics",
-      "start": "2026-07-29T12:00:00-05:00",
-      "end": "2026-07-29T13:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Join us for a free public program — and bring a friend! Enjoy a wide range of topics — from history and travel to the arts, hobbies and local stories. Each week, a different speaker shares their expertise and passion. June 3 – Barbershop Q...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ally-for-students-2026-07-29",
-      "title": "Ally for Students",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ally-for-students-2264",
-      "start": "2026-07-29T14:00:00-05:00",
-      "end": "2026-07-29T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard’s Ally tool gives students multiple ways to engage with their class content. This session take a hands-on look at the formats generated by Ally.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-poetry-club-2026-07-29-main-library-history-room",
-      "title": "Community Poetry Club",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-poetry-club-63/2026-07-29/",
-      "start": "2026-07-29T17:30:00-05:00",
-      "end": "2026-07-29T18:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – History Room",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
-      "description": "&lt;p&gt;Love to write? Looking for a welcoming space to share your work or hear the work of other poets? Join us every Wednesday.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-29",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 13,
         "periodName": "Today"
       }
     },
@@ -250,8 +52,52 @@
         "forecastDate": "2026-07-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Thursday"
+        "precipitationChance": 13,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-30-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-07-30T09:00:00-05:00",
+      "end": "2026-07-30T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-30",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 13,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-30-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-07-30T09:00:00-05:00",
+      "end": "2026-07-30T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-07-30",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 13,
+        "periodName": "Today"
       }
     },
     {
@@ -272,8 +118,8 @@
         "forecastDate": "2026-07-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Thursday"
+        "precipitationChance": 13,
+        "periodName": "Today"
       }
     },
     {
@@ -294,8 +140,8 @@
         "forecastDate": "2026-07-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Thursday"
+        "precipitationChance": 13,
+        "periodName": "Today"
       }
     },
     {
@@ -316,8 +162,8 @@
         "forecastDate": "2026-07-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Thursday"
+        "precipitationChance": 13,
+        "periodName": "Today"
       }
     },
     {
@@ -338,8 +184,8 @@
         "forecastDate": "2026-07-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Thursday"
+        "precipitationChance": 13,
+        "periodName": "Today"
       }
     },
     {
@@ -358,9 +204,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-31",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 40,
         "periodName": "Friday"
       }
     },
@@ -382,7 +228,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 84,
         "periodName": "Saturday"
       }
     },
@@ -404,7 +250,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 90,
         "temperatureUnit": "F",
-        "precipitationChance": 74,
+        "precipitationChance": 84,
         "periodName": "Saturday"
       }
     },
@@ -426,7 +272,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 69,
         "periodName": "Saturday Night"
       }
     },
@@ -448,8 +294,30 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 66,
+        "precipitationChance": 69,
         "periodName": "Saturday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-08-04-rose-administration-building",
+      "title": "UA faculty/staff headshots",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
+      "start": "2026-08-04T08:30:00-05:00",
+      "end": "2026-08-04T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rose Administration Building",
+      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
+      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-04",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 41,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -470,7 +338,7 @@
         "forecastDate": "2026-08-04",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 45,
+        "precipitationChance": 41,
         "periodName": "Tuesday"
       }
     },
@@ -492,7 +360,7 @@
         "forecastDate": "2026-08-04",
         "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 45,
+        "precipitationChance": 41,
         "periodName": "Tuesday"
       }
     },
@@ -509,7 +377,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Beginners and seasoned quilters are welcome every Wednesday from 11:30 am to 2:00 pm. Come help us create for the community.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-05",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 31,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-poetry-club-2026-08-05-main-library-history-room",
@@ -524,7 +399,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
       "description": "&lt;p&gt;Love to write? Looking for a welcoming space to share your work or hear the work of other poets? Join us every Wednesday.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-05",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "precipitationChance": 31,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-06-main-library-first-floor",
@@ -612,7 +494,7 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### “Cl...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Ma...",
       "category": "Community",
       "isVirtual": false
     },
@@ -644,6 +526,21 @@
       "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
       "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
       "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-saturday-in-the-park-hoop-dancing-with-lyndon-alec-2026-08-08-moundville-archaeological-park",
+      "title": "Saturday in the Park: Hoop Dancing with Lyndon Alec",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/saturday-in-the-park-hoop-dancing-with-lyndon-alec",
+      "start": "2026-08-08T10:00:00-05:00",
+      "end": "2026-08-08T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Join us at the Jones Museum on August 8, 2026 for a hoop dancing program with Lyndon Alec of the Alabama-Coushatta Tribe.. From 10:00 a.m. until Noon, Lyndon will perform and demonstrate hoop dancing and share more about his tribe's histor...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -702,8 +599,38 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### Sean of the South: LIVE! View Bookmarks ### Fight Nigh...",
+      "description": "Music and Comedy show #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Sean of the South: LIVE! View Bookmarks ### Fight Nigh...",
       "category": "Community",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-into-the-bama-verse-2026-08-09-uasc",
+      "title": "Into the Bama-Verse",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/into-the-bama-verse",
+      "start": "2026-08-09T19:00:00-05:00",
+      "end": "2026-08-09T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC",
+      "address": "",
+      "description": "Swing into action at Into the Bama-Verse, an event where the Spider-Man spirit meets Crimson Tide energy! Create your own superhero origin story as you take on the college mission! Challenge your friends in Spider-Man-themed games, and div...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-advanced-gradescope-training-2026-08-10",
+      "title": "Advanced Gradescope Training",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/advanced-gradescope-training",
+      "start": "2026-08-10T11:15:00-05:00",
+      "end": "2026-08-10T12:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Ready to take your Gradescope skills beyond the basics and master complex assessment workflows? Join our Gradescope Advanced Training & Interactive Q&A to dive deeper into platform power-features, streamline team grading, and resolve your...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -782,6 +709,36 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-community-poetry-club-2026-08-12-main-library-history-room",
+      "title": "Community Poetry Club",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-poetry-club-63/2026-08-12/",
+      "start": "2026-08-12T17:30:00-05:00",
+      "end": "2026-08-12T18:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – History Room",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
+      "description": "&lt;p&gt;Love to write? Looking for a welcoming space to share your work or hear the work of other poets? Join us every Wednesday.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-13-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-13/",
+      "start": "2026-08-13T11:00:00-05:00",
+      "end": "2026-08-13T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-14-inside-student-center-near-elephant",
       "title": "BCM Welcome Week Tables",
       "source": "University of Alabama",
@@ -790,7 +747,7 @@
       "end": "2026-08-14T16:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "Inside Student Center Near Elephant",
+      "venue": "Inside Student Center near Elephant",
       "address": "",
       "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
       "category": "Campus",
@@ -872,6 +829,21 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-18-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-18/",
+      "start": "2026-08-18T11:00:00-05:00",
+      "end": "2026-08-18T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-portal-to-hell-2026-08-18-the-historic-bama-theatre",
       "title": "Portal to Hell",
       "source": "Visit Tuscaloosa",
@@ -882,7 +854,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### Sean of the South:...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Sean of the South:...",
       "category": "Community",
       "isVirtual": false
     },
