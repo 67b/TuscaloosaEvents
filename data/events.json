@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-30T12:54:37.974Z",
+  "updatedAt": "2026-07-31T13:05:33.105Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-07-30T12:54:37.974Z",
+  "weatherUpdatedAt": "2026-07-31T13:05:33.105Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-30-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-07-31-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-07-30T00:00:00-05:00",
-      "end": "2026-07-30T00:00:00-05:00",
+      "start": "2026-07-31T00:00:00-05:00",
+      "end": "2026-07-31T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,20 +27,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "forecastDate": "2026-07-31",
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 37,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-final-exams-2026-07-30",
+      "id": "university-of-alabama-final-exams-2026-07-31",
       "title": "Final Exams",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/final_exams",
-      "start": "2026-07-30T00:00:00-05:00",
-      "end": "2026-07-30T00:00:00-05:00",
+      "start": "2026-07-31T00:00:00-05:00",
+      "end": "2026-07-31T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -49,20 +49,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "forecastDate": "2026-07-31",
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 37,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-30-gorgas-house-museum",
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-07-31-gorgas-house-museum",
       "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-07-30T09:00:00-05:00",
-      "end": "2026-07-30T16:30:00-05:00",
+      "start": "2026-07-31T09:00:00-05:00",
+      "end": "2026-07-31T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -71,20 +71,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "forecastDate": "2026-07-31",
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 37,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-07-30-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-07-31-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-07-30T09:00:00-05:00",
-      "end": "2026-07-30T16:30:00-05:00",
+      "start": "2026-07-31T09:00:00-05:00",
+      "end": "2026-07-31T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -93,98 +93,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
+        "forecastDate": "2026-07-31",
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-07-30-main-library-first-floor",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-07-30/",
-      "start": "2026-07-30T11:00:00-05:00",
-      "end": "2026-07-30T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 13,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-using-technology-to-increase-student-engagement-virtual-2026-07-30",
-      "title": "Using Technology to Increase Student Engagement (virtual)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/using-technology-to-increase-student-engagement-virtual",
-      "start": "2026-07-30T14:00:00-05:00",
-      "end": "2026-07-30T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This session focuses on practical, high‑impact ways to use instructional technology to increase student engagement and support learning before students fall behind. Participants will explore strategies for designing more interactive learni...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 13,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-how-to-work-with-complicated-people-practical-strategies-for-collaboration-2026-07-30-employee-res",
-      "title": "How to Work with Complicated People: Practical Strategies for Collaboration",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/how-to-work-with-complicated-people-practical-strategies-for-collaboration",
-      "start": "2026-07-30T15:00:00-05:00",
-      "end": "2026-07-30T16:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Based on Ryan Leak’s 2025 best-seller How to Work with Complicated People: Strategies for Effective Collaboration with Nearly Anyone, this interactive workshop equips employees of all levels with practical strategies for navigating challen...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 13,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-07-30-kentuck-art-center",
-      "title": "Kentuck Open Studio: Clay",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
-      "start": "2026-07-30T17:00:00-05:00",
-      "end": "2026-07-30T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Kentuck Art Center",
-      "address": "503 Main Ave., Northport, AL 35476",
-      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-07-30",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 37,
         "periodName": "Today"
       }
     },
@@ -204,10 +116,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-07-31",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 40,
-        "periodName": "Friday"
+        "precipitationChance": 37,
+        "periodName": "Today"
       }
     },
     {
@@ -226,9 +138,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-01",
-        "temperature": 90,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 63,
         "periodName": "Saturday"
       }
     },
@@ -248,9 +160,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-01",
-        "temperature": 90,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 84,
+        "precipitationChance": 63,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-01-kentuck-art-center",
+      "title": "Kentuck Open Studio: Clay",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
+      "start": "2026-08-01T17:00:00-05:00",
+      "end": "2026-08-01T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Kentuck Art Center",
+      "address": "503 Main Ave., Northport, AL 35476",
+      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-01",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 63,
         "periodName": "Saturday"
       }
     },
@@ -272,7 +206,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 69,
+        "precipitationChance": 63,
         "periodName": "Saturday Night"
       }
     },
@@ -294,7 +228,7 @@
         "forecastDate": "2026-08-01",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 69,
+        "precipitationChance": 63,
         "periodName": "Saturday Night"
       }
     },
@@ -314,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -336,9 +270,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -358,9 +292,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 27,
         "periodName": "Tuesday"
       }
     },
@@ -380,9 +314,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-05",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 25,
         "periodName": "Wednesday"
       }
     },
@@ -402,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-05",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 25,
         "periodName": "Wednesday"
       }
     },
@@ -421,7 +355,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-06",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 28,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "visit-tuscaloosa-kentuck-art-night-august-2026-08-06-kentuck-art-center",
@@ -436,7 +377,14 @@
       "address": "503 Main Ave., Northport, AL 35476",
       "description": "### Join us for exhibition openings, open artists’ studios, live music in the courtyard, extended Gallery Shop hours, and pop-up shops from local vendors. For August, guests will enjoy selections from Jahni Moore in the Museum Gallery and...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-06",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 28,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "university-of-alabama-wellbama-t-shirt-day-2026-08-07",
@@ -494,7 +442,7 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Ma...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### “Cl...",
       "category": "Community",
       "isVirtual": false
     },
@@ -599,7 +547,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Sean of the South: LIVE! View Bookmarks ### Fight Nigh...",
+      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Sean of the South: LIVE! View Bookmarks ### Fight Night 2 View Bookmarks ### Tuscaloosa Farmers Mar...",
       "category": "Community",
       "isVirtual": false
     },
@@ -615,6 +563,21 @@
       "venue": "UASC",
       "address": "",
       "description": "Swing into action at Into the Bama-Verse, an event where the Spider-Man spirit meets Crimson Tide energy! Create your own superhero origin story as you take on the college mission! Challenge your friends in Spider-Man-themed games, and div...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-08-10-gordon-palmer-hall",
+      "title": "Make Your Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-2375",
+      "start": "2026-08-10T10:30:00-05:00",
+      "end": "2026-08-10T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -854,7 +817,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Sean of the South:...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Sean of the South: LIVE! View Bookmarks ### Fight Night 2 View...",
       "category": "Community",
       "isVirtual": false
     },
@@ -871,6 +834,21 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-basic-microsoft-excel-2026-08-19-main-library-computer-lab",
+      "title": "Basic Microsoft Excel",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/basic-microsoft-excel-3/",
+      "start": "2026-08-19T09:30:00-05:00",
+      "end": "2026-08-19T22:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – Computer Lab",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Learn the basics of Microsoft Excel, including spreadsheet design, formatting, opening, saving, and printing worksheets. Perfect for beginners and new users.&lt;/p&gt;\\n",
+      "category": "Library",
       "isVirtual": false
     },
     {
@@ -1159,6 +1137,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-ua-teaching-academy-coffee-talk-beyond-final-project-energy-2026-10-22-university-hall",
+      "title": "UA Teaching Academy Coffee Talk: Beyond “Final Project Energy”",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-teaching-academy-coffee-talk-beyond-final-project-energy",
+      "start": "2026-10-22T09:30:00-05:00",
+      "end": "2026-10-22T10:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "University Hall",
+      "address": "275 KILGORE LANE, TUSCALOOSA, AL 35401",
+      "description": "The UA Teaching Academy will host a Coffee Talk exploring what capstone courses can accomplish beyond serving as one more final project. Capstone courses are expected to help students synthesize their learning, demonstrate program outcomes...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "mercedes-benz-amphitheater-jon-pardi-2026-10-23-mercedes-benz-amphitheater",
       "title": "Jon Pardi",
       "source": "Mercedes-Benz Amphitheater",
@@ -1185,6 +1178,21 @@
       "venue": "",
       "address": "",
       "description": "Spring 2027 registration time assignments will be available by October 1, 2026.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-last-day-to-drop-a-course-with-a-grade-of-w-for-the-fall-full-term-2026-10-28",
+      "title": "Last Day to Drop a Course with a Grade of \"W\" for the Fall Full Term",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/last_day_to_drop_a_course_with_a_grade_of_w_for_the_fall_full_term",
+      "start": "2026-10-28T00:00:00-05:00",
+      "end": "2026-10-28T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This is a student's last opportunity to drop a course. Drops after this date must be approved and processed by the student's college.",
       "category": "Campus",
       "isVirtual": false
     },
