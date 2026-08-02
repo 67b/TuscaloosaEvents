@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-01T12:12:22.068Z",
+  "updatedAt": "2026-08-02T12:15:26.812Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-01T12:12:22.068Z",
+  "weatherUpdatedAt": "2026-08-02T12:15:26.811Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -12,160 +12,6 @@
   ],
   "warnings": [],
   "events": [
-    {
-      "id": "university-of-alabama-summer-commencement-2026-08-01-coleman-coliseum",
-      "title": "Summer Commencement",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/summer_commencement",
-      "start": "2026-08-01T00:00:00-05:00",
-      "end": "2026-08-01T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Coleman Coliseum",
-      "address": "1201 COLISEUM DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Please visit the Commencement website for more information.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-every-saturday-2026-08-01-tuscaloosa-river-market",
-      "title": "Tuscaloosa Farmers Market – Every Saturday",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
-      "start": "2026-08-01T07:00:00-05:00",
-      "end": "2026-08-01T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Every Saturday morning from 7:00 am until noon, join thousands of people who enjoy Tuscaloosa’s award winning Farmers Market! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-01-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-01T09:00:00-05:00",
-      "end": "2026-08-01T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-01-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-01T09:00:00-05:00",
-      "end": "2026-08-01T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-01-kentuck-art-center",
-      "title": "Kentuck Open Studio: Clay",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
-      "start": "2026-08-01T17:00:00-05:00",
-      "end": "2026-08-01T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Kentuck Art Center",
-      "address": "503 Main Ave., Northport, AL 35476",
-      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-fight-night-2-2026-08-01-tuscaloosa-river-market",
-      "title": "Fight Night 2",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/fight-night-2/",
-      "start": "2026-08-01T18:00:00-05:00",
-      "end": "2026-08-01T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Join Black Warrior Promotions for Fight Night 2 — a night of exciting mixed martial arts action at the Tuscaloosa River Market. Mark your calendar for Saturday, August 1, 2026. Doors open at 5:00 PM and the fights get underway at 6:00 PM....",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 72,
-        "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-sean-of-the-south-live-2026-08-01-bama-theatre",
-      "title": "Sean of the South: LIVE!",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/sean-of-the-south-live/",
-      "start": "2026-08-01T18:30:00-05:00",
-      "end": "2026-08-02T00:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bama Theatre",
-      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Making his RETURN to The Historic Bama Theatre! A multi-instrumentalist, Sean Dietrich started playing Mandolin when he was seven years old, guitar at age eight and piano in church at age nine. Having lived through enough heartbreak, joy,...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-01",
-        "temperature": 72,
-        "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-03-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -182,9 +28,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-03",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 25,
         "periodName": "Monday"
       }
     },
@@ -204,9 +50,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-04-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-08-04T09:00:00-05:00",
+      "end": "2026-08-04T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-04",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 14,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-08-04-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-08-04T09:00:00-05:00",
+      "end": "2026-08-04T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-04",
+        "temperature": 91,
+        "temperatureUnit": "F",
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -226,9 +116,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -248,9 +138,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 14,
         "periodName": "Tuesday"
       }
     },
@@ -270,9 +160,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-05",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 11,
         "periodName": "Wednesday"
       }
     },
@@ -292,9 +182,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-05",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 11,
         "periodName": "Wednesday"
       }
     },
@@ -314,9 +204,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-06",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 12,
         "periodName": "Thursday"
       }
     },
@@ -336,9 +226,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-06",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 12,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-06-kentuck-art-center",
+      "title": "Kentuck Open Studio: Clay",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
+      "start": "2026-08-06T17:00:00-05:00",
+      "end": "2026-08-06T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Kentuck Art Center",
+      "address": "503 Main Ave., Northport, AL 35476",
+      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-06",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 12,
         "periodName": "Thursday"
       }
     },
@@ -358,9 +270,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 20,
         "periodName": "Friday"
       }
     },
@@ -380,9 +292,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 20,
         "periodName": "Friday"
       }
     },
@@ -397,14 +309,14 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Sean of the South: LIVE! View Bookmarks ### “Mad...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### “Cl...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 20,
         "periodName": "Friday"
       }
     },
@@ -424,10 +336,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 20,
         "periodName": "Friday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-every-saturday-2026-08-08-tuscaloosa-river-market",
+      "title": "Tuscaloosa Farmers Market – Every Saturday",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
+      "start": "2026-08-08T07:00:00-05:00",
+      "end": "2026-08-08T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Every Saturday morning from 7:00 am until noon, join thousands of people who enjoy Tuscaloosa’s award winning Farmers Market! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
       }
     },
     {
@@ -443,7 +377,14 @@
       "address": "401 22nd Ave, Ste. A, Tuscaloosa, AL 35401",
       "description": "Join us for VeloCity’s Casual Campus Cruise! This is a 12-mile, easy going ride through downtown and campus, perfect for all riders looking for a fun and social way to explore the city. Time: 9am Meet at: VeloCity Cycles, 401A 22nd Avenue...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "university-of-alabama-saturday-in-the-park-hoop-dancing-with-lyndon-alec-2026-08-08-moundville-archaeological-park",
@@ -458,7 +399,14 @@
       "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
       "description": "Join us at the Jones Museum on August 8, 2026 for a hoop dancing program with Lyndon Alec of the Alabama-Coushatta Tribe.. From 10:00 a.m. until Noon, Lyndon will perform and demonstrate hoop dancing and share more about his tribe's histor...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-saturday-in-the-park-hoop-dancing-with-lyndon-alec-2026-08-08-moundville-archaeological-park",
@@ -473,7 +421,14 @@
       "address": "634 Mound State Parkway, Moundville, AL 35474",
       "description": "Join us at the Jones Museum on August 8, 2026 for a hoop dancing program with Lyndon Alec of the Alabama-Coushatta Tribe. From 10:00 a.m. until Noon, Lyndon will perform and demonstrate hoop dancing and share more about his tribe’s history...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-the-tuscaloosa-margarita-festival-2026-08-08-the-venue-tuscaloosa",
@@ -488,7 +443,14 @@
       "address": "6052 Watermelon Rd, Northport, AL",
       "description": "Get ready to sip, savor, and spice things up at the Tuscaloosa Margarita Festival on Saturday, August 8th, 2026! This isn’t just any festival—it’s the ultimate margarita tasting competition, and YOU are the judge. Join 2,500 margarita love...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "university-of-alabama-tied-with-the-tide-kick-off-2026-08-08-the-university-of-alabama-quad",
@@ -503,7 +465,14 @@
       "address": "",
       "description": "Start your semester off right at the University Programs Tied with the Tide Kick Off! Grab your friends and join us for a night filled with music, games, flowers, food, and nonstop fun as we celebrate the start of a new year together. Come...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-a2uz-productions-presents-a-night-to-remember-2026-08-08-the-historic-bama-theatre",
@@ -516,9 +485,16 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Sean of the South: LIVE! View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Fight Night 2 View Bookmarks ### Tuscaloosa Farmers Mar...",
+      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuscaloosa County UA Alumni Fall Kickoff View Bookmarks ### Kentuck Art Night – August View Bookmar...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday Night"
+      }
     },
     {
       "id": "university-of-alabama-into-the-bama-verse-2026-08-09-uasc",
@@ -607,6 +583,21 @@
       "venue": "Alabama Museum of Natural History (Smith Hall)",
       "address": "",
       "description": "Join us for a UP Night in the Museum! Step into a night of mystery, adventure, and discovery as the museum comes to life after hours. Explore the museum through interactive activities, exciting challenges, and themed games designed to enco...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-project-management-certificate-program-advanced-project-management-with-simulation-2026-08-11",
+      "title": "Project Management Certificate Program - Advanced Project Management with Simulation",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-advanced-project-management-with-simulation-4465",
+      "start": "2026-08-11T08:30:00-05:00",
+      "end": "2026-08-11T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The three-day Advanced Project Management workshop includes an online interactive project simulation to test knowledge and performance. Learn by making actual project decisions. This workshop picks up where other traditional project manage...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -801,7 +792,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Sean of the South: LIVE! View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Fight Night 2 View...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuscaloosa County UA Alumni Fall Kickoff View Bookmarks ### Ken...",
       "category": "Community",
       "isVirtual": false
     },
@@ -833,6 +824,21 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Learn the basics of Microsoft Excel, including spreadsheet design, formatting, opening, saving, and printing worksheets. Perfect for beginners and new users.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-boots-and-bingo-2026-08-20-dinah-washington-cultural-arts-center",
+      "title": "Boots & BINGO",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/boots-bingo/",
+      "start": "2026-08-20T18:00:00-05:00",
+      "end": "2026-08-20T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Dinah Washington Cultural Arts Center",
+      "address": "620 Greensboro Ave, TUSCALOOSA, AL 35401",
+      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookma...",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -893,6 +899,21 @@
       "address": "",
       "description": "Registration Begins for Fall 2",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "visit-tuscaloosa-moundville-for-minis-fry-bread-2026-08-28-moundville-archaeological-park",
+      "title": "Moundville for Minis: Fry Bread",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/moundville-for-minis-fry-bread/",
+      "start": "2026-08-28T09:15:00-05:00",
+      "end": "2026-08-28T09:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474",
+      "description": "Join us on August 28, 2026 from 9:15 a.m. to 9:45 a.m. for a special indoor storytime at Moundville Archaeological Park! Moundville educators will be reading “Fry Bread” by Seminole author Kevin Noble Maillard, a celebration of food, famil...",
+      "category": "Community",
       "isVirtual": false
     },
     {
