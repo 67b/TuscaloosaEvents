@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-02T12:15:26.812Z",
+  "updatedAt": "2026-08-03T13:48:07.049Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-02T12:15:26.811Z",
+  "weatherUpdatedAt": "2026-08-03T13:48:07.049Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -28,10 +28,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-03",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 25,
-        "periodName": "Monday"
+        "precipitationChance": 7,
+        "periodName": "Today"
       }
     },
     {
@@ -50,9 +50,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -72,9 +72,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -94,9 +94,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -116,9 +116,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -138,9 +138,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -160,9 +160,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-05",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 11,
+        "precipitationChance": 3,
         "periodName": "Wednesday"
       }
     },
@@ -182,9 +182,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-05",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 11,
+        "precipitationChance": 3,
         "periodName": "Wednesday"
       }
     },
@@ -204,9 +204,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-06",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 13,
         "periodName": "Thursday"
       }
     },
@@ -226,9 +226,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-06",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 13,
         "periodName": "Thursday"
       }
     },
@@ -248,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-06",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 13,
         "periodName": "Thursday"
       }
     },
@@ -272,7 +272,7 @@
         "forecastDate": "2026-08-07",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 18,
         "periodName": "Friday"
       }
     },
@@ -294,7 +294,7 @@
         "forecastDate": "2026-08-07",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 18,
         "periodName": "Friday"
       }
     },
@@ -316,7 +316,7 @@
         "forecastDate": "2026-08-07",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 18,
         "periodName": "Friday"
       }
     },
@@ -338,7 +338,7 @@
         "forecastDate": "2026-08-07",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 18,
         "periodName": "Friday"
       }
     },
@@ -360,7 +360,7 @@
         "forecastDate": "2026-08-08",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday"
       }
     },
@@ -382,7 +382,7 @@
         "forecastDate": "2026-08-08",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday"
       }
     },
@@ -404,7 +404,7 @@
         "forecastDate": "2026-08-08",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday"
       }
     },
@@ -426,7 +426,7 @@
         "forecastDate": "2026-08-08",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday"
       }
     },
@@ -448,7 +448,7 @@
         "forecastDate": "2026-08-08",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday"
       }
     },
@@ -470,7 +470,7 @@
         "forecastDate": "2026-08-08",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday"
       }
     },
@@ -490,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 30,
         "periodName": "Saturday Night"
       }
     },
@@ -509,7 +509,14 @@
       "address": "",
       "description": "Swing into action at Into the Bama-Verse, an event where the Spider-Man spirit meets Crimson Tide energy! Create your own superhero origin story as you take on the college mission! Challenge your friends in Spider-Man-themed games, and div...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-09",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 27,
+        "periodName": "Sunday Night"
+      }
     },
     {
       "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-08-10-gordon-palmer-hall",
