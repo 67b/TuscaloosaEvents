@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-04T13:08:22.834Z",
+  "updatedAt": "2026-08-05T13:02:33.920Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-04T13:08:22.834Z",
+  "weatherUpdatedAt": "2026-08-05T13:02:33.920Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-04-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-05-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-08-04T00:00:00-05:00",
-      "end": "2026-08-04T00:00:00-05:00",
+      "start": "2026-08-05T00:00:00-05:00",
+      "end": "2026-08-05T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,42 +27,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "forecastDate": "2026-08-05",
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 10,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-ua-faculty-staff-headshots-2026-08-04-rose-administration-building",
-      "title": "UA faculty/staff headshots",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua_facultystaff_headshots_4380",
-      "start": "2026-08-04T08:30:00-05:00",
-      "end": "2026-08-04T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rose Administration Building",
-      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
-      "description": "Strategic Communications Office of Photography is pleased to offer free outdoor headshots for UA faculty/staff. Headshots will be taken on the front steps of Rose Administration on the dates listed, subject to rescheduling due to weather o...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-04",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-04-gorgas-house-museum",
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-05-gorgas-house-museum",
       "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-04T09:00:00-05:00",
-      "end": "2026-08-04T16:30:00-05:00",
+      "start": "2026-08-05T09:00:00-05:00",
+      "end": "2026-08-05T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -71,20 +49,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "forecastDate": "2026-08-05",
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 10,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-04-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-08-05-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-04T09:00:00-05:00",
-      "end": "2026-08-04T16:30:00-05:00",
+      "start": "2026-08-05T09:00:00-05:00",
+      "end": "2026-08-05T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -93,54 +71,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-04",
-        "temperature": 91,
+        "forecastDate": "2026-08-05",
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-04-main-library-first-floor",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-04/",
-      "start": "2026-08-04T11:00:00-05:00",
-      "end": "2026-08-04T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-04",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-tuscaloosa-county-ua-alumni-fall-kickoff-2026-08-04-tuscaloosa-river-market",
-      "title": "Tuscaloosa County UA Alumni Fall Kickoff",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-county-ua-alumni-fall-kickoff/",
-      "start": "2026-08-04T17:30:00-05:00",
-      "end": "2026-08-04T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL 35401",
-      "description": "Recommended ages: Ages 8–12. Join the Tuscaloosa County Chapter of The University of Alabama National Alumni Association for our annual Kickoff Event on Tuesday, August 4, at 5:30 p.m. at the Tuscaloosa River Market. We’re excited to welco...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-04",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 10,
         "periodName": "Today"
       }
     },
@@ -162,8 +96,8 @@
         "forecastDate": "2026-08-05",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Wednesday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -184,8 +118,8 @@
         "forecastDate": "2026-08-05",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
-        "periodName": "Wednesday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -206,7 +140,7 @@
         "forecastDate": "2026-08-06",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 17,
         "periodName": "Thursday"
       }
     },
@@ -228,7 +162,7 @@
         "forecastDate": "2026-08-06",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 17,
         "periodName": "Thursday"
       }
     },
@@ -250,7 +184,7 @@
         "forecastDate": "2026-08-06",
         "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 17,
         "periodName": "Thursday"
       }
     },
@@ -270,9 +204,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 11,
         "periodName": "Friday"
       }
     },
@@ -292,9 +226,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 11,
         "periodName": "Friday"
       }
     },
@@ -314,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 11,
         "periodName": "Friday"
       }
     },
@@ -331,14 +265,14 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Tuscaloosa County UA Alumni Fall Kickoff View Bo...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### “Made in America” Exhibit View Bookmarks ### “Cl...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 11,
         "periodName": "Friday"
       }
     },
@@ -358,9 +292,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 11,
         "periodName": "Friday"
       }
     },
@@ -380,9 +314,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -402,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -424,9 +358,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -446,9 +380,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -468,9 +402,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -490,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -507,14 +441,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Tuscaloosa County UA Alumni Fall Kickoff View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Art Night – August View Bookmar...",
+      "description": "Music and Comedy show #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Art Night – August View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### Back to...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 22,
+        "precipitationChance": 17,
         "periodName": "Saturday Night"
       }
     },
@@ -536,7 +470,7 @@
         "forecastDate": "2026-08-09",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 25,
         "periodName": "Sunday Night"
       }
     },
@@ -556,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-10",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 34,
         "periodName": "Monday"
       }
     },
@@ -578,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-10",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 34,
         "periodName": "Monday"
       }
     },
@@ -600,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-10",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 34,
         "periodName": "Monday"
       }
     },
@@ -622,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-10",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 34,
         "periodName": "Monday"
       }
     },
@@ -646,8 +580,30 @@
         "forecastDate": "2026-08-10",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 34,
         "periodName": "Monday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-project-management-certificate-program-advanced-project-management-with-simulation-2026-08-11",
+      "title": "Project Management Certificate Program - Advanced Project Management with Simulation",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/project-management-certificate-program-advanced-project-management-with-simulation-4465",
+      "start": "2026-08-11T08:30:00-05:00",
+      "end": "2026-08-11T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The three-day Advanced Project Management workshop includes an online interactive project simulation to test knowledge and performance. Learn by making actual project decisions. This workshop picks up where other traditional project manage...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-11",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 42,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -663,7 +619,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-11",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "precipitationChance": 42,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-trivia-night-2026-08-11-egan-s-irish-pub",
@@ -678,7 +641,14 @@
       "address": "1229 University Blvd, Tuscaloosa, AL, 35401",
       "description": "&lt;p&gt;Join us for Trivia Night at Egans Ages 21+&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-11",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 42,
+        "periodName": "Tuesday Night"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-quilting-group-2026-08-12-main-library-first-floor",
@@ -856,7 +826,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Tuscaloosa County UA Alumni Fall Kickoff View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Ken...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Art Night – August View Bookmarks ### Kentuck Open Stud...",
       "category": "Community",
       "isVirtual": false
     },
@@ -891,6 +861,21 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-community-quilting-group-2026-08-19-main-library-first-floor",
+      "title": "Community Quilting Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-quilting-group-quilting-buds/2026-08-19/",
+      "start": "2026-08-19T11:30:00-05:00",
+      "end": "2026-08-19T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Beginners and seasoned quilters are welcome every Wednesday from 11:30 am to 2:00 pm. Come help us create for the community.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-boots-and-bingo-2026-08-20-dinah-washington-cultural-arts-center",
       "title": "Boots & BINGO",
       "source": "Visit Tuscaloosa",
@@ -901,7 +886,7 @@
       "timeStatus": "confirmed",
       "venue": "Dinah Washington Cultural Arts Center",
       "address": "620 Greensboro Ave, TUSCALOOSA, AL 35401",
-      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### Tuscaloosa County UA Alumni Fall Kickoff View Bookmarks ### “Made in America” Exhibit View Bookma...",
+      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookma...",
       "category": "Community",
       "isVirtual": false
     },
