@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-06T13:02:45.810Z",
+  "updatedAt": "2026-08-07T11:56:24.350Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-06T13:02:45.810Z",
+  "weatherUpdatedAt": "2026-08-07T11:56:24.350Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-06-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-07-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-08-06T00:00:00-05:00",
-      "end": "2026-08-06T00:00:00-05:00",
+      "start": "2026-08-07T00:00:00-05:00",
+      "end": "2026-08-07T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,120 +27,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-06",
-        "temperature": 94,
+        "forecastDate": "2026-08-07",
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-06-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-06T09:00:00-05:00",
-      "end": "2026-08-06T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-06",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-06-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-06T09:00:00-05:00",
-      "end": "2026-08-06T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-06",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-06-main-library-first-floor",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-06/",
-      "start": "2026-08-06T11:00:00-05:00",
-      "end": "2026-08-06T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-06",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-kentuck-art-night-august-2026-08-06-kentuck-art-center",
-      "title": "Kentuck Art Night – August",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-art-night-august/",
-      "start": "2026-08-06T17:00:00-05:00",
-      "end": "2026-08-06T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Kentuck Art Center",
-      "address": "503 Main Ave., Northport, AL 35476",
-      "description": "### Join us for exhibition openings, open artists’ studios, live music in the courtyard, extended Gallery Shop hours, and pop-up shops from local vendors. For August, guests will enjoy selections from Jahni Moore in the Museum Gallery and...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-06",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-06-kentuck-art-center",
-      "title": "Kentuck Open Studio: Clay",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
-      "start": "2026-08-06T17:00:00-05:00",
-      "end": "2026-08-06T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Kentuck Art Center",
-      "address": "503 Main Ave., Northport, AL 35476",
-      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-06",
-        "temperature": 94,
-        "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 23,
         "periodName": "Today"
       }
     },
@@ -160,10 +50,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-07-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-08-07T09:00:00-05:00",
+      "end": "2026-08-07T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-07",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-08-07-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-08-07T09:00:00-05:00",
+      "end": "2026-08-07T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-07",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -182,10 +116,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -204,10 +138,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -221,15 +155,15 @@
       "timeStatus": "confirmed",
       "venue": "Kentuck at Queen City",
       "address": "1901 Jack Warner Parkway, Tuscaloosa, AL 35401",
-      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Kentuck Art Night – August View Bookmarks ### Ke...",
+      "description": "Celebrate the opening reception of Selected Works by Athlone Clarke. (artist talk at 6:30) – Shop Kentuck’s Deep End – Live Music – Community Art Project: “Here Comes Clip Clop” #### Map ### Back to School Bash/TuscArts Onstage Season Reve...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -248,10 +182,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-07",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Friday"
+        "precipitationChance": 23,
+        "periodName": "Today"
       }
     },
     {
@@ -270,9 +204,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
         "periodName": "Saturday"
       }
     },
@@ -292,9 +226,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
         "periodName": "Saturday"
       }
     },
@@ -314,9 +248,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
         "periodName": "Saturday"
       }
     },
@@ -336,9 +270,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
         "periodName": "Saturday"
       }
     },
@@ -358,9 +292,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-08-kentuck-art-center",
+      "title": "Kentuck Open Studio: Clay",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
+      "start": "2026-08-08T17:00:00-05:00",
+      "end": "2026-08-08T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Kentuck Art Center",
+      "address": "503 Main Ave., Northport, AL 35476",
+      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-08",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 37,
         "periodName": "Saturday"
       }
     },
@@ -380,9 +336,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
         "periodName": "Saturday"
       }
     },
@@ -397,14 +353,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Music and Comedy show #### Map ### Kentuck Art Night – August View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Back to...",
+      "description": "Music and Comedy show #### Map ### Back to School Bash/TuscArts Onstage Season Reveal View Bookmarks ### Kentuck First Friday – August View Bookmarks ### Signing & Reading, Andrew Farkas feat. Michael Martone at Ernest & Hadley Booksellers...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-08",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 28,
+        "precipitationChance": 37,
         "periodName": "Saturday Night"
       }
     },
@@ -426,7 +382,7 @@
         "forecastDate": "2026-08-09",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 21,
         "periodName": "Sunday Night"
       }
     },
@@ -448,7 +404,7 @@
         "forecastDate": "2026-08-10",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Monday"
       }
     },
@@ -470,29 +426,7 @@
         "forecastDate": "2026-08-10",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
-        "periodName": "Monday"
-      }
-    },
-    {
-      "id": "university-of-alabama-launch-2026-2026-08-10-hewson-hall",
-      "title": "LAUNCH 2026",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/launch-2026",
-      "start": "2026-08-10T16:00:00-05:00",
-      "end": "2026-08-10T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Hewson Hall",
-      "address": "380 Stadium Drive Tuscaloosa, Alabama 35401",
-      "description": "4 Day MBA Orientation For more info, contact: Laura Jones, lmjones21@ua.edu",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-10",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Monday"
       }
     },
@@ -514,7 +448,7 @@
         "forecastDate": "2026-08-10",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Monday"
       }
     },
@@ -536,8 +470,30 @@
         "forecastDate": "2026-08-10",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 26,
         "periodName": "Monday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-olli-greater-birmingham-fall-showcase-2026-08-11-riverchase-united-methodist-church",
+      "title": "OLLI Greater Birmingham Fall Showcase",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/olli-greater-birmingham-fall-showcase",
+      "start": "2026-08-11T09:30:00-05:00",
+      "end": "2026-08-11T15:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Riverchase United Methodist Church",
+      "address": "1953 Old Montgomery Highway, Hoover, AL",
+      "description": "Date: Tuesday, Aug. 11 Time: Doors open at 9:30 a.m. Location: The Riverchase Room at Riverchase United Methodist Church, 1953 Old Montgomery Highway, Hoover, AL Join us to learn about what lifelong learning opportunities are available for...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-11",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -556,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 30,
         "periodName": "Tuesday"
       }
     },
@@ -578,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 30,
         "periodName": "Tuesday"
       }
     },
@@ -600,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 30,
         "periodName": "Tuesday"
       }
     },
@@ -624,7 +580,7 @@
         "forecastDate": "2026-08-11",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 30,
         "periodName": "Tuesday Night"
       }
     },
@@ -644,9 +600,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-12",
-        "temperature": 91,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 35,
         "periodName": "Wednesday"
       }
     },
@@ -666,9 +622,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-12",
-        "temperature": 91,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 36,
+        "precipitationChance": 35,
         "periodName": "Wednesday"
       }
     },
@@ -685,7 +641,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-13",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 32,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-14-inside-student-center-near-elephant",
@@ -818,7 +781,7 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Kentuck Art Night – August View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life”...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Back to School Bash/TuscArts Onstage Season Reveal View Bookmarks ### Kentuck First Friday – August View Bookmarks ### Signing & Reading, Andrew Farkas feat. Michael Ma...",
       "category": "Community",
       "isVirtual": false
     },
@@ -908,7 +871,7 @@
       "timeStatus": "confirmed",
       "venue": "Dinah Washington Cultural Arts Center",
       "address": "620 Greensboro Ave, TUSCALOOSA, AL 35401",
-      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### Kentuck Art Night – August View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### “Made...",
+      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### Back to School Bash/TuscArts Onstage Season Reveal View Bookmarks ### Kentuck First Friday – Augu...",
       "category": "Community",
       "isVirtual": false
     },
@@ -925,6 +888,21 @@
       "address": "16800 Sunshine Pointe, Northport, Alabama, Northport, Alabama",
       "description": "Join us for an afternoon of swimming, tubing, and hanging out in the sun at Sunshine Pointe. It's a great opportunity for students to get off-campus for a bit and build deeper connections.",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-25-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-25/",
+      "start": "2026-08-25T11:00:00-05:00",
+      "end": "2026-08-25T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
+      "category": "Library",
       "isVirtual": false
     },
     {
@@ -1013,7 +991,7 @@
       "timeStatus": "confirmed",
       "venue": "Anthem Supply Co.",
       "address": "2119 University Blvd, Tuscaloosa, AL 35475",
-      "description": "Joined by Kris Mills on guitar! Doors open at 7 pm. Show will take place from 8-9 pm. Guests will receive two drink tickets for beer, wine or soda included with ticket. #### Map ### Kentuck Art Night – August View Bookmarks ### Kentuck Ope...",
+      "description": "Joined by Kris Mills on guitar! Doors open at 7 pm. Show will take place from 8-9 pm. Guests will receive two drink tickets for beer, wine or soda included with ticket. #### Map ### Back to School Bash/TuscArts Onstage Season Reveal View B...",
       "category": "Community",
       "isVirtual": false
     },
