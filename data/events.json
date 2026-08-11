@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-10T11:57:47.207Z",
+  "updatedAt": "2026-08-11T11:55:12.290Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-10T11:57:47.206Z",
+  "weatherUpdatedAt": "2026-08-11T11:55:12.289Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-10-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-11-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-08-10T00:00:00-05:00",
-      "end": "2026-08-10T00:00:00-05:00",
+      "start": "2026-08-11T00:00:00-05:00",
+      "end": "2026-08-11T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,99 +27,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-10",
-        "temperature": 95,
+        "forecastDate": "2026-08-11",
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 41,
+        "precipitationChance": 22,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-08-10-gordon-palmer-hall",
-      "title": "Make Your Course Accessible with Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-2375",
-      "start": "2026-08-10T10:30:00-05:00",
-      "end": "2026-08-10T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gordon Palmer Hall",
-      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-advanced-gradescope-training-2026-08-10",
-      "title": "Advanced Gradescope Training",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/advanced-gradescope-training",
-      "start": "2026-08-10T11:15:00-05:00",
-      "end": "2026-08-10T12:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Ready to take your Gradescope skills beyond the basics and master complex assessment workflows? Join our Gradescope Advanced Training & Interactive Q&A to dive deeper into platform power-features, streamline team grading, and resolve your...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-weaver-bolden-book-club-2026-08-10-weaver-bolden-branch",
-      "title": "Weaver Bolden Book Club",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/book-club-5-6/2026-08-10/",
-      "start": "2026-08-10T17:30:00-05:00",
-      "end": "2026-08-10T18:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Weaver Bolden Branch",
-      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
-      "description": "&lt;p&gt;Explore great reads, share insights, and enjoy thoughtful discussion in a welcoming atmosphere. Books provided.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-10",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-night-at-the-museum-2026-08-10-alabama-museum-of-natural-history-smith-hall",
-      "title": "Night at the Museum",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/night-at-the-museum",
-      "start": "2026-08-10T19:00:00-05:00",
-      "end": "2026-08-10T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alabama Museum of Natural History (Smith Hall)",
-      "address": "",
-      "description": "Join us for a UP Night in the Museum! Step into a night of mystery, adventure, and discovery as the museum comes to life after hours. Explore the museum through interactive activities, exciting challenges, and themed games designed to enco...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-10",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 41,
-        "periodName": "Tonight"
       }
     },
     {
@@ -138,10 +50,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -160,10 +72,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -182,10 +94,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -204,10 +116,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -226,10 +138,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -248,10 +160,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -270,10 +182,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -292,10 +204,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -314,10 +226,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-11",
-        "temperature": 94,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-fill-your-cart-2026-08-11-uasc-great-hall-and-porch-room-2408",
+      "title": "Fill Your Cart",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fill-your-cart",
+      "start": "2026-08-11T15:00:00-05:00",
+      "end": "2026-08-11T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC Great Hall and Porch, Room 2408",
+      "address": "",
+      "description": "Think you can stretch a budget? Join us at Fill Your Cart to learn practical life skills, participate in fun activities, and earn the chance to shop our free student grocery market. Enjoy a complimentary dirty soda from South Fizz while ex...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-11",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -338,8 +272,52 @@
         "forecastDate": "2026-08-11",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 48,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 19,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-gfoaa-summer-conference-2026-08-12-perdido-beach-resort",
+      "title": "GFOAA Summer Conference",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gfoaa-summer-conference",
+      "start": "2026-08-12T00:00:00-05:00",
+      "end": "2026-08-12T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Perdido Beach Resort",
+      "address": "27200 Perdido Beach Blvd, Orange Beach, AL 36561",
+      "description": "The Government Finance Officers Association of Alabama invites you to join the Summer Conference, happening Aug. 12-14 at the Perdido Beach Resort in Orange Beach, Al. This event is designed to inspire learning and build valuable connectio...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-12",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 27,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-mro-procurement-and-inventory-management-maintenance-management-certificate-program-2026-08-12",
+      "title": "MRO Procurement and Inventory Management – Maintenance Management Certificate Program",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mro-procurement-and-inventory-management-maintenance-management-certificate-program",
+      "start": "2026-08-12T08:30:00-05:00",
+      "end": "2026-08-12T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Maintenance, repair and overhaul materials, excluding inventory, represent 50% or more of the total maintenance budget. MRO inventory adds millions more to the overall operating cost of the maintenance function as well as the plant. This s...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-12",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 27,
+        "periodName": "Wednesday"
       }
     },
     {
@@ -360,7 +338,7 @@
         "forecastDate": "2026-08-12",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -382,7 +360,7 @@
         "forecastDate": "2026-08-12",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
+        "precipitationChance": 27,
         "periodName": "Wednesday"
       }
     },
@@ -404,7 +382,7 @@
         "forecastDate": "2026-08-13",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 3,
         "periodName": "Thursday"
       }
     },
@@ -426,7 +404,7 @@
         "forecastDate": "2026-08-13",
         "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 3,
         "periodName": "Thursday"
       }
     },
@@ -446,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Friday"
       }
     },
@@ -468,9 +446,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Friday"
       }
     },
@@ -490,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Friday"
       }
     },
@@ -512,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Friday"
       }
     },
@@ -534,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Friday"
       }
     },
@@ -556,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-15",
-        "temperature": 98,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Saturday"
       }
     },
@@ -578,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-15",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 4,
         "periodName": "Saturday Night"
       }
     },
@@ -735,6 +713,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-back-n-black-the-ultimate-powered-up-ac-dc-experience-2026-08-22-the-historic-bama-theatre",
+      "title": "Back n Black: The Ultimate Powered Up AC/DC Experience",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/back-n-black-the-ultimate-powered-up-ac-dc-experience/",
+      "start": "2026-08-22T20:00:00-05:00",
+      "end": "2026-08-23T02:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Historic Bama Theatre",
+      "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
+      "description": "Back n Black: The Ultimate Powered Up AC/DC Experience is a national tribute band that recreates an actual AC/DC live show. The band is passionate about bringing the energy and spirit of AC/DC to audiences around the country. Let our sight...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-differential-diagnosis-using-the-diagnostic-and-statistical-manual-of-mental-disorders-dsm-5-tr-20",
       "title": "Differential Diagnosis: Using the Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)",
       "source": "University of Alabama",
@@ -792,6 +785,21 @@
       "address": "",
       "description": "Last Day to Add a Course or Drop a Course Without a Grade of \"W\" for the Fall Full Term",
       "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-intermediate-microsoft-excel-2026-08-26-main-library-computer-lab",
+      "title": "Intermediate Microsoft Excel",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/intermediate-microsoft-excel-3/",
+      "start": "2026-08-26T09:30:00-05:00",
+      "end": "2026-08-26T10:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – Computer Lab",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;This intermediate Microsoft Excel class teaches patrons how to use formulas effectively, search and analyze spreadsheet data, and improve efficiency when working with worksheets.&lt;/p&gt;\\n",
+      "category": "Library",
       "isVirtual": false
     },
     {
@@ -1016,6 +1024,21 @@
       "venue": "",
       "address": "",
       "description": "Classes Begin for Fall 2",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-adhd-lunch-and-learn-what-to-do-before-learning-can-begin-building-the-foundation-for-student-succ",
+      "title": "ADHD Lunch and Learn: “What to Do Before Learning Can Begin: Building the Foundation for Student Success”",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/adhd-lunch-and-learn-what-to-do-before-learning-can-begin-building-the-foundation-for-student-success",
+      "start": "2026-09-30T12:00:00-05:00",
+      "end": "2026-09-30T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Students are most successful when they feel safe, connected and ready to learn. This Lunch and Learn explores how relationships, classroom culture, engagement and a sense of belonging influence academic achievement, with a particular focus...",
       "category": "Campus",
       "isVirtual": false
     },
