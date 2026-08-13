@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-12T11:57:26.172Z",
+  "updatedAt": "2026-08-13T11:58:23.022Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-12T11:57:26.171Z",
+  "weatherUpdatedAt": "2026-08-13T11:58:23.022Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-12-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-13-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-08-12T00:00:00-05:00",
-      "end": "2026-08-12T00:00:00-05:00",
+      "start": "2026-08-13T00:00:00-05:00",
+      "end": "2026-08-13T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,20 +27,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
+        "forecastDate": "2026-08-13",
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 7,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-gfoaa-summer-conference-2026-08-12-perdido-beach-resort",
+      "id": "university-of-alabama-gfoaa-summer-conference-2026-08-13-perdido-beach-resort",
       "title": "GFOAA Summer Conference",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/gfoaa-summer-conference",
-      "start": "2026-08-12T00:00:00-05:00",
-      "end": "2026-08-12T00:00:00-05:00",
+      "start": "2026-08-13T00:00:00-05:00",
+      "end": "2026-08-13T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Perdido Beach Resort",
@@ -49,20 +49,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
+        "forecastDate": "2026-08-13",
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 7,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-mro-procurement-and-inventory-management-maintenance-management-certificate-program-2026-08-12",
+      "id": "university-of-alabama-mro-procurement-and-inventory-management-maintenance-management-certificate-program-2026-08-13",
       "title": "MRO Procurement and Inventory Management – Maintenance Management Certificate Program",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/mro-procurement-and-inventory-management-maintenance-management-certificate-program",
-      "start": "2026-08-12T08:30:00-05:00",
-      "end": "2026-08-12T16:30:00-05:00",
+      "start": "2026-08-13T08:30:00-05:00",
+      "end": "2026-08-13T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "",
@@ -71,20 +71,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
+        "forecastDate": "2026-08-13",
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 7,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-12-gorgas-house-museum",
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-13-gorgas-house-museum",
       "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-12T09:00:00-05:00",
-      "end": "2026-08-12T16:30:00-05:00",
+      "start": "2026-08-13T09:00:00-05:00",
+      "end": "2026-08-13T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -93,20 +93,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
+        "forecastDate": "2026-08-13",
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 7,
         "periodName": "Today"
       }
     },
     {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-12-gorgas-house-museum",
+      "id": "university-of-alabama-made-in-america-exhibit-2026-08-13-gorgas-house-museum",
       "title": "“Made in America” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-12T09:00:00-05:00",
-      "end": "2026-08-12T16:30:00-05:00",
+      "start": "2026-08-13T09:00:00-05:00",
+      "end": "2026-08-13T16:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Gorgas House Museum",
@@ -115,143 +115,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
+        "forecastDate": "2026-08-13",
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 7,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-hypothesis-starter-assignments-2026-08-12",
-      "title": "Hypothesis: Starter Assignments",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/hypothesis-starter-assignments",
-      "start": "2026-08-12T10:00:00-05:00",
-      "end": "2026-08-12T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This workshop is ideal for instructors who are interested in using social annotation in their courses but aren’t exactly sure how to provide guidance to students. The Hypothesis team will review ideas for annotation starter assignments and...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-quilting-group-2026-08-12-main-library-first-floor",
-      "title": "Community Quilting Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-quilting-group-quilting-buds/2026-08-12/",
-      "start": "2026-08-12T11:30:00-05:00",
-      "end": "2026-08-12T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Beginners and seasoned quilters are welcome every Wednesday from 11:30 am to 2:00 pm. Come help us create for the community.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-new-management-orientation-2026-08-12",
-      "title": "New Management Orientation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/new-management-orientation-584",
-      "start": "2026-08-12T13:00:00-05:00",
-      "end": "2026-08-12T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Behavioral Expectations Supported: Collaboration, Effective Communication, Ethics and Integrity, Continuous Improvement https://hr.ua.edu/employee-resources/performance-management/behavioral New Management Orientation is for those new to a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-communication-features-in-ultra-2026-08-12",
-      "title": "Communication Features in Ultra",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/communication-features-in-ultra-6710",
-      "start": "2026-08-12T13:30:00-05:00",
-      "end": "2026-08-12T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Blackboard Ultra offers a wide variety of ways for instructors to communicate with their students. This workshop will examine and demonstrate how to access and use Ultra’s communication features.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-poetry-club-2026-08-12-main-library-history-room",
-      "title": "Community Poetry Club",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-poetry-club-63/2026-08-12/",
-      "start": "2026-08-12T17:30:00-05:00",
-      "end": "2026-08-12T18:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – History Room",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
-      "description": "&lt;p&gt;Love to write? Looking for a welcoming space to share your work or hear the work of other poets? Join us every Wednesday.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-wild-n-up-2026-08-12-uasc",
-      "title": "Wild 'N UP",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/wild-n-up",
-      "start": "2026-08-12T19:00:00-05:00",
-      "end": "2026-08-12T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UASC",
-      "address": "",
-      "description": "Get ready to Wild ‘N UP! Think you’re quick with comebacks? Ready to clown, freestyle, and laugh until your sides hurt? Then it’s time to Wild ‘N UP! Prepare yourself for the ultimate throwdown of wit, bars, and bold energy inspired by the...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-12",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Tonight"
       }
     },
     {
@@ -270,10 +138,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-13",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Thursday"
+        "precipitationChance": 7,
+        "periodName": "Today"
       }
     },
     {
@@ -292,10 +160,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-13",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Thursday"
+        "precipitationChance": 7,
+        "periodName": "Today"
       }
     },
     {
@@ -314,10 +182,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-13",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Thursday"
+        "precipitationChance": 7,
+        "periodName": "Today"
       }
     },
     {
@@ -336,10 +204,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-13",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Thursday"
+        "precipitationChance": 7,
+        "periodName": "Today"
       }
     },
     {
@@ -358,10 +226,98 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-13",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 7,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-spa-night-2026-08-13-uasc",
+      "title": "Spa Night",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/spa-night",
+      "start": "2026-08-13T17:00:00-05:00",
+      "end": "2026-08-13T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC",
+      "address": "",
+      "description": "Come on Barbie, let’s go party!! Welcome to Spa Night! Prepare yourself for a Barbie level night of pampering! Enjoy first come, first served spa services like manicures, massages, and so many more! Bring a friend and enjoy fun DIYs and ac...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-13",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 7,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-chillin-with-bama-dining-move-in-event-2026-08-14-outside-of-lakeside-dining-hall",
+      "title": "Chillin' With Bama Dining - Move-In Event",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/chillin-with-bama-dining-move-in-event",
+      "start": "2026-08-14T09:00:00-05:00",
+      "end": "2026-08-14T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Outside of Lakeside Dining Hall",
+      "address": "",
+      "description": "Move‑In Weekend Welcome turns Lakeside into a lively hub where students and families can enjoy a meal, chill with cold drinks, and get their questions answered. The mix of music, friendly faces, and simple fun sets the tone for a great sta...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
-        "periodName": "Thursday"
+        "precipitationChance": 5,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-nagpra-and-gis-workshop-2026-08-14-ten-hoor-hall",
+      "title": "NAGPRA and GIS Workshop",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/nagpra-and-gis-workshop",
+      "start": "2026-08-14T11:00:00-05:00",
+      "end": "2026-08-14T12:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "ten Hoor Hall",
+      "address": "350 Marrs Spring Road Tuscaloosa, Alabama 35401",
+      "description": "The University of Alabama Museums NAGPRA Program is hosting a NAGPRA and GIS Workshop on August 14, 2026 from 11:00 a.m. until 12:30 p.m. both in-person in ten Hoor Room 111 and online via a Zoom link. This workshop is open to anyone. W. C...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-connection-catalyst-fueling-belonging-at-work-2026-08-14-rose-administration-building",
+      "title": "Connection Catalyst: Fueling Belonging at Work",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/connection-catalyst-fueling-belonging-at-work-7547",
+      "start": "2026-08-14T12:00:00-05:00",
+      "end": "2026-08-14T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rose Administration Building",
+      "address": "801 UNIVERSITY BLVD , TUSCALOOSA , AL 35401",
+      "description": "Learn why connection at work matters, develop practical skills for building higher-quality relationships with colleagues, and make a personal commitment to take initiative. Lunch will be provided. Register through your WellBAMA portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "Friday"
       }
     },
     {
@@ -380,7 +336,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Friday"
@@ -402,7 +358,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Friday"
@@ -424,7 +380,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Friday"
@@ -446,7 +402,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Friday"
@@ -468,7 +424,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-14",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Friday"
@@ -490,9 +446,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-15",
-        "temperature": 102,
+        "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 7,
         "periodName": "Saturday"
       }
     },
@@ -512,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-15",
-        "temperature": 78,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 7,
         "periodName": "Saturday Night"
       }
     },
@@ -534,9 +490,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -556,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 101,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday"
       }
     },
@@ -573,14 +529,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Kentuck Open Studio: Clay View Bookmarks ### Moms & Mimosas Vie...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Moms & Mimosas Vie...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 77,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 18,
         "periodName": "Tuesday Night"
       }
     },
@@ -597,7 +553,14 @@
       "address": "",
       "description": "University of Alabama event listed on the campus calendar.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-basic-microsoft-excel-2026-08-19-main-library-computer-lab",
@@ -612,7 +575,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Learn the basics of Microsoft Excel, including spreadsheet design, formatting, opening, saving, and printing worksheets. Perfect for beginners and new users.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-quilting-group-2026-08-19-main-library-first-floor",
@@ -627,7 +597,14 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Beginners and seasoned quilters are welcome every Wednesday from 11:30 am to 2:00 pm. Come help us create for the community.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-poetry-club-2026-08-19-main-library-history-room",
@@ -642,6 +619,28 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
       "description": "&lt;p&gt;Love to write? Looking for a welcoming space to share your work or hear the work of other poets? Join us every Wednesday.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 17,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-campus-tour-and-welcome-social-2026-08-20-ua-student-center",
+      "title": "Campus Tour and Welcome Social",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/campus-tour-and-welcome-social",
+      "start": "2026-08-20T08:30:00-05:00",
+      "end": "2026-08-20T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center",
+      "address": "",
+      "description": "Join us for Campus Tour & Welcome Social at The University of Alabama! This event is a great chance for graduate students to explore campus, learn about important resources, and connect with other students from different programs. We will...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -670,7 +669,7 @@
       "timeStatus": "confirmed",
       "venue": "Dinah Washington Cultural Arts Center",
       "address": "620 Greensboro Ave, TUSCALOOSA, AL 35401",
-      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookma...",
+      "description": "BINGO NIGHT featuring dinner and live music! Buy Tickets HERE Proceeds benefit FOCUS 50+ prgrams for aging adults in Tuscaloosa. #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in America” Exhibit View Bookmarks ### “Clara...",
       "category": "Community",
       "isVirtual": false
     },
@@ -735,6 +734,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-bonfire-and-flapjacks-2026-08-24-off-campus",
+      "title": "Bonfire and Flapjacks",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bonfire-and-flapjacks",
+      "start": "2026-08-24T18:30:00-05:00",
+      "end": "2026-08-24T23:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Off-campus",
+      "address": "",
+      "description": "Enjoy a cozy evening around the fire with fresh pancakes! This off-campus hangout is designed for great conversations, tasty food, and an easygoing atmosphere for students to plug in.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-25-main-library-first-floor",
       "title": "Community Knit/Crochet Group",
       "source": "Tuscaloosa Public Library",
@@ -747,21 +761,6 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-08-25-uasc-3108",
-      "title": "UA Chess Club Weekly Meeting",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
-      "start": "2026-08-25T18:00:00-05:00",
-      "end": "2026-08-25T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UASC 3108",
-      "address": "",
-      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
-      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -792,6 +791,21 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;This intermediate Microsoft Excel class teaches patrons how to use formulas effectively, search and analyze spreadsheet data, and improve efficiency when working with worksheets.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-hypothesis-starter-assignments-2026-08-26",
+      "title": "Hypothesis: Starter Assignments",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/hypothesis-starter-assignments",
+      "start": "2026-08-26T10:00:00-05:00",
+      "end": "2026-08-26T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This workshop is ideal for instructors who are interested in using social annotation in their courses but aren’t exactly sure how to provide guidance to students. The Hypothesis team will review ideas for annotation starter assignments and...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -855,6 +869,36 @@
       "isVirtual": false
     },
     {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-27-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-08-27/",
+      "start": "2026-08-27T11:00:00-05:00",
+      "end": "2026-08-27T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "tuscaloosa-public-library-genealogy-workshop-2026-08-27-main-library-rotary-room",
+      "title": "Genealogy Workshop",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/genealogy-workshop-3/",
+      "start": "2026-08-27T17:30:00-05:00",
+      "end": "2026-08-27T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – Rotary Room",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
+      "description": "&lt;p&gt;Participants in our workshop will learn how to get started with genealogy research, navigate online resources and historical records, organize their findings, and preserve their family stories for future generations. Registration...",
+      "category": "Library",
+      "isVirtual": false
+    },
+    {
       "id": "visit-tuscaloosa-moundville-for-minis-fry-bread-2026-08-28-moundville-archaeological-park",
       "title": "Moundville for Minis: Fry Bread",
       "source": "Visit Tuscaloosa",
@@ -895,7 +939,7 @@
       "timeStatus": "confirmed",
       "venue": "Anthem Supply Co.",
       "address": "2119 University Blvd, Tuscaloosa, AL 35475",
-      "description": "Joined by Kris Mills on guitar! Doors open at 7 pm. Show will take place from 8-9 pm. Guests will receive two drink tickets for beer, wine or soda included with ticket. #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass...",
+      "description": "Joined by Kris Mills on guitar! Doors open at 7 pm. Show will take place from 8-9 pm. Guests will receive two drink tickets for beer, wine or soda included with ticket. #### Map ### Kentuck Open Studio: Clay View Bookmarks ### “Made in Ame...",
       "category": "Community",
       "isVirtual": false
     },
@@ -990,6 +1034,21 @@
       "isVirtual": false
     },
     {
+      "id": "visit-tuscaloosa-ua-high-school-theatre-and-dance-festival-2026-09-12-our-event-is-located-in-the-new-bryce-main-facilit",
+      "title": "UA High School Theatre & Dance Festival",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/ua-high-school-theatre-dance-festival/",
+      "start": "2026-09-12T08:30:00-05:00",
+      "end": "2026-09-12T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Our event is located in the new Bryce Main facility on the University of Alabama campus.",
+      "address": "",
+      "description": "Our High School Theatre and Dance Festival opens the door for students from Grades 9-12 to the next step in their training. By bringing together our High School Theatre Festival and the High School Dance Day, UA Theatre & Dance is excited...",
+      "category": "Community",
+      "isVirtual": false
+    },
+    {
       "id": "university-of-alabama-ua-high-school-theatre-and-dance-festival-2026-09-12-bryce-main",
       "title": "UA High School Theatre and Dance Festival",
       "source": "University of Alabama",
@@ -1001,21 +1060,6 @@
       "venue": "Bryce Main",
       "address": "",
       "description": "Our High School Theatre and Dance Festival opens the door for students from Grades 9-12 to the next step in their training. By bringing together our High School Theatre Festival and the High School Dance Day, UA Theatre & Dance is excited...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-relationship-rich-teaching-with-peter-felten-2026-09-16-the-university-of-alabama-student-center",
-      "title": "Relationship-Rich Teaching with Peter Felten",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/relationship-rich-teaching-with-peter-felten",
-      "start": "2026-09-16T12:00:00-05:00",
-      "end": "2026-09-16T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Student Center",
-      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
-      "description": "The UA Teaching Academy invites faculty to an afternoon with Peter Felten, professor of history, executive director of the Center for Engaged Learning and assistant provost for teaching and learning at Elon University. Felten is the author...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1065,36 +1109,6 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-ua-teaching-academy-coffee-talk-the-joy-reset-2026-09-25-university-hall",
-      "title": "UA Teaching Academy Coffee Talk: The Joy Reset",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-joy-reset-small-shifts-for-a-more-energizing-semester",
-      "start": "2026-09-25T09:30:00-05:00",
-      "end": "2026-09-25T10:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University Hall",
-      "address": "275 KILGORE LANE, TUSCALOOSA, AL 35401",
-      "description": "The UA Teaching Academy will host a Coffee Talk exploring practical, low-lift strategies for reconnecting with what you love about teaching and letting go of what may be getting in the way. When grading, meetings and competing demands begi...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-adhd-lunch-and-learn-what-to-do-before-learning-can-begin-building-the-foundation-for-student-succ",
-      "title": "ADHD Lunch and Learn: “What to Do Before Learning Can Begin: Building the Foundation for Student Success”",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/adhd-lunch-and-learn-what-to-do-before-learning-can-begin-building-the-foundation-for-student-success",
-      "start": "2026-09-30T12:00:00-05:00",
-      "end": "2026-09-30T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Students are most successful when they feel safe, connected and ready to learn. This Lunch and Learn explores how relationships, classroom culture, engagement and a sense of belonging influence academic achievement, with a particular focus...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
       "id": "university-of-alabama-moundville-native-american-festival-2026-10-01-moundville-archaeological-park",
       "title": "Moundville Native American Festival",
       "source": "University of Alabama",
@@ -1125,21 +1139,6 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-international-coffee-hour-2026-10-09-the-university-of-alabama-student-center",
-      "title": "International Coffee Hour",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/international-coffee-hour-4787",
-      "start": "2026-10-09T11:30:00-05:00",
-      "end": "2026-10-09T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Student Center",
-      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
-      "description": "Join the Student Government Association for a special International Coffee Hour on Thursday, October 9, from 11:30 a.m. to 1:00 p.m. in Room 2100 of the UA Student Center. This special edition of International Coffee Hour welcomes internat...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
       "id": "mercedes-benz-amphitheater-gov-t-mule-2026-10-09-mercedes-benz-amphitheater",
       "title": "Gov’t Mule",
       "source": "Mercedes-Benz Amphitheater",
@@ -1155,17 +1154,17 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-adulting-webinar-2026-10-15",
-      "title": "#Adulting Webinar",
+      "id": "university-of-alabama-transparency-in-learning-and-teaching-with-dr-mary-ann-winkelmes-2026-10-15",
+      "title": "Transparency in Learning and Teaching with Dr. Mary-Ann Winkelmes",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/adulting-webinar",
+      "sourceUrl": "https://calendar.ua.edu/event/transparency-in-learning-and-teaching-with-dr-mary-ann-winkelmes",
       "start": "2026-10-15T12:00:00-05:00",
       "end": "2026-10-15T13:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "",
       "address": "",
-      "description": "Think the Americans with Disabilities Act (ADA) only matters if you have a disability? Think again. From the ramps you walk up to the captions you scroll through, the ADA has shaped your college experience more than you might realize. Join...",
+      "description": "The UA Teaching Academy will host a national speaker webinar with Dr. Mary-Ann Winkelmes on Transparency in Learning and Teaching (TILT). TILT is a small, evidence-based adjustment to teaching, learning, advising and planning practices tha...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1256,21 +1255,6 @@
       "venue": "",
       "address": "",
       "description": "Mid-Semester Study Break - Classes Dismissed (UA offices open)",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-11-03-uasc-3115",
-      "title": "UA Chess Club Weekly Meeting",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-8701",
-      "start": "2026-11-03T18:00:00-06:00",
-      "end": "2026-11-03T20:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UASC 3115",
-      "address": "",
-      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
       "category": "Campus",
       "isVirtual": false
     },
