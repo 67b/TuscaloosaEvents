@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-15T11:33:07.757Z",
+  "updatedAt": "2026-08-16T11:32:59.939Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-15T11:33:07.756Z",
+  "weatherUpdatedAt": "2026-08-16T11:32:59.939Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,78 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-every-saturday-2026-08-15-tuscaloosa-river-market",
-      "title": "Tuscaloosa Farmers Market – Every Saturday",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
-      "start": "2026-08-15T07:00:00-05:00",
-      "end": "2026-08-15T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Tuscaloosa River Market",
-      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
-      "description": "Every Saturday morning from 7:00 am until noon, join thousands of people who enjoy Tuscaloosa’s award winning Farmers Market! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-15-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-15T09:00:00-05:00",
-      "end": "2026-08-15T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-15-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-15T09:00:00-05:00",
-      "end": "2026-08-15T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-chillin-with-bama-dining-move-in-event-2026-08-15-outside-of-lakeside-dining-hall",
+      "id": "university-of-alabama-chillin-with-bama-dining-move-in-event-2026-08-16-outside-of-lakeside-dining-hall",
       "title": "Chillin' With Bama Dining - Move-In Event",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/chillin-with-bama-dining-move-in-event",
-      "start": "2026-08-15T09:00:00-05:00",
-      "end": "2026-08-15T14:00:00-05:00",
+      "start": "2026-08-16T09:00:00-05:00",
+      "end": "2026-08-16T14:00:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Outside of Lakeside Dining Hall",
@@ -93,143 +27,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
+        "forecastDate": "2026-08-16",
+        "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 4,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-indian-independence-day-2026-2026-08-15-ua-student-center-lawn",
-      "title": "Indian Independence Day 2026",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/indian-independence-day-2026",
-      "start": "2026-08-15T09:00:00-05:00",
-      "end": "2026-08-15T10:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UA Student center Lawn",
-      "address": "",
-      "description": "We will be celebrating the Indian Independence Day on this particular day as the mark of India getting independence from British colonial rule. This will bring the Indian community at UA to come together and celebrate the importance of fre...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-15-southwest-corner-of-mccorvey-and-2nd-street-near-paty",
-      "title": "BCM Welcome Week Tables",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables",
-      "start": "2026-08-15T12:00:00-05:00",
-      "end": "2026-08-15T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Southwest Corner of McCorvey and 2nd Street (Near Paty)",
-      "address": "",
-      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-international-student-orientation-2026-08-15-ten-hoor-hall",
-      "title": "International Student Orientation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/international-student-orientation",
-      "start": "2026-08-15T13:00:00-05:00",
-      "end": "2026-08-15T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Ten Hoor Hall",
-      "address": "350 MARRS SPRING ROAD , TUSCALOOSA, AL 35401",
-      "description": "International Student Orientation will be held in-person on Saturday, August 15, 1 - 5 pm in 125 ten Hoor Hall. This orientation will cover immigration regulations, health care and health insurance, cultural adjustment, and academic adjust...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-15-kentuck-art-center",
-      "title": "Kentuck Open Studio: Clay",
-      "source": "Visit Tuscaloosa",
-      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
-      "start": "2026-08-15T17:00:00-05:00",
-      "end": "2026-08-15T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "inferred",
-      "venue": "Kentuck Art Center",
-      "address": "503 Main Ave., Northport, AL 35476",
-      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
-      "category": "Community",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 102,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-15-quad-near-gorgas",
-      "title": "BCM Welcome Week Tables",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-9296",
-      "start": "2026-08-15T19:00:00-05:00",
-      "end": "2026-08-15T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Quad near Gorgas",
-      "address": "",
-      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "university-of-alabama-movie-night-on-the-quad-2026-08-15-the-university-of-alabama-quad",
-      "title": "Movie Night on the Quad",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/movie-night-on-the-quad",
-      "start": "2026-08-15T19:30:00-05:00",
-      "end": "2026-08-15T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Quad",
-      "address": "",
-      "description": "Ready to go wild? Join us on the Quad for a special screening of Disney’s hit movie Zootopia 2! We’re serving up some super sweet treats for free, so sprint on over! See you there for a roarin’ good time.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-15",
-        "temperature": 76,
-        "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Tonight"
       }
     },
     {
@@ -248,10 +50,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-16",
-        "temperature": 102,
+        "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Sunday"
+        "precipitationChance": 4,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-16-southwest-corner-of-mccorvey-and-2nd-street-near-paty",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables",
+      "start": "2026-08-16T14:00:00-05:00",
+      "end": "2026-08-16T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Southwest Corner of McCorvey and 2nd Street (Near Paty)",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-16",
+        "temperature": 101,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Today"
       }
     },
     {
@@ -270,10 +94,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-16",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 3,
-        "periodName": "Sunday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -292,9 +116,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-17",
-        "temperature": 103,
+        "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 31,
         "periodName": "Monday"
       }
     },
@@ -314,9 +138,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-17",
-        "temperature": 103,
+        "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 31,
         "periodName": "Monday"
       }
     },
@@ -336,10 +160,76 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-17",
-        "temperature": 103,
+        "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 31,
         "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-cards-against-hypnosis-weeks-of-welcome-2026-08-17-university-of-alabama-student-center-theater",
+      "title": "Cards Against Hypnosis (Weeks of Welcome)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cards-against-hypnosis-weeks-of-welcome",
+      "start": "2026-08-17T19:00:00-05:00",
+      "end": "2026-08-17T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "University of Alabama Student Center Theater",
+      "address": "",
+      "description": "Get ready for a night you won’t forget—literally. Join us for a live Hypnosis Show where volunteers from the audience take the stage and experience the power of the mind in a hilarious, mind-blowing performance by David Hall. Choose a card...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-17",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 31,
+        "periodName": "Monday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-18-gorgas-house-museum",
+      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
+      "start": "2026-08-18T09:00:00-05:00",
+      "end": "2026-08-18T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 13,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-made-in-america-exhibit-2026-08-18-gorgas-house-museum",
+      "title": "“Made in America” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
+      "start": "2026-08-18T09:00:00-05:00",
+      "end": "2026-08-18T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gorgas House Museum",
+      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
+      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 13,
+        "periodName": "Tuesday"
       }
     },
     {
@@ -360,7 +250,51 @@
         "forecastDate": "2026-08-18",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 13,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-welcome-home-block-party-2026-08-18-ua-student-center",
+      "title": "Welcome Home Block Party",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/welcome-home-block-party-4573",
+      "start": "2026-08-18T13:00:00-05:00",
+      "end": "2026-08-18T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center",
+      "address": "751 Campus Drive, Tuscaloosa, AL 35401",
+      "description": "Take your first step to making UA feel like home for the upcoming academic year! You're invited to Welcome Home Block Party on Tuesday, August 18th from 1-4 p.m. at the UA Student Center. Check in at the Student Center Lawn. We will have m...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 13,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-welcome-home-block-party-2026-08-18-ua-student-center-lawn",
+      "title": "Welcome Home Block Party",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/welcome-home-block-party",
+      "start": "2026-08-18T13:00:00-05:00",
+      "end": "2026-08-18T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Lawn",
+      "address": "751 Campus Drive W, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Take your first step to making UA feel like home for the upcoming academic year! You're invited to Welcome Home Block Party on Tuesday, August 18th from 1-4 p.m. at the UA Student Center. Check in at the Student Center Lawn. We will have m...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 13,
         "periodName": "Tuesday"
       }
     },
@@ -382,7 +316,7 @@
         "forecastDate": "2026-08-18",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 13,
         "periodName": "Tuesday"
       }
     },
@@ -397,14 +331,14 @@
       "timeStatus": "confirmed",
       "venue": "The Historic Bama Theatre",
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
-      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Tuscaloosa Farmers Market – Every Saturday View Bookmarks ### P...",
+      "description": "Portal to Hell and Q&A with Trey Holland and Ryan Follesé #### Map ### “Made in America” Exhibit View Bookmarks ### “Clara Maass: She Gave Her Life” Exhibit View Bookmarks ### Portal to Hell View Bookmarks ### Boots & BINGO View Bookmarks...",
       "category": "Community",
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 13,
         "periodName": "Tuesday Night"
       }
     },
@@ -424,9 +358,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-19",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -446,9 +380,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-19",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -468,9 +402,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-19",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -490,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-19",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 17,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -512,9 +446,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 97,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 23,
         "periodName": "Thursday"
       }
     },
@@ -534,9 +468,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 97,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 23,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-kentuck-open-studio-clay-2026-08-20-kentuck-art-center",
+      "title": "Kentuck Open Studio: Clay",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/kentuck-open-studio-clay/",
+      "start": "2026-08-20T17:00:00-05:00",
+      "end": "2026-08-20T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Kentuck Art Center",
+      "address": "503 Main Ave., Northport, AL 35476",
+      "description": "Open Studio: Clay Age Range:18+ Tuition $40/3hours 3lbs of clay provided Dates: Thursdays 5-8pm and Saturdays 10-1pm Location: Kentuck’s Clay Studio Registration Ends the Day Before Class at 5pm Open studio is the opportunity for people to...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-20",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
         "periodName": "Thursday"
       }
     },
@@ -556,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
+        "precipitationChance": 24,
         "periodName": "Thursday Night"
       }
     },
@@ -580,8 +536,30 @@
         "forecastDate": "2026-08-21",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 30,
         "periodName": "Friday"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-tuscaloosa-farmers-market-every-saturday-2026-08-22-tuscaloosa-river-market",
+      "title": "Tuscaloosa Farmers Market – Every Saturday",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/tuscaloosa-farmers-market/",
+      "start": "2026-08-22T07:00:00-05:00",
+      "end": "2026-08-22T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "inferred",
+      "venue": "Tuscaloosa River Market",
+      "address": "1900 Jack Warner Pkwy, Tuscaloosa, AL",
+      "description": "Every Saturday morning from 7:00 am until noon, join thousands of people who enjoy Tuscaloosa’s award winning Farmers Market! Featuring fresh, locally grown produce; grass-fed meats; unique artisan crafts; and an Alabama authenticity that...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-22",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
       }
     },
     {
@@ -597,7 +575,14 @@
       "address": "651 20th Avenue, Tuscaloosa, AL 35401",
       "description": "Come support the fight to end illiteracy in West Alabama by supporting the Literacy Council of West Alabama’s book sale! On Saturday, August 22, from 10:00 AM to 2:00 PM in the courtyard at Ernest & Hadley Booksellers in downtown Tuscaloos...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-22",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "university-of-alabama-lake-day-2026-08-22-sunshine-pointe",
@@ -612,7 +597,14 @@
       "address": "16800 Sunshine Pointe, Northport, Alabama, Northport, Alabama",
       "description": "Join us for an afternoon of swimming, tubing, and hanging out in the sun at Sunshine Pointe. It's a great opportunity for students to get off-campus for a bit and build deeper connections.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-22",
+        "temperature": 95,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "visit-tuscaloosa-back-n-black-the-ultimate-powered-up-ac-dc-experience-2026-08-22-the-historic-bama-theatre",
@@ -627,7 +619,14 @@
       "address": "600 Greensboro Ave, Tuscaloosa, AL 35401",
       "description": "Back n Black: The Ultimate Powered Up AC/DC Experience is a national tribute band that recreates an actual AC/DC live show. The band is passionate about bringing the energy and spirit of AC/DC to audiences around the country. Let our sight...",
       "category": "Community",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-22",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 24,
+        "periodName": "Saturday Night"
+      }
     },
     {
       "id": "university-of-alabama-differential-diagnosis-using-the-diagnostic-and-statistical-manual-of-mental-disorders-dsm-5-tr-20",
@@ -672,6 +671,21 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-08-25-uasc-3108",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
+      "start": "2026-08-25T18:00:00-05:00",
+      "end": "2026-08-25T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3108",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -1125,21 +1139,6 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-ua-teaching-academy-coffee-talk-the-joy-reset-2026-09-25-university-hall",
-      "title": "UA Teaching Academy Coffee Talk: The Joy Reset",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/the-joy-reset-small-shifts-for-a-more-energizing-semester",
-      "start": "2026-09-25T09:30:00-05:00",
-      "end": "2026-09-25T10:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University Hall",
-      "address": "275 KILGORE LANE, TUSCALOOSA, AL 35401",
-      "description": "The UA Teaching Academy will host a Coffee Talk exploring practical, low-lift strategies for reconnecting with what you love about teaching and letting go of what may be getting in the way. When grading, meetings and competing demands begi...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
       "id": "university-of-alabama-moundville-native-american-festival-2026-10-01-moundville-archaeological-park",
       "title": "Moundville Native American Festival",
       "source": "University of Alabama",
@@ -1286,6 +1285,36 @@
       "venue": "",
       "address": "",
       "description": "Mid-Semester Study Break - Classes Dismissed (UA offices open)",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-11-03-uasc-3115",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-8701",
+      "start": "2026-11-03T18:00:00-06:00",
+      "end": "2026-11-03T20:30:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3115",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-teaching-academy-coffee-talk-building-successful-collaborative-presentation-assignments-2026-11",
+      "title": "UA Teaching Academy Coffee Talk: Building Successful Collaborative Presentation Assignments",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-teaching-academy-coffee-talk-building-successful-collaborative-presentation-assignments",
+      "start": "2026-11-13T09:30:00-06:00",
+      "end": "2026-11-13T10:30:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Ten Hoor Hall",
+      "address": "350 MARRS SPRING ROAD , TUSCALOOSA, AL 35401",
+      "description": "The UA Teaching Academy will host a Coffee Talk exploring how collaborative presentation assignments can support student learning across a range of courses and disciplines. Whether you have assigned collaborative presentations for years or...",
       "category": "Campus",
       "isVirtual": false
     },
