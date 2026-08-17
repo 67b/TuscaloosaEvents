@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-16T11:32:59.939Z",
+  "updatedAt": "2026-08-17T11:39:01.888Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-16T11:32:59.939Z",
+  "weatherUpdatedAt": "2026-08-17T11:39:01.887Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -12,94 +12,6 @@
   ],
   "warnings": [],
   "events": [
-    {
-      "id": "university-of-alabama-chillin-with-bama-dining-move-in-event-2026-08-16-outside-of-lakeside-dining-hall",
-      "title": "Chillin' With Bama Dining - Move-In Event",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/chillin-with-bama-dining-move-in-event",
-      "start": "2026-08-16T09:00:00-05:00",
-      "end": "2026-08-16T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Outside of Lakeside Dining Hall",
-      "address": "",
-      "description": "Move‑In Weekend Welcome turns Lakeside into a lively hub where students and families can enjoy a meal, chill with cold drinks, and get their questions answered. The mix of music, friendly faces, and simple fun sets the tone for a great sta...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-16",
-        "temperature": 101,
-        "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pool-party-up-engage-2026-08-16-urec",
-      "title": "Pool Party (UP Engage)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pool-party-up-engage",
-      "start": "2026-08-16T13:00:00-05:00",
-      "end": "2026-08-16T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UREC",
-      "address": "",
-      "description": "Want a delightful way to chill out and have some fun? Join UP for a Sweet Escape Pool Party, where we celebrate with sugar, spice, and everything nice! Take a cool dip in the pool, then stop by for some even cooler treats at the Bama Caban...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-16",
-        "temperature": 101,
-        "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-16-southwest-corner-of-mccorvey-and-2nd-street-near-paty",
-      "title": "BCM Welcome Week Tables",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables",
-      "start": "2026-08-16T14:00:00-05:00",
-      "end": "2026-08-16T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Southwest Corner of McCorvey and 2nd Street (Near Paty)",
-      "address": "",
-      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-16",
-        "temperature": 101,
-        "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-games-on-the-quad-2026-08-16-the-quad",
-      "title": "Games on the Quad",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/games-on-the-quad",
-      "start": "2026-08-16T18:00:00-05:00",
-      "end": "2026-08-16T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Quad",
-      "address": "900 University Boulevard East, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Tide 4 Christ is hosting games on the quad. This is welcome to all students and is an amazing opportunity to get to play some fun games, hangout on the quad, and get to meet new people!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-16",
-        "temperature": 79,
-        "temperatureUnit": "F",
-        "precipitationChance": 3,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-17-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
@@ -118,8 +30,8 @@
         "forecastDate": "2026-08-17",
         "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
-        "periodName": "Monday"
+        "precipitationChance": 27,
+        "periodName": "Today"
       }
     },
     {
@@ -140,8 +52,8 @@
         "forecastDate": "2026-08-17",
         "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
-        "periodName": "Monday"
+        "precipitationChance": 27,
+        "periodName": "Today"
       }
     },
     {
@@ -162,8 +74,8 @@
         "forecastDate": "2026-08-17",
         "temperature": 101,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
-        "periodName": "Monday"
+        "precipitationChance": 27,
+        "periodName": "Today"
       }
     },
     {
@@ -184,8 +96,8 @@
         "forecastDate": "2026-08-17",
         "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
-        "periodName": "Monday Night"
+        "precipitationChance": 27,
+        "periodName": "Tonight"
       }
     },
     {
@@ -204,9 +116,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
         "periodName": "Tuesday"
       }
     },
@@ -226,9 +138,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
         "periodName": "Tuesday"
       }
     },
@@ -248,9 +160,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
         "periodName": "Tuesday"
       }
     },
@@ -270,9 +182,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
         "periodName": "Tuesday"
       }
     },
@@ -292,9 +204,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-teaching-with-technology-2026-08-18",
+      "title": "Teaching with Technology",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/teaching-with-technology-7458",
+      "start": "2026-08-18T13:30:00-05:00",
+      "end": "2026-08-18T16:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Teaching with Tech is an opportunity for faculty and instructors to get ready for the fall semester with practical, hands-on strategies for using technology to enhance teaching and learning. These interactive sessions are designed to help...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-change-management-2026-08-18-employee-resource-center",
+      "title": "Change Management",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/change-management",
+      "start": "2026-08-18T15:30:00-05:00",
+      "end": "2026-08-18T16:45:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Employee Resource Center",
+      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
+      "description": "Change is a constant in our lives, from technology, processes, methods to people, and affect the way we perform our activities. The change management course presents concepts on how to implement and lead changes more smoothly and to have t...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
         "periodName": "Tuesday"
       }
     },
@@ -314,10 +270,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
         "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-cookout-on-the-quad-2026-08-18-quad",
+      "title": "Cookout on the Quad",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cookout-on-the-quad",
+      "start": "2026-08-18T18:00:00-05:00",
+      "end": "2026-08-18T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Quad",
+      "address": "",
+      "description": "Join Bama Dining on Tuesday, August 18 for a Cookout on the Quad! This event is open to the entire UA community (students, faculty, & staff) to kick of the fall semester. We'll have BBQ, lawn games, music, and more. First year students - l...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Tuesday Night"
       }
     },
     {
@@ -336,9 +314,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 76,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 6,
         "periodName": "Tuesday Night"
       }
     },
@@ -360,7 +338,7 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 2,
         "periodName": "Wednesday"
       }
     },
@@ -382,7 +360,7 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 2,
         "periodName": "Wednesday"
       }
     },
@@ -404,7 +382,7 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 2,
         "periodName": "Wednesday"
       }
     },
@@ -426,7 +404,7 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 2,
         "periodName": "Wednesday"
       }
     },
@@ -446,9 +424,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 21,
         "periodName": "Thursday"
       }
     },
@@ -468,9 +446,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 21,
         "periodName": "Thursday"
       }
     },
@@ -490,9 +468,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 99,
+        "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 23,
+        "precipitationChance": 21,
         "periodName": "Thursday"
       }
     },
@@ -514,7 +492,7 @@
         "forecastDate": "2026-08-20",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 21,
         "periodName": "Thursday Night"
       }
     },
@@ -536,7 +514,7 @@
         "forecastDate": "2026-08-21",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 26,
         "periodName": "Friday"
       }
     },
@@ -556,7 +534,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-22",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
         "precipitationChance": 24,
         "periodName": "Saturday"
@@ -578,7 +556,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-22",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
         "precipitationChance": 24,
         "periodName": "Saturday"
@@ -600,7 +578,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-22",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
         "precipitationChance": 24,
         "periodName": "Saturday"
@@ -671,6 +649,36 @@
       "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
       "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-why-learn-to-code-with-r-2026-08-25",
+      "title": "Why learn to code with R?",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/why-learn-to-code-with-r-1160",
+      "start": "2026-08-25T13:00:00-05:00",
+      "end": "2026-08-25T14:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This workshop introduces R not primarily as a programming language to master, but as a tool for working with data, making research more reproducible, and expanding what researchers and students can do with information. The session is desig...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-basic-excel-online-2026-08-25",
+      "title": "Basic Excel (Online)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/basic-excel-online",
+      "start": "2026-08-25T16:00:00-05:00",
+      "end": "2026-08-25T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This introductory class is designed to get students of any level familiar with the basics of Excel. Upon completion of this class, you will know how to upload various file types into Excel, manipulate and format various data types and prop...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -851,6 +859,21 @@
       "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
       "description": "&lt;p&gt;Sign up for an hour of instruction on our sewing machines. Bring a simple repair or alteration or learn to sew by making a project.&lt;/p&gt;\\n",
       "category": "Library",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-01-uasc-3111",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-1661",
+      "start": "2026-09-01T18:00:00-05:00",
+      "end": "2026-09-01T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3111",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -1061,36 +1084,6 @@
       "address": "810 2nd Ave, Tuscaloosa, AL 35487",
       "description": "Whether you are a longtime symphony patron or attending your first performance, We The People promises an unforgettable evening of inspiring music, exceptional artistry, and a celebration of the ideals that unite us. Featuring acclaimed Tu...",
       "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-relationship-rich-teaching-with-peter-felten-2026-09-16-the-university-of-alabama-student-center",
-      "title": "Relationship-Rich Teaching with Peter Felten",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/relationship-rich-teaching-with-peter-felten",
-      "start": "2026-09-16T12:00:00-05:00",
-      "end": "2026-09-16T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Student Center",
-      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
-      "description": "The UA Teaching Academy invites faculty to an afternoon with Peter Felten, professor of history, executive director of the Center for Engaged Learning and assistant provost for teaching and learning at Elon University. Felten is the author...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ai-for-idea-generation-2026-09-16-mclure-library",
-      "title": "AI for Idea Generation",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ai-for-idea-generation",
-      "start": "2026-09-16T12:30:00-05:00",
-      "end": "2026-09-16T13:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "McLure Library",
-      "address": "918 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
-      "description": "This will be a hands-on workshop walking through the use of AI for idea generation that can serve research and creative activities alike.",
-      "category": "Campus",
       "isVirtual": false
     },
     {
