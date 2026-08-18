@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-17T11:39:01.888Z",
+  "updatedAt": "2026-08-18T11:39:49.891Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-17T11:39:01.887Z",
+  "weatherUpdatedAt": "2026-08-18T11:39:49.891Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -13,12 +13,12 @@
   "warnings": [],
   "events": [
     {
-      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-17-paul-r-jones-museum",
+      "id": "university-of-alabama-the-domestic-liminal-exhibition-2026-08-18-paul-r-jones-museum",
       "title": "\"The Domestic Liminal\" Exhibition",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/the-domestic-liminal-exhibition",
-      "start": "2026-08-17T00:00:00-05:00",
-      "end": "2026-08-17T00:00:00-05:00",
+      "start": "2026-08-18T00:00:00-05:00",
+      "end": "2026-08-18T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -27,77 +27,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-08-17",
-        "temperature": 101,
+        "forecastDate": "2026-08-18",
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 22,
         "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-teaching-with-technology-2026-08-17-gordon-palmer-hall",
-      "title": "Teaching with Technology",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/teaching-with-technology",
-      "start": "2026-08-17T08:30:00-05:00",
-      "end": "2026-08-17T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gordon Palmer Hall",
-      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "Teaching with Tech is an opportunity for faculty and instructors to get ready for the fall semester with practical, hands-on strategies for using technology to enhance teaching and learning. These interactive sessions are designed to help...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-17",
-        "temperature": 101,
-        "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-17-inside-student-center-near-elephant",
-      "title": "BCM Welcome Week Tables",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-992",
-      "start": "2026-08-17T12:00:00-05:00",
-      "end": "2026-08-17T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Inside Student Center near Elephant",
-      "address": "",
-      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-17",
-        "temperature": 101,
-        "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-cards-against-hypnosis-weeks-of-welcome-2026-08-17-university-of-alabama-student-center-theater",
-      "title": "Cards Against Hypnosis (Weeks of Welcome)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cards-against-hypnosis-weeks-of-welcome",
-      "start": "2026-08-17T19:00:00-05:00",
-      "end": "2026-08-17T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Student Center Theater",
-      "address": "",
-      "description": "Get ready for a night you won’t forget—literally. Join us for a live Hypnosis Show where volunteers from the audience take the stage and experience the power of the mind in a hilarious, mind-blowing performance by David Hall. Choose a card...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-17",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 27,
-        "periodName": "Tonight"
       }
     },
     {
@@ -116,10 +50,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -138,10 +72,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -160,10 +94,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-bcm-welcome-week-tables-2026-08-18-inside-student-center-near-elephant",
+      "title": "BCM Welcome Week Tables",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bcm-welcome-week-tables-992",
+      "start": "2026-08-18T12:00:00-05:00",
+      "end": "2026-08-18T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Inside Student Center near Elephant",
+      "address": "",
+      "description": "These tables are designed as a way to welcome Students to Campus and to promote our Welcome Week Events! We will also be handing out bottled water, fans, and allowing students to sign up for a chance to win a SupeStore Gift Card!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -182,10 +138,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -204,10 +160,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -226,10 +182,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -248,10 +204,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -270,10 +226,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday"
+        "precipitationChance": 22,
+        "periodName": "Today"
       }
     },
     {
@@ -292,10 +248,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 22,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-script-a-weeks-of-welcome-2026-08-18-bryant-denny-stadium",
+      "title": "Script A (Weeks of Welcome)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/script_a_weeks_of_welcome",
+      "start": "2026-08-18T18:00:00-05:00",
+      "end": "2026-08-18T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bryant-Denny Stadium",
+      "address": "920 BRYANT DRIVE , TUSCALOOSA, AL 35401",
+      "description": "Class of 2030 - this one is for you! Join us on Tuesday, August 18 on Saban Field in Bryant-Denny Stadium for your official class photo! Gates open at 5PM and the program start at 6PM. You'll hear from our plenty of guest speakers, and get...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-volleyball-fall-blitz-2026-08-18-burke-sand-volleyball-court",
+      "title": "Volleyball - Fall Blitz",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/volleyball-fall-blitz",
+      "start": "2026-08-18T18:00:00-05:00",
+      "end": "2026-08-18T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Burke Sand Volleyball Court",
+      "address": "921 6th Ave, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Kick off the semester with some friendly competition and fellowship at the Burke sand volleyball courts! This is a great, low-pressure way for new students to jump in, meet the community, and have some fun.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-18",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 22,
+        "periodName": "Tonight"
       }
     },
     {
@@ -314,10 +314,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-18",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Tuesday Night"
+        "precipitationChance": 22,
+        "periodName": "Tonight"
       }
     },
     {
@@ -338,7 +338,29 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 10,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-first-day-of-class-study-tips-and-treats-2026-08-19-university-of-alabama-student-center",
+      "title": "First Day of Class Study Tips & Treats",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/first-day-of-class-study-tips-treats",
+      "start": "2026-08-19T09:00:00-05:00",
+      "end": "2026-08-19T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "University of Alabama Student Center",
+      "address": "751 Campus W Dr, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Happy First Day UA! The Greek Programming Board is excited to welcome back students to campus for the Fall semester. In partnership with the Capstone Center for Student Success, students will be able to receive information on the center's...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -360,7 +382,29 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 10,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-fcm-tabling-2026-08-19-the-quad",
+      "title": "FCM Tabling",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fcm-tabling-785",
+      "start": "2026-08-19T09:30:00-05:00",
+      "end": "2026-08-19T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad",
+      "address": "",
+      "description": "Tabling with First College Ministry",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -382,7 +426,7 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
       }
     },
@@ -404,8 +448,52 @@
         "forecastDate": "2026-08-19",
         "temperature": 100,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 10,
         "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-vssa-s-fall-first-general-meeting-2026-2026-08-19-bevill-1000",
+      "title": "VSSA's Fall First General Meeting 2026",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/vssas-fall-first-general-meeting-2026",
+      "start": "2026-08-19T17:30:00-05:00",
+      "end": "2026-08-19T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bevill 1000",
+      "address": "",
+      "description": "Join VSSA's First General Meeting to kick off the new school year! Meet fellow Vietnamese and international students, learn about life at The University of Alabama, discover upcoming events, and explore the beauty of Vietnamese culture, tr...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 100,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-midweek-worship-fall-blitz-2026-08-19-student-center",
+      "title": "Midweek Worship - Fall Blitz",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/midweek-worship-fall-blitz",
+      "start": "2026-08-19T19:00:00-05:00",
+      "end": "2026-08-19T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Student Center",
+      "address": "751 Campus Drive W, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Our first official gathering of the year will be at the Student Center! We’ll be welcoming new faces, sharing the heart of our campus ministry, and connecting with students as classes begin.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-19",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
+        "periodName": "Wednesday Night"
       }
     },
     {
@@ -424,9 +512,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 29,
         "periodName": "Thursday"
       }
     },
@@ -446,9 +534,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 29,
         "periodName": "Thursday"
       }
     },
@@ -468,9 +556,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-20",
-        "temperature": 100,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 29,
         "periodName": "Thursday"
       }
     },
@@ -492,7 +580,29 @@
         "forecastDate": "2026-08-20",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 21,
+        "precipitationChance": 34,
+        "periodName": "Thursday Night"
+      }
+    },
+    {
+      "id": "visit-tuscaloosa-alabama-soccer-vs-6-tcu-2026-08-20-alabama-soccer-stadium",
+      "title": "Alabama Soccer vs #6 TCU",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/alabama-soccer-vs-6-tcu/",
+      "start": "2026-08-20T19:00:00-05:00",
+      "end": "2026-08-20T22:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Alabama Soccer Stadium",
+      "address": "500 Peter Bryce Blvd, Tuscaloosa, AL 35401",
+      "description": "Alabama Soccer welcomes #6 TCU to Tuscaloosa for an exciting matchup to kick off the Athletics season! The first 1,000 fans in attendance will receive a free Alabama Soccer Vuvuzela Horn, so get out to the Alabama Soccer Stadium on Thursda...",
+      "category": "Community",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-20",
+        "temperature": 76,
+        "temperatureUnit": "F",
+        "precipitationChance": 34,
         "periodName": "Thursday Night"
       }
     },
@@ -514,8 +624,52 @@
         "forecastDate": "2026-08-21",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 26,
+        "precipitationChance": 30,
         "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-know-your-libraries-2026-08-21-camellia-room-gorgas-library",
+      "title": "Know Your Libraries",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/know-your-libraries",
+      "start": "2026-08-21T16:00:00-05:00",
+      "end": "2026-08-21T17:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Camellia Room, Gorgas Library",
+      "address": "711 Capstone Dr, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Workshop on how to navigate the Library resources as grad students at the University of Alabama. Join us for a review and tour of electronic collections and other research tools available.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-21",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Friday"
+      }
+    },
+    {
+      "id": "university-of-alabama-block-party-2026-08-21-bama-catholic",
+      "title": "Block Party",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/block-party",
+      "start": "2026-08-21T19:00:00-05:00",
+      "end": "2026-08-21T21:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bama Catholic",
+      "address": "811 5th Ave, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "All college students are invited to join us for our Hometown Throwdown Block Party. Come enjoy food, fellowship, and more on the Saban Catholic Student Center front lawn.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-21",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 30,
+        "periodName": "Friday Night"
       }
     },
     {
@@ -534,9 +688,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-22",
-        "temperature": 94,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 8,
         "periodName": "Saturday"
       }
     },
@@ -556,9 +710,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-22",
-        "temperature": 94,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 8,
         "periodName": "Saturday"
       }
     },
@@ -578,9 +732,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-22",
-        "temperature": 94,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 8,
         "periodName": "Saturday"
       }
     },
@@ -602,7 +756,7 @@
         "forecastDate": "2026-08-22",
         "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 24,
+        "precipitationChance": 8,
         "periodName": "Saturday Night"
       }
     },
@@ -619,7 +773,14 @@
       "address": "",
       "description": "The DSM-5-TR is designed to serve clinicians as a guide to identify the most prominent symptoms to be assessed when differentially diagnosing a mental health disorder. Clinical training and experience are needed to use the DSM-5-TR. The di...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Monday"
+      }
     },
     {
       "id": "university-of-alabama-bonfire-and-flapjacks-2026-08-24-off-campus",
@@ -634,7 +795,14 @@
       "address": "",
       "description": "Enjoy a cozy evening around the fire with fresh pancakes! This off-campus hangout is designed for great conversations, tasty food, and an easygoing atmosphere for students to plug in.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 11,
+        "periodName": "Monday Night"
+      }
     },
     {
       "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-08-25-main-library-first-floor",
@@ -678,21 +846,6 @@
       "venue": "",
       "address": "",
       "description": "This introductory class is designed to get students of any level familiar with the basics of Excel. Upon completion of this class, you will know how to upload various file types into Excel, manipulate and format various data types and prop...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-08-25-uasc-3108",
-      "title": "UA Chess Club Weekly Meeting",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
-      "start": "2026-08-25T18:00:00-05:00",
-      "end": "2026-08-25T20:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UASC 3108",
-      "address": "",
-      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
       "category": "Campus",
       "isVirtual": false
     },
@@ -862,17 +1015,17 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-01-uasc-3111",
-      "title": "UA Chess Club Weekly Meeting",
+      "id": "university-of-alabama-bfsa-scholars-interest-meeting-2026-09-02-the-university-of-alabama-student-center",
+      "title": "BFSA Scholars Interest Meeting",
       "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-1661",
-      "start": "2026-09-01T18:00:00-05:00",
-      "end": "2026-09-01T20:30:00-05:00",
+      "sourceUrl": "https://calendar.ua.edu/event/bfsa-scholars-interest-meeting",
+      "start": "2026-09-02T17:30:00-05:00",
+      "end": "2026-09-02T18:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "UASC 3111",
-      "address": "",
-      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "venue": "The University of Alabama Student Center",
+      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
+      "description": "The mission of the Black Scholars Program is to provide an opportunity for African American and multicultural students who have excelled academically to develop, prepare, and gain entry into the University of Alabama Honors College and oth...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -922,18 +1075,18 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-08-uasc-2408",
-      "title": "UA Chess Club Weekly Meeting",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-6226",
-      "start": "2026-09-08T18:00:00-05:00",
-      "end": "2026-09-08T20:30:00-05:00",
+      "id": "visit-tuscaloosa-movement-in-the-museum-sea-and-serenity-yoga-2026-09-08",
+      "title": "Movement in the Museum: Sea and Serenity Yoga",
+      "source": "Visit Tuscaloosa",
+      "sourceUrl": "https://visittuscaloosa.com/event/movement-in-the-museum-sea-and-serenity-yoga/",
+      "start": "2026-09-08T17:45:00-05:00",
+      "end": "2026-09-08T18:30:00-05:00",
       "allDay": false,
       "timeStatus": "confirmed",
-      "venue": "UASC 2408",
+      "venue": "",
       "address": "",
-      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
-      "category": "Campus",
+      "description": "Join the Alabama Museum of Natural History and University Recreation for “Sea and Serenity” Yoga on September 8, 2026 from 5:45 p.m. until 6:30 p.m. Each session of “Movement in the Museum” is hosted by a trained UREC instructor and this c...",
+      "category": "Community",
       "isVirtual": false
     },
     {
@@ -949,51 +1102,6 @@
       "address": "",
       "description": "Tasting Tuscaloosa is a chef-led walking food tour through downtown Tuscaloosa each Wednesday evening, featuring five to six locally owned restaurants selected for their quality, creativity, and connection to the city. Guests enjoy thought...",
       "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-dch-blanket-and-toy-drive-2026-09-09-student-center-plaza",
-      "title": "DCH Blanket and Toy Drive",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/dch-blanket-and-toy-drive",
-      "start": "2026-09-09T10:30:00-05:00",
-      "end": "2026-09-09T14:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center Plaza",
-      "address": "",
-      "description": "We will be collecting blanket and toy donations for children in pediatric care within the DCH Health System. We will then deliver the donations to DCH Volunteer Services. All toys must be in their original packaging or have a tag attached.",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ua-b-joe-s-talk-2026-09-09-student-center-room-3300-ballroom",
-      "title": "UA B+ Joe's Talk",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-b-joes-talk",
-      "start": "2026-09-09T18:30:00-05:00",
-      "end": "2026-09-09T21:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center Room 3300 Ballroom",
-      "address": "751 Campus Dr W, Tuscaloosa, Alabama, Tuscaloosa, Alabama",
-      "description": "The founder of the Andrew McDonough B+ Foundation, Joe McDonough, is coming to the University to host this event. The event is informational where Joe explains what the foundation is and why he created it. This event is for new members to...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-how-to-work-with-complicated-people-practical-strategies-for-collaboration-2026-09-10-employee-res",
-      "title": "How to Work with Complicated People: Practical Strategies for Collaboration",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/how-to-work-with-complicated-people-practical-strategies-for-collaboration",
-      "start": "2026-09-10T15:00:00-05:00",
-      "end": "2026-09-10T16:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Based on Ryan Leak’s 2025 best-seller How to Work with Complicated People: Strategies for Effective Collaboration with Nearly Anyone, this interactive workshop equips employees of all levels with practical strategies for navigating challen...",
-      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -1024,21 +1132,6 @@
       "address": "",
       "description": "Our High School Theatre and Dance Festival opens the door for students from Grades 9-12 to the next step in their training. By bringing together our High School Theatre Festival and the High School Dance Day, UA Theatre & Dance is excited...",
       "category": "Community",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ua-high-school-theatre-and-dance-festival-2026-09-12-bryce-main",
-      "title": "UA High School Theatre and Dance Festival",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-high-school-theatre-and-dance-festival",
-      "start": "2026-09-12T08:30:00-05:00",
-      "end": "2026-09-12T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryce Main",
-      "address": "",
-      "description": "Our High School Theatre and Dance Festival opens the door for students from Grades 9-12 to the next step in their training. By bringing together our High School Theatre Festival and the High School Dance Day, UA Theatre & Dance is excited...",
-      "category": "Campus",
       "isVirtual": false
     },
     {
@@ -1278,21 +1371,6 @@
       "venue": "",
       "address": "",
       "description": "Mid-Semester Study Break - Classes Dismissed (UA offices open)",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-11-03-uasc-3115",
-      "title": "UA Chess Club Weekly Meeting",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-8701",
-      "start": "2026-11-03T18:00:00-06:00",
-      "end": "2026-11-03T20:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UASC 3115",
-      "address": "",
-      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
       "category": "Campus",
       "isVirtual": false
     },
