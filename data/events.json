@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-22T11:34:11.560Z",
+  "updatedAt": "2026-08-23T11:33:40.116Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-22T11:34:11.559Z",
+  "weatherUpdatedAt": "2026-08-23T11:33:40.115Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,182 +14,6 @@
     "https://visittuscaloosa.com/events/ returned 403"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-22-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-22T09:00:00-05:00",
-      "end": "2026-08-22T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-22-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-22T09:00:00-05:00",
-      "end": "2026-08-22T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through August 29, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated to...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-super-soaker-capture-the-flag-2026-08-22-gorgas-house-museum",
-      "title": "Super Soaker Capture the Flag",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/super-soaker-capture-the-flag",
-      "start": "2026-08-22T12:00:00-05:00",
-      "end": "2026-08-22T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "On Saturday, August 22, 2026 from 12:00 p.m. - 2:00 p.m., University of Alabama students are invited to the Gorgas House Museum to cool off with a free game of Super Soaker Capture the Flag and learn about the history of the Super Soaker!...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-super-soaker-capture-the-flag-ua-students-only-2026-08-22-gorgas-house-museum",
-      "title": "Super Soaker Capture the Flag (UA Students Only)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/super-soaker-capture-the-flag-ua-students-only",
-      "start": "2026-08-22T12:00:00-05:00",
-      "end": "2026-08-22T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "On Saturday, August 22, 2026 from 12:00 p.m. - 2:00 p.m., University of Alabama students are invited to the Gorgas House Museum to cool off with a free game of Super Soaker Capture the Flag and learn about the history of the Super Soaker!...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-lake-day-2026-08-22-sunshine-pointe",
-      "title": "Lake Day",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/lake-day",
-      "start": "2026-08-22T14:00:00-05:00",
-      "end": "2026-08-22T22:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Sunshine Pointe",
-      "address": "16800 Sunshine Pointe, Northport, Alabama, Northport, Alabama",
-      "description": "Join us for an afternoon of swimming, tubing, and hanging out in the sun at Sunshine Pointe. It's a great opportunity for students to get off-campus for a bit and build deeper connections.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-big-al-s-mystery-night-weeks-of-welcome-2026-08-22-university-of-alabama-student-center-great-hall",
-      "title": "Big Al's Mystery Night (Weeks of Welcome)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/big-als-mystery-night-weeks-of-welcome",
-      "start": "2026-08-22T17:00:00-05:00",
-      "end": "2026-08-22T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Student Center Great Hall",
-      "address": "",
-      "description": "Something suspicious is happening at The University of Alabama… Big Al has vanished! Join us for Big Al's Mystery Night, an interactive Mystery Night where secrets, clues, and crimson conspiracies take over campus. Work with friends to int...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-masquerade-madness-weeks-of-welcome-2026-08-22-university-of-alabama-student-center-great-hall",
-      "title": "Masquerade Madness (Weeks of Welcome)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/masquerade-madness-weeks-of-welcome",
-      "start": "2026-08-22T17:00:00-05:00",
-      "end": "2026-08-22T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Student Center Great Hall",
-      "address": "",
-      "description": "Get ready for a night of mystery, masks, and secrets at Masquerade Madness! Our interactive Murder Mystery invites everyone to join in on the fun—so keep your eyes open and your detective skills sharp… anyone could be hiding something behi...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-roll-tide-raceway-weeks-of-welcome-2026-08-22-university-of-alabama-student-center-ballroom",
-      "title": "Roll Tide Raceway (Weeks of Welcome)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/roll-tide-raceway-weeks-of-welcome",
-      "start": "2026-08-22T18:00:00-05:00",
-      "end": "2026-08-22T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Student Center Ballroom",
-      "address": "",
-      "description": "Start your engines and race into one of the most exciting nights on campus at Roll Tide Raceway! Compete in our Mario Kart tournament for the chance to earn bragging rights as UA’s ultimate racer, or cheer on your friends from the sideline...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-22",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "precipitationChance": 16,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-welcome-worship-2026-08-23-john-england",
       "title": "Welcome Worship",
@@ -206,10 +30,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-23",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "Sunday"
+        "precipitationChance": 15,
+        "periodName": "Today"
       }
     },
     {
@@ -228,10 +52,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-23",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "Sunday"
+        "precipitationChance": 15,
+        "periodName": "Today"
       }
     },
     {
@@ -250,10 +74,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-23",
-        "temperature": 72,
+        "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
-        "periodName": "Sunday Night"
+        "precipitationChance": 8,
+        "periodName": "Tonight"
       }
     },
     {
@@ -272,10 +96,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-23",
-        "temperature": 72,
+        "temperature": 73,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
-        "periodName": "Sunday Night"
+        "precipitationChance": 8,
+        "periodName": "Tonight"
+      }
+    },
+    {
+      "id": "university-of-alabama-alabama-governor-s-safety-and-health-conference-2026-08-24-perdido-beach-resort",
+      "title": "Alabama Governor’s Safety and Health Conference",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/alabama-governors-safety-and-health-conference-5605",
+      "start": "2026-08-24T08:00:00-05:00",
+      "end": "2026-08-24T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Perdido Beach Resort",
+      "address": "27200 Perdido Beach Blvd, Orange Beach, AL 36561",
+      "description": "The Alabama Governor’s Safety and Health Conference is the premier safety and health conference in the Southeast. This event is in its 38th year. Take this opportunity to receive top-quality training from experts across the industry via en...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 20,
+        "periodName": "Monday"
       }
     },
     {
@@ -296,7 +142,51 @@
         "forecastDate": "2026-08-24",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 35,
+        "precipitationChance": 20,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-mocktail-mondays-2026-08-24-quad-in-front-of-gorgas-library",
+      "title": "Mocktail Mondays",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mocktail-mondays",
+      "start": "2026-08-24T10:00:00-05:00",
+      "end": "2026-08-24T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Quad in front of Gorgas Library",
+      "address": "",
+      "description": "Join HPW for a refreshing mocktail and put your decision-making skills to the test through real-life alcohol-related scenarios. Explore how to safely and confidently step in when someone may need support by learning active bystander interv...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 20,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-gradescope-essentials-2026-08-24",
+      "title": "Gradescope Essentials",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gradescope-essentials",
+      "start": "2026-08-24T13:00:00-05:00",
+      "end": "2026-08-24T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Do you wish you could have the flexibility of handwritten assignments with the convenience of digitized grading? In this session, you’ll discover how Gradescope can provide both, exploring how to create assignments, manage student submissi...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 20,
         "periodName": "Monday"
       }
     },
@@ -318,7 +208,51 @@
         "forecastDate": "2026-08-24",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 35,
+        "precipitationChance": 20,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-respondus-monitor-new-features-and-innovative-uses-2026-08-24",
+      "title": "Respondus Monitor: New Features and Innovative Uses",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/respondus-monitor-new-features-and-innovative-uses-7378",
+      "start": "2026-08-24T15:00:00-05:00",
+      "end": "2026-08-24T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The training will cover: Brief review of LockDown Browser + Respondus MonitorOverview of New Features and EnhancementsHow to efficiently review the assessment data collectedStudent ExperienceInnovative use cases and fresh ideas on using Re...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 20,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-freshman-forum-information-session-2026-08-24-3700-ua-student-center-forum",
+      "title": "Freshman Forum Information Session",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/freshman-forum-information-session-9137",
+      "start": "2026-08-24T16:00:00-05:00",
+      "end": "2026-08-24T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "3700 UA Student Center (Forum)",
+      "address": "",
+      "description": "Freshman Forum is your opportunity to start your leadership journey at The University of Alabama! Since 1960, Freshman Forum has provided leadership development, civic engagement, and networking opportunities for freshman students at the C...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-24",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 20,
         "periodName": "Monday"
       }
     },
@@ -340,7 +274,7 @@
         "forecastDate": "2026-08-24",
         "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 35,
+        "precipitationChance": 20,
         "periodName": "Monday"
       }
     },
@@ -360,9 +294,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-24",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 20,
         "periodName": "Monday Night"
       }
     },
@@ -382,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-25",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
+        "precipitationChance": 34,
         "periodName": "Tuesday"
       }
     },
@@ -404,9 +338,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-25",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
+        "precipitationChance": 34,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-foundations-of-high-performance-computing-2026-08-25-rodgers-library-for-science-and-engineering",
+      "title": "Foundations of High Performance Computing",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/foundations-of-high-performance-computing",
+      "start": "2026-08-25T10:00:00-05:00",
+      "end": "2026-08-25T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rodgers Library for Science and Engineering",
+      "address": "335 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "This workshop provides a hands-on introduction to High Performance Computing (HPC) for research and data-intensive workflows. Participants will learn how to access the UA HPC system, navigate the Linux command line, transfer files between...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-25",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "precipitationChance": 34,
         "periodName": "Tuesday"
       }
     },
@@ -426,31 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-25",
-        "temperature": 93,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Tuesday"
-      }
-    },
-    {
-      "id": "university-of-alabama-why-learn-to-code-with-r-2026-08-25",
-      "title": "Why learn to code with R?",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/why-learn-to-code-with-r-1160",
-      "start": "2026-08-25T13:00:00-05:00",
-      "end": "2026-08-25T14:15:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "This workshop introduces R not primarily as a programming language to master, but as a tool for working with data, making research more reproducible, and expanding what researchers and students can do with information. The session is desig...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-25",
-        "temperature": 93,
-        "temperatureUnit": "F",
-        "precipitationChance": 50,
+        "precipitationChance": 34,
         "periodName": "Tuesday"
       }
     },
@@ -472,7 +406,29 @@
         "forecastDate": "2026-08-25",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 40,
+        "precipitationChance": 33,
+        "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-08-25-uasc-3108",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
+      "start": "2026-08-25T18:00:00-05:00",
+      "end": "2026-08-25T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3108",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-25",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 33,
         "periodName": "Tuesday Night"
       }
     },
@@ -492,9 +448,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-26",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 48,
         "periodName": "Wednesday"
       }
     },
@@ -514,9 +470,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-26",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 48,
         "periodName": "Wednesday"
       }
     },
@@ -536,9 +492,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-26",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 48,
         "periodName": "Wednesday"
       }
     },
@@ -558,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-26",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 48,
         "periodName": "Wednesday"
       }
     },
@@ -580,9 +536,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-26",
-        "temperature": 95,
+        "temperature": 94,
         "temperatureUnit": "F",
-        "precipitationChance": 52,
+        "precipitationChance": 48,
         "periodName": "Wednesday"
       }
     },
@@ -604,7 +560,7 @@
         "forecastDate": "2026-08-26",
         "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 56,
         "periodName": "Wednesday Night"
       }
     },
@@ -624,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-27",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 57,
         "periodName": "Thursday"
       }
     },
@@ -646,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-27",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 57,
         "periodName": "Thursday"
       }
     },
@@ -668,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-08-27",
-        "temperature": 92,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 57,
         "periodName": "Thursday"
       }
     },
