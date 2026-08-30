@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T15:37:35.106Z",
+  "updatedAt": "2026-08-30T15:20:04.818Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-08-29T15:37:35.105Z",
+  "weatherUpdatedAt": "2026-08-30T15:20:04.818Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,138 +14,6 @@
     "https://visittuscaloosa.com/events/ returned 403"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-made-in-america-exhibit-2026-08-29-gorgas-house-museum",
-      "title": "“Made in America” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/made-in-america-exhibit",
-      "start": "2026-08-29T00:00:00-05:00",
-      "end": "2026-08-29T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Visit the Gorgas House Museum from May 8 through September 30, 2026 to discover the American identity through the home! From our 1778 grandfather clock to the student magazines of the 2020s, Americans have long been inventive and dedicated...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-29",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-student-only-fossil-excursion-2026-08-29-alabama-museum-of-natural-history",
-      "title": "UA Student-Only Fossil Excursion",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-student-only-fossil-excursion",
-      "start": "2026-08-29T07:45:00-05:00",
-      "end": "2026-08-29T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alabama Museum of Natural History",
-      "address": "427 Sixth Avenue, Tuscaloosa, AL 35487",
-      "description": "Welcome back, University of Alabama students! We totally dig having you on campus! To celebrate another semester starting at UA, the Alabama Museum of Natural History is excited to announce our students-only Fossil Excursion on Saturday, A...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-29",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-08-29-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-08-29T09:00:00-05:00",
-      "end": "2026-08-29T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-29",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-welness-socialevent-pi-kappa-alpha-08-29-26-2026-08-29-pi-kappa-alpha",
-      "title": "Welness Socialevent Pi Kappa Alpha 08/29/26",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/welness-socialevent-pi-kappa-alpha-082926",
-      "start": "2026-08-29T14:00:00-05:00",
-      "end": "2026-08-29T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Pi Kappa Alpha",
-      "address": "202 University BLVD, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Pi Kappa Alpha, will be hosting Vossure, Sweat & Soak, for a fitness/welness event where there will be HIIT workouts, Yoga Sessions, cold plunges, sauna, and networking. This is to improve people welness and boost mental and social morale...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-29",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-glow-and-flow-weeks-of-welcome-2026-08-29-university-of-alabama-student-center-lawn-and-porch",
-      "title": "Glow and Flow (Weeks of Welcome)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/glow-and-flow-weeks-of-welcome",
-      "start": "2026-08-29T18:00:00-05:00",
-      "end": "2026-08-29T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Student Center Lawn and Porch",
-      "address": "",
-      "description": "Get ready for an immersive, glow-in-the-dark experience where movement, creativity, and good energy collide. Glow & Flow invites you to step into a radiant world of color, calm, and connection. Whether you’re here to unwind, express yourse...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-29",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "university-of-alabama-glow-and-flow-weeks-of-welcome-2026-08-29-university-of-alabama-student-center-great-hall-and-porc",
-      "title": "Glow and Flow (Weeks of Welcome)",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/glow-and-flow-weeks-of-welcome-6004",
-      "start": "2026-08-29T19:00:00-05:00",
-      "end": "2026-08-29T21:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "University of Alabama Student Center Great Hall and Porch",
-      "address": "",
-      "description": "Get ready for an immersive, glow-in-the-dark experience where movement, creativity, and good energy collide. Glow & Flow invites you to step into a radiant world of color, calm, and connection. Whether you’re here to unwind, express yourse...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-08-29",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "precipitationChance": 23,
-        "periodName": "Tonight"
-      }
-    },
     {
       "id": "university-of-alabama-alabama-triathlon-interest-meeting-2026-08-30-2418-leadership-lounge",
       "title": "Alabama Triathlon Interest meeting",
@@ -164,8 +32,8 @@
         "forecastDate": "2026-08-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
-        "periodName": "Sunday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -186,8 +54,8 @@
         "forecastDate": "2026-08-30",
         "temperature": 95,
         "temperatureUnit": "F",
-        "precipitationChance": 31,
-        "periodName": "Sunday"
+        "precipitationChance": 10,
+        "periodName": "Today"
       }
     },
     {
@@ -208,7 +76,7 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -230,7 +98,7 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -252,7 +120,7 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -274,7 +142,7 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -296,7 +164,95 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-campus-safety-awareness-month-tabling-2026-08-31-ua-student-center-2nd-floor-near-elephant",
+      "title": "Campus Safety Awareness Month Tabling",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/campus-safety-awareness-month-tabling",
+      "start": "2026-08-31T11:00:00-05:00",
+      "end": "2026-08-31T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center, 2nd Floor, Near Elephant",
+      "address": "",
+      "description": "Drop in to learn about Camellia Center events during Campus Safety Awareness Month!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-31",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 9,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-leadership-live-2026-08-31-ua-student-center-plaza",
+      "title": "Leadership Live",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/leadership-live",
+      "start": "2026-08-31T11:00:00-05:00",
+      "end": "2026-08-31T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Plaza",
+      "address": "",
+      "description": "Leadership Live is a pop-up series designed to connect students with valuable campus resources in a fun and interactive way. Each week, University Programs will partner with a different campus department to give students the chance to lear...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-31",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 9,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-leadership-live-with-the-career-center-leadership-2026-08-31-uasc-plaza",
+      "title": "Leadership Live with the Career Center (Leadership)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/leadership-live-with-the-career-center-leadership",
+      "start": "2026-08-31T11:00:00-05:00",
+      "end": "2026-08-31T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC Plaza",
+      "address": "",
+      "description": "Leadership Live is a pop-up series designed to connect students with valuable campus resources in a fun and interactive way. Each week, University Programs will partner with a different campus department to give students the chance to lear...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-31",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 9,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-national-trail-mix-day-2026-08-31-ua-student-center-real-tide-engagement-commons",
+      "title": "National Trail Mix day",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/national-trail-mix-day",
+      "start": "2026-08-31T11:00:00-05:00",
+      "end": "2026-08-31T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Real Tide Engagement Commons",
+      "address": "751 Campus Drive West, Tuscaloosa, Al, Tuscaloosa, Al",
+      "description": "Celebrate National Trail Mix Day with a fun, interactive programming event that encourages students to connect, explore, and learn about outdoor recreation opportunities. Participants will enjoy an individual bag of trail mix while learnin...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-31",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -318,7 +274,29 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-student-media-open-house-2026-08-31-student-media-riverside-commons",
+      "title": "Student Media Open House",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/student-media-open-house",
+      "start": "2026-08-31T17:00:00-05:00",
+      "end": "2026-08-31T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Student Media @ Riverside Commons",
+      "address": "176 Hackberry Lane",
+      "description": "If you're looking to get involved in one of Student Media's many media outlets this year, come join us at our open house to meet the current student leaders and Student Media staff. Snacks and swag will be available as we help you get conn...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-08-31",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -340,7 +318,7 @@
         "forecastDate": "2026-08-31",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 9,
         "periodName": "Monday"
       }
     },
@@ -360,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-01",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 8,
         "periodName": "Tuesday"
       }
     },
@@ -382,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-01",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 8,
         "periodName": "Tuesday"
       }
     },
@@ -404,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-01",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 8,
         "periodName": "Tuesday"
       }
     },
@@ -426,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-01",
-        "temperature": 98,
+        "temperature": 97,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 8,
         "periodName": "Tuesday"
       }
     },
@@ -450,7 +428,7 @@
         "forecastDate": "2026-09-01",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 8,
         "periodName": "Tuesday Night"
       }
     },
@@ -472,7 +450,7 @@
         "forecastDate": "2026-09-01",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
+        "precipitationChance": 8,
         "periodName": "Tuesday Night"
       }
     },
@@ -602,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-03",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 25,
         "periodName": "Thursday"
       }
     },
@@ -624,9 +602,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-03",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 25,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-what-is-a-scoping-review-2026-09-03",
+      "title": "What is a Scoping Review?",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/what-is-a-scoping-review-7442",
+      "start": "2026-09-03T15:30:00-05:00",
+      "end": "2026-09-03T16:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "This virtual workshop will help students define a scoping review, understand the different types of reviews, and learn the process behind creating and completing a scoping review. This is the first in a 5-part series on evidence synthesis.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-03",
+        "temperature": 98,
+        "temperatureUnit": "F",
+        "precipitationChance": 25,
         "periodName": "Thursday"
       }
     },
@@ -646,9 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-03",
-        "temperature": 99,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 25,
         "periodName": "Thursday"
       }
     },
@@ -668,9 +668,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-04",
-        "temperature": 100,
+        "temperature": 98,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 20,
         "periodName": "Friday"
       }
     },
@@ -807,6 +807,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "Ty Myers with support from Brent Cobb and Benny G Show Time: 7:30 PM Gates: 6:00 PM Get Tickets Ty Myers, with special guests Brent Cobb and Benny G, will perform at the Mercedes-Benz Amphitheater on Thursday, September 10, at 7:30 p.m. Ty...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-15-uasc-3108",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
+      "start": "2026-09-15T18:00:00-05:00",
+      "end": "2026-09-15T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3108",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
       "isVirtual": false
     },
     {
