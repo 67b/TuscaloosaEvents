@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-12T14:06:21.952Z",
+  "updatedAt": "2026-09-13T14:54:42.899Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-09-12T14:06:21.952Z",
+  "weatherUpdatedAt": "2026-09-13T14:54:42.899Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-ua-ai-experience-2026-09-12",
+      "id": "university-of-alabama-ua-ai-experience-2026-09-13",
       "title": "UA AI Experience",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-09-12T00:00:00-05:00",
-      "end": "2026-09-12T00:00:00-05:00",
+      "start": "2026-09-13T00:00:00-05:00",
+      "end": "2026-09-13T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -29,164 +29,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
+        "forecastDate": "2026-09-13",
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-high-school-theatre-and-dance-festival-2026-09-12-bryce-main",
-      "title": "UA High School Theatre and Dance Festival",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-high-school-theatre-and-dance-festival",
-      "start": "2026-09-12T08:30:00-05:00",
-      "end": "2026-09-12T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryce Main",
-      "address": "",
-      "description": "Our High School Theatre and Dance Festival opens the door for students from Grades 9-12 to the next step in their training. By bringing together our High School Theatre Festival and the High School Dance Day, UA Theatre & Dance is excited...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-09-12-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-09-12T09:00:00-05:00",
-      "end": "2026-09-12T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-clara-maass-she-gave-her-life-exhibit-2026-09-12-gorgas-house-museum",
-      "title": "\"Clara Maass: She Gave Her Life\" Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/clara-maass-she-gave-her-life-exhibit",
-      "start": "2026-09-12T09:00:00-05:00",
-      "end": "2026-09-12T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Many have heard of the \"Mosquito Warrior\" Dr. William Gorgas, but less is known about the nurse who gave her life for his research. Join us at the Gorgas House Museum from July 1 - September 25, 2026 to honor the life and legacy of Clara M...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-tct-mary-poppins-preview-2026-09-12-main-library-first-floor",
-      "title": "TCT Mary Poppins Preview",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/tct-mary-poppins-preview/",
-      "start": "2026-09-12T10:00:00-05:00",
-      "end": "2026-09-12T11:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "Recommended ages: All ages. &lt;p&gt;Have a supercalifragilisticexpialidocious time at TCT\\'s preview of Mary Poppins Jr., complete with activities and snacks! (All Ages)&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-alabama-fossil-fest-2026-09-12-alabama-museum-of-natural-history",
-      "title": "Alabama Fossil Fest",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/alabama-fossil-fest-9663",
-      "start": "2026-09-12T13:00:00-05:00",
-      "end": "2026-09-12T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alabama Museum of Natural History",
-      "address": "427 Sixth Avenue, Tuscaloosa, AL 35487",
-      "description": "Recommended ages: All ages. Dive into Alabama's prehistoric past! Join the Alabama Museum of Natural History for our annual \"Alabama Fossil Fest\" on Saturday, September 12, 2026, from 1:00 p.m. to 4:00 p.m. at Smith Hall on The University...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-c-and-is-beads-and-blends-2026-09-12-reese-phifer-hall",
-      "title": "C&IS Beads & Blends",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cis-beads-blends",
-      "start": "2026-09-12T13:00:00-05:00",
-      "end": "2026-09-12T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Reese Phifer Hall",
-      "address": "901 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
-      "description": "Take a break and get creative at Beads & Blends with Coastal Cowgirl Cafe in the Hub! Create a custom beaded keychain, grab some cute stickers, and enjoy a delicious smoothie while connecting with fellow students.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-alabama-vs-kentucky-watch-party-2026-09-12-uasc",
-      "title": "Alabama vs Kentucky Watch Party",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/alabama-vs-kentucky-watch-party",
-      "start": "2026-09-12T13:30:00-05:00",
-      "end": "2026-09-12T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UASC",
-      "address": "",
-      "description": "Can't travel to Lexington, KY with the Tide? Join UP for our watch party for Alabama vs Kentucky! We will be in the UASC Theater on September 12, 2026, 1 hour before kickoff University Programs’ mission is to create engaging events where a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-12",
-        "temperature": 92,
-        "temperatureUnit": "F",
-        "precipitationChance": 49,
+        "precipitationChance": 6,
         "periodName": "Today"
       }
     },
@@ -206,10 +52,54 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-09-13",
-        "temperature": 95,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Sunday"
+        "precipitationChance": 6,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-09-13-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-09-13T09:00:00-05:00",
+      "end": "2026-09-13T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-13",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-c-and-is-beads-and-blends-2026-09-13-reese-phifer-hall",
+      "title": "C&IS Beads & Blends",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cis-beads-blends",
+      "start": "2026-09-13T13:00:00-05:00",
+      "end": "2026-09-13T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Reese Phifer Hall",
+      "address": "901 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
+      "description": "Take a break and get creative at Beads & Blends with Coastal Cowgirl Cafe in the Hub! Create a custom beaded keychain, grab some cute stickers, and enjoy a delicious smoothie while connecting with fellow students.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-13",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 6,
+        "periodName": "Today"
       }
     },
     {
@@ -228,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-13",
-        "temperature": 95,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Sunday"
+        "precipitationChance": 6,
+        "periodName": "Today"
       }
     },
     {
@@ -250,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-13",
-        "temperature": 95,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Sunday"
+        "precipitationChance": 6,
+        "periodName": "Today"
       }
     },
     {
@@ -272,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-13",
-        "temperature": 95,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Sunday"
+        "precipitationChance": 6,
+        "periodName": "Today"
       }
     },
     {
@@ -294,9 +184,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ally-for-students-2026-09-14-gordon-palmer-hall",
+      "title": "Ally for Students",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ally-for-students-5273",
+      "start": "2026-09-14T02:00:00-05:00",
+      "end": "2026-09-14T02:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "Blackboard’s Ally tool gives students multiple ways to engage with their class content. This session takes a hands-on look at the formats generated by Ally.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-09-14-paul-r-jones-museum",
+      "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
+      "start": "2026-09-14T09:00:00-05:00",
+      "end": "2026-09-14T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum presents our fall exhibition Jerry Siegel: Uncommon Lens. Derived from Siegel’s signature artist portraits, the exhibition combines works from the permanent collection alongside each artist’s “behind-the-scenes” po...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-ol-180-getting-started-with-opera-becoming-an-aficionado-2026-09-14",
+      "title": "OL 180 Getting Started with Opera: Becoming an Aficionado",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ol-180-getting-started-with-opera-becoming-an-aficionado",
+      "start": "2026-09-14T09:00:00-05:00",
+      "end": "2026-09-14T10:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join us online for our free public programs — and bring a friend! This course introduces the history, current state and future of opera. Designed for the beginning, or as a review for established opera fans, this class will offer great mus...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -316,9 +272,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-c-and-is-ambassador-prep-week-resume-workshop-2026-09-14-466-reese-phifer",
+      "title": "C&IS Ambassador Prep Week: Resume Workshop",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cis-ambassador-prep-week-resume-workshop",
+      "start": "2026-09-14T10:00:00-05:00",
+      "end": "2026-09-14T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "466 Reese Phifer",
+      "address": "",
+      "description": "Interested in becoming a student ambassador? Join us for a hands-on resume workshop designed specifically for students preparing to apply for ambassador opportunities! During this session, you’ll learn how to create a strong, professional...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -338,9 +316,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -360,9 +338,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -382,9 +360,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -404,9 +382,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -426,9 +404,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-14",
-        "temperature": 98,
+        "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 4,
         "periodName": "Monday"
       }
     },
@@ -450,7 +428,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -472,7 +450,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +472,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +494,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -538,7 +516,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -560,7 +538,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -582,7 +560,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -604,7 +582,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 1,
         "periodName": "Tuesday Night"
       }
     },
@@ -626,7 +604,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 1,
         "periodName": "Tuesday Night"
       }
     },
@@ -648,7 +626,7 @@
         "forecastDate": "2026-09-16",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -670,7 +648,7 @@
         "forecastDate": "2026-09-16",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -692,7 +670,7 @@
         "forecastDate": "2026-09-16",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -714,7 +692,29 @@
         "forecastDate": "2026-09-16",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-public-library-youth-research-class-2026-09-16-main-library-first-floor",
+      "title": "Youth Research Class",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/youth-research-class/2026-09-16/",
+      "start": "2026-09-16T16:00:00-05:00",
+      "end": "2026-09-16T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Sit one-on-one with a librarian to learn research skills and find resources for a school assignment. Registration required. (1st - 12th Grade)&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-16",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -736,7 +736,7 @@
         "forecastDate": "2026-09-16",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -758,7 +758,7 @@
         "forecastDate": "2026-09-17",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 0,
         "periodName": "Thursday"
       }
     },
@@ -780,7 +780,7 @@
         "forecastDate": "2026-09-18",
         "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 1,
         "periodName": "Friday Night"
       }
     },
@@ -1171,6 +1171,21 @@
       "venue": "",
       "address": "",
       "description": "For more information regarding final exam times, information and policies please visit registrar.ua.edu/academiccalendar/.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-fall-commencement-2026-12-11-coleman-coliseum",
+      "title": "Fall Commencement",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fall_commencement",
+      "start": "2026-12-11T00:00:00-05:00",
+      "end": "2026-12-11T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "Coleman Coliseum",
+      "address": "1201 COLISEUM DRIVE , TUSCALOOSA , AL 35401",
+      "description": "Please visit the Commencement website for more information.",
       "category": "Campus",
       "isVirtual": false
     }
