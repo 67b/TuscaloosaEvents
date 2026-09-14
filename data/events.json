@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-13T14:54:42.899Z",
+  "updatedAt": "2026-09-14T16:57:13.234Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-09-13T14:54:42.899Z",
+  "weatherUpdatedAt": "2026-09-14T16:57:13.234Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,160 +14,6 @@
     "https://visittuscaloosa.com/events/ returned 403"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-ua-ai-experience-2026-09-13",
-      "title": "UA AI Experience",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-09-13T00:00:00-05:00",
-      "end": "2026-09-13T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-world-sepsis-day-venmo-2026-09-13-online",
-      "title": "World Sepsis Day - Venmo",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/world-sepsis-day-venmo",
-      "start": "2026-09-13T08:00:00-05:00",
-      "end": "2026-09-13T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Online",
-      "address": "",
-      "description": "September 13th is World Sepsis Day! Join us for a Venmo day, where all proceeds will go directly to helping our organization, SHINE, to host more events to raise awareness and education surrounding sepsis as well as the Sepsis Alliance to...",
-      "category": "Campus",
-      "isVirtual": true,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-09-13-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-09-13T09:00:00-05:00",
-      "end": "2026-09-13T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-c-and-is-beads-and-blends-2026-09-13-reese-phifer-hall",
-      "title": "C&IS Beads & Blends",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cis-beads-blends",
-      "start": "2026-09-13T13:00:00-05:00",
-      "end": "2026-09-13T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Reese Phifer Hall",
-      "address": "901 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
-      "description": "Take a break and get creative at Beads & Blends with Coastal Cowgirl Cafe in the Hub! Create a custom beaded keychain, grab some cute stickers, and enjoy a delicious smoothie while connecting with fellow students.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-09-13-ua-student-center-room-3115",
-      "title": "Gamma Sigma Epsilon Tutoring",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring",
-      "start": "2026-09-13T15:00:00-05:00",
-      "end": "2026-09-13T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UA Student Center Room 3115",
-      "address": "",
-      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-back-to-school-concert-2026-09-13-the-university-of-alabama-student-center",
-      "title": "Back to School Concert",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/back-to-school-concert",
-      "start": "2026-09-13T16:30:00-05:00",
-      "end": "2026-09-13T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Student Center",
-      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
-      "description": "Come fellowship with us at our annual Back to School Concert! The concert is completely free and we'd love to see you there!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-strike-up-a-friendship-best-buddies-bowling-kickoff-2026-09-13-shindig-family-entertainment-center",
-      "title": "Strike Up a Friendship! Best Buddies Bowling Kickoff",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/strike-up-a-friendship-best-buddies-bowling-kickoff",
-      "start": "2026-09-13T17:00:00-05:00",
-      "end": "2026-09-13T19:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Shindig Family Entertainment Center",
-      "address": "5800 McFarland Blvd E, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join Best Buddies at the University of Alabama for “Strike Up a Friendship!”, our bowling kickoff at Shindig Family Entertainment Center in Tuscaloosa! We’re kicking off the semester with a fun and relaxed night where Buddies, Peer Buddies...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-13",
-        "temperature": 96,
-        "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "university-of-alabama-strive-for-five-2026-09-14",
       "title": "Strive For Five",
@@ -186,8 +32,30 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-ai-experience-2026-09-14",
+      "title": "UA AI Experience",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
+      "start": "2026-09-14T00:00:00-05:00",
+      "end": "2026-09-14T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -208,8 +76,30 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-09-14-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-09-14T09:00:00-05:00",
+      "end": "2026-09-14T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -230,8 +120,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -252,8 +142,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -274,8 +164,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -296,8 +186,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -318,8 +208,96 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-09-14-gordon-palmer-hall",
+      "title": "Make Your Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-8637",
+      "start": "2026-09-14T10:00:00-05:00",
+      "end": "2026-09-14T11:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-mocktail-mondays-2026-09-14-in-front-of-tutwiler-hall",
+      "title": "Mocktail Mondays",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mocktail-mondays-9161",
+      "start": "2026-09-14T10:00:00-05:00",
+      "end": "2026-09-14T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "In front of Tutwiler Hall",
+      "address": "",
+      "description": "Join HPW for a refreshing mocktail and put your decision-making skills to the test through real-life alcohol-related scenarios. Explore how to safely and confidently step in when someone may need support by learning active bystander interv...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-c-and-is-beads-and-blends-2026-09-14-reese-phifer-hall",
+      "title": "C&IS Beads & Blends",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/cis-beads-blends",
+      "start": "2026-09-14T13:00:00-05:00",
+      "end": "2026-09-14T19:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Reese Phifer Hall",
+      "address": "901 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
+      "description": "Take a break and get creative at Beads & Blends with Coastal Cowgirl Cafe in the Hub! Create a custom beaded keychain, grab some cute stickers, and enjoy a delicious smoothie while connecting with fellow students.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-campus-safety-awareness-month-tabling-2026-09-14-ua-student-center-2nd-floor-near-elephant",
+      "title": "Campus Safety Awareness Month Tabling",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/campus-safety-awareness-month-tabling",
+      "start": "2026-09-14T13:00:00-05:00",
+      "end": "2026-09-14T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center, 2nd Floor, Near Elephant",
+      "address": "",
+      "description": "Drop in to learn about Camellia Center events during Campus Safety Awareness Month!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-14",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -340,8 +318,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -362,8 +340,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -384,8 +362,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -406,8 +384,8 @@
         "forecastDate": "2026-09-14",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
-        "periodName": "Monday"
+        "precipitationChance": 21,
+        "periodName": "Today"
       }
     },
     {
@@ -428,7 +406,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -450,7 +428,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -472,7 +450,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +472,29 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-survey-table-2026-09-15-quad",
+      "title": "Survey Table",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/survey-table",
+      "start": "2026-09-15T13:00:00-05:00",
+      "end": "2026-09-15T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Quad",
+      "address": "",
+      "description": "We plan to have a table on the Quad with the goal of engaging with students on campus and have meaningful conversations through surveys.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-15",
+        "temperature": 99,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +516,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -538,7 +538,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -560,7 +560,7 @@
         "forecastDate": "2026-09-15",
         "temperature": 99,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -576,6 +576,28 @@
       "venue": "UA Student Center Room 3111",
       "address": "",
       "description": "Crossroad College Ministry's weekly Bible Study allows students to engage in an environment that deepens their understanding of the Bible and connect with other student believers. Each session is planned to help, motivate, and encourage st...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-15",
+        "temperature": 75,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-09-15-uasc-3108",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-4536",
+      "start": "2026-09-15T18:00:00-05:00",
+      "end": "2026-09-15T20:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3108",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
       "category": "Campus",
       "isVirtual": false,
       "weather": {
@@ -624,7 +646,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-16",
-        "temperature": 96,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -646,7 +668,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-16",
-        "temperature": 96,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -668,7 +690,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-16",
-        "temperature": 96,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -690,7 +712,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-16",
-        "temperature": 96,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -712,7 +734,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-16",
-        "temperature": 96,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -734,7 +756,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-16",
-        "temperature": 96,
+        "temperature": 97,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -780,7 +802,7 @@
         "forecastDate": "2026-09-18",
         "temperature": 71,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 3,
         "periodName": "Friday Night"
       }
     },
@@ -797,7 +819,14 @@
       "address": "751 Campus W Dr, Tuscaloosa, AL 35487",
       "description": "Join us at the Student Center Ballroom for officer introductions, food, raffles, and lots of fun! Anyone of Korean heritage, interested in Korean culture, or just wanting to make new friends can join us!",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-20",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 23,
+        "periodName": "Sunday"
+      }
     },
     {
       "id": "university-of-alabama-classes-begin-for-fall-2-2026-09-21",
@@ -872,6 +901,21 @@
       "address": "2710 Jack Warner Pkwy, Tuscaloosa, AL 35401",
       "description": "The Avett Brothers with support from Drive-By Truckers Show Time: 7:00 PM Gates: 6:00 PM Get Tickets The Avett Brothers, with special guest Drive-By Truckers, will perform at the Mercedes-Benz Amphitheater in Tuscaloosa on Friday, October...",
       "category": "Music",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-04-ua-student-center-room-3115",
+      "title": "Gamma Sigma Epsilon Tutoring",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring",
+      "start": "2026-10-04T15:00:00-05:00",
+      "end": "2026-10-04T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Room 3115",
+      "address": "",
+      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
+      "category": "Campus",
       "isVirtual": false
     },
     {
