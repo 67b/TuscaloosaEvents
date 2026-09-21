@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T14:41:15.515Z",
+  "updatedAt": "2026-09-21T17:02:53.615Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-09-20T14:41:15.515Z",
+  "weatherUpdatedAt": "2026-09-21T17:02:53.615Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -14,116 +14,6 @@
     "https://visittuscaloosa.com/events/ returned 403"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-ua-ai-experience-2026-09-20",
-      "title": "UA AI Experience",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-09-20T00:00:00-05:00",
-      "end": "2026-09-20T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-20",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-09-20-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-09-20T09:00:00-05:00",
-      "end": "2026-09-20T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-20",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-qpr-suicide-prevention-training-2026-09-20-student-center-room-3108",
-      "title": "QPR: Suicide Prevention Training",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/qpr-suicide-prevention-training-6534",
-      "start": "2026-09-20T14:00:00-05:00",
-      "end": "2026-09-20T15:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center room 3108",
-      "address": "",
-      "description": "Promoting the wellness of our students, friends, families, co-workers, and fellow citizens and helping prevent suicide is every person’s responsibility. There are three steps anyone can learn to help prevent suicide. Question, Persuade, Re...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-20",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-nach-basanti-dance-workshop-2026-09-20-student-recreation-center-studio-b",
-      "title": "Nach Basanti Dance Workshop",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/nach-basanti-dance-workshop",
-      "start": "2026-09-20T15:00:00-05:00",
-      "end": "2026-09-20T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Recreation Center Studio B",
-      "address": "400 Peter Bryce Blvd, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join Nach Basanti for an energetic, beginner-friendly Indian fusion dance workshop! Open to dancers of all backgrounds and skill levels, this session focuses on learning dynamic choreography, building performance confidence, and exploring...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-20",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ksa-kickoff-reception-2026-09-20-student-center-ballroom",
-      "title": "KSA kickoff/reception",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ksa-kickoffreception",
-      "start": "2026-09-20T16:00:00-05:00",
-      "end": "2026-09-20T18:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center Ballroom",
-      "address": "751 Campus W Dr, Tuscaloosa, AL 35487",
-      "description": "Join us at the Student Center Ballroom for officer introductions, food, raffles, and lots of fun! Anyone of Korean heritage, interested in Korean culture, or just wanting to make new friends can join us!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-20",
-        "temperature": 98,
-        "temperatureUnit": "F",
-        "precipitationChance": 20,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "university-of-alabama-classes-begin-for-fall-2-2026-09-21",
       "title": "Classes Begin for Fall 2",
@@ -140,10 +30,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-ai-experience-2026-09-21",
+      "title": "UA AI Experience",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
+      "start": "2026-09-21T00:00:00-05:00",
+      "end": "2026-09-21T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-21",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -162,10 +74,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-09-21-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-09-21T09:00:00-05:00",
+      "end": "2026-09-21T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-21",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -184,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -206,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -228,32 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-little-library-playdate-2026-09-21-main-library-first-floor",
-      "title": "Little Library Playdate",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/little-library-playdate-59/2026-09-21/",
-      "start": "2026-09-21T10:00:00-05:00",
-      "end": "2026-09-21T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "Recommended ages: Ages 0–6. &lt;p&gt;Join us for an hour-long free-play session filled with a few toys and lots of laughter. (Ages 0-6)&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-09-21",
-        "temperature": 97,
-        "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -272,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -294,10 +206,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -316,10 +228,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-give-back-to-get-ahead-turn-volunteer-work-into-career-wins-2026-09-21-3400-student-center-3rd-flo",
+      "title": "Give Back to Get Ahead: Turn Volunteer Work into Career Wins",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/give-back-to-get-ahead-turn-volunteer-work-into-career-wins",
+      "start": "2026-09-21T14:00:00-05:00",
+      "end": "2026-09-21T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "3400 Student Center (3rd floor)",
+      "address": "",
+      "description": "Looking for ways to stand out in your job search? Your volunteer experience might be the secret weapon you’ve been overlooking! Join the Career Center and the Center for Service and Leadership for an interactive workshop that will show you...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-21",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -338,10 +272,54 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-from-application-to-admission-the-university-of-alabama-law-school-2026-09-21-tuomey-hall",
+      "title": "From Application to Admission: The University of Alabama Law School",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/from-application-to-admission-the-university-of-alabama-law-school",
+      "start": "2026-09-21T16:00:00-05:00",
+      "end": "2026-09-21T17:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuomey Hall",
+      "address": "611 CAPSTONE DRIVE , TUSCALOOSA, AL 35401",
+      "description": "This session offers students a unique opportunity to gain deeper insight into the law school application process, hear directly from Dean Brewbaker and the admissions team, and connect with current law school leaders. Attendees will also r...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-21",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-from-application-to-admission-university-of-alabama-school-of-law-2026-09-21-tuomey-hall",
+      "title": "From Application to Admission: University of Alabama School of Law",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/from-application-to-admission-university-of-alabama-school-of-law-5510",
+      "start": "2026-09-21T16:00:00-05:00",
+      "end": "2026-09-21T17:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Tuomey Hall",
+      "address": "611 CAPSTONE DRIVE , TUSCALOOSA, AL 35401",
+      "description": "This session offers students a unique opportunity to gain deeper insight into the law school application process, hear directly from Dean Brewbaker and the Addmissions team, and connect with current law school leaders. Attendees will also...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-21",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -360,10 +338,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -382,10 +360,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-21",
-        "temperature": 97,
+        "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Monday"
+        "precipitationChance": 46,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -406,7 +384,7 @@
         "forecastDate": "2026-09-22",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -428,7 +406,7 @@
         "forecastDate": "2026-09-22",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -450,7 +428,7 @@
         "forecastDate": "2026-09-22",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -472,7 +450,7 @@
         "forecastDate": "2026-09-22",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +472,7 @@
         "forecastDate": "2026-09-22",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +494,7 @@
         "forecastDate": "2026-09-22",
         "temperature": 96,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday"
       }
     },
@@ -536,9 +514,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-22",
-        "temperature": 71,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
         "periodName": "Tuesday Night"
       }
     },
@@ -558,9 +536,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-22",
-        "temperature": 71,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 27,
+        "precipitationChance": 44,
+        "periodName": "Tuesday Night"
+      }
+    },
+    {
+      "id": "university-of-alabama-solid-rock-student-ministry-bible-study-2026-09-22-ua-student-center-3700-forum",
+      "title": "Solid Rock Student Ministry Bible Study",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/solid-rock-student-ministry-bible-study-8806",
+      "start": "2026-09-22T18:30:00-05:00",
+      "end": "2026-09-22T19:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center, 3700 Forum",
+      "address": "",
+      "description": "Come join us for fellowship and Bible study.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-22",
+        "temperature": 70,
+        "temperatureUnit": "F",
+        "precipitationChance": 44,
         "periodName": "Tuesday Night"
       }
     },
@@ -580,9 +580,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-23",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -602,9 +602,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-23",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -624,9 +624,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-23",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -646,9 +646,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-09-23",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
-        "precipitationChance": 9,
+        "precipitationChance": 5,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-public-library-youth-research-class-2026-09-23-main-library-first-floor",
+      "title": "Youth Research Class",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/youth-research-class/2026-09-23/",
+      "start": "2026-09-23T16:00:00-05:00",
+      "end": "2026-09-23T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Sit one-on-one with a librarian to learn research skills and find resources for a school assignment. Registration required. (1st - 12th Grade)&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-09-23",
+        "temperature": 93,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
         "periodName": "Wednesday"
       }
     },
@@ -670,7 +692,7 @@
         "forecastDate": "2026-09-25",
         "temperature": 87,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 2,
         "periodName": "Friday"
       }
     },
