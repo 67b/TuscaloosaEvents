@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-04T15:47:56.012Z",
+  "updatedAt": "2026-10-05T19:42:04.105Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-10-04T15:47:56.012Z",
+  "weatherUpdatedAt": "2026-10-05T19:42:04.105Z",
   "sources": [
     "University of Alabama",
     "Visit Tuscaloosa",
@@ -15,12 +15,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-ua-ai-experience-2026-10-04",
+      "id": "university-of-alabama-ua-ai-experience-2026-10-05",
       "title": "UA AI Experience",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-10-04T00:00:00-05:00",
-      "end": "2026-10-04T00:00:00-05:00",
+      "start": "2026-10-05T00:00:00-05:00",
+      "end": "2026-10-05T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -29,99 +29,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-10-04",
-        "temperature": 82,
+        "forecastDate": "2026-10-05",
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 83,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-04-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-10-04T09:00:00-05:00",
-      "end": "2026-10-04T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-04",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 83,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ruthless-the-musical-2026-10-04-rowand-johnson-hall",
-      "title": "Ruthless! The Musical",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ruthless-the-musical",
-      "start": "2026-10-04T14:00:00-05:00",
-      "end": "2026-10-04T20:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rowand-Johnson Hall",
-      "address": "348 STADIUM DRIVE , TUSCALOOSA , AL 35401",
-      "description": "Rooted in the era of Hollywood glam, Ruthless! The Musical gleefully explores the dark side of talent, unveiling the antics of stage moms, show business, and the relentless drive to succeed. With music by Marvin Laird and book and lyrics b...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-04",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 83,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-04-ua-student-center-room-3115",
-      "title": "Gamma Sigma Epsilon Tutoring",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring",
-      "start": "2026-10-04T15:00:00-05:00",
-      "end": "2026-10-04T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UA Student Center Room 3115",
-      "address": "",
-      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-04",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 83,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-nach-basanti-dance-workshop-2026-10-04-student-recreation-center-studio-b",
-      "title": "Nach Basanti Dance Workshop",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/nach-basanti-dance-workshop",
-      "start": "2026-10-04T15:00:00-05:00",
-      "end": "2026-10-04T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Recreation Center Studio B",
-      "address": "400 Peter Bryce Blvd, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join Nach Basanti for an energetic, beginner-friendly Indian fusion dance workshop! Open to dancers of all backgrounds and skill levels, this session focuses on learning dynamic choreography, building performance confidence, and exploring...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-04",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "precipitationChance": 83,
-        "periodName": "Today"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -140,10 +52,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-05-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-10-05T09:00:00-05:00",
+      "end": "2026-10-05T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-05",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -162,10 +96,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -184,10 +118,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -206,10 +140,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -228,10 +162,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -250,10 +184,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -272,10 +206,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -294,10 +228,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -316,10 +250,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -338,10 +272,76 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-purple-pop-ins-dating-and-domestic-violence-awareness-month-2026-10-05-student-center-elephant-are",
+      "title": "Purple Pop-Ins: Dating and Domestic Violence Awareness Month",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/purple-pop-ins-dating-and-domestic-violence-awareness-month",
+      "start": "2026-10-05T11:00:00-05:00",
+      "end": "2026-10-05T12:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Student Center Elephant Area",
+      "address": "",
+      "description": "Learn about the Camellia Center’s free, confidential and voluntary counseling and advocacy services, service leadership opportunities, and the Dating and Domestic Violence Awareness Month event calendar!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-05",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-leadership-live-leadership-2026-10-05-uasc-plaza",
+      "title": "Leadership Live (Leadership)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/leadership-live-leadership",
+      "start": "2026-10-05T12:00:00-05:00",
+      "end": "2026-10-05T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC Plaza",
+      "address": "",
+      "description": "Leadership Live is a pop-up series designed to connect students with valuable campus resources in a fun and interactive way. Each week, University Programs will partner with a different campus department to give students the chance to lear...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-05",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-make-your-course-accessible-with-ally-2026-10-05-gordon-palmer-hall",
+      "title": "Make Your Course Accessible with Ally",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/make-your-course-accessible-with-ally-1409",
+      "start": "2026-10-05T13:30:00-05:00",
+      "end": "2026-10-05T14:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Gordon Palmer Hall",
+      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
+      "description": "Creating accessible course content benefits all learners—and Blackboard Ultra’s Ally tool makes it easier than you think. In this hands-on session, instructors will learn how Ally helps identify and improve the accessibility of course mate...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-05",
+        "temperature": 85,
+        "temperatureUnit": "F",
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -360,10 +360,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -382,10 +382,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-05",
-        "temperature": 88,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
-        "periodName": "Monday"
+        "precipitationChance": 5,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -406,7 +406,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -428,7 +428,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -450,7 +450,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -472,7 +472,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -494,7 +494,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -516,7 +516,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -538,7 +538,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 88,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday"
       }
     },
@@ -560,7 +560,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 59,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday Night"
       }
     },
@@ -582,7 +582,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 59,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday Night"
       }
     },
@@ -604,7 +604,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 59,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday Night"
       }
     },
@@ -626,7 +626,7 @@
         "forecastDate": "2026-10-06",
         "temperature": 59,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 0,
         "periodName": "Tuesday Night"
       }
     },
@@ -646,31 +646,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-07",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Wednesday"
-      }
-    },
-    {
-      "id": "university-of-alabama-parallel-computing-on-hpc-systems-2026-10-07-rodgers-library-for-science-and-engineering",
-      "title": "Parallel Computing on HPC Systems",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/parallel-computing-on-hpc-systems",
-      "start": "2026-10-07T10:00:00-05:00",
-      "end": "2026-10-07T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rodgers Library for Science and Engineering",
-      "address": "335 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "In this workshop we will learn about parallel programming in Python. We will use high performance computing resources to implement jobs. This is the second workshop in a 4-part series.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-07",
-        "temperature": 88,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -690,9 +668,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-07",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -712,9 +690,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-07",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -734,9 +712,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-07",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Wednesday"
       }
     },
@@ -756,9 +734,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-07",
-        "temperature": 57,
+        "temperature": 58,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Wednesday Night"
       }
     },
@@ -778,7 +756,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-08",
-        "temperature": 90,
+        "temperature": 91,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday"
@@ -856,6 +834,21 @@
       "venue": "University Hall",
       "address": "275 KILGORE LANE, TUSCALOOSA, AL 35401",
       "description": "The UA Teaching Academy will host a Coffee Talk exploring what capstone courses can accomplish beyond serving as one more final project. Capstone courses are expected to help students synthesize their learning, demonstrate program outcomes...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-25-ua-student-center-room-3115",
+      "title": "Gamma Sigma Epsilon Tutoring",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring",
+      "start": "2026-10-25T15:00:00-05:00",
+      "end": "2026-10-25T16:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Room 3115",
+      "address": "",
+      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
       "category": "Campus",
       "isVirtual": false
     },
