@@ -1,3 +1,5 @@
+import { pathToFileURL } from "node:url";
+import { ATHLETICS_SCHEDULES, parseAthleticsSchedule } from "./lib/athletics.mjs";
 import { execFile } from "node:child_process";
 import { mkdir, writeFile } from "node:fs/promises";
 import { promisify } from "node:util";
@@ -23,6 +25,10 @@ const SOURCE_URLS = {
   amphitheater: "https://www.mercedesbenzamphitheater.com/calendar/"
 };
 
+const FEATURED_VISIT_URLS = [
+  "https://visittuscaloosa.com/event/tuscaloosa-oktoberfest-2/"
+];
+
 const WEATHER_POINT = "33.2098,-87.5692";
 
 const fetchOptions = {
@@ -32,69 +38,94 @@ const fetchOptions = {
   }
 };
 
-const results = await Promise.allSettled([
-  fetchUaEvents(),
-  fetchVisitTuscaloosaEvents(),
-  fetchPatchEvents(),
-  fetchLibraryEvents(),
-  fetchAmphitheaterEvents()
-]);
+async function main() {
+  const results = await Promise.allSettled([
+    fetchUaEvents(),
+    ...ATHLETICS_SCHEDULES.map(fetchAthleticsEvents),
+    fetchFeaturedVisitEvents(),
+    fetchVisitTuscaloosaEvents(),
+    fetchPatchEvents(),
+    fetchLibraryEvents(),
+    fetchAmphitheaterEvents()
+  ]);
 
-const events = [];
-const failures = [];
+  const events = [];
+  const failures = [];
 
-for (const result of results) {
-  if (result.status === "fulfilled") {
-    events.push(...result.value);
-  } else {
-    failures.push(result.reason?.message || String(result.reason));
-  }
-}
-
-let normalized = dedupeAndSort(events.map(normalizeEvent).filter(Boolean))
-  .filter((event) => new Date(event.start) >= startOfToday());
-
-let weatherUpdatedAt = "";
-try {
-  const weatherByDate = await fetchTuscaloosaWeather();
-  weatherUpdatedAt = new Date().toISOString();
-  normalized = normalized.map((event) => ({
-    ...event,
-    weather: matchWeather(event, weatherByDate)
-  })).map((event) => {
-    if (!event.weather) {
-      const { weather, ...rest } = event;
-      return rest;
+  for (const result of results) {
+    if (result.status === "fulfilled") {
+      events.push(...result.value);
+    } else {
+      failures.push(result.reason?.message || String(result.reason));
     }
-    return event;
-  });
-} catch (error) {
-  failures.push(`weather.gov forecast unavailable: ${error?.message || error}`);
+  }
+
+  let normalized = dedupeAndSort(events.map(normalizeEvent).filter(Boolean))
+    .filter((event) => new Date(event.start) >= startOfToday());
+
+  let weatherUpdatedAt = "";
+  try {
+    const weatherByDate = await fetchTuscaloosaWeather();
+    weatherUpdatedAt = new Date().toISOString();
+    normalized = normalized.map((event) => ({
+      ...event,
+      weather: matchWeather(event, weatherByDate)
+    })).map((event) => {
+      if (!event.weather) {
+        const { weather, ...rest } = event;
+        return rest;
+      }
+      return event;
+    });
+  } catch (error) {
+    failures.push(`weather.gov forecast unavailable: ${error?.message || error}`);
+  }
+
+  const payload = {
+    updatedAt: new Date().toISOString(),
+    timezone: TIMEZONE,
+    weatherSource: "https://api.weather.gov/",
+    weatherUpdatedAt,
+    sources: [
+      "University of Alabama",
+      "Alabama Athletics",
+      "Visit Tuscaloosa",
+      "Tuscaloosa Patch",
+      "Tuscaloosa Public Library",
+      "Mercedes-Benz Amphitheater"
+    ],
+    warnings: failures,
+    events: normalized
+  };
+
+  await mkdir(new URL("../data/", import.meta.url), { recursive: true });
+  await writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+
+  console.log(`Wrote ${normalized.length} events to data/events.json`);
+  if (failures.length) {
+    console.warn(`Completed with ${failures.length} source warning(s):`);
+    for (const failure of failures) console.warn(`- ${failure}`);
+  }
+
 }
 
-const payload = {
-  updatedAt: new Date().toISOString(),
-  timezone: TIMEZONE,
-  weatherSource: "https://api.weather.gov/",
-  weatherUpdatedAt,
-  sources: [
-    "University of Alabama",
-    "Visit Tuscaloosa",
-    "Tuscaloosa Patch",
-    "Tuscaloosa Public Library",
-    "Mercedes-Benz Amphitheater"
-  ],
-  warnings: failures,
-  events: normalized
-};
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await main();
+}
 
-await mkdir(new URL("../data/", import.meta.url), { recursive: true });
-await writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+async function fetchAthleticsEvents(sport) {
+  return parseAthleticsSchedule(await fetchText(sport.url), sport);
+}
 
-console.log(`Wrote ${normalized.length} events to data/events.json`);
-if (failures.length) {
-  console.warn(`Completed with ${failures.length} source warning(s):`);
-  for (const failure of failures) console.warn(`- ${failure}`);
+async function fetchFeaturedVisitEvents() {
+  const events = [];
+  for (const sourceUrl of FEATURED_VISIT_URLS) {
+    const detail = parseVisitDetail(await fetchText(sourceUrl));
+    if (!detail.title || !detail.start) continue;
+    events.push({ ...detail, source: "Visit Tuscaloosa", sourceUrl,
+      allDay: detail.timeStatus === "unknown", category: "Community", isVirtual: false });
+  }
+  return events;
 }
 
 async function fetchUaEvents() {
@@ -199,30 +230,36 @@ async function fetchVisitTuscaloosaEvents() {
 async function safeFetchVisitDetail(url, fallbackDateParts) {
   try {
     const html = await fetchText(url);
-    const text = htmlToText(html);
-    const titleMatch = text.match(/^(.+?)\nLocation:/m);
-    const locationMatch = text.match(/Location:\s*(.+?)\nWhen:/s);
-    const whenMatch = text.match(/When:\s*(.+?)\n(?:Phone:|Get Tickets|Get Directions|Visit Website|Description)/s);
-    const descriptionMatch = text.match(/Description\s*\n(.+?)(?:\nMap\n|\nSignature Events|\nAll Events|$)/s);
-
-    const location = cleanText(locationMatch?.[1] || "");
-    const [venue, ...addressParts] = location.split(/\s+[–-]\s+/);
-    const parsedWhen = parseVisitWhen(whenMatch?.[1] || "");
-    const description = cleanText(descriptionMatch?.[1] || "");
-    const inferredWhen = parsedWhen ? null : inferVisitTimeFromText(description, fallbackDateParts);
-
-    return {
-      title: cleanText(titleMatch?.[1] || ""),
-      venue: cleanText(venue),
-      address: cleanText(addressParts.join(" - ")),
-      start: parsedWhen?.start || inferredWhen?.start,
-      end: parsedWhen?.end || inferredWhen?.end,
-      timeStatus: parsedWhen ? "confirmed" : inferredWhen ? "inferred" : "unknown",
-      description
-    };
+    return parseVisitDetail(html, fallbackDateParts);
   } catch {
     return null;
   }
+}
+
+export function parseVisitDetail(html, fallbackDateParts) {
+  const text = htmlToText(html);
+  const titleMatch = text.match(/^(.+?)\nLocation:/m);
+  const locationMatch = text.match(/Location:\s*(.+?)\nWhen:/s);
+  const whenMatch = text.match(/When:\s*(.+?)\n(?:Phone:|Get Tickets|Get Directions|Visit Website|Description)/s);
+  const descriptionMatch = text.match(/Description\s*\n(.+?)(?:\nMap(?:\n|$)|\nSignature Events|\nAll Events|$)/s);
+
+  const location = cleanText(locationMatch?.[1] || "");
+  const [venue, ...addressParts] = location.split(/\s+[–-]\s+/);
+  const parsedWhen = parseVisitWhen(whenMatch?.[1] || "");
+  const description = cleanText(descriptionMatch?.[1] || "");
+  const dateParts = parseMonthDay(whenMatch?.[1] || "", CURRENT_YEAR) || fallbackDateParts;
+  const inferredWhen = parsedWhen ? null : inferVisitTimeFromText(description, dateParts);
+  const unknownStart = dateParts ? buildIso(dateParts) : undefined;
+
+  return {
+    title: cleanText(titleMatch?.[1] || ""),
+    venue: cleanText(venue),
+    address: cleanText(addressParts.join(" - ")),
+    start: parsedWhen?.start || inferredWhen?.start || unknownStart,
+    end: parsedWhen?.end || inferredWhen?.end || (unknownStart ? addHours(unknownStart, 24) : undefined),
+    timeStatus: parsedWhen ? "confirmed" : inferredWhen ? "inferred" : "unknown",
+    description
+  };
 }
 
 function parseVisitWhen(value) {

@@ -7,7 +7,8 @@
   "scripts": {
     "fetch": "node scripts/fetch-events.mjs",
     "validate": "node scripts/validate-events.mjs",
-    "preview": "node scripts/preview.mjs"
+    "preview": "node scripts/preview.mjs",
+    "test": "node --test"
   },
   "engines": {
     "node": ">=20"
