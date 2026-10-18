@@ -1,5 +1,5 @@
 import { pathToFileURL } from "node:url";
-import { parseSoccerSchedule } from "./lib/soccer.mjs";
+import { ATHLETICS_SCHEDULES, parseAthleticsSchedule } from "./lib/athletics.mjs";
 import { execFile } from "node:child_process";
 import { mkdir, writeFile } from "node:fs/promises";
 import { promisify } from "node:util";
@@ -20,7 +20,6 @@ const CURRENT_YEAR = new Date().getFullYear();
 const SOURCE_URLS = {
   ua: "https://calendar.ua.edu/",
   visit: "https://visittuscaloosa.com/events/",
-  soccer: "https://rolltide.com/sports/womens-soccer/schedule",
   patch: "https://patch.com/alabama/tuscaloosa/calendar",
   library: "https://www.tuscaloosa-library.org/events/",
   amphitheater: "https://www.mercedesbenzamphitheater.com/calendar/"
@@ -42,7 +41,7 @@ const fetchOptions = {
 async function main() {
   const results = await Promise.allSettled([
     fetchUaEvents(),
-    fetchSoccerEvents(),
+    ...ATHLETICS_SCHEDULES.map(fetchAthleticsEvents),
     fetchFeaturedVisitEvents(),
     fetchVisitTuscaloosaEvents(),
     fetchPatchEvents(),
@@ -114,8 +113,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
   await main();
 }
 
-async function fetchSoccerEvents() {
-  return parseSoccerSchedule(await fetchText(SOURCE_URLS.soccer));
+async function fetchAthleticsEvents(sport) {
+  return parseAthleticsSchedule(await fetchText(sport.url), sport);
 }
 
 async function fetchFeaturedVisitEvents() {

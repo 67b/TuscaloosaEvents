@@ -21,6 +21,14 @@ Tuscaloosa Events is an event aggregator for the Tuscaloosa area.  The site runs
 * Calendar export: Visitors can add an event to their device’s calendar by downloading an .ics file.
 * Source links: Each event retains a link back to the original source so you can confirm details before attending.
 
+## Athletics coverage
+
+The pipeline reads 15 official Alabama Athletics schedules: football, men's and women's basketball, baseball, softball, gymnastics, volleyball, soccer, men's and women's tennis, men's and women's golf, swimming and diving, rowing, and track and field/cross country. Shared schedules cover both men's and women's teams where applicable.
+
+Only events listed in Tuscaloosa are included, including locally hosted meets and tournaments. Away events and neutral-site events outside Tuscaloosa are excluded. Coverage depends on what Alabama Athletics has published; future seasons and postseason fixtures appear as schedules are updated. Unannounced start times remain marked unknown. Multi-day meets retain their full date range, and times use Central Time with daylight saving adjustments.
+
+Run `npm test` for parser regression tests, then `npm run fetch` and `npm run validate` to check live ingestion. Each athletics schedule is fetched independently, so one unavailable sport produces a warning without dropping the others.
+
 ## Screenshots
 <img width="296" height="612" alt="Screenshot of main page" src="https://github.com/user-attachments/assets/8042de91-24e1-4f2e-9c8b-bc6bd5743dd9" />
 
