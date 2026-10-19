@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-18T14:33:11.978Z",
+  "updatedAt": "2026-10-19T17:27:50.772Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-10-18T14:33:11.978Z",
+  "weatherUpdatedAt": "2026-10-19T17:27:50.771Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,12 +17,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-ua-ai-experience-2026-10-18",
+      "id": "university-of-alabama-ua-ai-experience-2026-10-19",
       "title": "UA AI Experience",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-10-18T00:00:00-05:00",
-      "end": "2026-10-18T00:00:00-05:00",
+      "start": "2026-10-19T00:00:00-05:00",
+      "end": "2026-10-19T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -31,99 +31,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-10-18",
-        "temperature": 72,
+        "forecastDate": "2026-10-19",
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-18-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-10-18T09:00:00-05:00",
-      "end": "2026-10-18T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-18",
-        "temperature": 72,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-softball-22148",
-      "title": "Alabama Softball: University of Mobile (DH)",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
-      "start": "2026-10-18T13:00:00-05:00",
-      "end": "2026-10-18T20:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Rhoads Stadium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-18",
-        "temperature": 72,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-nach-basanti-dance-workshop-2026-10-18-student-recreation-center-studio-b",
-      "title": "Nach Basanti Dance Workshop",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/nach-basanti-dance-workshop",
-      "start": "2026-10-18T15:00:00-05:00",
-      "end": "2026-10-18T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Recreation Center Studio B",
-      "address": "400 Peter Bryce Blvd, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join Nach Basanti for an energetic, beginner-friendly Indian fusion dance workshop! Open to dancers of all backgrounds and skill levels, this session focuses on learning dynamic choreography, building performance confidence, and exploring...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-18",
-        "temperature": 72,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-womens-soccer-21837",
-      "title": "Alabama Women's Soccer: #2 #2 Vanderbilt",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-soccer/schedule",
-      "start": "2026-10-18T18:00:00-05:00",
-      "end": "2026-10-19T01:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alabama Soccer Stadium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Women's Soccer in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-18",
-        "temperature": 45,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Tonight"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -142,10 +54,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-19-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-10-19T09:00:00-05:00",
+      "end": "2026-10-19T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-19",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -164,10 +98,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -186,10 +120,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -208,10 +142,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -230,10 +164,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -252,10 +186,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -274,10 +208,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -296,10 +230,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -318,17 +252,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
       "id": "university-of-alabama-lead-event-betting-on-the-next-big-thing-venture-capital-101-2026-10-19-bidgood-hall",
       "title": "LEAD Event: Betting on the Next Big Thing: Venture Capital 101",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/lead-event-betting-on-the-next-big-thing-venture-capital-101-9184",
+      "sourceUrl": "https://calendar.ua.edu/event/lead-event-betting-on-the-next-big-thing-venture-capital-101-9184",
       "start": "2026-10-19T13:00:00-05:00",
       "end": "2026-10-19T14:00:00-05:00",
       "allDay": false,
@@ -340,17 +274,17 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
       "id": "university-of-alabama-purple-pop-ins-dating-and-domestic-violence-awareness-month-2026-10-19-student-center-plaza",
       "title": "Purple Pop-Ins: Dating and Domestic Violence Awareness Month",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/purple-pop-ins-dating-and-domestic-violence-awareness-month-1258",
+      "sourceUrl": "https://calendar.ua.edu/event/purple-pop-ins-dating-and-domestic-violence-awareness-month-1258",
       "start": "2026-10-19T13:00:00-05:00",
       "end": "2026-10-19T14:00:00-05:00",
       "allDay": false,
@@ -362,10 +296,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-mixer-crash-course-10-19-2026-10-19-3400-ua-student-center",
+      "title": "Mixer Crash Course 10/19",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/mixer-crash-course-1019",
+      "start": "2026-10-19T14:00:00-05:00",
+      "end": "2026-10-19T15:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "3400 UA Student Center",
+      "address": "",
+      "description": "Headed to a networking mixer? Networking doesn’t have to feel intimidating—we’ll show you how to walk into the room with confidence, start real conversations, and make connections that actually matter. No scripts, no cringe—just practical...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-19",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -384,10 +340,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -406,10 +362,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-19",
-        "temperature": 72,
+        "temperature": 74,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -648,7 +604,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-21",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -670,7 +626,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-21",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -692,7 +648,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-21",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -714,7 +670,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-21",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -736,7 +692,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-21",
-        "temperature": 80,
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-be-the-light-campaign-2026-10-21-ua-student-center",
+      "title": "Be The Light Campaign",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/be-the-light-campaign",
+      "start": "2026-10-21T11:00:00-05:00",
+      "end": "2026-10-21T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center",
+      "address": "",
+      "description": "UA Be Positive will run an event in the student center where students can come and send 5 fundraising emails to people of their choosing and receive Greek points. We will have a QR code with how to send emails and email templates that peop...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-21",
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -758,7 +736,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-21",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -780,7 +758,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-22",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday"
@@ -802,7 +780,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-22",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday"
@@ -824,7 +802,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-22",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday"
@@ -846,7 +824,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-22",
-        "temperature": 48,
+        "temperature": 49,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Thursday Night"
@@ -978,7 +956,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-24",
-        "temperature": 80,
+        "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -997,7 +975,14 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Volleyball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-25",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Sunday"
+      }
     },
     {
       "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-25-ua-student-center-room-3115",
@@ -1012,7 +997,14 @@
       "address": "",
       "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-25",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Sunday"
+      }
     },
     {
       "id": "university-of-alabama-registration-for-spring-2027-begins-2026-10-26",
@@ -1150,21 +1142,6 @@
       "isVirtual": false
     },
     {
-      "id": "alabama-athletics-swimming-and-diving-22038",
-      "title": "Alabama Swimming & Diving: University of Miami",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/swimming-and-diving/schedule",
-      "start": "2026-10-30T00:00:00-05:00",
-      "end": "2026-11-01T00:00:00-06:00",
-      "allDay": true,
-      "timeStatus": "unknown",
-      "venue": "Alabama Aquatic Center",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Swimming & Diving in Tuscaloosa. Start time has not been announced; check the official schedule.",
-      "category": "Sports",
-      "isVirtual": false
-    },
-    {
       "id": "alabama-athletics-womens-tennis-22008",
       "title": "Alabama Women's Tennis: Roberta Alison Fall Classic",
       "source": "Alabama Athletics",
@@ -1176,6 +1153,36 @@
       "venue": "",
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Tennis in Tuscaloosa. Start time has not been announced; check the official schedule.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-swimming-and-diving-22038",
+      "title": "Alabama Swimming & Diving: University of Miami",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/swimming-and-diving/schedule",
+      "start": "2026-10-30T16:00:00-05:00",
+      "end": "2026-10-30T23:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Alabama Aquatic Center",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Swimming & Diving in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-swimming-and-diving-22225",
+      "title": "Alabama Swimming & Diving: University of Miami",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/swimming-and-diving/schedule",
+      "start": "2026-10-31T10:00:00-05:00",
+      "end": "2026-10-31T17:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Alabama Aquatic Center",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Swimming & Diving in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
       "isVirtual": false
     },
@@ -1236,21 +1243,6 @@
       "venue": "Ten Hoor Hall",
       "address": "350 MARRS SPRING ROAD , TUSCALOOSA, AL 35401",
       "description": "The Program for Middle East Studies & the Department of Political Science invite you to a talk: What Was Vision 2030? Reform from Above in Saudi Arabia Andrew Leber Tulane University Tuesday, November 3, 2026 12:30 pm to 1:45 pm Location:...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-talk-saves-lives-2026-11-03-student-center-room-3104",
-      "title": "Talk Saves Lives",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/talk_saves_lives",
-      "start": "2026-11-03T17:00:00-06:00",
-      "end": "2026-11-03T18:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center room 3104",
-      "address": "",
-      "description": "Talk Saves LivesTM is a standardized, peer led, suicide prevention and awareness program provided by The American Foundation for Suicide Prevention (AFSP). According to the AFSP, TSL “provides participants with a clear understanding of thi...",
       "category": "Campus",
       "isVirtual": false
     },
