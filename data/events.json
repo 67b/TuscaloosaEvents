@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-23T15:44:00.161Z",
+  "updatedAt": "2026-10-24T14:31:10.506Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-10-23T15:44:00.161Z",
+  "weatherUpdatedAt": "2026-10-24T14:31:10.506Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,424 +17,6 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-gsa-book-drive-2026-10-23",
-      "title": "GSA Book Drive",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gsa-book-drive",
-      "start": "2026-10-23T00:00:00-05:00",
-      "end": "2026-10-23T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The Graduate Student Association (GSA) is hosting a book drive from October 6 through October 30 to collect gently used books and donate them to the Tuscaloosa Public Library and Temporary Emergency Services. We are collecting children’s a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-ai-experience-2026-10-23",
-      "title": "UA AI Experience",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-10-23T00:00:00-05:00",
-      "end": "2026-10-23T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-2026-annual-membership-assembly-and-leadership-summit-2026-10-23-the-hotel-at-auburn-university-an",
-      "title": "2026 Annual Membership Assembly and Leadership Summit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/2026-annual-membership-assembly-and-leadership-summit",
-      "start": "2026-10-23T07:00:00-05:00",
-      "end": "2026-10-23T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Hotel at Auburn University and Dixon Conference Center",
-      "address": "241 S College St, Auburn, AL 36830",
-      "description": "Hosted by the Alabama State Nurses Association, this annual summit brings together nurses from across the state for networking, association business, recognition and professional development. The event opens with a Welcome Reception and An...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-23-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-10-23T09:00:00-05:00",
-      "end": "2026-10-23T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-10-23-paul-r-jones-museum",
-      "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
-      "start": "2026-10-23T09:00:00-05:00",
-      "end": "2026-10-23T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum presents our fall exhibition Jerry Siegel: Uncommon Lens. Derived from Siegel’s signature artist portraits, the exhibition combines works from the permanent collection alongside each artist’s “behind-the-scenes” po...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-calling-the-spirits-in-spiritualism-in-america-2026-10-23-gorgas-house-museum",
-      "title": "Calling the Spirits In: Spiritualism in America",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/calling-the-spirits-in-spiritualism-in-america",
-      "start": "2026-10-23T09:00:00-05:00",
-      "end": "2026-10-23T16:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas House Museum",
-      "address": "810 Capstone Drive, Tuscaloosa, AL 35487",
-      "description": "Join the Gorgas House from October 8-28, 2026 for our Halloween exhibit, \"Callings the Spirits In: Spiritualism in America.\" Highlighting tools of the trade and celebrities who worked to both promote and debunk the practice, learn about ho...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-miracle-sip-and-support-with-pj-s-coffee-2026-10-23-corner-of-judy-bonner-and-colonial-drive",
-      "title": "UA Miracle Sip & Support with PJ's Coffee",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-miracle-sip-support-with-pjs-coffee",
-      "start": "2026-10-23T09:30:00-05:00",
-      "end": "2026-10-23T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Corner of Judy Bonner and Colonial Drive",
-      "address": "769 Colonial Dr, Tuscaloosa, AL, tuscaloosa, AL, tuscaloosa, AL",
-      "description": "PJ’s Coffee will be setting up a 'Dirty Soda' stand on the grass corner of Colonial Drive & Judy Bonner Drive (across from Theta).",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-fresh-fruit-friday-2026-10-23-student-center-1st-and-2nd-floors",
-      "title": "FRESH FRUIT FRIDAY",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/fresh-fruit-friday-9310",
-      "start": "2026-10-23T10:00:00-05:00",
-      "end": "2026-10-23T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center - 1st and 2nd Floors",
-      "address": "751 Campus Drive, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join us for Fresh Fruit Friday, hosted by BamaCares Pantry, for free, fresh fruit for all students and to promote healthy eating and student well-being. We will be located on the 2nd floor of the Student Center, in front of the elephant, a...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-internship-know-how-prep-shine-repeat-2026-10-23-3400-ua-student-center",
-      "title": "Internship Know-How: Prep. Shine. Repeat.",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/internship-know-how-prep-shine-repeat",
-      "start": "2026-10-23T10:00:00-05:00",
-      "end": "2026-10-23T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "3400 UA Student Center",
-      "address": "",
-      "description": "This interactive workshop will teach you how to find internships locally or nationwide! You'll discover best practices for what to do before, during, and after your internship search so you can feel confident every step of the way. SPACE I...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-sexual-health-quad-tabling-urge-2026-10-23-the-university-of-alabama-quad",
-      "title": "Sexual Health QUAD Tabling - URGE",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/sexual-health-quad-tabling-urge-6302",
-      "start": "2026-10-23T10:00:00-05:00",
-      "end": "2026-10-23T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Quad",
-      "address": "",
-      "description": "URGE will be tabling on the quad EVERY WEEK! Tabling will be every Friday from 10AM - 2:00PM. We will be handing out fliers about sexual health and giving out free condoms!",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-weekly-tabling-2026-10-23-quad-in-front-of-gorgas-library",
-      "title": "Weekly Tabling",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/weekly-tabling",
-      "start": "2026-10-23T10:00:00-05:00",
-      "end": "2026-10-23T14:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Quad in front of Gorgas library",
-      "address": "",
-      "description": "Weekly tabling on the quad. Talking to people and having conversations about the pro-life movement. Handing out information cards and stickers.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-beat-auburn-beat-hunger-tabling-2026-10-23-alpha-gamma-delta",
-      "title": "Beat Auburn Beat Hunger Tabling",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/beat-auburn-beat-hunger-tabling-3739",
-      "start": "2026-10-23T10:30:00-05:00",
-      "end": "2026-10-23T12:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alpha Gamma Delta",
-      "address": "",
-      "description": "At our tabling events, we share information about Beat Auburn Beat Hunger’s mission, upcoming events, and ways students and community members can get involved. Volunteers help run the table by greeting people, answering questions, and enco...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-beat-auburn-beat-hunger-button-tabling-2026-10-23-alpha-gamma-delta",
-      "title": "Beat Auburn Beat Hunger: Button Tabling",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/beat-auburn-beat-hunger-button-tabling",
-      "start": "2026-10-23T10:30:00-05:00",
-      "end": "2026-10-23T12:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alpha Gamma Delta",
-      "address": "",
-      "description": "Come join us at our button sale tabling event, and buy a button for this weekend's football game! It will be a Greek Point! All of the money collected from our button sale will go towards the West Alabama Food Bank.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-uave-tabling-2026-10-23-student-center",
-      "title": "UAVE Tabling",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/uave-tabling",
-      "start": "2026-10-23T11:00:00-05:00",
-      "end": "2026-10-23T12:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center",
-      "address": "",
-      "description": "UA Vote Everywhere will be tabling to get students registered to vote and answer any voting/election related questions, while allowing students to play a quick game of trivia.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-awi-waterworks-2026-10-23-north-lawn-hall",
-      "title": "AWI WaterWorks",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/awi-waterworks-9420",
-      "start": "2026-10-23T12:00:00-05:00",
-      "end": "2026-10-23T13:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "North Lawn Hall",
-      "address": "221 Hackberry Lane, Tuscaloosa, AL 35401",
-      "description": "Please join us for our fall WaterWorks lectures! Lunch will be provided on a first-come, first-serve basis.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ai-ethics-town-hall-2026-10-23-reese-phifer-hall",
-      "title": "AI Ethics Town Hall",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ai-ethics-town-hall",
-      "start": "2026-10-23T12:30:00-05:00",
-      "end": "2026-10-23T13:45:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Reese Phifer Hall",
-      "address": "901 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
-      "description": "The C&IS Human-Centered AI Initiative presents an AI Ethics Town Hall, which will be held on Friday, Oct. 23 from 12:30-1:45 p.m. in Phifer 216. Five esteemed faculty members from across UA will convene to address audience questions and di...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-open-sewing-lab-2026-10-23-weaver-bolden-branch",
-      "title": "Open Sewing Lab",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/open-sewing-lab-5-2/2026-10-23/",
-      "start": "2026-10-23T13:00:00-05:00",
-      "end": "2026-10-23T15:30:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Weaver Bolden Branch",
-      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
-      "description": "&lt;p&gt;Stop by and use our sewing machines! Bring a simple repair or learn to sew by making a project! No experience needed. (Ages 18+)&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-baseball-22192",
-      "title": "Alabama Baseball: UAB",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/baseball/schedule",
-      "start": "2026-10-23T17:00:00-05:00",
-      "end": "2026-10-24T00:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Sewell-Thomas Stadium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Baseball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-womens-volleyball-21784",
-      "title": "Alabama Volleyball: Arkansas",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-volleyball/schedule",
-      "start": "2026-10-23T18:00:00-05:00",
-      "end": "2026-10-24T01:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Volleyball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 49,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Tonight"
-      }
-    },
-    {
       "id": "alabama-athletics-womens-soccer-21838",
       "title": "Alabama Women's Soccer: Tennessee",
       "source": "Alabama Athletics",
@@ -447,13 +29,94 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Soccer in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-gsa-book-drive-2026-10-24",
+      "title": "GSA Book Drive",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gsa-book-drive",
+      "start": "2026-10-24T00:00:00-05:00",
+      "end": "2026-10-24T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The Graduate Student Association (GSA) is hosting a book drive from October 6 through October 30 to collect gently used books and donate them to the Tuscaloosa Public Library and Temporary Emergency Services. We are collecting children’s a...",
+      "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-10-23",
-        "temperature": 49,
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Tonight"
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-ai-experience-2026-10-24",
+      "title": "UA AI Experience",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
+      "start": "2026-10-24T00:00:00-05:00",
+      "end": "2026-10-24T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-gamma-iota-sigma-tailgate-2026-10-24-the-quad-in-front-of-bidgood",
+      "title": "Gamma Iota Sigma Tailgate",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gamma-iota-sigma-tailgate",
+      "start": "2026-10-24T08:00:00-05:00",
+      "end": "2026-10-24T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad in front of Bidgood",
+      "address": "",
+      "description": "Come join Gamma Iota Sigma for tailgates",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-24-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-10-24T09:00:00-05:00",
+      "end": "2026-10-24T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -472,10 +135,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-24",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Saturday"
+        "periodName": "Today"
       }
     },
     {
@@ -494,10 +157,120 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-24",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Saturday"
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-tide-4-christ-2026-10-24-the-quad",
+      "title": "Tide 4 Christ",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tide-4-christ",
+      "start": "2026-10-24T10:00:00-05:00",
+      "end": "2026-10-24T18:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad",
+      "address": "",
+      "description": "Tide 4 Christ Tailgates for Sep 5 (ECU), Sep 19 (FSU), Sep 26 (USC), Oct 10 (UGA), Oct 24 (TAMU), Nov 21 (UTChatt), Nov 28 (AU)",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-honorary-captains-signing-reuben-foster-and-eddie-jackson-2026-10-24-paul-w-bryant-museum",
+      "title": "Honorary Captains Signing: Reuben Foster and Eddie Jackson",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/honorary-captains-signing-reuben-foster-and-eddie-jackson",
+      "start": "2026-10-24T10:30:00-05:00",
+      "end": "2026-10-24T11:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Paul W. Bryant Museum",
+      "address": "300 Paul W. Bryant Drive, Tuscaloosa, AL 35487",
+      "description": "Honorary Captains Reuben Foster and Eddie Jackson will be signing autographs at the Paul W. Bryant Museum on Saturday, October 24, 2026 from 10:30 a.m. until 11:30 a.m. Paid admission to the Bryant Museum is required for admission to the s...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-book-signing-glen-coffee-jr-there-s-more-to-life-than-the-pursuit-of-money-2026-10-24-paul-w-bryan",
+      "title": "Book Signing: Glen Coffee Jr. (“There’s More to Life than the Pursuit of Money”)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/book-signing-glenn-coffee-jr-theres-more-to-life-than-the-pursuit-of-money",
+      "start": "2026-10-24T11:00:00-05:00",
+      "end": "2026-10-24T13:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Paul W. Bryant Museum",
+      "address": "300 Paul W. Bryant Drive, Tuscaloosa, AL 35487",
+      "description": "Glen Coffee Jr. will be at the Paul W. Bryant Museum on October 24, 2026 from 11:00 a.m. until 1:00 p.m. to sign copies of the book, “There’s More to Life than the Pursuit of Money”! Copies of the book are available through bryantmuseumsto...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-smokeout-arthritis-10-24-2026-10-24-aoii-house",
+      "title": "Smokeout Arthritis (10/24)",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/smokeout-arthritis-1024",
+      "start": "2026-10-24T11:00:00-05:00",
+      "end": "2026-10-24T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "AOII House",
+      "address": "738 Colonial Dr, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Join the members of Alpha Omicron Pi at the University of Alabama for our game-day tailgate, Smokeout Arthritis, benefiting the Arthritis Foundation. Help us fund research, awareness, and support for those living with arthritis! We will ha...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
+      }
+    },
+    {
+      "id": "university-of-alabama-alabama-vs-texas-a-and-m-tailgate-2026-10-24-the-quad",
+      "title": "Alabama vs Texas A&M Tailgate",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/alabama-vs-texas-am-tailgate",
+      "start": "2026-10-24T12:00:00-05:00",
+      "end": "2026-10-24T14:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad",
+      "address": "",
+      "description": "Can we get a ROLL TIDE! Join UP in cheering on the Tide against Texas A&M! Join us on the quad 3 hours before kickoff for a fun tailgate, school spirit, and plenty of free food, drinks, and giveaways! We will be on the Quad on October 24,...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-24",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Today"
       }
     },
     {
@@ -516,10 +289,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-24",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Saturday"
+        "periodName": "Today"
       }
     },
     {
@@ -538,10 +311,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-24",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Saturday"
+        "periodName": "Today"
       }
     },
     {
@@ -560,7 +333,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-25",
-        "temperature": 75,
+        "temperature": 76,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Sunday"
+      }
+    },
+    {
+      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-25-ua-student-center-room-3111",
+      "title": "Gamma Sigma Epsilon Tutoring",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring-8382",
+      "start": "2026-10-25T15:00:00-05:00",
+      "end": "2026-10-25T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Room 3111",
+      "address": "",
+      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-25",
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Sunday"
@@ -582,7 +377,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-25",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Sunday"
@@ -604,7 +399,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -626,7 +421,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -648,7 +443,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -670,7 +465,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -692,7 +487,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -714,7 +509,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -736,7 +531,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -758,10 +553,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-alabama-panhellenic-association-annual-trick-or-treat-on-the-row-2026-10-26-across-sorority-row-if",
+      "title": "Alabama Panhellenic Association Annual Trick-or-Treat on the Row",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/alabama-panhellenic-association-annual-trick-or-treat-on-the-row-407",
+      "start": "2026-10-26T18:00:00-05:00",
+      "end": "2026-10-26T20:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Across Sorority Row - *If need more details about ‘across sorority row’, Beginning at the Alpha Phi house, down Paul Bryant to Phi Mu, all of Colonial Drive, all of Magnolia Drive, all of Judy Boner Drive.*",
+      "address": "",
+      "description": "Alabama Panhellenic Association Annual Trick-or-Treat on the Row will be hosted on Monday, October 26th from 6pm-8pm on Sorority Row. This is an opportunity for families and children of the Tuscaloosa community to join APA women in festive...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-26",
+        "temperature": 47,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Monday Night"
       }
     },
     {
@@ -780,7 +597,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 45,
+        "temperature": 47,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday Night"
@@ -978,7 +795,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-27",
-        "temperature": 45,
+        "temperature": 49,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Tuesday Night"
@@ -1073,6 +890,28 @@
       }
     },
     {
+      "id": "tuscaloosa-public-library-intermediate-microsoft-excel-2026-10-28-main-library-computer-lab",
+      "title": "Intermediate Microsoft Excel",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/intermediate-microsoft-excel-4/",
+      "start": "2026-10-28T09:30:00-05:00",
+      "end": "2026-10-28T10:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – Computer Lab",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;This intermediate Microsoft Excel class teaches patrons how to use formulas effectively, search and analyze spreadsheet data, and improve efficiency. &lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-28",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Wednesday"
+      }
+    },
+    {
       "id": "university-of-alabama-getting-started-with-nvivo-for-qualitative-research-2026-10-28",
       "title": "Getting Started with NVivo for Qualitative Research",
       "source": "University of Alabama",
@@ -1132,9 +971,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-29",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Thursday"
       }
     },
@@ -1151,7 +990,14 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Tennis in Tuscaloosa. Start time has not been announced; check the official schedule.",
       "category": "Sports",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-30",
+        "temperature": 80,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Friday"
+      }
     },
     {
       "id": "alabama-athletics-swimming-and-diving-22038",
@@ -1166,7 +1012,14 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Swimming & Diving in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-30",
+        "temperature": 80,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Friday"
+      }
     },
     {
       "id": "alabama-athletics-swimming-and-diving-22225",
@@ -1256,6 +1109,36 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-lead-event-financial-wellness-w-cb-and-s-bank-2026-11-05-bidgood-hall",
+      "title": "LEAD Event: Financial Wellness w/ CB&S Bank",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/lead-event-financial-wellness-w-cbs-bank",
+      "start": "2026-11-05T11:00:00-06:00",
+      "end": "2026-11-05T12:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bidgood Hall",
+      "address": "500 COLONIAL DRIVE , TUSCALOOSA , AL 35401",
+      "description": "Hear from Brad Armagost, Executive Vice President of CB&S Bank, on how you can get into the financial industry and thrive!",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-decoding-diabetes-steps-to-better-health-2026-11-05",
+      "title": "Decoding Diabetes: Steps to Better Health",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/decoding-diabetes-steps-to-better-health",
+      "start": "2026-11-05T12:00:00-06:00",
+      "end": "2026-11-05T13:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Explains how the body handles blood sugar, what diabetes does to that process, and how to understand your readings, along with simple, real-life habits that can help support healthier blood sugar levels. Register through your WellBAMA port...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
