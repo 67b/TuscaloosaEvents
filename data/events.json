@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T14:56:38.631Z",
+  "updatedAt": "2026-10-26T17:22:10.512Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-10-25T14:56:38.631Z",
+  "weatherUpdatedAt": "2026-10-26T17:22:10.512Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,12 +17,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-gsa-book-drive-2026-10-25",
+      "id": "university-of-alabama-gsa-book-drive-2026-10-26",
       "title": "GSA Book Drive",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/gsa-book-drive",
-      "start": "2026-10-25T00:00:00-05:00",
-      "end": "2026-10-25T00:00:00-05:00",
+      "start": "2026-10-26T00:00:00-05:00",
+      "end": "2026-10-26T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -31,143 +31,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-10-25",
+        "forecastDate": "2026-10-26",
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-ai-experience-2026-10-25",
-      "title": "UA AI Experience",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
-      "start": "2026-10-25T00:00:00-05:00",
-      "end": "2026-10-25T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-25",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-25-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-10-25T09:00:00-05:00",
-      "end": "2026-10-25T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-25",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-womens-volleyball-21785",
-      "title": "Alabama Volleyball: Oklahoma",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-volleyball/schedule",
-      "start": "2026-10-25T14:00:00-05:00",
-      "end": "2026-10-25T21:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Volleyball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-25",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-25-ua-student-center-room-3115",
-      "title": "Gamma Sigma Epsilon Tutoring",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring",
-      "start": "2026-10-25T15:00:00-05:00",
-      "end": "2026-10-25T16:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UA Student Center Room 3115",
-      "address": "",
-      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-25",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-gamma-sigma-epsilon-tutoring-2026-10-25-ua-student-center-room-3111",
-      "title": "Gamma Sigma Epsilon Tutoring",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gamma-sigma-epsilon-tutoring-8382",
-      "start": "2026-10-25T15:00:00-05:00",
-      "end": "2026-10-25T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "UA Student Center Room 3111",
-      "address": "",
-      "description": "Free organic chemistry tutoring for students. We will be tutoring for CH 231 and CH 232.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-25",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-nach-basanti-dance-workshop-2026-10-25-student-recreation-center-studio-b",
-      "title": "Nach Basanti Dance Workshop",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/nach-basanti-dance-workshop",
-      "start": "2026-10-25T15:00:00-05:00",
-      "end": "2026-10-25T17:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Recreation Center Studio B",
-      "address": "400 Peter Bryce Blvd, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join Nach Basanti for an energetic, beginner-friendly Indian fusion dance workshop! Open to dancers of all backgrounds and skill levels, this session focuses on learning dynamic choreography, building performance confidence, and exploring...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-25",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Today"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -189,7 +57,29 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-ua-ai-experience-2026-10-26",
+      "title": "UA AI Experience",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-ai-experience",
+      "start": "2026-10-26T00:00:00-05:00",
+      "end": "2026-10-26T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The UA AI Experience is a free, self-paced online learning experience designed to help students, faculty and staff build practical AI skills for learning, teaching, research and everyday work. Through engaging, interactive modules, you wil...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-26",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -211,7 +101,7 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -233,7 +123,7 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -255,7 +145,29 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-26-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-10-26T09:00:00-05:00",
+      "end": "2026-10-26T17:00:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-26",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -277,7 +189,7 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -299,7 +211,29 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-ol-180-getting-started-with-opera-becoming-an-aficionado-2026-10-26",
+      "title": "OL 180 Getting Started with Opera: Becoming an Aficionado",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ol-180-getting-started-with-opera-becoming-an-aficionado",
+      "start": "2026-10-26T09:00:00-05:00",
+      "end": "2026-10-26T10:15:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Join us online for our free public programs — and bring a friend! This course introduces the history, current state and future of opera. Designed for the beginning, or as a review for established opera fans, this class will offer great mus...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-26",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -321,36 +255,14 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-little-library-playdate-2026-10-26-main-library-first-floor",
-      "title": "Little Library Playdate",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/little-library-playdate-59/2026-10-26/",
-      "start": "2026-10-26T10:00:00-05:00",
-      "end": "2026-10-26T11:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "Recommended ages: Ages 0–6. &lt;p&gt;Join us for an hour-long free-play session filled with a few toys and lots of laughter. (Ages 0-6)&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-26",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
       "id": "university-of-alabama-creating-an-online-portfolio-2026-10-26",
       "title": "Creating an Online Portfolio",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/creating-an-online-portfolio-4765",
+      "sourceUrl": "https://calendar.ua.edu/event/creating-an-online-portfolio-4765",
       "start": "2026-10-26T11:30:00-05:00",
       "end": "2026-10-27T00:00:00-05:00",
       "allDay": false,
@@ -365,14 +277,14 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
       "id": "university-of-alabama-lead-event-mindful-monday-stress-wellness-and-the-body-2026-10-26-bidgood-hall",
       "title": "LEAD Event: Mindful Monday: Stress, Wellness, and the Body",
       "source": "University of Alabama",
-      "sourceUrl": "http://calendar.ua.edu/event/lead-event-mindful-monday-stress-wellness-and-the-body",
+      "sourceUrl": "https://calendar.ua.edu/event/lead-event-mindful-monday-stress-wellness-and-the-body",
       "start": "2026-10-26T14:00:00-05:00",
       "end": "2026-10-26T15:00:00-05:00",
       "allDay": false,
@@ -387,7 +299,7 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -409,7 +321,7 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -431,7 +343,7 @@
         "temperature": 77,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -450,10 +362,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 48,
+        "temperature": 49,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -472,10 +384,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-26",
-        "temperature": 48,
+        "temperature": 49,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Monday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -656,7 +568,7 @@
     },
     {
       "id": "alabama-athletics-womens-basketball-21964",
-      "title": "Alabama Women's Basketball: Mississippi College",
+      "title": "Alabama Women's Basketball: Mississippi Christian",
       "source": "Alabama Athletics",
       "sourceUrl": "https://rolltide.com/sports/womens-basketball/schedule",
       "start": "2026-10-27T18:00:00-05:00",
@@ -670,7 +582,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-27",
-        "temperature": 51,
+        "temperature": 50,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Tuesday Night"
@@ -787,6 +699,28 @@
       }
     },
     {
+      "id": "tuscaloosa-public-library-sewing-lab-2026-10-28-weaver-bolden-branch",
+      "title": "Sewing Lab",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/sewing-lab-13/2026-10-28/",
+      "start": "2026-10-28T09:30:00-05:00",
+      "end": "2026-10-28T12:30:00-05:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Weaver Bolden Branch",
+      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
+      "description": "&lt;p&gt;Sign up for an hour of instruction on our sewing machines. Bring a simple repair or alteration or learn to sew by making a project.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-10-28",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Wednesday"
+      }
+    },
+    {
       "id": "university-of-alabama-getting-started-with-nvivo-for-qualitative-research-2026-10-28",
       "title": "Getting Started with NVivo for Qualitative Research",
       "source": "University of Alabama",
@@ -868,7 +802,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-28",
-        "temperature": 50,
+        "temperature": 49,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday Night"
@@ -956,9 +890,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-10-31",
-        "temperature": 82,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 17,
         "periodName": "Saturday"
       }
     },
@@ -975,7 +909,14 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Volleyball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-01",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "precipitationChance": 53,
+        "periodName": "Sunday"
+      }
     },
     {
       "id": "alabama-athletics-womens-basketball-21982",
@@ -1038,6 +979,21 @@
       "isVirtual": false
     },
     {
+      "id": "university-of-alabama-ua-chess-club-weekly-meeting-2026-11-03-uasc-3115",
+      "title": "UA Chess Club Weekly Meeting",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/ua-chess-club-weekly-meeting-8701",
+      "start": "2026-11-03T18:00:00-06:00",
+      "end": "2026-11-03T20:30:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UASC 3115",
+      "address": "",
+      "description": "We will have boards set out, and people may come in and play games as they please. Completely informal. Anyone is welcome.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
       "id": "alabama-athletics-mens-basketball-21842",
       "title": "Alabama Men's Basketball: Sam Houston",
       "source": "Alabama Athletics",
@@ -1050,6 +1006,21 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Men's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-off-campus-housing-fair-2026-11-04-the-university-of-alabama-student-center-plaza",
+      "title": "Off-Campus Housing Fair",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/off-campus-housing-fair",
+      "start": "2026-11-04T10:00:00-06:00",
+      "end": "2026-11-04T14:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Student Center Plaza",
+      "address": "",
+      "description": "Come check out UA's Off-Campus Housing Fairs and meet representatives from properties near campus, connect with UA staff, and learn about locations, rates, amenities, and off-campus living. Attendees will have the opportunity to explore av...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
