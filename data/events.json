@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T16:05:09.436Z",
+  "updatedAt": "2026-11-01T17:06:50.315Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-10-31T16:05:09.435Z",
+  "weatherUpdatedAt": "2026-11-01T17:06:50.315Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,12 +17,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-10-31-moundville-archaeological-p",
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-01-moundville-archaeological-p",
       "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-10-31T09:00:00-05:00",
-      "end": "2026-10-31T17:00:00-05:00",
+      "start": "2026-11-01T09:00:00-06:00",
+      "end": "2026-11-01T17:00:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Moundville Archaeological Park",
@@ -31,32 +31,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-10-31",
-        "temperature": 77,
+        "forecastDate": "2026-11-01",
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 33,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-swimming-and-diving-22225",
-      "title": "Alabama Swimming & Diving: University of Miami",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/swimming-and-diving/schedule",
-      "start": "2026-10-31T10:00:00-05:00",
-      "end": "2026-10-31T17:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alabama Aquatic Center",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Swimming & Diving in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-10-31",
-        "temperature": 77,
-        "temperatureUnit": "F",
-        "precipitationChance": 33,
+        "precipitationChance": 65,
         "periodName": "Today"
       }
     },
@@ -78,8 +56,8 @@
         "forecastDate": "2026-11-01",
         "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Sunday"
+        "precipitationChance": 65,
+        "periodName": "Today"
       }
     },
     {
@@ -100,8 +78,8 @@
         "forecastDate": "2026-11-01",
         "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 77,
-        "periodName": "Sunday"
+        "precipitationChance": 65,
+        "periodName": "Today"
       }
     },
     {
@@ -120,9 +98,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -142,9 +120,9 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -164,9 +142,9 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -186,9 +164,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -208,9 +186,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -230,9 +208,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -252,9 +230,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -274,9 +252,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -296,9 +274,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -318,9 +296,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -340,9 +318,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -362,9 +340,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -384,9 +362,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -406,9 +384,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -428,9 +406,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 76,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "precipitationChance": 6,
+        "precipitationChance": 2,
         "periodName": "Monday"
       }
     },
@@ -450,9 +428,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 62,
+        "temperature": 63,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Monday Night"
       }
     },
@@ -472,9 +450,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -494,9 +472,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -516,9 +494,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -538,9 +516,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -560,9 +538,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -582,9 +560,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -604,9 +582,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 8,
+        "precipitationChance": 4,
         "periodName": "Tuesday"
       }
     },
@@ -626,9 +604,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 62,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 63,
         "periodName": "Tuesday Night"
       }
     },
@@ -648,9 +626,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 62,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 55,
+        "precipitationChance": 63,
         "periodName": "Tuesday Night"
       }
     },
@@ -672,7 +650,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -694,7 +672,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -716,7 +694,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -738,7 +716,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -760,7 +738,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -782,7 +760,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -804,7 +782,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 70,
+        "precipitationChance": 92,
         "periodName": "Wednesday"
       }
     },
@@ -824,9 +802,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-04",
-        "temperature": 54,
+        "temperature": 58,
         "temperatureUnit": "F",
-        "precipitationChance": 29,
+        "precipitationChance": 38,
         "periodName": "Wednesday Night"
       }
     },
@@ -846,7 +824,7 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "precipitationChance": 15,
         "periodName": "Thursday"
@@ -868,7 +846,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "precipitationChance": 15,
         "periodName": "Thursday"
@@ -890,7 +868,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "precipitationChance": 15,
         "periodName": "Thursday"
@@ -912,7 +890,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "precipitationChance": 15,
         "periodName": "Thursday"
@@ -934,7 +912,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "precipitationChance": 15,
         "periodName": "Thursday"
@@ -958,7 +936,7 @@
         "forecastDate": "2026-11-05",
         "temperature": 53,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 16,
         "periodName": "Thursday Night"
       }
     },
@@ -980,7 +958,7 @@
         "forecastDate": "2026-11-05",
         "temperature": 53,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 16,
         "periodName": "Thursday Night"
       }
     },
@@ -1002,7 +980,7 @@
         "forecastDate": "2026-11-05",
         "temperature": 53,
         "temperatureUnit": "F",
-        "precipitationChance": 18,
+        "precipitationChance": 16,
         "periodName": "Thursday Night"
       }
     },
@@ -1024,7 +1002,7 @@
         "forecastDate": "2026-11-06",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 10,
         "periodName": "Friday"
       }
     },
@@ -1046,7 +1024,7 @@
         "forecastDate": "2026-11-06",
         "temperature": 75,
         "temperatureUnit": "F",
-        "precipitationChance": 13,
+        "precipitationChance": 10,
         "periodName": "Friday"
       }
     },
@@ -1066,9 +1044,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-06",
-        "temperature": 49,
+        "temperature": 50,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 1,
         "periodName": "Friday Night"
       }
     },
@@ -1085,7 +1063,14 @@
       "address": "3718 36th St, Northport, AL, Northport, AL",
       "description": "Taste of Africa is a cultural showcase hosted by the African Students Association to celebrate the diversity of the African continent. The event will feature traditional food, music, storytelling, and student presentations, creating an int...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-07",
+        "temperature": 74,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
+        "periodName": "Saturday"
+      }
     },
     {
       "id": "alabama-athletics-mens-basketball-21844",
