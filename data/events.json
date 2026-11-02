@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T17:06:50.315Z",
+  "updatedAt": "2026-11-02T20:45:37.745Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-01T17:06:50.315Z",
+  "weatherUpdatedAt": "2026-11-02T20:45:37.744Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -16,72 +16,6 @@
     "https://visittuscaloosa.com/events/ returned 403"
   ],
   "events": [
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-01-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-01T09:00:00-06:00",
-      "end": "2026-11-01T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-01",
-        "temperature": 70,
-        "temperatureUnit": "F",
-        "precipitationChance": 65,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-nach-basanti-dance-workshop-2026-11-01-student-recreation-center-studio-b",
-      "title": "Nach Basanti Dance Workshop",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/nach-basanti-dance-workshop",
-      "start": "2026-11-01T15:00:00-06:00",
-      "end": "2026-11-01T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Recreation Center Studio B",
-      "address": "400 Peter Bryce Blvd, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Join Nach Basanti for an energetic, beginner-friendly Indian fusion dance workshop! Open to dancers of all backgrounds and skill levels, this session focuses on learning dynamic choreography, building performance confidence, and exploring...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-01",
-        "temperature": 70,
-        "temperatureUnit": "F",
-        "precipitationChance": 65,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-womens-volleyball-21786",
-      "title": "Alabama Volleyball: Mississippi State",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-volleyball/schedule",
-      "start": "2026-11-01T16:00:00-06:00",
-      "end": "2026-11-02T00:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Volleyball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-01",
-        "temperature": 70,
-        "temperatureUnit": "F",
-        "precipitationChance": 65,
-        "periodName": "Today"
-      }
-    },
     {
       "id": "university-of-alabama-a-team-application-deadline-2026-11-02",
       "title": "A-Team Application Deadline",
@@ -98,10 +32,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -120,10 +54,10 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -142,10 +76,10 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -164,10 +98,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-02-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-11-02T09:00:00-06:00",
+      "end": "2026-11-02T17:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-02",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -186,10 +142,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -208,10 +164,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -230,10 +186,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -252,10 +208,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -274,10 +230,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -296,10 +252,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -318,10 +274,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -340,10 +296,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-postcards-to-veterans-2026-11-02-the-university-of-alabama-student-center",
+      "title": "Postcards to Veterans",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/postcards-to-veterans",
+      "start": "2026-11-02T11:00:00-06:00",
+      "end": "2026-11-02T13:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Student Center",
+      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
+      "description": "Come write a note of appreciation to a veteran provided by Campus Mail! Stop by our table at the Student Center Tables in the Elephant Area on Monday, November 2nd from 11am-1pm. Write a note on a postcard to send to veterans for Veterans...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-02",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -362,10 +340,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -384,10 +362,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -406,10 +384,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
-        "periodName": "Monday"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -428,10 +406,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-02",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Monday Night"
+        "precipitationChance": 2,
+        "periodName": "Tonight"
       }
     },
     {
@@ -452,7 +430,7 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -474,7 +452,7 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -496,7 +474,7 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -518,7 +496,29 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-election-night-watch-party-2026-11-03-the-university-of-alabama-student-center",
+      "title": "Election Night Watch Party",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/election-night-watch-party",
+      "start": "2026-11-03T17:00:00-06:00",
+      "end": "2026-11-03T22:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Student Center",
+      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
+      "description": "Room Change: Now in 3104! Come watch the results roll in with fellow students, faculty, and community members. Enjoy free food, election-night bingo and predictions, panel discussions, live coverage, and plenty of opportunities to talk pol...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-03",
+        "temperature": 79,
+        "temperatureUnit": "F",
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -540,7 +540,7 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -562,7 +562,7 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -584,7 +584,7 @@
         "forecastDate": "2026-11-03",
         "temperature": 79,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 12,
         "periodName": "Tuesday"
       }
     },
@@ -604,9 +604,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 79,
         "periodName": "Tuesday Night"
       }
     },
@@ -626,9 +626,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-03",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 63,
+        "precipitationChance": 79,
         "periodName": "Tuesday Night"
       }
     },
@@ -650,7 +650,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -672,7 +672,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -694,7 +694,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -716,7 +716,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -738,7 +738,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -760,7 +760,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -782,7 +782,7 @@
         "forecastDate": "2026-11-04",
         "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 92,
+        "precipitationChance": 95,
         "periodName": "Wednesday"
       }
     },
@@ -802,9 +802,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-04",
-        "temperature": 58,
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 38,
+        "precipitationChance": 6,
         "periodName": "Wednesday Night"
       }
     },
@@ -824,9 +824,9 @@
       "isVirtual": true,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -846,9 +846,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -868,9 +868,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -890,9 +890,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -912,9 +912,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 75,
+        "temperature": 76,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 5,
         "periodName": "Thursday"
       }
     },
@@ -934,9 +934,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 53,
+        "temperature": 50,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 11,
         "periodName": "Thursday Night"
       }
     },
@@ -956,9 +956,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 53,
+        "temperature": 50,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 11,
         "periodName": "Thursday Night"
       }
     },
@@ -978,9 +978,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-05",
-        "temperature": 53,
+        "temperature": 50,
         "temperatureUnit": "F",
-        "precipitationChance": 16,
+        "precipitationChance": 11,
         "periodName": "Thursday Night"
       }
     },
@@ -1000,9 +1000,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-06",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 4,
         "periodName": "Friday"
       }
     },
@@ -1022,9 +1022,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-06",
-        "temperature": 75,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
+        "precipitationChance": 4,
         "periodName": "Friday"
       }
     },
@@ -1044,7 +1044,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-06",
-        "temperature": 50,
+        "temperature": 46,
         "temperatureUnit": "F",
         "precipitationChance": 1,
         "periodName": "Friday Night"
@@ -1066,9 +1066,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-07",
-        "temperature": 74,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 1,
         "periodName": "Saturday"
       }
     },
@@ -1114,6 +1114,21 @@
       "venue": "Low Tide Poke",
       "address": "361 Stadium Drive, Tuscaloosa, AL, Tuscaloosa, AL",
       "description": "Join the Education Abroad Alumni Association (EAAA) at Low Tide Poke for a special Percentage Day! When you mention “EAAA” at checkout, 15% of your purchase will be donated directly to support EAAA. Whether you’ve studied abroad, are plann...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-lead-event-public-speaking-basics-w-james-dubuisson-2026-11-10-bidgood-hall",
+      "title": "LEAD Event: Public Speaking Basics w/ James Dubuisson",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/lead-event-public-speaking-basics-w-james-dubuisson-945",
+      "start": "2026-11-10T10:00:00-06:00",
+      "end": "2026-11-10T11:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Bidgood Hall",
+      "address": "500 COLONIAL DRIVE , TUSCALOOSA , AL 35401",
+      "description": "Join us for a session with James Dubuisson, LEAD instructor, and learn the basics of public speaking! Public speaking is a skill and Mr. Dubuisson will be giving professional tips and advice for perfecting your next speech or presentation.",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1253,21 +1268,6 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-public-astronomy-observing-event-2026-11-16-gallalee-hall",
-      "title": "Public Astronomy Observing Event",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/public-astronomy-observing-event-4101",
-      "start": "2026-11-16T17:30:00-06:00",
-      "end": "2026-11-16T20:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gallalee Hall",
-      "address": "514 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
-      "description": "The UA Department of Physics and Astronomy invites the public to attend a talk, followed by observing using the department's rooftop 16\" telescope. Talk by Dr. Emilie Panek, followed by observing from the Gallalee Hall rooftop observatory,...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
       "id": "alabama-athletics-mens-basketball-21846",
       "title": "Alabama Men's Basketball: Kennesaw State",
       "source": "Alabama Athletics",
@@ -1280,21 +1280,6 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Men's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-billing-accounts-receivable-cgat-course-2026-11-18-bryant-conference-center",
-      "title": "Billing/Accounts Receivable - CGAT Course",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/billingaccounts-receivable-cgat-course-1210",
-      "start": "2026-11-18T09:00:00-06:00",
-      "end": "2026-11-18T16:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Bryant Conference Center",
-      "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
-      "description": "The CGAT program, sponsored by the Government Finance Officers Association of Alabama, is a series of courses intended to improve the professional and fiscal skills of attendees. This training is not exclusive to GFOAA members. Billing/Acc...",
-      "category": "Campus",
       "isVirtual": false
     },
     {
