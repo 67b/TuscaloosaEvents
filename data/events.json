@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T18:54:12.579Z",
+  "updatedAt": "2026-11-13T18:30:28.204Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-12T18:54:12.579Z",
+  "weatherUpdatedAt": "2026-11-13T18:30:28.204Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,27 +17,12 @@
   ],
   "events": [
     {
-      "id": "alabama-athletics-womens-volleyball-21789",
-      "title": "Alabama Volleyball: Auburn",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-volleyball/schedule",
-      "start": "2026-11-11T20:00:00-06:00",
-      "end": "2026-11-12T04:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Foster Auditorium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Volleyball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-12",
+      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-13",
       "title": "PSA Tuscaloosa Angels Donation Drive",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
-      "start": "2026-11-12T00:00:00-05:00",
-      "end": "2026-11-12T00:00:00-05:00",
+      "start": "2026-11-13T00:00:00-05:00",
+      "end": "2026-11-13T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -46,20 +31,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-ua-energy-conservation-contest-2026-11-12-ua-dorms-and-residence-halls",
+      "id": "university-of-alabama-ua-energy-conservation-contest-2026-11-13-ua-dorms-and-residence-halls",
       "title": "UA Energy Conservation Contest",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/ua-energy-conservation-contest",
-      "start": "2026-11-12T00:00:00-06:00",
-      "end": "2026-11-12T23:59:00-06:00",
+      "start": "2026-11-13T00:00:00-06:00",
+      "end": "2026-11-13T23:59:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "UA Dorms & Residence Halls",
@@ -68,86 +53,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-sadie-sips-x-sese-percentage-fundraiser-2026-11-12-sadie-sips",
-      "title": "Sadie Sips x SESE Percentage Fundraiser",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/sadie-sips-x-sese-percentage-fundraiser",
-      "start": "2026-11-12T06:00:00-06:00",
-      "end": "2026-11-12T18:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Sadie Sips",
-      "address": "408 20th Avenue, Tuscaloosa, Alabama, Tuscaloosa, Alabama",
-      "description": "This event will serve as a fundraiser for our partner, the National Epilepsy Foundation. The proceeds will specifically benefit the Alabama chapter of the National Epilepsy Foundation. The event will take place at Sadie Sips, a local herba...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-kindervision-club-x-bama-sips-percentage-day-2026-11-12-the-bama-sips",
-      "title": "KinderVision Club X Bama Sips Percentage Day",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/kindervision-club-x-bama-sips-percentage-day",
-      "start": "2026-11-12T07:00:00-06:00",
-      "end": "2026-11-12T18:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Bama Sips",
-      "address": "705 Paul W Bryant Dr., Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "The KinderVision Club is hosting a percentage day at The Bama Sips! Stop by, grab your favorite drink, and be sure to mention KinderVision at checkout. 10% of all proceeds will go directly to the KinderVision Club to support our mission of...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-necessary-knowledge-and-successful-conflict-conversations-for-employees-2026-11-12-employee-resour",
-      "title": "Necessary Knowledge and Successful Conflict Conversations for Employees",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/necessary-knowledge-and-successful-conflict-conversations-for-employees-1278",
-      "start": "2026-11-12T08:30:00-06:00",
-      "end": "2026-11-12T12:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "Join Tal Lieber, Director of Informal Resolution Services for UA for this new offering designed to help you learn practical tools to resolve conflict in the workplace. The goal of Necessary Knowledge is to learn a new way of thinking about...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-12-moundville-archaeological-p",
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-13-moundville-archaeological-p",
       "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-12T09:00:00-06:00",
-      "end": "2026-11-12T17:00:00-06:00",
+      "start": "2026-11-13T09:00:00-06:00",
+      "end": "2026-11-13T17:00:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Moundville Archaeological Park",
@@ -156,20 +75,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-12-paul-r-jones-museum",
+      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-13-paul-r-jones-museum",
       "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
-      "start": "2026-11-12T09:00:00-06:00",
-      "end": "2026-11-12T17:00:00-06:00",
+      "start": "2026-11-13T09:00:00-06:00",
+      "end": "2026-11-13T17:00:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -178,275 +97,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-graduate-student-online-writing-groups-2026-11-12",
-      "title": "Graduate Student Online Writing Groups",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/graduate-student-online-writing-groups",
-      "start": "2026-11-12T09:00:00-06:00",
-      "end": "2026-11-12T12:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Are you a graduate student facing end-of-semester deadlines? Does your writing process thrive with community and accountability? It is not too late to join the UA Writing Center and Graduate School in our Online Graduate Student Writing Gr...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-lean-manufacturing-training-2026-11-12-the-gateway-center",
-      "title": "Lean Manufacturing Training",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/lean-manufacturing-training",
-      "start": "2026-11-12T09:15:00-06:00",
-      "end": "2026-11-12T14:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Gateway Center",
-      "address": "2614 University Blvd East, Tuscaloosa, AL 35404",
-      "description": "This hands-on workshop provides an overview of Lean Manufacturing principles and tools. Participants will learn to identify waste, streamline processes, and build a culture of continuous improvement. Using a LEGO airplane assembly process,...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-c-and-is-scholarship-info-session-2026-11-12-reese-phifer-hall",
-      "title": "C&IS Scholarship Info Session",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/cis-scholarship-info-session",
-      "start": "2026-11-12T10:30:00-06:00",
-      "end": "2026-11-12T11:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Reese Phifer Hall",
-      "address": "901 UNIVERSITY BLVD , TUSCALOOSA, AL 35401",
-      "description": "If you're planning to apply for scholarships, stop by to get your questions answered, learn how to navigate the Alabama Scholarship Award Manager, and pick up tips for submitting a strong application. This will be our only drop-in session...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-data-governance-a-winning-strategy-for-better-data-2026-11-12-employee-resource-center",
-      "title": "Data Governance - A Winning Strategy for Better Data",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/data-governance-a-winning-strategy-for-better-data-3813",
-      "start": "2026-11-12T10:30:00-06:00",
-      "end": "2026-11-12T11:45:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Employee Resource Center",
-      "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
-      "description": "The goal of the course is to explain how to manage and protect data effectively. The course will cover data ownership and the roles of those responsible for data, highlighting the importance of accountability and teamwork. By the end, you...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-11-12-main-library-first-floor",
-      "title": "Community Knit/Crochet Group",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-11-12/",
-      "start": "2026-11-12T11:00:00-06:00",
-      "end": "2026-11-12T14:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – First Floor",
-      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
-      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-serve-big-tabling-2026-11-12-student-center-plaza",
-      "title": "Serve Big Tabling",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/serve-big-tabling",
-      "start": "2026-11-12T11:00:00-06:00",
-      "end": "2026-11-12T13:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center Plaza",
-      "address": "",
-      "description": "Serve Big Day of Service Tabling to inform students that a Coat Drive for Temporary Emergency Services is happening through December 11th and upcoming Serve Big's day of service MLK Day of Service Monday, January 18th, 8 AM-12:30 PM, so st...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-using-eportfolios-as-a-vehicle-for-enhanced-student-engagement-2026-11-12-gorgas-library",
-      "title": "Using ePortfolios as a Vehicle for Enhanced Student Engagement",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/using-eportfolios-as-a-vehicle-for-enhanced-student-engagement",
-      "start": "2026-11-12T12:30:00-06:00",
-      "end": "2026-11-12T13:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 CAPSTONE DRIVE , TUSCALOOSA , AL 35401",
-      "description": "During this seminar use of ePortfolios will be discussed as tools/vehicles for student engagement and enhanced learning. We will explore all AAC&U “High-Impact Practices” while focusing on ePortfolios as a way to help faculty frame, and st...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-full-steam-ahead-2026-11-12-main-library-learning-lab",
-      "title": "Full STEAM Ahead",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/full-steam-ahead-46/2026-11-12/",
-      "start": "2026-11-12T16:00:00-06:00",
-      "end": "2026-11-12T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Main Library – Learning Lab",
-      "address": "1801 Jack Warner PKWY, AL, 35401",
-      "description": "Recommended ages: Ages 7–12. &lt;p&gt;Hands-on activities and crafts inspired by art and science! Registration required. (Ages 7-12)&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "tuscaloosa-public-library-teen-time-button-making-2026-11-12-weaver-bolden-branch",
-      "title": "Teen Time: Button Making",
-      "source": "Tuscaloosa Public Library",
-      "sourceUrl": "https://www.tuscaloosa-library.org/event/teen-time-button-making/",
-      "start": "2026-11-12T16:00:00-06:00",
-      "end": "2026-11-12T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Weaver Bolden Branch",
-      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
-      "description": "&lt;p&gt;Add some flair to your backpacks, bags, and jackets with custom buttons! Materials and snacks provided.&lt;/p&gt;\\n",
-      "category": "Library",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-writing-histories-of-slavery-sources-methods-and-interpretations-2026-11-12-gorgas-library",
-      "title": "Writing Histories of Slavery: Sources, Methods, and Interpretations",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/writing-histories-of-slavery-sources-methods-and-interpretations",
-      "start": "2026-11-12T17:00:00-06:00",
-      "end": "2026-11-12T19:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gorgas Library",
-      "address": "711 Capstone Drive. Tuscaloosa, AL 35487",
-      "description": "Join historians Jennifer L. Morgan of New York University and Marisa J. Fuentes of Rutgers University for a conversation about the sources, methods, and interpretive challenges involved in writing histories of slavery. Morgan is the author...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 67,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-ua-naacp-general-body-meetings-2026-11-12-real-tide-engagement-commons-2nd-floor-of-the-student-ce",
-      "title": "UA-NAACP General Body Meetings",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/ua-naacp-general-body-meetings",
-      "start": "2026-11-12T18:00:00-06:00",
-      "end": "2026-11-12T19:45:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Real Tide Engagement Commons (2nd Floor of the Student Center)",
-      "address": "",
-      "description": "The University of Alabama chapter of the NAACP (UA-NAACP, Unit #5729) conducts its general body meetings as strategic platforms to drive advocacy, equity, and meaningful change both on campus and within the broader Tuscaloosa community. Fr...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 38,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Tonight"
-      }
-    },
-    {
-      "id": "university-of-alabama-outside-inside-out-2026-11-12-john-h-england-jr-hall",
-      "title": "Outside Inside Out",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/outside-inside-out",
-      "start": "2026-11-12T19:00:00-06:00",
-      "end": "2026-11-13T02:00:00-05:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "John H. England Jr. Hall",
-      "address": "810 2ND STREET, TUSCALOOSA, AL 35401",
-      "description": "Step into an immersive dance experience on November 12 and 13 at 7:00 p.m. Outside Inside Out is an MFA Dance capstone performance exploring the relationship between attention, perception, and the creative process. The performance will tak...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-12",
-        "temperature": 38,
-        "temperatureUnit": "F",
-        "precipitationChance": 0,
-        "periodName": "Tonight"
       }
     },
     {
@@ -465,10 +120,164 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-13",
-        "temperature": 56,
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Friday"
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-bateman-streaming-habits-survey-2026-11-13-ua-student-center",
+      "title": "Bateman Streaming Habits Survey",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bateman-streaming-habits-survey",
+      "start": "2026-11-13T10:00:00-06:00",
+      "end": "2026-11-13T14:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center",
+      "address": "751 Campus W Dr, Tuscaloosa, AL 35487, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "The UA Bateman Public Relations case study competition team is requesting participation in a pre-survey to gather information prior to our campaign. The survey contains questions regarding individual streaming habits, preferences, and perc...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-coffee-chats-2026-11-13-ua-student-center-starbucks",
+      "title": "Coffee Chats",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/coffee-chats",
+      "start": "2026-11-13T10:00:00-06:00",
+      "end": "2026-11-13T11:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "UA Student Center Starbucks",
+      "address": "Look for the coffee chats sign!",
+      "description": "Connect with other first-gen, out-of-state freshman students over coffee and conversation at Starbucks. Coffee is on us!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-fresh-fruit-friday-2026-11-13-student-center-1st-and-2nd-floors",
+      "title": "FRESH FRUIT FRIDAY",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fresh-fruit-friday-9310",
+      "start": "2026-11-13T10:00:00-06:00",
+      "end": "2026-11-13T14:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Student Center - 1st and 2nd Floors",
+      "address": "751 Campus Drive, Tuscaloosa, AL, Tuscaloosa, AL",
+      "description": "Join us for Fresh Fruit Friday, hosted by BamaCares Pantry, for free, fresh fruit for all students and to promote healthy eating and student well-being. We will be located on the 2nd floor of the Student Center, in front of the elephant, a...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-sexual-health-quad-tabling-urge-2026-11-13-the-university-of-alabama-quad",
+      "title": "Sexual Health QUAD Tabling - URGE",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/sexual-health-quad-tabling-urge-6302",
+      "start": "2026-11-13T10:00:00-06:00",
+      "end": "2026-11-13T14:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Quad",
+      "address": "",
+      "description": "URGE will be tabling on the quad EVERY WEEK! Tabling will be every Friday from 10AM - 2:00PM. We will be handing out fliers about sexual health and giving out free condoms!",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-international-coffee-hour-2026-11-13-the-university-of-alabama-student-center",
+      "title": "International Coffee Hour",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/international-coffee-hour-4740",
+      "start": "2026-11-13T11:30:00-06:00",
+      "end": "2026-11-13T12:30:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Student Center",
+      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
+      "description": "Join us on Fridays throughout the Fall and Spring semester from 11:30 a.m. to 1:00 p.m. in the Real Tide Engagement Commons (located in Room 2100 of The University of Alabama Student Center) for free coffee, tea, snacks, and great conversa...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-awi-waterworks-2026-11-13-north-lawn-hall",
+      "title": "AWI WaterWorks",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/awi-waterworks-9420",
+      "start": "2026-11-13T12:00:00-06:00",
+      "end": "2026-11-13T13:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "North Lawn Hall",
+      "address": "221 Hackberry Lane, Tuscaloosa, AL 35401",
+      "description": "Please join us for our fall WaterWorks lectures! Lunch will be provided on a first-come, first-serve basis.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-connection-catalyst-fueling-belonging-at-work-2026-11-13-the-university-of-alabama-student-center",
+      "title": "Connection Catalyst: Fueling Belonging at Work",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/connection-catalyst-fueling-belonging-at-work-3227",
+      "start": "2026-11-13T12:00:00-06:00",
+      "end": "2026-11-13T13:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Student Center",
+      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
+      "description": "Learn why connection at work matters, develop practical skills for building higher-quality relationships with colleagues, and make a personal commitment to take initiative. Lunch will be provided. Register through your WellBAMA portal.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-13",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -487,10 +296,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-13",
-        "temperature": 56,
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Friday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -509,10 +318,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-13",
-        "temperature": 56,
+        "temperature": 57,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Friday"
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -531,10 +340,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-13",
-        "temperature": 32,
+        "temperature": 33,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Friday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -553,10 +362,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-13",
-        "temperature": 32,
+        "temperature": 33,
         "temperatureUnit": "F",
         "precipitationChance": 0,
-        "periodName": "Friday Night"
+        "periodName": "Tonight"
       }
     },
     {
@@ -575,7 +384,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-14",
-        "temperature": 56,
+        "temperature": 58,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -597,7 +406,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-14",
-        "temperature": 56,
+        "temperature": 58,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -619,7 +428,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-15",
-        "temperature": 59,
+        "temperature": 61,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Sunday"
@@ -641,7 +450,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-15",
-        "temperature": 59,
+        "temperature": 61,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Sunday"
@@ -663,7 +472,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-15",
-        "temperature": 59,
+        "temperature": 61,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Sunday"
@@ -685,7 +494,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-15",
-        "temperature": 59,
+        "temperature": 61,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Sunday"
@@ -707,9 +516,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-15",
-        "temperature": 36,
+        "temperature": 39,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Sunday Night"
       }
     },
@@ -729,9 +538,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -751,9 +560,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -773,9 +582,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -795,9 +604,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -817,9 +626,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -839,31 +648,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
-        "periodName": "Monday"
-      }
-    },
-    {
-      "id": "university-of-alabama-unscripted-hot-takes-powerpoint-night-2026-11-16-the-university-of-alabama-student-center-forum-ro",
-      "title": "Unscripted: Hot Takes PowerPoint Night!",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/unscripted-hot-takes-powerpoint-night",
-      "start": "2026-11-16T16:30:00-06:00",
-      "end": "2026-11-16T18:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The University of Alabama Student Center Forum, Room 3700",
-      "address": "751 Campus W Dr, Tuscaloosa, AL, Tuscaloosa, AL",
-      "description": "Got a strong opinion, creative idea, or unique perspective to share? Bring it to PowerPoint Night! Student organization leaders are invited to give a short presentation on a topic related to campus life, student organizations, leadership,...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-16",
-        "temperature": 60,
-        "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -883,9 +670,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -905,9 +692,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -927,9 +714,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 6,
         "periodName": "Monday"
       }
     },
@@ -949,7 +736,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 35,
+        "temperature": 37,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Monday Night"
@@ -971,7 +758,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-16",
-        "temperature": 35,
+        "temperature": 37,
         "temperatureUnit": "F",
         "precipitationChance": 5,
         "periodName": "Monday Night"
@@ -993,9 +780,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-17",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 3,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-public-library-community-knit-crochet-group-2026-11-17-main-library-first-floor",
+      "title": "Community Knit/Crochet Group",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/community-knit-crochet-group-43/2026-11-17/",
+      "start": "2026-11-17T11:00:00-06:00",
+      "end": "2026-11-17T14:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – First Floor",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, 35401",
+      "description": "&lt;p&gt;Join the Knit and Crochet Group at the Tuscaloosa Public Library for a cozy way to spend your Tuesday and Thursday lunch hour.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-17",
+        "temperature": 66,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -1015,9 +824,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-17",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -1037,9 +846,53 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-17",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 3,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-public-library-sewing-lab-2026-11-17-weaver-bolden-branch",
+      "title": "Sewing Lab",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/sewing-lab-12-2/2026-11-17/",
+      "start": "2026-11-17T14:30:00-06:00",
+      "end": "2026-11-17T17:30:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Weaver Bolden Branch",
+      "address": "2522 Lanier Ave, Tuscaloosa, AL, 35401",
+      "description": "&lt;p&gt;Sign up for an hour of instruction on our sewing machines. Bring a simple repair or alteration or learn to sew by making a project. &lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-17",
+        "temperature": 66,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
+        "periodName": "Tuesday"
+      }
+    },
+    {
+      "id": "tuscaloosa-public-library-genealogy-workshop-2026-11-17-main-library-rotary-room",
+      "title": "Genealogy Workshop",
+      "source": "Tuscaloosa Public Library",
+      "sourceUrl": "https://www.tuscaloosa-library.org/event/genealogy-workshop-6/2026-11-17/",
+      "start": "2026-11-17T17:30:00-06:00",
+      "end": "2026-11-17T19:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Main Library – Rotary Room",
+      "address": "1801 Jack Warner PKWY, Tuscaloosa, AL, 35401",
+      "description": "&lt;p&gt;Patrons will continue their family history journey in this 2nd genealogy workshop series, with more specialized instruction. Starting October 20 at 5:30pm and running through December 15, 2026, every other Tuesday.&lt;/p&gt;\\n",
+      "category": "Library",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-17",
+        "temperature": 66,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
         "periodName": "Tuesday"
       }
     },
@@ -1059,9 +912,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-17",
-        "temperature": 36,
+        "temperature": 39,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 2,
         "periodName": "Tuesday Night"
       }
     },
@@ -1081,9 +934,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-18",
-        "temperature": 69,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 3,
         "periodName": "Wednesday"
       }
     },
@@ -1103,9 +956,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-18",
-        "temperature": 69,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 3,
         "periodName": "Wednesday"
       }
     },
@@ -1125,9 +978,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-18",
-        "temperature": 39,
+        "temperature": 44,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 2,
         "periodName": "Wednesday Night"
       }
     },
@@ -1143,6 +996,65 @@
       "venue": "Employee Resource Center",
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "Faculty, staff and graduate students have an opportunity to develop their knowledge of resources available to victims of sexual assault, domestic/dating violence, and stalking in a Harbor training session available through the Camellia Cen...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-19",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-fulbright-u-s-student-program-information-session-2026-11-19",
+      "title": "Fulbright U.S. Student Program Information Session",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/fulbright-us-student-program-information-session-8515",
+      "start": "2026-11-19T14:00:00-06:00",
+      "end": "2026-11-19T15:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "The Fulbright U.S. Student Program is for American students who want to go abroad for 8-10 months to do research, study, or teach English after graduation or while in graduate school. This session will introduce you to the program, the app...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-19",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
+        "periodName": "Thursday"
+      }
+    },
+    {
+      "id": "university-of-alabama-bears-for-belonging-2026-11-20-sorority-houses",
+      "title": "Bears for Belonging",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bears-for-belonging",
+      "start": "2026-11-20T08:00:00-06:00",
+      "end": "2026-11-20T20:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Sorority Houses",
+      "address": "Colonial Dr, Tuscaloosa, Alabama, Tuscaloosa, Alabama",
+      "description": "Bears of Belonging is a service fundraiser of stuffed animals and backpacks for children in the foster care system. With children in the foster care system they don't have much, and something as small as a stuffed animal that belongs to th...",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-moody-music-open-mic-night-2026-11-20-moody-music-building-recital-hall",
+      "title": "Moody Music Open Mic Night!",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/moody-music-open-mic-night",
+      "start": "2026-11-20T18:00:00-06:00",
+      "end": "2026-11-20T19:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moody Music Building Recital Hall",
+      "address": "",
+      "description": "Join the brothers of Kappa Kappa Psi for an open mic night in the Moody Recital Hall! Whether you're a musician or want practice on stage, this will be an opportunity to get comfortable in front of an audience and show off your talent!!",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1594,6 +1506,21 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-international-coffee-hour-2027-01-22-the-university-of-alabama-student-center",
+      "title": "International Coffee Hour",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/international-coffee-hour-2931",
+      "start": "2027-01-22T11:30:00-06:00",
+      "end": "2027-01-22T13:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The University of Alabama Student Center",
+      "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
+      "description": "Join us for International Coffee Hour, a vibrant gathering where friends from around the world come together over a shared love of coffee, tea, and snacks from different parts of the world. Everyone is welcome to share, learn, and connect...",
+      "category": "Campus",
       "isVirtual": false
     },
     {
