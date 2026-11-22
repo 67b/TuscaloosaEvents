@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T17:57:13.617Z",
+  "updatedAt": "2026-11-22T18:29:32.031Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-21T17:57:13.616Z",
+  "weatherUpdatedAt": "2026-11-22T18:29:32.030Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,42 +17,12 @@
   ],
   "events": [
     {
-      "id": "alabama-athletics-womens-gymnastics-22223",
-      "title": "Alabama Gymnastics: Crimson Couture",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-gymnastics/schedule",
-      "start": "2026-11-20T19:00:00-06:00",
-      "end": "2026-11-21T03:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Coleman Coliseum",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Gymnastics in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false
-    },
-    {
-      "id": "alabama-athletics-womens-soccer-21841",
-      "title": "Alabama Women's Soccer: Jackson State",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-soccer/schedule",
-      "start": "2026-11-20T19:00:00-06:00",
-      "end": "2026-11-21T03:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Alabama Soccer Stadium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Women's Soccer in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-21",
+      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-22",
       "title": "PSA Tuscaloosa Angels Donation Drive",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
-      "start": "2026-11-21T00:00:00-05:00",
-      "end": "2026-11-21T00:00:00-05:00",
+      "start": "2026-11-22T00:00:00-05:00",
+      "end": "2026-11-22T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -61,42 +31,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-21",
-        "temperature": 73,
+        "forecastDate": "2026-11-22",
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-gamma-iota-sigma-tailgate-2026-11-21-the-quad-in-front-of-bidgood",
-      "title": "Gamma Iota Sigma Tailgate",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/gamma-iota-sigma-tailgate",
-      "start": "2026-11-21T08:00:00-06:00",
-      "end": "2026-11-21T13:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Quad in front of Bidgood",
-      "address": "",
-      "description": "Come join Gamma Iota Sigma for tailgates",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-21",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-21-moundville-archaeological-p",
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-22-moundville-archaeological-p",
       "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-21T09:00:00-06:00",
-      "end": "2026-11-21T17:00:00-06:00",
+      "start": "2026-11-22T09:00:00-06:00",
+      "end": "2026-11-22T17:00:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Moundville Archaeological Park",
@@ -105,77 +53,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-21",
-        "temperature": 73,
+        "forecastDate": "2026-11-22",
+        "temperature": 72,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-alabama-vs-chattanooga-tailgate-2026-11-21-the-quad",
-      "title": "Alabama vs Chattanooga Tailgate",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/alabama-vs-chattanooga-tailgate",
-      "start": "2026-11-21T10:00:00-06:00",
-      "end": "2026-11-21T13:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Quad",
-      "address": "",
-      "description": "Can we get a ROLL TIDE! Join UP in cheering on the Tide against Chattanooga! Join us on the quad 3 hours before kickoff for a fun tailgate, school spirit, and plenty of free food, drinks, and giveaways! We will be on the Quad on November 2...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-21",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "university-of-alabama-tide-4-christ-2026-11-21-the-quad",
-      "title": "Tide 4 Christ",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/tide-4-christ",
-      "start": "2026-11-21T10:00:00-06:00",
-      "end": "2026-11-21T18:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "The Quad",
-      "address": "",
-      "description": "Tide 4 Christ Tailgates for Sep 5 (ECU), Sep 19 (FSU), Sep 26 (USC), Oct 10 (UGA), Oct 24 (TAMU), Nov 21 (UTChatt), Nov 28 (AU)",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-21",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
-      }
-    },
-    {
-      "id": "alabama-athletics-football-21648",
-      "title": "Alabama Football: Chattanooga",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/football/schedule",
-      "start": "2026-11-21T13:00:00-06:00",
-      "end": "2026-11-21T21:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Saban Field at Bryant-Denny Stadium",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Football in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-21",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "precipitationChance": 5,
-        "periodName": "Today"
+        "precipitationChance": 1,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -194,9 +76,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -216,9 +98,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -238,9 +120,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -260,9 +142,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -282,9 +164,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -304,9 +186,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -326,9 +208,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -348,9 +230,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 70,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "precipitationChance": 20,
+        "precipitationChance": 12,
         "periodName": "Monday"
       }
     },
@@ -370,9 +252,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -392,9 +274,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -414,9 +296,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -436,9 +318,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -458,9 +340,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -480,9 +362,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -502,9 +384,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -524,9 +406,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 66,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "precipitationChance": 7,
+        "precipitationChance": 2,
         "periodName": "Tuesday"
       }
     },
@@ -546,9 +428,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 47,
+        "temperature": 46,
         "temperatureUnit": "F",
-        "precipitationChance": 34,
+        "precipitationChance": 62,
         "periodName": "Tuesday Night"
       }
     },
@@ -568,9 +450,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 60,
+        "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 85,
         "periodName": "Wednesday"
       }
     },
@@ -590,9 +472,31 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 60,
+        "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 85,
+        "periodName": "Wednesday"
+      }
+    },
+    {
+      "id": "university-of-alabama-turnitin-beyond-the-basics-virtual-2026-11-25",
+      "title": "Turnitin Beyond the Basics - Virtual",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/turnitin-beyond-the-basics-virtual",
+      "start": "2026-11-25T13:00:00-06:00",
+      "end": "2026-11-25T14:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Think Turnitin is just a plagiarism checker? Think again! Join us for an interactive workshop that explores the essential tools and features available in Turnitin Feedback Studio. You'll learn how to create both standard and multipart assi...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-25",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "precipitationChance": 85,
         "periodName": "Wednesday"
       }
     },
@@ -612,9 +516,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 60,
+        "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 85,
         "periodName": "Wednesday"
       }
     },
@@ -634,9 +538,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 60,
+        "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 30,
+        "precipitationChance": 85,
         "periodName": "Wednesday"
       }
     },
@@ -656,9 +560,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 38,
+        "temperature": 40,
         "temperatureUnit": "F",
-        "precipitationChance": 5,
+        "precipitationChance": 32,
         "periodName": "Wednesday Night"
       }
     },
@@ -678,10 +582,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-26",
-        "temperature": 61,
+        "temperature": 58,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 2,
         "periodName": "Thanksgiving Day"
+      }
+    },
+    {
+      "id": "university-of-alabama-tide-4-christ-2026-11-28-the-quad",
+      "title": "Tide 4 Christ",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/tide-4-christ",
+      "start": "2026-11-28T10:00:00-06:00",
+      "end": "2026-11-28T18:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad",
+      "address": "",
+      "description": "Tide 4 Christ Tailgates for Sep 5 (ECU), Sep 19 (FSU), Sep 26 (USC), Oct 10 (UGA), Oct 24 (TAMU), Nov 21 (UTChatt), Nov 28 (AU)",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-28",
+        "temperature": 62,
+        "temperatureUnit": "F",
+        "precipitationChance": 3,
+        "periodName": "Saturday"
       }
     },
     {
@@ -689,15 +615,22 @@
       "title": "Alabama Football: Auburn",
       "source": "Alabama Athletics",
       "sourceUrl": "https://rolltide.com/sports/football/schedule",
-      "start": "2026-11-28T00:00:00-06:00",
-      "end": "2026-11-29T00:00:00-06:00",
-      "allDay": true,
-      "timeStatus": "unknown",
+      "start": "2026-11-28T18:30:00-06:00",
+      "end": "2026-11-29T02:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
       "venue": "Saban Field at Bryant-Denny Stadium",
       "address": "Tuscaloosa, AL",
-      "description": "Alabama Football in Tuscaloosa. Start time has not been announced; check the official schedule.",
+      "description": "Alabama Football in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-28",
+        "temperature": 35,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Saturday Night"
+      }
     },
     {
       "id": "university-of-alabama-dead-week-tabling-2026-11-30-rodgers-library",
