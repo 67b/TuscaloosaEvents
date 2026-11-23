@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T18:29:32.031Z",
+  "updatedAt": "2026-11-23T22:37:54.335Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-22T18:29:32.030Z",
+  "weatherUpdatedAt": "2026-11-23T22:37:54.334Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -17,12 +17,12 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-22",
+      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-23",
       "title": "PSA Tuscaloosa Angels Donation Drive",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
-      "start": "2026-11-22T00:00:00-05:00",
-      "end": "2026-11-22T00:00:00-05:00",
+      "start": "2026-11-23T00:00:00-05:00",
+      "end": "2026-11-23T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -31,32 +31,10 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-22",
-        "temperature": 72,
+        "forecastDate": "2026-11-23",
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-22-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-22T09:00:00-06:00",
-      "end": "2026-11-22T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-22",
-        "temperature": 72,
-        "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 20,
         "periodName": "This Afternoon"
       }
     },
@@ -76,10 +54,32 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-23-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-11-23T09:00:00-06:00",
+      "end": "2026-11-23T17:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-23",
+        "temperature": 61,
+        "temperatureUnit": "F",
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -98,10 +98,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -120,10 +120,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -142,10 +142,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -164,10 +164,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -186,10 +186,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -208,10 +208,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -230,10 +230,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-23",
-        "temperature": 68,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "precipitationChance": 12,
-        "periodName": "Monday"
+        "precipitationChance": 20,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -252,9 +252,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -274,9 +274,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -296,9 +296,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -318,9 +318,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -340,9 +340,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -362,9 +362,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -384,9 +384,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -406,9 +406,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -428,9 +428,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-24",
-        "temperature": 46,
+        "temperature": 47,
         "temperatureUnit": "F",
-        "precipitationChance": 62,
+        "precipitationChance": 65,
         "periodName": "Tuesday Night"
       }
     },
@@ -452,7 +452,7 @@
         "forecastDate": "2026-11-25",
         "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 85,
+        "precipitationChance": 96,
         "periodName": "Wednesday"
       }
     },
@@ -474,7 +474,7 @@
         "forecastDate": "2026-11-25",
         "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 85,
+        "precipitationChance": 96,
         "periodName": "Wednesday"
       }
     },
@@ -496,7 +496,7 @@
         "forecastDate": "2026-11-25",
         "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 85,
+        "precipitationChance": 96,
         "periodName": "Wednesday"
       }
     },
@@ -518,7 +518,7 @@
         "forecastDate": "2026-11-25",
         "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 85,
+        "precipitationChance": 96,
         "periodName": "Wednesday"
       }
     },
@@ -540,7 +540,7 @@
         "forecastDate": "2026-11-25",
         "temperature": 57,
         "temperatureUnit": "F",
-        "precipitationChance": 85,
+        "precipitationChance": 96,
         "periodName": "Wednesday"
       }
     },
@@ -560,9 +560,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 40,
+        "temperature": 39,
         "temperatureUnit": "F",
-        "precipitationChance": 32,
+        "precipitationChance": 69,
         "periodName": "Wednesday Night"
       }
     },
@@ -582,9 +582,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-26",
-        "temperature": 58,
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 2,
+        "precipitationChance": 1,
         "periodName": "Thanksgiving Day"
       }
     },
@@ -604,9 +604,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 62,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "precipitationChance": 3,
+        "precipitationChance": 2,
         "periodName": "Saturday"
       }
     },
@@ -626,9 +626,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 35,
+        "temperature": 37,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 9,
         "periodName": "Saturday Night"
       }
     },
