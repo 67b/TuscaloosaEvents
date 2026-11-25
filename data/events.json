@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T21:10:10.095Z",
+  "updatedAt": "2026-11-25T20:28:00.723Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-24T21:10:10.094Z",
+  "weatherUpdatedAt": "2026-11-25T20:28:00.723Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -18,182 +18,6 @@
   ],
   "events": [
     {
-      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-24",
-      "title": "PSA Tuscaloosa Angels Donation Drive",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
-      "start": "2026-11-24T00:00:00-05:00",
-      "end": "2026-11-24T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Help us spread some holiday cheer! The UA Professional Staff Assembly (PSA) is partnering with Tuscaloosa Angels to help make the holidays a little brighter for local children! We've adopted four children this holiday season, and we need y...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-thanksgiving-week-classes-dismissed-2026-11-24",
-      "title": "Thanksgiving Week - Classes Dismissed",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/thanksgiving_-_classes_dismissed_ua_offices_open",
-      "start": "2026-11-24T00:00:00-05:00",
-      "end": "2026-11-24T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "University of Alabama event listed on the campus calendar.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-24-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-24T09:00:00-06:00",
-      "end": "2026-11-24T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-24-paul-r-jones-museum",
-      "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
-      "start": "2026-11-24T09:00:00-06:00",
-      "end": "2026-11-24T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum presents our fall exhibition Jerry Siegel: Uncommon Lens. Derived from Siegel’s signature artist portraits, the exhibition combines works from the permanent collection alongside each artist’s “behind-the-scenes” po...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-how-students-use-ally-2026-11-24-gordon-palmer-hall",
-      "title": "How Students Use Ally",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/how-students-use-ally-6153",
-      "start": "2026-11-24T10:00:00-06:00",
-      "end": "2026-11-24T10:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Gordon Palmer Hall",
-      "address": "505 HACKBERRY LANE , TUSCALOOSA, AL 35401",
-      "description": "Blackboard’s Ally tool gives students multiple ways to engage with their class content. This session takes a hands-on look at the formats generated by Ally.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-fixing-a-pdf-2026-11-24",
-      "title": "Fixing a PDF",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/fixing-a-pdf-16",
-      "start": "2026-11-24T11:00:00-06:00",
-      "end": "2026-11-24T12:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "PDFs are a great way to share information, but they can be kind of intimidating when it comes to making them accessible. This session will examine basic ways to remediate two different types of PDFs to make them more accessible.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-blackboard-exam-essentials-get-ready-for-finals-2026-11-24",
-      "title": "Blackboard Exam Essentials: Get Ready for Finals",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/blackboard-exam-essentials-get-ready-for-finals",
-      "start": "2026-11-24T13:00:00-06:00",
-      "end": "2026-11-24T13:30:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Learn how to create, configure, and secure exams in Blackboard Ultra. We'll cover test creation, assessment settings, Respondus LockDown Browser and Monitor, feedback release options, and other tips to help ensure a smooth finals experienc...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-beyond-compliance-practical-strategies-for-creating-accessible-course-content-2026-11-24",
-      "title": "Beyond Compliance: Practical Strategies for Creating Accessible Course Content",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/beyond-compliance-practical-strategies-for-creating-accessible-course-content-4265",
-      "start": "2026-11-24T14:00:00-06:00",
-      "end": "2026-11-24T15:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Occasionally, you come across a file that just isn’t accessible, and you need to share it with your class. In this session, we’ll look at some common file types and ways to improve their accessibility.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 62,
-        "temperatureUnit": "F",
-        "precipitationChance": 8,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
       "id": "alabama-athletics-womens-basketball-21990",
       "title": "Alabama Women's Basketball: ULM",
       "source": "Alabama Athletics",
@@ -206,13 +30,94 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-25",
+      "title": "PSA Tuscaloosa Angels Donation Drive",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
+      "start": "2026-11-25T00:00:00-05:00",
+      "end": "2026-11-25T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Help us spread some holiday cheer! The UA Professional Staff Assembly (PSA) is partnering with Tuscaloosa Angels to help make the holidays a little brighter for local children! We've adopted four children this holiday season, and we need y...",
+      "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-24",
-        "temperature": 51,
+        "forecastDate": "2026-11-25",
+        "temperature": 55,
         "temperatureUnit": "F",
-        "precipitationChance": 50,
-        "periodName": "Tonight"
+        "precipitationChance": 100,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-thanksgiving-week-classes-dismissed-2026-11-25",
+      "title": "Thanksgiving Week - Classes Dismissed",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/thanksgiving_-_classes_dismissed_ua_offices_open",
+      "start": "2026-11-25T00:00:00-05:00",
+      "end": "2026-11-25T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "University of Alabama event listed on the campus calendar.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-25",
+        "temperature": 55,
+        "temperatureUnit": "F",
+        "precipitationChance": 100,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-25-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-11-25T09:00:00-06:00",
+      "end": "2026-11-25T17:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-25",
+        "temperature": 55,
+        "temperatureUnit": "F",
+        "precipitationChance": 100,
+        "periodName": "This Afternoon"
+      }
+    },
+    {
+      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-25-paul-r-jones-museum",
+      "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
+      "start": "2026-11-25T09:00:00-06:00",
+      "end": "2026-11-25T17:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum presents our fall exhibition Jerry Siegel: Uncommon Lens. Derived from Siegel’s signature artist portraits, the exhibition combines works from the permanent collection alongside each artist’s “behind-the-scenes” po...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-25",
+        "temperature": 55,
+        "temperatureUnit": "F",
+        "precipitationChance": 100,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -231,10 +136,10 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-25",
-        "temperature": 53,
+        "temperature": 55,
         "temperatureUnit": "F",
-        "precipitationChance": 97,
-        "periodName": "Wednesday"
+        "precipitationChance": 100,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -255,8 +160,8 @@
         "forecastDate": "2026-11-25",
         "temperature": 39,
         "temperatureUnit": "F",
-        "precipitationChance": 60,
-        "periodName": "Wednesday Night"
+        "precipitationChance": 98,
+        "periodName": "Tonight"
       }
     },
     {
@@ -275,9 +180,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-26",
-        "temperature": 49,
+        "temperature": 47,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 14,
         "periodName": "Thanksgiving Day"
       }
     },
@@ -297,9 +202,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-26",
-        "temperature": 49,
+        "temperature": 47,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 14,
         "periodName": "Thanksgiving Day"
       }
     },
@@ -326,6 +231,50 @@
       }
     },
     {
+      "id": "university-of-alabama-gamma-iota-sigma-tailgate-2026-11-28-the-quad-in-front-of-bidgood",
+      "title": "Gamma Iota Sigma Tailgate",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/gamma-iota-sigma-tailgate",
+      "start": "2026-11-28T08:00:00-06:00",
+      "end": "2026-11-28T21:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad in front of Bidgood",
+      "address": "",
+      "description": "Come join Gamma Iota Sigma for tailgates",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-28",
+        "temperature": 64,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "university-of-alabama-the-well-tuscaloosa-alabama-vs-auburn-tailgate-2026-11-28-little-hall",
+      "title": "The Well Tuscaloosa Alabama vs Auburn Tailgate",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/the-well-tuscaloosa-alabama-vs-auburn-tailgate",
+      "start": "2026-11-28T10:00:00-06:00",
+      "end": "2026-11-28T16:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Little Hall",
+      "address": "670 JUDY BONNER DRIVE, TUSCALOOSA , AL 35401",
+      "description": "Come join us for some fun games, free food, and community-centered fun before Alabama takes on Auburn",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-28",
+        "temperature": 64,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Saturday"
+      }
+    },
+    {
       "id": "university-of-alabama-tide-4-christ-2026-11-28-the-quad",
       "title": "Tide 4 Christ",
       "source": "University of Alabama",
@@ -337,6 +286,28 @@
       "venue": "The Quad",
       "address": "",
       "description": "Tide 4 Christ Tailgates for Sep 5 (ECU), Sep 19 (FSU), Sep 26 (USC), Oct 10 (UGA), Oct 24 (TAMU), Nov 21 (UTChatt), Nov 28 (AU)",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-28",
+        "temperature": 64,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Saturday"
+      }
+    },
+    {
+      "id": "university-of-alabama-alabama-vs-auburn-2026-11-28-the-quad",
+      "title": "Alabama vs Auburn",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/alabama-vs-auburn",
+      "start": "2026-11-28T12:00:00-06:00",
+      "end": "2026-11-28T13:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "The Quad",
+      "address": "",
+      "description": "Can we get a ROLL TIDE! Join UP in cheering on the Tide against Auburn! Join us on the quad 3 hours before kickoff for a fun tailgate, school spirit, and plenty of free food, drinks, and giveaways! We will be on the Quad on November 28, 20...",
       "category": "Campus",
       "isVirtual": false,
       "weather": {
@@ -363,9 +334,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 41,
+        "temperature": 42,
         "temperatureUnit": "F",
-        "precipitationChance": 15,
+        "precipitationChance": 4,
         "periodName": "Saturday Night"
       }
     },
@@ -385,7 +356,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-30",
-        "temperature": 64,
+        "temperature": 60,
         "temperatureUnit": "F",
         "precipitationChance": 1,
         "periodName": "Monday"
@@ -407,7 +378,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-30",
-        "temperature": 64,
+        "temperature": 60,
         "temperatureUnit": "F",
         "precipitationChance": 1,
         "periodName": "Monday"
@@ -426,7 +397,14 @@
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "Authentic leaders are great leaders— are you one? Regardless of who you are or who you lead authenticity is vital to cultivating work environments that are safe and supportive. Employees are seeking leaders who are ethical, firm in their b...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-01",
+        "temperature": 63,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "university-of-alabama-qpr-suicide-prevention-training-2026-12-01-student-center-room-3108",
@@ -441,7 +419,14 @@
       "address": "",
       "description": "Promoting the wellness of our students, friends, families, co-workers, and fellow citizens and helping prevent suicide is every person’s responsibility. There are three steps anyone can learn to help prevent suicide. Question, Persuade, Re...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-01",
+        "temperature": 63,
+        "temperatureUnit": "F",
+        "precipitationChance": 4,
+        "periodName": "Tuesday"
+      }
     },
     {
       "id": "university-of-alabama-navigating-workplace-conflict-practical-tools-and-skills-2026-12-02-employee-resource-center",
@@ -534,21 +519,6 @@
       "isVirtual": false
     },
     {
-      "id": "university-of-alabama-talk-saves-lives-2026-12-03-student-center-room-3111",
-      "title": "Talk Saves Lives",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/talk-saves-lives-8742",
-      "start": "2026-12-03T17:00:00-06:00",
-      "end": "2026-12-03T18:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Student Center room 3111",
-      "address": "",
-      "description": "Talk Saves LivesTM is a standardized, peer led, suicide prevention and awareness program provided by The American Foundation for Suicide Prevention (AFSP). According to the AFSP, TSL “provides participants with a clear understanding of thi...",
-      "category": "Campus",
-      "isVirtual": false
-    },
-    {
       "id": "alabama-athletics-womens-basketball-21992",
       "title": "Alabama Women's Basketball: Georgia Tech",
       "source": "Alabama Athletics",
@@ -590,6 +560,21 @@
       "venue": "",
       "address": "",
       "description": "This is the last day students have to withdraw from the term (all classes) without requiring approval from the student's college Dean's office. Withdrawals from the Law School always require approval from the Dean's office.",
+      "category": "Campus",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-bears-of-belonging-2026-12-04-sorority-houses",
+      "title": "Bears of Belonging",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/bears-of-belonging",
+      "start": "2026-12-04T08:00:00-06:00",
+      "end": "2026-12-04T20:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Sorority Houses",
+      "address": "Colonial Dr, Tuscaloosa, Alabama, Tuscaloosa, Alabama",
+      "description": "Bears of Belonging is a service fundraiser of stuffed animals and backpacks for children in the foster care system. With children in the foster care system they don't have much, and something as small as a stuffed animal that belongs to th...",
       "category": "Campus",
       "isVirtual": false
     },
@@ -1164,6 +1149,36 @@
       "isVirtual": false
     },
     {
+      "id": "alabama-athletics-softball-22245",
+      "title": "Alabama Softball: Samford",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-23T16:00:00-06:00",
+      "end": "2027-02-24T00:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22246",
+      "title": "Alabama Softball: UAB",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-24T16:00:00-06:00",
+      "end": "2027-02-25T00:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
       "id": "alabama-athletics-womens-basketball-21980",
       "title": "Alabama Women's Basketball: Ole Miss",
       "source": "Alabama Athletics",
@@ -1179,6 +1194,66 @@
       "isVirtual": false
     },
     {
+      "id": "alabama-athletics-softball-22247",
+      "title": "Alabama Softball: Lindenwood",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-26T16:00:00-06:00",
+      "end": "2027-02-27T00:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22248",
+      "title": "Alabama Softball: Georgia Tech",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-26T18:30:00-06:00",
+      "end": "2027-02-27T02:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22249",
+      "title": "Alabama Softball: Lindenwood",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-27T11:00:00-06:00",
+      "end": "2027-02-27T19:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22250",
+      "title": "Alabama Softball: Georgia Tech",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-27T13:30:00-06:00",
+      "end": "2027-02-27T21:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
       "id": "alabama-athletics-mens-basketball-21906",
       "title": "Alabama Men's Basketball: Vanderbilt",
       "source": "Alabama Athletics",
@@ -1190,6 +1265,21 @@
       "venue": "Coleman Coliseum",
       "address": "Tuscaloosa, AL",
       "description": "Alabama Men's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22251",
+      "title": "Alabama Softball: Southern Miss",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-02-28T13:30:00-06:00",
+      "end": "2027-02-28T21:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
       "isVirtual": false
     },
@@ -1224,6 +1314,81 @@
       "isVirtual": false
     },
     {
+      "id": "alabama-athletics-softball-22253",
+      "title": "Alabama Softball: Winthrop",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-05T16:00:00-06:00",
+      "end": "2027-03-06T00:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22254",
+      "title": "Alabama Softball: St. John's",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-05T18:30:00-06:00",
+      "end": "2027-03-06T02:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22255",
+      "title": "Alabama Softball: Nicholls",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-06T11:00:00-06:00",
+      "end": "2027-03-06T19:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22256",
+      "title": "Alabama Softball: St. John's",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-06T13:30:00-06:00",
+      "end": "2027-03-06T21:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22257",
+      "title": "Alabama Softball: Nicholls",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-07T12:30:00-06:00",
+      "end": "2027-03-07T20:30:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
       "id": "alabama-athletics-womens-gymnastics-22082",
       "title": "Alabama Gymnastics: Oklahoma",
       "source": "Alabama Athletics",
@@ -1235,6 +1400,66 @@
       "venue": "Coleman Coliseum",
       "address": "Tuscaloosa, AL",
       "description": "Alabama Gymnastics in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22259",
+      "title": "Alabama Softball: Cal State Fullerton",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-12T18:00:00-06:00",
+      "end": "2027-03-13T02:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22260",
+      "title": "Alabama Softball: Fresno State",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-13T11:00:00-06:00",
+      "end": "2027-03-13T19:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22261",
+      "title": "Alabama Softball: Cal State Fullerton",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-13T13:00:00-06:00",
+      "end": "2027-03-13T21:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
+      "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "alabama-athletics-softball-22262",
+      "title": "Alabama Softball: Florida State",
+      "source": "Alabama Athletics",
+      "sourceUrl": "https://rolltide.com/sports/softball/schedule",
+      "start": "2027-03-14T13:00:00-05:00",
+      "end": "2027-03-14T20:00:00.000Z",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Rhoads Stadium",
+      "address": "Tuscaloosa, AL",
+      "description": "Alabama Softball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
       "isVirtual": false
     },
