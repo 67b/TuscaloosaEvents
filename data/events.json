@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T20:28:00.723Z",
+  "updatedAt": "2026-11-26T20:09:41.498Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-25T20:28:00.723Z",
+  "weatherUpdatedAt": "2026-11-26T20:09:41.498Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -18,131 +18,6 @@
   ],
   "events": [
     {
-      "id": "alabama-athletics-womens-basketball-21990",
-      "title": "Alabama Women's Basketball: ULM",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-basketball/schedule",
-      "start": "2026-11-24T18:00:00-06:00",
-      "end": "2026-11-25T02:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Coleman Coliseum",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-25",
-      "title": "PSA Tuscaloosa Angels Donation Drive",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
-      "start": "2026-11-25T00:00:00-05:00",
-      "end": "2026-11-25T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Help us spread some holiday cheer! The UA Professional Staff Assembly (PSA) is partnering with Tuscaloosa Angels to help make the holidays a little brighter for local children! We've adopted four children this holiday season, and we need y...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-25",
-        "temperature": 55,
-        "temperatureUnit": "F",
-        "precipitationChance": 100,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-thanksgiving-week-classes-dismissed-2026-11-25",
-      "title": "Thanksgiving Week - Classes Dismissed",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/thanksgiving_-_classes_dismissed_ua_offices_open",
-      "start": "2026-11-25T00:00:00-05:00",
-      "end": "2026-11-25T00:00:00-05:00",
-      "allDay": true,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "University of Alabama event listed on the campus calendar.",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-25",
-        "temperature": 55,
-        "temperatureUnit": "F",
-        "precipitationChance": 100,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-25-moundville-archaeological-p",
-      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-25T09:00:00-06:00",
-      "end": "2026-11-25T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Moundville Archaeological Park",
-      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
-      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-25",
-        "temperature": 55,
-        "temperatureUnit": "F",
-        "precipitationChance": 100,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-25-paul-r-jones-museum",
-      "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
-      "start": "2026-11-25T09:00:00-06:00",
-      "end": "2026-11-25T17:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Paul R. Jones Museum",
-      "address": "2308 6th St. Tuscaloosa, AL 35401",
-      "description": "The Paul R. Jones Museum presents our fall exhibition Jerry Siegel: Uncommon Lens. Derived from Siegel’s signature artist portraits, the exhibition combines works from the permanent collection alongside each artist’s “behind-the-scenes” po...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-25",
-        "temperature": 55,
-        "temperatureUnit": "F",
-        "precipitationChance": 100,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
-      "id": "university-of-alabama-turnitin-beyond-the-basics-virtual-2026-11-25",
-      "title": "Turnitin Beyond the Basics - Virtual",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/turnitin-beyond-the-basics-virtual",
-      "start": "2026-11-25T13:00:00-06:00",
-      "end": "2026-11-25T14:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Think Turnitin is just a plagiarism checker? Think again! Join us for an interactive workshop that explores the essential tools and features available in Turnitin Feedback Studio. You'll learn how to create both standard and multipart assi...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-25",
-        "temperature": 55,
-        "temperatureUnit": "F",
-        "precipitationChance": 100,
-        "periodName": "This Afternoon"
-      }
-    },
-    {
       "id": "alabama-athletics-womens-basketball-21991",
       "title": "Alabama Women's Basketball: Samford",
       "source": "Alabama Athletics",
@@ -155,13 +30,28 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
+      "isVirtual": false
+    },
+    {
+      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-26",
+      "title": "PSA Tuscaloosa Angels Donation Drive",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
+      "start": "2026-11-26T00:00:00-05:00",
+      "end": "2026-11-26T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Help us spread some holiday cheer! The UA Professional Staff Assembly (PSA) is partnering with Tuscaloosa Angels to help make the holidays a little brighter for local children! We've adopted four children this holiday season, and we need y...",
+      "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-25",
-        "temperature": 39,
+        "forecastDate": "2026-11-26",
+        "temperature": 42,
         "temperatureUnit": "F",
-        "precipitationChance": 98,
-        "periodName": "Tonight"
+        "precipitationChance": 10,
+        "periodName": "Thanksgiving Day"
       }
     },
     {
@@ -180,9 +70,75 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-26",
-        "temperature": 47,
+        "temperature": 42,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 10,
+        "periodName": "Thanksgiving Day"
+      }
+    },
+    {
+      "id": "university-of-alabama-thanksgiving-week-classes-dismissed-2026-11-26",
+      "title": "Thanksgiving Week - Classes Dismissed",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/thanksgiving_-_classes_dismissed_ua_offices_open",
+      "start": "2026-11-26T00:00:00-05:00",
+      "end": "2026-11-26T00:00:00-05:00",
+      "allDay": true,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "University of Alabama event listed on the campus calendar.",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-26",
+        "temperature": 42,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
+        "periodName": "Thanksgiving Day"
+      }
+    },
+    {
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-26-moundville-archaeological-p",
+      "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
+      "start": "2026-11-26T09:00:00-06:00",
+      "end": "2026-11-26T17:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Moundville Archaeological Park",
+      "address": "634 Mound State Parkway, Moundville, AL 35474-6413",
+      "description": "Moundville Archaeological Park is thrilled to announce the opening of a new exhibition, ‘Pum vculvke enliketv tate’: “The Home of Our Ancestors”, co-curated by Jake Tiger of the Seminole Nation of Oklahoma. The exhibition makes a powerful...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-26",
+        "temperature": 42,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
+        "periodName": "Thanksgiving Day"
+      }
+    },
+    {
+      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-26-paul-r-jones-museum",
+      "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
+      "start": "2026-11-26T09:00:00-06:00",
+      "end": "2026-11-26T17:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "Paul R. Jones Museum",
+      "address": "2308 6th St. Tuscaloosa, AL 35401",
+      "description": "The Paul R. Jones Museum presents our fall exhibition Jerry Siegel: Uncommon Lens. Derived from Siegel’s signature artist portraits, the exhibition combines works from the permanent collection alongside each artist’s “behind-the-scenes” po...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-26",
+        "temperature": 42,
+        "temperatureUnit": "F",
+        "precipitationChance": 10,
         "periodName": "Thanksgiving Day"
       }
     },
@@ -202,9 +158,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-26",
-        "temperature": 47,
+        "temperature": 42,
         "temperatureUnit": "F",
-        "precipitationChance": 14,
+        "precipitationChance": 10,
         "periodName": "Thanksgiving Day"
       }
     },
@@ -224,9 +180,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-27",
-        "temperature": 55,
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 1,
         "periodName": "Friday"
       }
     },
@@ -246,7 +202,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -268,7 +224,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -290,7 +246,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -312,7 +268,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -336,7 +292,7 @@
         "forecastDate": "2026-11-28",
         "temperature": 42,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 1,
         "periodName": "Saturday Night"
       }
     },
@@ -356,9 +312,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-30",
-        "temperature": 60,
+        "temperature": 59,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Monday"
       }
     },
@@ -378,9 +334,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-30",
-        "temperature": 60,
+        "temperature": 59,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 0,
         "periodName": "Monday"
       }
     },
@@ -441,7 +397,14 @@
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "This new workshop, facilitated by Tal Lieber, Director of Informal Resolution Services, introduces a selection of practical tools and communication skills that can help employees navigate workplace conflict and challenging conversations mo...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-02",
+        "temperature": 67,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Wednesday"
+      }
     },
     {
       "id": "university-of-alabama-weekly-meets-fall-2026-2026-12-02-ne-commuter-lot",
@@ -456,7 +419,14 @@
       "address": "",
       "description": "Crimson Car Club is happy to be hosting our weekly fall semester meets again for Fall 2026 at UA. These events are a casual social gathering for like-minded car enthusiasts to have a safe space to enjoy their interests and get to know othe...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-02",
+        "temperature": 50,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Wednesday Night"
+      }
     },
     {
       "id": "university-of-alabama-southeast-regional-trauma-and-stress-summit-understanding-the-roots-trauma-relationships-and-the-p",
