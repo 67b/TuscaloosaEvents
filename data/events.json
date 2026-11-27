@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T20:09:41.498Z",
+  "updatedAt": "2026-11-27T19:56:13.264Z",
   "timezone": "America/Chicago",
   "weatherSource": "https://api.weather.gov/",
-  "weatherUpdatedAt": "2026-11-26T20:09:41.498Z",
+  "weatherUpdatedAt": "2026-11-27T19:56:13.263Z",
   "sources": [
     "University of Alabama",
     "Alabama Athletics",
@@ -18,27 +18,12 @@
   ],
   "events": [
     {
-      "id": "alabama-athletics-womens-basketball-21991",
-      "title": "Alabama Women's Basketball: Samford",
-      "source": "Alabama Athletics",
-      "sourceUrl": "https://rolltide.com/sports/womens-basketball/schedule",
-      "start": "2026-11-25T18:00:00-06:00",
-      "end": "2026-11-26T02:00:00.000Z",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "Coleman Coliseum",
-      "address": "Tuscaloosa, AL",
-      "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
-      "category": "Sports",
-      "isVirtual": false
-    },
-    {
-      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-26",
+      "id": "university-of-alabama-psa-tuscaloosa-angels-donation-drive-2026-11-27",
       "title": "PSA Tuscaloosa Angels Donation Drive",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/psa-tuscaloosa-angels-donation-drive",
-      "start": "2026-11-26T00:00:00-05:00",
-      "end": "2026-11-26T00:00:00-05:00",
+      "start": "2026-11-27T00:00:00-05:00",
+      "end": "2026-11-27T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -47,20 +32,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-26",
-        "temperature": 42,
+        "forecastDate": "2026-11-27",
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Thanksgiving Day"
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-thanksgiving-classes-dismissed-ua-offices-closed-2026-11-26",
+      "id": "university-of-alabama-thanksgiving-classes-dismissed-ua-offices-closed-2026-11-27",
       "title": "Thanksgiving - Classes Dismissed (UA offices closed)",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/thanksgiving_-_classes_dismissed_ua_offices_closed_8381",
-      "start": "2026-11-26T00:00:00-05:00",
-      "end": "2026-11-26T00:00:00-05:00",
+      "start": "2026-11-27T00:00:00-05:00",
+      "end": "2026-11-27T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -69,20 +54,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-26",
-        "temperature": 42,
+        "forecastDate": "2026-11-27",
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Thanksgiving Day"
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-thanksgiving-week-classes-dismissed-2026-11-26",
+      "id": "university-of-alabama-thanksgiving-week-classes-dismissed-2026-11-27",
       "title": "Thanksgiving Week - Classes Dismissed",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/thanksgiving_-_classes_dismissed_ua_offices_open",
-      "start": "2026-11-26T00:00:00-05:00",
-      "end": "2026-11-26T00:00:00-05:00",
+      "start": "2026-11-27T00:00:00-05:00",
+      "end": "2026-11-27T00:00:00-05:00",
       "allDay": true,
       "timeStatus": "confirmed",
       "venue": "",
@@ -91,20 +76,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-26",
-        "temperature": 42,
+        "forecastDate": "2026-11-27",
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Thanksgiving Day"
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-26-moundville-archaeological-p",
+      "id": "university-of-alabama-pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit-2026-11-27-moundville-archaeological-p",
       "title": "‘Pum vculvke enliketv tate’: “The Home of Our Ancestors” Exhibit",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/pum-vculvke-enliketv-tate-the-home-of-our-ancestors-exhibit",
-      "start": "2026-11-26T09:00:00-06:00",
-      "end": "2026-11-26T17:00:00-06:00",
+      "start": "2026-11-27T09:00:00-06:00",
+      "end": "2026-11-27T17:00:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Moundville Archaeological Park",
@@ -113,20 +98,20 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-26",
-        "temperature": 42,
+        "forecastDate": "2026-11-27",
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Thanksgiving Day"
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
-      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-26-paul-r-jones-museum",
+      "id": "university-of-alabama-art-exhibit-jerry-siegel-uncommon-lens-2026-11-27-paul-r-jones-museum",
       "title": "Art Exhibit: Jerry Siegel - UNCOMMON LENS",
       "source": "University of Alabama",
       "sourceUrl": "https://calendar.ua.edu/event/art-exhibit-jerry-siegel-uncommon-lens",
-      "start": "2026-11-26T09:00:00-06:00",
-      "end": "2026-11-26T17:00:00-06:00",
+      "start": "2026-11-27T09:00:00-06:00",
+      "end": "2026-11-27T17:00:00-06:00",
       "allDay": false,
       "timeStatus": "confirmed",
       "venue": "Paul R. Jones Museum",
@@ -135,33 +120,11 @@
       "category": "Campus",
       "isVirtual": false,
       "weather": {
-        "forecastDate": "2026-11-26",
-        "temperature": 42,
+        "forecastDate": "2026-11-27",
+        "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Thanksgiving Day"
-      }
-    },
-    {
-      "id": "university-of-alabama-graduate-student-online-writing-groups-2026-11-26",
-      "title": "Graduate Student Online Writing Groups",
-      "source": "University of Alabama",
-      "sourceUrl": "https://calendar.ua.edu/event/graduate-student-online-writing-groups",
-      "start": "2026-11-26T09:00:00-06:00",
-      "end": "2026-11-26T12:00:00-06:00",
-      "allDay": false,
-      "timeStatus": "confirmed",
-      "venue": "",
-      "address": "",
-      "description": "Are you a graduate student facing end-of-semester deadlines? Does your writing process thrive with community and accountability? It is not too late to join the UA Writing Center and Graduate School in our Online Graduate Student Writing Gr...",
-      "category": "Campus",
-      "isVirtual": false,
-      "weather": {
-        "forecastDate": "2026-11-26",
-        "temperature": 42,
-        "temperatureUnit": "F",
-        "precipitationChance": 10,
-        "periodName": "Thanksgiving Day"
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -182,8 +145,8 @@
         "forecastDate": "2026-11-27",
         "temperature": 54,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
-        "periodName": "Friday"
+        "precipitationChance": 0,
+        "periodName": "This Afternoon"
       }
     },
     {
@@ -202,7 +165,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -224,7 +187,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -246,7 +209,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -268,7 +231,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Saturday"
@@ -290,9 +253,9 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-28",
-        "temperature": 42,
+        "temperature": 45,
         "temperatureUnit": "F",
-        "precipitationChance": 1,
+        "precipitationChance": 10,
         "periodName": "Saturday Night"
       }
     },
@@ -312,7 +275,29 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-30",
-        "temperature": 59,
+        "temperature": 58,
+        "temperatureUnit": "F",
+        "precipitationChance": 0,
+        "periodName": "Monday"
+      }
+    },
+    {
+      "id": "university-of-alabama-graduate-student-online-writing-groups-2026-11-30",
+      "title": "Graduate Student Online Writing Groups",
+      "source": "University of Alabama",
+      "sourceUrl": "https://calendar.ua.edu/event/graduate-student-online-writing-groups",
+      "start": "2026-11-30T09:00:00-06:00",
+      "end": "2026-11-30T12:00:00-06:00",
+      "allDay": false,
+      "timeStatus": "confirmed",
+      "venue": "",
+      "address": "",
+      "description": "Are you a graduate student facing end-of-semester deadlines? Does your writing process thrive with community and accountability? It is not too late to join the UA Writing Center and Graduate School in our Online Graduate Student Writing Gr...",
+      "category": "Campus",
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-11-30",
+        "temperature": 58,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -334,7 +319,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-11-30",
-        "temperature": 59,
+        "temperature": 58,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Monday"
@@ -358,7 +343,7 @@
         "forecastDate": "2026-12-01",
         "temperature": 63,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -380,7 +365,7 @@
         "forecastDate": "2026-12-01",
         "temperature": 63,
         "temperatureUnit": "F",
-        "precipitationChance": 4,
+        "precipitationChance": 1,
         "periodName": "Tuesday"
       }
     },
@@ -400,7 +385,7 @@
       "isVirtual": false,
       "weather": {
         "forecastDate": "2026-12-02",
-        "temperature": 67,
+        "temperature": 69,
         "temperatureUnit": "F",
         "precipitationChance": 0,
         "periodName": "Wednesday"
@@ -424,7 +409,7 @@
         "forecastDate": "2026-12-02",
         "temperature": 50,
         "temperatureUnit": "F",
-        "precipitationChance": 0,
+        "precipitationChance": 2,
         "periodName": "Wednesday Night"
       }
     },
@@ -441,7 +426,14 @@
       "address": "240 PAUL W. BRYANT DRIVE, TUSCALOOSA, AL 35401",
       "description": "Trauma and chronic stress affect every part of life, showing up in classrooms, courtrooms, hospitals and homes. The Southeast Regional Trauma and Stress Summit, hosted by Tuscaloosa-based mental health nonprofit Growing Together, is an imp...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-03",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "university-of-alabama-professional-speaking-delivering-powerful-presentations-2026-12-03-university-hall",
@@ -456,7 +448,14 @@
       "address": "275 KILGORE LANE, TUSCALOOSA, AL 35401",
       "description": "Strengthen your public speaking skills and learn how to deliver presentations with confidence, clarity and impact. The Professional Speaking: Delivering Powerful Presentations workshop provides practical strategies, expert tips and hands-o...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-03",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "university-of-alabama-agility-series-psychological-safety-2026-12-03-employee-resource-center",
@@ -471,7 +470,14 @@
       "address": "1515 FLINT RIVER DRIVE, TUSCALOOSA, AL 35401",
       "description": "This course introduces the concept of psychological safety and how to create an environment where employees feel comfortable questioning old processes and contributing with new ideas. It includes examples of behaviors that support psycholo...",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-03",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "university-of-alabama-wellness-break-for-faculty-and-staff-2026-12-03-the-university-of-alabama-student-center",
@@ -486,7 +492,14 @@
       "address": "751 CAMPUS DRIVE WEST, TUSCALOOSA , AL 35401",
       "description": "We know how stressful and busy the end of the year can be. Faculty and staff are invited to pick up a wellbeing care package to rest, recharge, and finish the year strong!",
       "category": "Campus",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-03",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "precipitationChance": 15,
+        "periodName": "Thursday"
+      }
     },
     {
       "id": "alabama-athletics-womens-basketball-21992",
@@ -501,7 +514,14 @@
       "address": "Tuscaloosa, AL",
       "description": "Alabama Women's Basketball in Tuscaloosa. See the official schedule for event details; end time is estimated.",
       "category": "Sports",
-      "isVirtual": false
+      "isVirtual": false,
+      "weather": {
+        "forecastDate": "2026-12-03",
+        "temperature": 60,
+        "temperatureUnit": "F",
+        "precipitationChance": 60,
+        "periodName": "Thursday Night"
+      }
     },
     {
       "id": "university-of-alabama-classes-end-for-full-term-and-fall-2-2026-12-04",
